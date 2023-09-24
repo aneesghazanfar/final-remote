@@ -77,7 +77,7 @@
                                         <li class="child" ><a class="header__menu_item" href="./web">Web</a></li>
                                         <li class="child" ><a class="header__menu_item" href="./saas-services">SaaS</a></li>
                                         <li class="child" ><a class="header__menu_item" href="./backend">Back-End</a></li>
-                                        <li class="child" ><a class="header__menu_item" href="#">Cloud &amp; DevOps</a>
+                                        <li class="child" ><a class="header__menu_item" href="./cloud_dev">Cloud &amp; DevOps</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">Cloud Migration</a></li>
                                                 <li><a href="#">DevOps</a></li>

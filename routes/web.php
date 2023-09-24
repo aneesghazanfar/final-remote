@@ -43,3 +43,7 @@ Route::get('backend', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/cloud_dev', function () {
+    return view('cloude_&_dev');
+});
