@@ -207,11 +207,9 @@
     }
 
     .mb-end-to-end {
-        padding: 30px 200px;
+        padding: 116px 200px;
         background-image: url(' {{asset("/img/banner-tt/Frame-15.png") }}');
-        background-image: linear-gradient(to bottom, #000000a8, #00000070),;
-        background-repeat: no-repeat;
-        
+        background-image: linear-gradient(to bottom, #000000a8, #00000070),
             /* url('./public/img/banner-tt/Frame-15.png'); */
 
             background-repeat: no-repeat;
@@ -241,23 +239,6 @@
         background-repeat: no-repeat;
     }
 
-    .box-icon {
-            display: inline-block;
-            width: 30px;
-            height: 30px;
-            background-color: #f09308;
-            color: #fff;
-            text-align: center;
-            line-height: 30px;
-            border-radius: 50%;
-            margin-right: 10px;
-        }
-
-        /* Define a class for the list items */
-        .list-item {
-            margin-bottom: 10px;
-        }
-
     .delievery-industry-spec-3 h1 {
         color: #FFF;
         font-family: Inter;
@@ -278,7 +259,7 @@
         line-height: 60px;
         /* 187.5% */
         letter-spacing: -0.5px;
-        /* text-transform: uppercase; */
+        text-transform: uppercase;
     }
 
     .delievery-industry-spec-2 h2 {
@@ -289,7 +270,7 @@
         line-height: 60px;
         /* 187.5% */
         letter-spacing: -0.5px;
-        /* text-transform: uppercase; */
+        text-transform: uppercase;
     }
 
     .mb-end-to-end h1 {
@@ -299,7 +280,7 @@
         line-height: 129px;
         /* 161.25% */
         letter-spacing: -0.5px;
-        /* text-transform: uppercase; */
+        text-transform: uppercase;
     }
 
     .mb-steps-row {
@@ -627,7 +608,7 @@
             font-weight: 700;
             line-height: 38px;
             letter-spacing: -0.5px;
-            /* text-transform: uppercase; */
+            text-transform: uppercase;
         }
 
         .mb-container-padding {
@@ -985,9 +966,8 @@
                             SaaS Design & Prototyping
                         </h3>
                         <p class="sec-2-device-p">
-                            If you want to glue customers to your SaaS app, you need to deliver state-of-the-art design. 
-                            Our SaaS development services help you turn a great idea into great UI/UX and validate the 
-                            concept with rapid prototyping.
+                            Highly proficient in modern frameworks like Angular, React, or Vue we create user
+                            experiences that captivate and engage users
                         </p>
 
                     </div>
@@ -997,9 +977,8 @@
                             End-to-End SaaS Development
                         </h3>
                         <p class="sec-2-device-p">
-                            Need professionals to create a SaaS app from scratch? Our full-cycle SaaS development 
-                            company has worked with many startups and enterprises since 2009,
-                             delivering successful SaaS products that are built to last and grow.
+                            Our back-end developers build the best-customized functionality while making sure your web
+                            solution works flawlessly behind the scenes
                         </p>
 
                     </div>
@@ -1012,47 +991,103 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Migration to SaaS
+                            API Integration
                         </h3>
                         <p class="sec-2-device-p">
-                            Transform your on-prem solution into a mind-blowing SaaS product. We will re-architecture 
-                            your app to best suit a new environment,
-                             choose the right approach to cloud migration, configure the cloud, and move data safely.
+                            To save you time building essential functionality from scratch, we connect 3rd party
+                            services through APIs, from marketing to payment or geolocation
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Third-Party Integrations
+                            Web Development Consulting
                         </h3>
                         <p class="sec-2-device-p">
-                            As part of our SaaS application development services, we can add versatility
-                             to your SaaS app by connecting external systems through APIs.
-                             Build new business opportunities with new integrations executed flawlessly.
+                            With our seasoned consultants who can guide you through every step of your web development
+                            journey, you navigate tech complexities safely
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            
-                        SaaS Support & Maintenance
+                            Support & Maintenance
                         </h3>
                         <p class="sec-2-device-p">
-                            Optimize your SaaS performance, fix bugs, improve user experience,
-                             and cut costs using our SaaS development services. We can provide ad-hoc or regular support. 
-                            Focus on your business while we take care of the tech.
+                            As part of our custom web development services, we provide 24/7 infrastructure monitoring,
+                            problem resolution, updates, custom redesign, and more
                         </p>
 
                     </div>
                 </div>
-                <section class="banner-btn">
-                    <button class="tt-banner-btn">Tell us your SaaS software development needs</button>
-                    <img src="{{asset('img/SVG.svg')}}" alt="">
-                </section>
             </div>
         </section>
+        <section class="mb-container sec-3">
+            <div class="mb-end-to-end">
+                <h1>End-to-end Website <br>
+                    <span class="mb-orange">development services</span>
+                </h1>
+            </div>
+        </section>
+        <section class="mb-container mb-container-padding">
+            <div class="mb-steps-row">
+                <div class="mb-steps-col">
+                    <div class="mb-steps-col-left">
+                        <div class="mb-steps-row-inner">
+                            <div class="mb-steps-col-inner mb-steps-col-circle">
+                            </div>
+                            <div class="mb-steps-col-inner mb-steps-col-head">
+                                <h3>Discovery & R&D</h3>
+                            </div>
+                        </div>
+                        <div class="mb-steps-row-inner">
+                            <div class="mb-steps-col-inner mb-steps-col-circle">
+                            </div>
+                            <div class="mb-steps-col-inner mb-steps-col-head">
+                                <h3>UX/UI Design</h3>
+                            </div>
+                        </div>
+                        <div class="mb-steps-row-inner">
+                            <div class="mb-steps-col-inner mb-steps-col-circle">
+                            </div>
+                            <div class="mb-steps-col-inner mb-steps-col-head">
+                                <h3>Development</h3>
+                            </div>
+                        </div>
+                        <div class="mb-steps-row-inner">
+                            <div class="mb-steps-col-inner mb-steps-col-circle">
+                            </div>
+                            <div class="mb-steps-col-inner mb-steps-col-head">
+                                <h3>QA</h3>
+                            </div>
+                        </div>
+                        <div class="mb-steps-row-inner">
+                            <div class="mb-steps-col-inner mb-steps-col-circle">
+                            </div>
+                            <div class="mb-steps-col-inner mb-steps-col-head">
+                                <h3>Launch</h3>
+                            </div>
+                        </div>
+                        <div class="mb-steps-row-inner">
+                            <div class="mb-steps-col-inner mb-steps-col-circle">
+                            </div>
+                            <div class="mb-steps-col-inner mb-steps-col-head">
+                                <h3>Maintenance & Support</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="mb-steps-col">
+                    We translate your app idea into a feature setlist and draw up a detailed
+                    development roadmap that leads to the desired outcomes.
+                </div>
+            </div>
+        </section>
+
+
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
@@ -1067,6 +1102,9 @@
             </div>
         </section>
 
+
+
+
         <section class="mb-sec-2 mb-mt-50">
             <div class="mb-sec-2-inner">
 
@@ -1075,11 +1113,12 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            1. Tech stack choice
+                            1. SaaS Development Consulting
                         </h3>
                         <p class="sec-2-device-p">
-                            We deeply analyze your project requirements, planned features, 
-                            and the capabilities of the cloud provider to identify the right combination of tech
+                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
+                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
+                            development challenge you might face.
                         </p>
 
                     </div>
@@ -1087,11 +1126,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            2. Multi-tenant architecture
+                            2. SaaS Design & Prototyping
                         </h3>
                         <p class="sec-2-device-p">
-                            We build multi-tenant architecture with security in mind to make your
-                             scaling straightforward and customization easy while minimizing costs
+                            Highly proficient in modern frameworks like Angular, React, or Vue we create user
+                            experiences that captivate and engage users
                         </p>
 
                     </div>
@@ -1101,11 +1140,12 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. External services integration
+                            3. SaaS Development Consulting
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex
-                            integrations with external services based on your growth metrics.
+                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
+                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
+                            development challenge you might face.
                         </p>
 
                     </div>
@@ -1113,11 +1153,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. Scalability on demand
+                            4. SaaS Design & Prototyping
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development 
-                            project so that your app is able to adapt as you evolve.
+                            Highly proficient in modern frameworks like Angular, React, or Vue we create user
+                            experiences that captivate and engage users
                         </p>
 
                     </div>
@@ -1127,11 +1167,12 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            5. Security audit
+                            5. SaaS Development Consulting
                         </h3>
                         <p class="sec-2-device-p">
-                            We test your system thoroughly before deployment to ensure that all stored data is well-protected and 
-                            compliant with standards like GDPR or HIPAA.
+                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
+                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
+                            development challenge you might face.
                         </p>
 
                     </div>
@@ -1139,11 +1180,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            6. Smooth deployment
+                            6. SaaS Design & Prototyping
                         </h3>
                         <p class="sec-2-device-p">
-                            We take a tailored deployment approach to keep business disruption to a minimum, using DevOps to automate
-                             the process as much as possible.
+                            Highly proficient in modern frameworks like Angular, React, or Vue we create user
+                            experiences that captivate and engage users
                         </p>
 
                     </div>
@@ -1151,12 +1192,14 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Discuss your Web Development needs</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
 
         </section>
+
+
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
@@ -1165,7 +1208,7 @@
                     we deliver
                 </h2>
                 <p>
-                    For more than a decade, SSEDLAB SaaS development company has been empowering enterprises and startups
+                    For more than a decade, ITRex SaaS development company has been empowering enterprises and startups
                     across industries by delivering secure and scalable SaaS solutions. Tell us the type of SaaS you
                     want to create and we will help you too.
 
@@ -1174,245 +1217,327 @@
             </div>
         </section>
 
-        <section class="mb-container mb-container-padding">
-            <div class="mb-icon-text-row-main">
-                <div class="mb-icon-text-col-main">
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path
-                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                        fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_4972">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
+
+        <section class="mb-sec-2 mb-mt-50">
+
+            <div class="mb-sec-2-inner">
+
+                <div class="divlanding-list-list">
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        <b class="optimize-route-planning">Optimize route planning</b>
+                                </div>
+                            </div>
                         </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">CRMs</div>
                     </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path
-                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                        fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_4983">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        <b class="optimize-route-planning">Automate day-to-day reporting</b>
+                                </div>
+                            </div>
                         </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">ERPs</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path
-                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                        fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_4994">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Accounting Systems</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path
-                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                        fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5005">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Document Automation Solutions</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path
-                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                        fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5016">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">HR/HRM Software</div>
-                    </div>
-                </div>
-                <div class="mb-icon-text-col-main">
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path
-                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                        fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5029">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Marketing Software</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path
-                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                        fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5040">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Cybersecurity Platforms</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path
-                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                        fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5053">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Project Management Systems</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path
-                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                        fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5064">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Communication & Collaboration Tools</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path
-                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                        fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5075">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Other</div>
                     </div>
                 </div>
             </div>
-            <div class="section__button" style="margin-top: 10px;"><a class="button button--orange" href="#">
-                                <span class="button__wrap"><span class="button__inner_wrap">
-                                        <b class="button__inner_text">Request our SaaS development services</b>
-                                    </span>
-                                    <span class="button__arrow">
-                                        <svg class="alternative_solution" viewBox="0 0 1000 1000"
-                                            preserveAspectRatio="none">
-                                            <foreignobject class="foreignobject" width="1000" height="1000">
-                                                <span class="foreignobject"></span>
-                                            </foreignobject>
-                                        </svg>
-                                        <span class="button__arrow_svg">
-                                            <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                                <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                                            </svg>
-                                        </span>
-                                    </span>
-                                </span>
-                            </a>
+
+            <div class="divlanding-list-list">
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">Optimize route planning</b>
+                            </div>
                         </div>
-    
+                    </div>
+                </div>
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">Automate day-to-day reporting</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="divlanding-list-list">
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">Optimize route planning</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">Automate day-to-day reporting</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="divlanding-list-list">
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">Optimize route planning</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">Automate day-to-day reporting</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="divlanding-list-list">
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">Optimize route planning</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">Automate day-to-day reporting</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <section class="banner-btn mb-mt-50">
+                <button class="tt-banner-btn">Discuss your Web Development needs</button>
+                <img src=" {{asset('img/SVG.svg') }}" alt="">
+            </section>
+
         </section>
+
 
 
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> How our SaaS development <span class="mb-orange">services differ
-                </span><br>
+                <h2> <span class="mb-orange">How our SaaS development
+                    </span><br>
+                    services differ
                 </h2>
-                <div class="list-item">
-                    <span class="box-icon">1</span> Building SaaS systems since 2009
-                </div>
-                <div class="list-item">
-                    <span class="box-icon">2</span> Over 80% of our team are middle and senior-level professionals
-                </div>
-                <div class="list-item">
-                    <span class="box-icon">3</span> Tens of thousands of hours of custom software development
-                </div>
-                <div class="list-item">
-                    <span class="box-icon">4</span> Global corporations among 200+ happy clients
-                </div>
-                <div class="list-item">
-                    <span class="box-icon">5</span> Proven track record in virtually every industry vertical
-                </div>
-                <div class="list-item">
-                    <span class="box-icon">6</span> Expertise in disruptive tech to put you miles ahead of the competition
-                </div>
-                <div class="list-item">
-                    <span class="box-icon">7</span> Product mindset focusing on the value we add
-                </div>
-                <div class="list-item">
-                    <span class="box-icon">8</span> Agile delivery to let you go faster, with a guaranteed success
-                </div>
-                <section class="banner-btn mb-mt-50">
-                    <button class="tt-banner-btn">Discuss your Web Development needs</button>
-                    <img src=" {{asset('img/SVG.svg') }}" alt="">
-                </section>
             </div>
-            
         </section>
+
+
+
+        <section class="mb-sec-2 mb-mt-50">
+
+            <div class="mb-sec-2-inner">
+
+
+                <div class="divlanding-list-list">
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        <b class="optimize-route-planning">Optimize route planning</b>
+                                        <span> to reduce delivery time, use</span>
+                                    </p>
+                                    <p class="optimize-route-planning-to-red">
+                                        less fuel, and handle more orders
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        <b class="optimize-route-planning">Automate day-to-day reporting
+                                        </b>
+                                        <span>for better</span>
+                                    </p>
+                                    <p class="optimize-route-planning-to-red">
+                                        management of resources and demand
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divlanding-list-list">
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        <b class="optimize-route-planning">Optimize route planning</b>
+                                        <span> to reduce delivery time, use</span>
+                                    </p>
+                                    <p class="optimize-route-planning-to-red">
+                                        less fuel, and handle more orders
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        <b class="optimize-route-planning">Automate day-to-day reporting
+                                        </b>
+                                        <span>for better</span>
+                                    </p>
+                                    <p class="optimize-route-planning-to-red">
+                                        management of resources and demand
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divlanding-list-list">
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        <b class="optimize-route-planning">Optimize route planning</b>
+                                        <span> to reduce delivery time, use</span>
+                                    </p>
+                                    <p class="optimize-route-planning-to-red">
+                                        less fuel, and handle more orders
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        <b class="optimize-route-planning">Automate day-to-day reporting
+                                        </b>
+                                        <span>for better</span>
+                                    </p>
+                                    <p class="optimize-route-planning-to-red">
+                                        management of resources and demand
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divlanding-list-list">
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        <b class="optimize-route-planning">Optimize route planning</b>
+                                        <span> to reduce delivery time, use</span>
+                                    </p>
+                                    <p class="optimize-route-planning-to-red">
+                                        less fuel, and handle more orders
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        <b class="optimize-route-planning">Automate day-to-day reporting
+                                        </b>
+                                        <span>for better</span>
+                                    </p>
+                                    <p class="optimize-route-planning-to-red">
+                                        management of resources and demand
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         @include('contact-form')
 
