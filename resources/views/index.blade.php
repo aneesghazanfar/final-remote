@@ -8,10 +8,7 @@
     <title>Enterprise Software Development Company With An Innovation Mindset &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href=" {{asset('css/swiper-bundle.min.css?v=4.043453451') }}">
-    <link rel="stylesheet" href=" {{asset('css/style.min.css?v=4.0.012') }}">
-    <link rel="stylesheet" href=" {{asset('css/custom-style.min.css?v=1') }}">
-    <link rel="stylesheet" href=" {{asset('css/live-style.css') }}">
+    <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
     <link rel="apple-touch-icon" sizes="180x180" href=" {{asset('i/apple-touch-icon.png') }}">
     <link rel="icon" type="image/png" sizes="32x32" href=" {{asset('i/favicon-32x32.png') }}">
     <link rel="icon" type="image/png" sizes="16x16" href=" {{asset('i/favicon-16x16.png') }}">
@@ -24,753 +21,7 @@
     <meta name="msapplication-config" content=" {{asset('i/browserconfig.xml') }}">
     <meta name="theme-color" content="#ffffff">
     <style>
-    @font-face {
-        font-family: Alfa Slab One;
-        src: url(" {{asset('/fonts/AlfaSlabOne-Regular.ttf') }}");
-    }
 
-    @font-face {
-        font-family: Inter;
-        src: url(" {{asset('/fonts/static/Inter-Regular.ttf') }}");
-    }
-
-    @font-face {
-        font-family: InterBold;
-        src: url(" {{asset('/fonts/static/Inter-Bold.ttf') }}");
-    }
-
-    body {
-        font-family: Inter !important;
-    }
-
-
-    .ss-heading {
-        color: var(--white, #fff);
-        text-align: center;
-        font-family: Inter;
-        font-size: 36px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 41.8px;
-        /* 116.111% */
-        letter-spacing: -1px;
-        text-transform: capitalize;
-    }
-
-    .banner-img {
-        background-image: url(' {{asset("/img/index_background.png") }}');
-        background-position: cover;
-        background-repeat: no-repeat;
-        background-size: 100% 100%;
-        display: flex;
-    }
-
-    .top_section {
-        padding: 15.625em 0 8.125em;
-        font-size: 1rem;
-        /* background: #000; */
-        position: relative;
-        z-index: 0;
-        margin-bottom: 6.425em;
-        overflow: hidden;
-        --i: 0;
-    }
-
-    .banner-main-heading {
-        color: #FFF;
-        text-align: center;
-        font-family: Alfa Slab One;
-        font-size: 90px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 133px;
-        letter-spacing: 0.9px;
-        text-transform: uppercase;
-    }
-
-    .tt-banner-para {
-        color: #FFF;
-        text-align: center;
-        font-family: Inter;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 26px;
-        letter-spacing: -0.05px;
-        width: 1152px;
-        margin: auto;
-        padding: 30px 0px;
-    }
-
-    .banner-btn {
-        margin: auto;
-        display: flex;
-        width: fit-content;
-        height: 56px;
-        padding: 20px 28.5px 19px 28.5px;
-        justify-content: center;
-        align-items: center;
-        border-radius: 8px;
-        background: #CA5817;
-    }
-
-    .tt-banner-btn {
-        color: #FFF;
-        font-family: Inter;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 16.5px;
-        letter-spacing: 0.3px;
-        text-transform: capitalize;
-        background-color: transparent;
-        border: none;
-        padding-right: 30px;
-    }
-
-    /* asad css */
-    .mb-sec-2 {
-        padding: 60px 150px;
-        background-color: #000;
-    }
-
-    .mb-text-white {
-        color: #fff;
-    }
-
-    .mb-sec-2 {
-        width: 97%;
-        margin: auto;
-    }
-
-    .mb-sec-2-inner h2 {
-        font-size: 37px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 41.8px;
-        /* 112.973% */
-        letter-spacing: -1px;
-        margin-bottom: 20px;
-    }
-
-    .mb-sec-2-inner p {
-        max-width: 927px;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 29px;
-    }
-
-    .mb-row {
-        display: flex;
-
-    }
-
-    .mb-sec-2-inner-col {
-        width: 33.333333333%;
-    }
-
-    .mb-orange {
-        color: #CA5817;
-    }
-
-    .sec-2-device {
-        font-size: 27px;
-        margin: 16px 0;
-    }
-
-    .sec-2-device-p {
-        font-size: 14px !important;
-        color: #747272;
-        margin-bottom: 10px;
-        line-height: 22px !important;
-    }
-
-    .mb-orage {
-        color: #CA5817;
-    }
-
-    .mb-sec-2-2 {
-        margin-top: 40px;
-    }
-
-    .mb-mt-50 {
-        margin-top: 50px;
-    }
-
-    .mb-container-padding {
-        padding: 60px 150px;
-    }
-
-    .mb-container {
-        width: 97%;
-        margin: auto;
-        background-color: #000;
-        margin-top: 60px;
-    }
-
-    .mb-end-to-end {
-        padding: 116px 200px;
-        background-image: linear-gradient(to bottom, #000000a8, #00000070),
-        url(' {{asset("img/banner-tt/Frame-15.png") }}');
-        background-repeat: no-repeat;
-    }
-
-    .delievery-industry-spec {
-        padding: 116px 200px;
-        background-image: linear-gradient(to bottom, #000000a8, #00000070),
-        url(' {{asset("img/banner-tt/Frame-14-1.png") }}');
-        background-repeat: no-repeat;
-    }
-
-    .delievery-industry-spec-2 {
-        padding: 116px 200px;
-        background-image: linear-gradient(to bottom, #000000a8, #00000070),
-        url(' {{asset("img/banner-tt/Frame 1000004729.png") }}');
-        background-repeat: no-repeat;
-    }
-
-    .delievery-industry-spec-3 {
-        padding: 116px 200px;
-        background-image: linear-gradient(to bottom, #00000000, #00000000),
-        url(' {{asset("img/banner-tt/divabout-us.png") }}');
-        background-repeat: no-repeat;
-    }
-
-    .delievery-industry-spec-3 h1 {
-        color: #FFF;
-        font-family: Inter;
-        font-size: 77px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 80px;
-        /* 103.896% */
-        letter-spacing: -2px;
-        text-align: start;
-    }
-
-    .delievery-industry-spec h2 {
-        font-family: Inter;
-        font-size: 32px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 60px;
-        /* 187.5% */
-        letter-spacing: -0.5px;
-        text-transform: uppercase;
-    }
-
-    .delievery-industry-spec-2 h2 {
-        font-family: Inter;
-        font-size: 32px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 60px;
-        /* 187.5% */
-        letter-spacing: -0.5px;
-        text-transform: uppercase;
-    }
-
-    .mb-end-to-end h1 {
-        font-size: 80px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 129px;
-        /* 161.25% */
-        letter-spacing: -0.5px;
-        text-transform: uppercase;
-    }
-
-    .mb-steps-row {
-        display: flex;
-        flex-wrap: wrap;
-    }
-
-    .mb-steps-col {
-        width: 50%;
-    }
-
-    .mb-steps-row-inner {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        margin-bottom: 25px;
-    }
-
-    .mb-steps-row-inner:last-child {
-        margin-bottom: 0px;
-    }
-
-    .mb-steps-col-inner-active {
-        color: #CA5817;
-    }
-
-    .mb-steps-col-head {
-        font-size: 32px;
-        padding-left: 25px;
-    }
-
-    .mb-steps-col-circle {
-        width: 8px;
-        height: 8px;
-        background-color: #fff;
-        border-radius: 100px;
-    }
-
-    .mb-steps-col-left {
-        position: relative;
-    }
-
-    .mb-steps-col-left::after {
-        content: '';
-        position: absolute;
-        top: 0;
-        height: 100%;
-        left: 4px;
-        width: 1px;
-        background-color: #fff;
-    }
-
-    .delievery-industry-spec p {
-        color: #C2C2C2;
-        font-family: Inter;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 23.8px;
-        /* 148.75% */
-        letter-spacing: -0.3px;
-        margin-top: 10px;
-        max-width: 695px;
-    }
-
-    .mb-icon-text-row {
-        display: flex;
-        align-items: center;
-        margin-bottom: 30px;
-    }
-
-    .mb-icon-text-right {
-        padding-left: 8px;
-        font-size: 30px;
-    }
-
-    .mb-icon-text-row-main {
-        display: flex;
-    }
-
-    .mb-icon-text-col-main {
-        width: 50%;
-    }
-
-    .delievery-industry-spec-3-row {
-        display: flex;
-    }
-
-    .delievery-industry-spec-3-col {
-        width: 50%;
-    }
-
-    .mb-counter-number {
-        color: #FFDB3B;
-        font-family: Inter;
-        font-size: 66px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 80.5px;
-        /* 121.97% */
-        letter-spacing: -0.5px;
-    }
-
-    .mb-counter-text {
-        color: #FFF;
-        font-family: Inter;
-        font-size: 19px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 23px;
-        margin-top: 7px;
-        /* 121.053% */
-        letter-spacing: -0.5px;
-    }
-
-    .mb-counter {
-        margin-bottom: 40px;
-    }
-
-    .mb-client h2 {
-        font-size: 48px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 49.5px;
-        letter-spacing: -1.5px;
-        text-align: center;
-        text-transform: capitalize;
-    }
-
-    .mb-client-row {
-        display: flex;
-        align-items: center;
-    }
-
-
-    .mb-client-col img {
-        margin: auto;
-    }
-
-    .mb-client-col {
-        margin-top: 40px;
-    }
-
-    .mb-client-col {
-        flex: 1 1;
-        text-align: center;
-    }
-
-    .mb-last-thinking {
-        padding: 80px;
-    }
-
-    .mb-last-thinking-head {
-        color: var(--white, #FFF);
-        font-family: Inter;
-        font-size: 146px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 150px;
-        /* 102.74% */
-        text-align: start;
-        letter-spacing: -4px;
-    }
-
-    .mb-last-thinking-row {
-        display: flex;
-    }
-
-    .mb-last-thinking-col {
-        width: 50%;
-    }
-
-    .mb-last-thinking-col h2 {
-        color: var(--white, #FFF);
-        font-family: Inter;
-        font-size: 32px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 55px;
-        /* 114.583% */
-        letter-spacing: -0.8px;
-        max-width: 550px;
-        padding-right: 15px;
-    }
-
-    .mb-tab {
-        overflow: hidden;
-        color: #fff;
-        display: flex;
-        justify-content: space-between;
-    }
-
-    /* Style the buttons inside the tab */
-    .mb-tab button {
-        background-color: inherit;
-        float: left;
-        border: none;
-        outline: none;
-        cursor: pointer;
-        color: #fff;
-        padding: 14px 16px;
-        transition: 0.3s;
-        font-size: 17px;
-    }
-
-    /* Change background color of buttons on hover */
-
-
-    /* Create an active/current tablink class */
-    .mb-tab .mb-button.active {
-        border-bottom: 2px solid #FF601D;
-    }
-
-    .mb-tab .mb-button {
-        border-bottom: 2px solid transparent;
-
-    }
-
-    /* Style the tab content */
-    .mb-tabcontent {
-        display: none;
-        padding: 6px 12px;
-    }
-
-    .mb-tablinks div {
-        color: var(--white, #FFF);
-        text-align: center;
-        font-family: Inter;
-        font-size: 26px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 45px;
-        /* 132.353% */
-        letter-spacing: -0.5px;
-    }
-
-    .mb-tab {
-        border-bottom: 2px solid #DADADA;
-    }
-
-    .mb-tabcontent p {
-        text-align: center;
-        padding-top: 32px;
-    }
-
-    .mb-position-relative {
-        position: relative;
-    }
-
-    .mb-overlay-carousel .slider-heading {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.40);
-        left: 0;
-        top: 0;
-        padding: 32px;
-        margin: 0px;
-    }
-
-    .carousel-indicator {
-        border-radius: 100px;
-        background: #FFF;
-        display: flex;
-        align-items: center;
-        width: fit-content;
-        width: 58px;
-        justify-content: space-between;
-        padding: 7px 6px;
-        margin-top: 20px;
-    }
-
-    .mb-button.active div {
-        color: #FF601D;
-    }
-
-    @media only screen and (max-width: 768px) {
-        .banner-main-heading {
-            color: #FFF;
-            text-align: center;
-            font-family: Alfa Slab One;
-            font-size: 36px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 42px;
-            letter-spacing: 0.9px;
-            text-transform: uppercase;
-        }
-
-        .tt-banner-para {
-            color: #FFF;
-            text-align: center;
-            font-family: Inter;
-            font-size: 14px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 26px;
-            letter-spacing: -0.05px;
-            width: auto;
-            margin: auto;
-            padding: 30px 0px;
-        }
-
-        .mb-sec-2 {
-            padding: 60px 15px;
-            background-color: #000;
-        }
-
-        .mb-sec-2-inner-col {
-            width: 100%;
-        }
-
-        .mb-row {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        .mb-end-to-end {
-            padding: 20px 15px;
-        }
-
-        .mb-end-to-end h1 {
-            font-size: 30px;
-            font-style: normal;
-            font-weight: 700;
-            line-height: 38px;
-            letter-spacing: -0.5px;
-            text-transform: uppercase;
-        }
-
-        .mb-container-padding {
-            padding: 20px 15px;
-        }
-
-        .mb-steps-col {
-            width: 100%;
-        }
-
-        .mb-steps-col-head {
-            font-size: 20px;
-            padding-left: 25px;
-        }
-
-        .mb-steps-col {
-            width: 100%;
-            font-size: 16px;
-            margin-top: 12px;
-        }
-
-        .delievery-industry-spec {
-            padding: 20px 15px;
-        }
-
-        .delievery-industry-spec h2 {
-            font-family: Inter;
-            font-size: 20px;
-            font-style: normal;
-            font-weight: 700;
-            line-height: 30px;
-        }
-
-        .mb-icon-text-right {
-            padding-left: 8px;
-            font-size: 20px;
-        }
-
-        .mb-icon-text-col-main {
-            width: 100%;
-        }
-
-        .mb-icon-text-row-main {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        .delievery-industry-spec-2 {
-            padding: 20px 15px;
-        }
-
-        .mb-tab {
-            overflow: hidden;
-            color: #fff;
-            flex-wrap: wrap;
-            display: flex;
-            justify-content: start !important;
-
-        }
-
-        .mb-tabcontent p {
-            text-align: center;
-            padding-top: 32px;
-            font-size: 16px;
-        }
-
-        .delievery-industry-spec-3 {
-            padding: 20px 15px;
-        }
-
-        .delievery-industry-spec-3 h1 {
-            color: #FFF;
-            font-family: Inter;
-            font-size: 32px;
-            font-style: normal;
-            font-weight: 600;
-            line-height: 54px;
-            letter-spacing: -2px;
-            text-align: start;
-        }
-
-        .mb-counter-number {
-            color: #FFDB3B;
-            font-family: Inter;
-            font-size: 44px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 57.5px;
-            letter-spacing: -0.5px;
-        }
-
-        .mb-counter-text {
-            color: #FFF;
-            font-family: Inter;
-            font-size: 17px;
-        }
-
-
-
-        .mb-client-col {
-            text-align: center;
-            width: 20%;
-            flex: none;
-        }
-
-        .mb-client-col img {
-            width: 300px;
-        }
-
-        .mb-client-row {
-            display: flex;
-            flex-wrap: wrap;
-
-            align-items: center;
-        }
-
-        .mb-client-col {
-            text-align: center;
-            width: 30%;
-            flex: none;
-            padding: 7px;
-        }
-
-        .mb-client-col {
-            margin-top: 15px;
-        }
-
-        .mb-last-thinking {
-            padding: 15px;
-        }
-
-        .mb-last-thinking-head {
-            color: var(--white, #FFF);
-            font-family: Inter;
-            font-size: 44px;
-            font-style: normal;
-            font-weight: 600;
-            line-height: 73px;
-            text-align: start;
-            letter-spacing: 0px;
-        }
-
-        .mb-last-thinking-row {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        .mb-last-thinking-col {
-            width: 100%;
-        }
-
-        .mb-last-thinking-col h2 {
-            color: var(--white, #FFF);
-            font-family: Inter;
-            font-size: 23px;
-            font-style: normal;
-            margin-bottom: 20px;
-            font-weight: 400;
-            line-height: 34px;
-            letter-spacing: -0.8px;
-            max-width: 550px;
-            padding-right: 15px;
-        }
-    }
     </style>
 </head>
 
@@ -826,7 +77,27 @@
         </div>
 
         <section class="mb-sec-2 mb-mt-50">
-            <img src=" {{asset('img/download.png') }}">
+            <div class="mb-logo-title"> <b>Join 4,000+ companies already growing</b> </div>
+            <div class="mb-flex">
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/boltshift.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/lightbox.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/feather-dev.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/spher-rule.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/glo-bank.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/n.png') }}">
+                </div>
+            </div>
 
         </section>
 
@@ -1093,50 +364,53 @@
                 </div>
             </div>
             <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
-                            <span class="button__wrap"><span class="button__inner_wrap">
-                                    <b class="button__inner_text">Contact Us</b>
-                                </span>
-                                <span class="button__arrow">
-                                    <svg class="alternative_solution" viewBox="0 0 1000 1000"
-                                        preserveAspectRatio="none">
-                                        <foreignobject class="foreignobject" width="1000" height="1000">
-                                            <span class="foreignobject"></span>
-                                        </foreignobject>
-                                    </svg>
-                                    <span class="button__arrow_svg">
-                                        <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                            <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                                        </svg>
-                                    </span>
-                                </span>
+                    <span class="button__wrap"><span class="button__inner_wrap">
+                            <b class="button__inner_text">Contact Us</b>
+                        </span>
+                        <span class="button__arrow">
+                            <svg class="alternative_solution" viewBox="0 0 1000 1000" 
+                            preserveAspectRatio="none">
+                                <foreignobject class="foreignobject" width="1000" height="1000">
+                                    <span class="foreignobject"></span>
+                                </foreignobject>
+                            </svg>
+                            <span class="button__arrow_svg">
+                                <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
+                                    <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
+                                </svg>
                             </span>
-                        </a>
-                    </div>
+                        </span>
+                    </span>
+                </a>
+            </div>
     </div>
     </section>
 
-        <section class="mb-container mb-container-padding">
+    <section class="mb-container mb-container-padding">
 
 
-            <div class="container">
+        <div class="container">
 
-                <div class="l-cards">
-                    <div class="heading">
-                        <h2>How we collaborate with you</h2>
-                    </div>
-                    <div class="l-cards-1">
+            <div class="l-cards">
+                <div class="heading">
+                    <h2>How we collaborate with you</h2>
+                </div>
+                <div class="l-cards-1">
+                    <div>   
                         <div class="card-img">
-                            <img src="{{asset('img/collaborate1.png') }}">
+                            <img width="137px" src="{{asset('img/collaborate1.png') }}">
                         </div>
                         <div class="l-cards-1-A">
                             <h1 class="cards-top-heading">Thinking big</h1>
                             <p>After digging deep to understand holistically your challenges and business objectives, we
                                 chart your technology path that will keep your business future-proof.</p>
                         </div>
+                    </div>
 
+                    <div>
                         <div class="card-img">
-                            <img src="{{asset('img/collaborate2.png') }}">
+                            <img width="137px" src="{{asset('img/collaborate2.png') }}">
                         </div>
                         <div class="l-cards-1-B">
                             <h1 class="cards-top-heading">Starting small</h1>
@@ -1145,17 +419,21 @@
                         </div>
 
                     </div>
-                    <div class="l-cards-2">
+                </div>
+                <div class="l-cards-2">
+                    <div>
                         <div class="card-img">
-                            <img src="{{asset('img/collaborate3.png') }}">
+                            <img width="137px" src="{{asset('img/collaborate3.png') }}">
                         </div>
                         <div class="l-cards-2-A">
                             <h1 class="cards-top-heading">Creating value fast</h1>
                             <p>We then build an MVP, testing the first use cases and collecting feedback. Along the way,
                                 we introduce enhancements to align business deliverables and add new use cases.</p>
                         </div>
+                    </div>
+                    <div>
                         <div class="card-img">
-                            <img src="{{asset('img/collaborate4.png') }}">
+                            <img width="137px" src="{{asset('img/collaborate4.png') }}">
                         </div>
                         <div class="l-cards-2-B">
                             <h1 class="cards-top-heading">Innovating at scale</h1>
@@ -1165,9 +443,10 @@
                         </div>
                     </div>
                 </div>
-
             </div>
-    </div>
+
+        </div>
+        </div>
 
     </section>
 
@@ -1185,7 +464,8 @@
                 <div class="swiper-slide"><img src="{{asset('img/01-AI-preview_1024x680.jpg') }}" alt="Swiper">
                     <h3 class="slider-heading">How to implement AI in your organization: the definitive guide [with a
                         free eBook inside]</h3>
-                    <p class="slider-paragraph">How to implement AI in your business and achieve a substantial return on
+                    <p class="slider-paragraph">How to implement AI in your business and achieve a substantial return
+                        on
                         your artificial intelligence investments? Our AI eBook will help you with that!</p>
                 </div>
                 <div class="swiper-slide"><img src="{{asset('img/02-hector-j-rivas_1_1024x680.jpg') }}" alt="Swiper">
@@ -1197,13 +477,15 @@
                 <div class="swiper-slide"><img src="{{asset('img/04-support-ukraine-1024x681_1024x680.jpg') }}"
                         alt="Swiper">
                     <h3 class="slider-heading">ITRex launches two more initiatives to help Ukrainians</h3>
-                    <p class="slider-paragraph">Learn how ITRex continues to provide much-needed assistance to Ukranians
+                    <p class="slider-paragraph">Learn how ITRex continues to provide much-needed assistance to
+                        Ukranians
                         living in crisis since Russia began its invasion.</p>
                 </div>
                 <div class="swiper-slide"><img
                         src="{{asset('img/05-boxed-water-is-better-min-1024x683_1024x680.jpg') }}" alt="Swiper">
                     <h3 class="slider-heading">5 reasons to adopt IoT in sports and fitness</h3>
-                    <p class="slider-paragraph">Discover the exciting applications of IoT in the sports sector and learn
+                    <p class="slider-paragraph">Discover the exciting applications of IoT in the sports sector and
+                        learn
                         how to implement such solutions. Also, check out a project from our portfolio to see how IoT and
                         AI can revolutionize our at-home training.</p>
 
@@ -1211,7 +493,8 @@
                 <div class="swiper-slide"><img
                         src="{{asset('img/06-cost-of-artificial-intelligence--1024x777_1024x680.jpg') }}" alt="Swiper">
                     <h3 class="slider-heading">How much does artificial intelligence cost? </h3>
-                    <p class="slider-paragraph">Learn about the key factors influencing AI development costs and how you
+                    <p class="slider-paragraph">Learn about the key factors influencing AI development costs and how
+                        you
                         can spend less and see ROI faster.</p>
                 </div>
                 <div class="swiper-slide"><img
@@ -1461,7 +744,8 @@
     }
     </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-    <!--    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>-->
+    <!--    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+        crossorigin="anonymous"></script>-->
     <script data-cfasync="false" src=" {{asset('cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}">
     </script>
     <script src=" {{asset('js/tween.js') }}"></script>

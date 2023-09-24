@@ -4,12 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Mobile Application Development Services &mdash; SSEDLAB</title>
+        <title>Mobile Application Development Services &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href=" {{asset('css/swiper-bundle.min.css?v=4.043453451') }}">
-    <link rel="stylesheet" href=" {{asset('css/style.min.css?v=4.0.012') }}">
-    <link rel="stylesheet" href=" {{asset('css/custom-style.min.css?v=1') }}">
-    <link rel="stylesheet" href=" {{asset('css/live-style.css') }}">
+    <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
     <link rel="apple-touch-icon" sizes="180x180" href=" {{asset('i/apple-touch-icon.png') }}">
     <link rel="icon" type="image/png" sizes="32x32" href=" {{asset('i/favicon-32x32.png') }}">
     <link rel="icon" type="image/png" sizes="16x16" href=" {{asset('i/favicon-16x16.png') }}">
@@ -20,754 +17,6 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-config" content=" {{asset('i/browserconfig.xml') }}">
     <meta name="theme-color" content="#ffffff">
-    <style>
-    @font-face {
-        font-family: Alfa Slab One;
-        src: url(" {{asset('/fonts/AlfaSlabOne-Regular.ttf') }}");
-    }
-
-    @font-face {
-        font-family: Inter;
-        src: url(" {{asset('/fonts/static/Inter-Regular.ttf') }}");
-    }
-
-    @font-face {
-        font-family: InterBold;
-        src: url(" {{asset('/fonts/static/Inter-Bold.ttf') }}");
-    }
-
-    body {
-        font-family: Inter !important;
-    }
-
-
-    .ss-heading {
-        color: var(--white, #fff);
-        text-align: center;
-        font-family: Inter;
-        font-size: 36px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 41.8px;
-        /* 116.111% */
-        letter-spacing: -1px;
-        text-transform: capitalize;
-    }
-
-    .banner-img {
-        background-image: url(' {{asset("/img/banner-tt/div.top_sectionss.png") }}');
-        background-position: cover;
-        background-repeat: no-repeat;
-        background-size: 100% 100%;
-    }
-
-    .top_section {
-        padding: 15.625em 0 8.125em;
-        font-size: 1rem;
-        /* background: #000; */
-        position: relative;
-        z-index: 0;
-        margin-bottom: 6.425em;
-        overflow: hidden;
-        --i: 0;
-    }
-
-    .banner-main-heading {
-        color: #FFF;
-        text-align: center;
-        font-family: Alfa Slab One;
-        font-size: 90px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 133px;
-        letter-spacing: 0.9px;
-        text-transform: uppercase;
-    }
-
-    .tt-banner-para {
-        color: #FFF;
-        text-align: center;
-        font-family: Inter;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 26px;
-        letter-spacing: -0.05px;
-        width: 1152px;
-        margin: auto;
-        padding: 30px 0px;
-    }
-
-    .banner-btn {
-        margin: auto;
-        display: flex;
-        width: fit-content;
-        height: 56px;
-        padding: 20px 28.5px 19px 28.5px;
-        justify-content: center;
-        align-items: center;
-        border-radius: 8px;
-        background: #CA5817;
-    }
-
-    .tt-banner-btn {
-        color: #FFF;
-        font-family: Inter;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 16.5px;
-        letter-spacing: 0.3px;
-        text-transform: capitalize;
-        background-color: transparent;
-        border: none;
-        padding-right: 30px;
-    }
-
-    /* asad css */
-    .mb-sec-2 {
-        padding: 60px 150px;
-        background-color: #000;
-    }
-
-    .mb-text-white {
-        color: #fff;
-    }
-
-    .mb-sec-2 {
-        width: 97%;
-        margin: auto;
-    }
-
-    .mb-sec-2-inner h2 {
-        font-size: 37px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 41.8px;
-        /* 112.973% */
-        letter-spacing: -1px;
-        margin-bottom: 20px;
-    }
-
-    .mb-sec-2-inner p {
-        max-width: 927px;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 29px;
-    }
-
-    .mb-row {
-        display: flex;
-
-    }
-
-    .mb-sec-2-inner-col {
-        width: 33.333333333%;
-    }
-
-    .mb-orange {
-        color: #CA5817;
-    }
-
-    .sec-2-device {
-        font-size: 27px;
-        margin: 16px 0;
-    }
-
-    .sec-2-device-p {
-        font-size: 14px !important;
-        color: #747272;
-        margin-bottom: 10px;
-        line-height: 22px !important;
-    }
-
-    .mb-orage {
-        color: #CA5817;
-    }
-
-    .mb-sec-2-2 {
-        margin-top: 40px;
-    }
-
-    .mb-mt-50 {
-        margin-top: 50px;
-    }
-
-    .mb-container-padding {
-        padding: 60px 150px;
-    }
-
-    .mb-container {
-        width: 97%;
-        margin: auto;
-        background-color: #000;
-        margin-top: 60px;
-    }
-
-    .mb-end-to-end {
-        padding: 116px 200px;
-        background-image: linear-gradient(to bottom, #000000a8, #00000070),
-        url(' {{asset("img/banner-tt/Frame-15.png") }}');
-        background-repeat: no-repeat;
-    }
-
-    .delievery-industry-spec {
-        padding: 116px 200px;
-        background-image: linear-gradient(to bottom, #000000a8, #00000070),
-        url(' {{asset("img/banner-tt/Frame-14-1.png") }}');
-        background-repeat: no-repeat;
-    }
-
-    .delievery-industry-spec-2 {
-        padding: 116px 200px;
-        background-image: linear-gradient(to bottom, #000000a8, #00000070),
-        url(' {{asset("img/banner-tt/Frame 1000004729.png") }}');
-        background-repeat: no-repeat;
-    }
-
-    .delievery-industry-spec-3 {
-        padding: 116px 200px;
-        background-image: linear-gradient(to bottom, #00000000, #00000000),
-        url(' {{asset("img/banner-tt/divabout-us.png") }}');
-        background-repeat: no-repeat;
-    }
-
-    .delievery-industry-spec-3 h1 {
-        color: #FFF;
-        font-family: Inter;
-        font-size: 77px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 80px;
-        /* 103.896% */
-        letter-spacing: -2px;
-        text-align: start;
-    }
-
-    .delievery-industry-spec h2 {
-        font-family: Inter;
-        font-size: 32px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 60px;
-        /* 187.5% */
-        letter-spacing: -0.5px;
-        text-transform: uppercase;
-    }
-
-    .delievery-industry-spec-2 h2 {
-        font-family: Inter;
-        font-size: 32px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 60px;
-        /* 187.5% */
-        letter-spacing: -0.5px;
-        text-transform: uppercase;
-    }
-
-    .mb-end-to-end h1 {
-        font-size: 80px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 129px;
-        /* 161.25% */
-        letter-spacing: -0.5px;
-        text-transform: uppercase;
-    }
-
-    .mb-steps-row {
-        display: flex;
-        flex-wrap: wrap;
-    }
-
-    .mb-steps-col {
-        width: 50%;
-    }
-
-    .mb-steps-row-inner {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        margin-bottom: 25px;
-    }
-
-    .mb-steps-row-inner:last-child {
-        margin-bottom: 0px;
-    }
-
-    .mb-steps-col-inner-active {
-        color: #CA5817;
-    }
-
-    .mb-steps-col-head {
-        font-size: 32px;
-        padding-left: 25px;
-    }
-
-    .mb-steps-col-circle {
-        width: 8px;
-        height: 8px;
-        background-color: #fff;
-        border-radius: 100px;
-    }
-
-    .mb-steps-col-left {
-        position: relative;
-    }
-
-    .mb-steps-col-left::after {
-        content: '';
-        position: absolute;
-        top: 0;
-        height: 100%;
-        left: 4px;
-        width: 1px;
-        background-color: #fff;
-    }
-
-    .delievery-industry-spec p {
-        color: #C2C2C2;
-        font-family: Inter;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 23.8px;
-        /* 148.75% */
-        letter-spacing: -0.3px;
-        margin-top: 10px;
-        max-width: 695px;
-    }
-
-    .mb-icon-text-row {
-        display: flex;
-        align-items: center;
-        margin-bottom: 30px;
-    }
-
-    .mb-icon-text-right {
-        padding-left: 8px;
-        font-size: 30px;
-    }
-
-    .mb-icon-text-row-main {
-        display: flex;
-    }
-
-    .mb-icon-text-col-main {
-        width: 50%;
-    }
-
-    .delievery-industry-spec-3-row {
-        display: flex;
-    }
-
-    .delievery-industry-spec-3-col {
-        width: 50%;
-    }
-
-    .mb-counter-number {
-        color: #FFDB3B;
-        font-family: Inter;
-        font-size: 66px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 80.5px;
-        /* 121.97% */
-        letter-spacing: -0.5px;
-    }
-
-    .mb-counter-text {
-        color: #FFF;
-        font-family: Inter;
-        font-size: 19px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 23px;
-        margin-top: 7px;
-        /* 121.053% */
-        letter-spacing: -0.5px;
-    }
-
-    .mb-counter {
-        margin-bottom: 40px;
-    }
-
-    .mb-client h2 {
-        font-size: 48px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 49.5px;
-        letter-spacing: -1.5px;
-        text-align: center;
-        text-transform: capitalize;
-    }
-
-    .mb-client-row {
-        display: flex;
-        align-items: center;
-    }
-
-
-    .mb-client-col img {
-        margin: auto;
-    }
-
-    .mb-client-col {
-        margin-top: 40px;
-    }
-
-    .mb-client-col {
-        flex: 1 1;
-        text-align: center;
-    }
-
-    .mb-last-thinking {
-        padding: 80px;
-    }
-
-    .mb-last-thinking-head {
-        color: var(--white, #FFF);
-        font-family: Inter;
-        font-size: 146px;
-        font-style: normal;
-        font-weight: 600;
-        line-height: 150px;
-        /* 102.74% */
-        text-align: start;
-        letter-spacing: -4px;
-    }
-
-    .mb-last-thinking-row {
-        display: flex;
-    }
-
-    .mb-last-thinking-col {
-        width: 50%;
-    }
-
-    .mb-last-thinking-col h2 {
-        color: var(--white, #FFF);
-        font-family: Inter;
-        font-size: 32px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 55px;
-        /* 114.583% */
-        letter-spacing: -0.8px;
-        max-width: 550px;
-        padding-right: 15px;
-    }
-
-    .mb-tab {
-        overflow: hidden;
-        color: #fff;
-        display: flex;
-        justify-content: space-between;
-    }
-
-    /* Style the buttons inside the tab */
-    .mb-tab button {
-        background-color: inherit;
-        float: left;
-        border: none;
-        outline: none;
-        cursor: pointer;
-        color: #fff;
-        padding: 14px 16px;
-        transition: 0.3s;
-        font-size: 17px;
-    }
-
-    /* Change background color of buttons on hover */
-
-
-    /* Create an active/current tablink class */
-    .mb-tab .mb-button.active {
-        border-bottom: 2px solid #FF601D;
-    }
-
-    .mb-tab .mb-button {
-        border-bottom: 2px solid transparent;
-
-    }
-
-    /* Style the tab content */
-    .mb-tabcontent {
-        display: none;
-        padding: 6px 12px;
-    }
-
-    .mb-tablinks div {
-        color: var(--white, #FFF);
-        text-align: center;
-        font-family: Inter;
-        font-size: 26px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 45px;
-        /* 132.353% */
-        letter-spacing: -0.5px;
-    }
-
-    .mb-tab {
-        border-bottom: 2px solid #DADADA;
-    }
-
-    .mb-tabcontent p {
-        text-align: center;
-        padding-top: 32px;
-    }
-
-    .mb-position-relative {
-        position: relative;
-    }
-
-    .mb-overlay-carousel .slider-heading {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.40);
-        left: 0;
-        top: 0;
-        padding: 32px;
-        margin: 0px;
-    }
-
-    .carousel-indicator {
-        border-radius: 100px;
-        background: #FFF;
-        display: flex;
-        align-items: center;
-        width: fit-content;
-        width: 58px;
-        justify-content: space-between;
-        padding: 7px 6px;
-        margin-top: 20px;
-    }
-
-    .mb-button.active div {
-        color: #FF601D;
-    }
-
-    @media only screen and (max-width: 768px) {
-        .banner-main-heading {
-            color: #FFF;
-            text-align: center;
-            font-family: Alfa Slab One;
-            font-size: 36px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 42px;
-            letter-spacing: 0.9px;
-            text-transform: uppercase;
-        }
-
-        .tt-banner-para {
-            color: #FFF;
-            text-align: center;
-            font-family: Inter;
-            font-size: 14px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 26px;
-            letter-spacing: -0.05px;
-            width: auto;
-            margin: auto;
-            padding: 30px 0px;
-        }
-
-        .mb-sec-2 {
-            padding: 60px 15px;
-            background-color: #000;
-        }
-
-        .mb-sec-2-inner-col {
-            width: 100%;
-        }
-
-        .mb-row {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        .mb-end-to-end {
-            padding: 20px 15px;
-        }
-
-        .mb-end-to-end h1 {
-            font-size: 30px;
-            font-style: normal;
-            font-weight: 700;
-            line-height: 38px;
-            letter-spacing: -0.5px;
-            text-transform: uppercase;
-        }
-
-        .mb-container-padding {
-            padding: 20px 15px;
-        }
-
-        .mb-steps-col {
-            width: 100%;
-        }
-
-        .mb-steps-col-head {
-            font-size: 20px;
-            padding-left: 25px;
-        }
-
-        .mb-steps-col {
-            width: 100%;
-            font-size: 16px;
-            margin-top: 12px;
-        }
-
-        .delievery-industry-spec {
-            padding: 20px 15px;
-        }
-
-        .delievery-industry-spec h2 {
-            font-family: Inter;
-            font-size: 20px;
-            font-style: normal;
-            font-weight: 700;
-            line-height: 30px;
-        }
-
-        .mb-icon-text-right {
-            padding-left: 8px;
-            font-size: 20px;
-        }
-
-        .mb-icon-text-col-main {
-            width: 100%;
-        }
-
-        .mb-icon-text-row-main {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        .delievery-industry-spec-2 {
-            padding: 20px 15px;
-        }
-
-        .mb-tab {
-            overflow: hidden;
-            color: #fff;
-            flex-wrap: wrap;
-            display: flex;
-            justify-content: start !important;
-
-        }
-
-        .mb-tabcontent p {
-            text-align: center;
-            padding-top: 32px;
-            font-size: 16px;
-        }
-
-        .delievery-industry-spec-3 {
-            padding: 20px 15px;
-        }
-
-        .delievery-industry-spec-3 h1 {
-            color: #FFF;
-            font-family: Inter;
-            font-size: 32px;
-            font-style: normal;
-            font-weight: 600;
-            line-height: 54px;
-            letter-spacing: -2px;
-            text-align: start;
-        }
-
-        .mb-counter-number {
-            color: #FFDB3B;
-            font-family: Inter;
-            font-size: 44px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: 57.5px;
-            letter-spacing: -0.5px;
-        }
-
-        .mb-counter-text {
-            color: #FFF;
-            font-family: Inter;
-            font-size: 17px;
-        }
-
-
-
-        .mb-client-col {
-            text-align: center;
-            width: 20%;
-            flex: none;
-        }
-
-        .mb-client-col img {
-            width: 300px;
-        }
-
-        .mb-client-row {
-            display: flex;
-            flex-wrap: wrap;
-
-            align-items: center;
-        }
-
-        .mb-client-col {
-            text-align: center;
-            width: 30%;
-            flex: none;
-            padding: 7px;
-        }
-
-        .mb-client-col {
-            margin-top: 15px;
-        }
-
-        .mb-last-thinking {
-            padding: 15px;
-        }
-
-        .mb-last-thinking-head {
-            color: var(--white, #FFF);
-            font-family: Inter;
-            font-size: 44px;
-            font-style: normal;
-            font-weight: 600;
-            line-height: 73px;
-            text-align: start;
-            letter-spacing: 0px;
-        }
-
-        .mb-last-thinking-row {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        .mb-last-thinking-col {
-            width: 100%;
-        }
-
-        .mb-last-thinking-col h2 {
-            color: var(--white, #FFF);
-            font-family: Inter;
-            font-size: 23px;
-            font-style: normal;
-            margin-bottom: 20px;
-            font-weight: 400;
-            line-height: 34px;
-            letter-spacing: -0.8px;
-            max-width: 550px;
-            padding-right: 15px;
-        }
-    }
-    </style>
 </head>
 
 <body id="page-index">
@@ -783,7 +32,7 @@
         @include('navbar')
 
         <div class="top_section-1 vis_on_scroll ">
-            <div class="top_section vis_on_scroll banner-img">
+            <div class="top_section vis_on_scroll banner-img-mobile">
                 <div class="container">
                     <h1 class="banner-main-heading">
                         Mobile app
@@ -884,12 +133,12 @@
                             iOS
                         </h3>
                         <p class="sec-2-device-p">
-                            Using innovative concepts and data-driven insights, we
-                            craft high-performance apps that rank high on Google Play
-                            and transform business.
+                            We boast a legacy of great iOS apps for
+                             a range of business niches, which never leave
+                             the iPhones and iPads home screens of the delighted users.
                         </p>
                         <h6 class="sec-2-device-lang">
-                            Java <span class="mb-orange"> | </span> Kotlin
+                            Swift <span class="mb-orange"> | </span> Objective-C
                         </h6>
                     </div>
                     <div class="mb-sec-2-inner-col">
@@ -919,12 +168,12 @@
                             Cross-platform
                         </h3>
                         <p class="sec-2-device-p">
-                            Using innovative concepts and data-driven insights, we
-                            craft high-performance apps that rank high on Google Play
-                            and transform business.
+                            Whatever the complexity, we bring the full benefit
+                             of cross-platform tech to the table, including lower
+                              costs, faster time to market and maximum reach.
                         </p>
                         <h6 class="sec-2-device-lang">
-                            Java <span class="mb-orange"> | </span> Kotlin
+                            React Native <span class="mb-orange"> | </span> Flutter <span class="mb-orange"> | </span> Xamarin
                         </h6>
                     </div>
                 </div>
@@ -1146,7 +395,7 @@
     </section>
     <section class="mb-container sec-3">
         <div class="mb-end-to-end">
-            <h1>End-to-end mobile <br>
+            <h1>End-to-end mobile<br>
                 <span class="mb-orange">development services</span>
             </h1>
         </div>
@@ -1233,7 +482,7 @@
             <h2> <span class="mb-orange">Delivering</span> industry-specific <br>
                 mobile app solutions</h2>
             <p>
-                With a deep understanding of industry-specific challenges and requirements, the ITRex app development
+                With a deep understanding of industry-specific challenges and requirements, the SSEDLAB app development
                 company delivers products tailored to your needs. Whether you are a startup aiming to disrupt the market
                 or an enterprise looking to improve employee productivity, obtain valuable data insights or build a
                 loyal customer base, we are ready to take on the challenge.
@@ -1449,7 +698,7 @@
     </section>
     <section class="mb-container sec-3">
         <div class="delievery-industry-spec-2">
-            <h2> <span class="mb-orange">Next-gen tech</span>for mobile app <br> development</h2>
+            <h2> <span class="mb-orange">Next-gen tech</span> <br> for mobile app development</h2>
             <p>
                 We bring innovation to the fore and use emerging technology to
                 power a new style of mobile apps.
@@ -1587,27 +836,28 @@
 
         <div id="Paris" class="mb-tabcontent">
             <p>
-                Use Big Data to create a user-driven app, get real-time insights, improve the app’s
-                performance, and make your marketing more effective.
+                Integrate artificial intelligence into mobile applications to offer a more
+                 personalized and engaging user experience, advanced authentication, and task automation
             </p>
         </div>
 
         <div id="Tokyo" class="mb-tabcontent">
             <p>
-                Use Big Data to create a user-driven app, get real-time insights, improve the app’s
-                performance, and make your marketing more effective.
+                Leverage the potential of VR and AR apps to pull off interactive and immersive
+                 user experience and unlock new possibilities for remote assistance,
+                 workplace simulation, training, advertising, entertainment, and much more.
             </p>
         </div>
         <div id="Tokyo1" class="mb-tabcontent">
             <p>
-                Use Big Data to create a user-driven app, get real-time insights, improve the app’s
-                performance, and make your marketing more effective.
+                We build mobile apps that let businesses and consumers manage connected smart
+                 gadgets and analyze valuable data provided by them with just a few taps.
             </p>
         </div>
         <div id="Tokyo2" class="mb-tabcontent">
             <p>
-                Use Big Data to create a user-driven app, get real-time insights, improve the app’s
-                performance, and make your marketing more effective.
+                Achieve speed and flexibility with cloud-based apps that are quick to build
+                 and easy to scale and safely store the most sensitive data.
             </p>
         </div>
         <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
@@ -1692,10 +942,33 @@
             </div>
         </div>
     </section>
+
+
     <section class="mb-sec-2 mb-mt-50">
-  <img src=" {{asset('img/download.png') }}">
-   
-    </section>
+            <div class="mb-logo-title"> <b>Join 4,000+ companies already growing</b> </div>
+            <div class="mb-flex">
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/boltshift.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/lightbox.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/feather-dev.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/spher-rule.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/glo-bank.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/n.png') }}">
+                </div>
+            </div>
+
+        </section>
+
     <section class="mb-last-thinking mb-container">
         <h1 class="mb-last-thinking-head">Latest thinking</h1>
         <div class="mb-last-thinking-row">
