@@ -666,7 +666,7 @@ COVERED ― BY EXPERTS</h2>
                 </section>
         </section>
 
-    <section class="mb-sec-2 mb-mt-50">
+        <section class="mb-sec-2 mb-mt-50">
             <div class="mb-sec-2-inner">
                 <h2 class="mb-text-white">Latest Projects</h2>
                 <div class="swiper swiper-slider">
@@ -674,77 +674,207 @@ COVERED ― BY EXPERTS</h2>
 
                         <div class="swiper-slide">
                             <div class="mb-position-relative mb-overlay-carousel">
-                                {{-- <img src=" {{asset('img/wallmart_1.jpg') }}" alt="Swiper"> --}}
-                                <h3 class="slider-heading">Lotto, scratches and raffle games →</h3>
+                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/wallmart_1.jpg') }}"
+                                        alt="Swiper">
+                                    <h3 class="slider-heading">AI-based enterprise software for No.1 retailer→</h3>
+                                    <p>
+                                        Self-service analytics enabled by AI algorithms empowers 3 million users with
+                                        instant actionable insights.
+                                    </p>
+                                </a>
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="mb-position-relative mb-overlay-carousel">
-                                {{-- <img src=" {{asset('img/case-health.jpg') }}" alt="Swiper"> --}}
-                                <h3 class="slider-heading">Lotto, scratches and raffle games →</h3>
+                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/chip-mobile3.jpg') }}"
+                                        alt="Swiper">
+                                    <h3 class="slider-heading">Organ-on-a-chip platform for drug development→</h3>
+                                    <p>
+                                        Next-gen biotech platform relying on organ-chips enables faster, safer, and
+                                        cheaper drug development for human use
+                                    </p>
+                                </a>
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="mb-position-relative mb-overlay-carousel">
-                                <img src="./public/img/cybersecurity_preview.jpg" alt="Swiper">
-                                <h3 class="slider-heading">Lotto, scratches and raffle games →</h3>
+                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/case-health.jpg') }}"
+                                        alt="Swiper">
+                                    <h3 class="slider-heading">Predictive analytics for cancer clinicians→</h3>
+                                    <p>
+                                        ML-based analytics improves cancer prognostic accuracy and treatment
+                                        recommendations.
+                                    </p>
+                                </a>
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="mb-position-relative mb-overlay-carousel">
-                                <img src="./public/img/cybersecurity_preview.jpg" alt="Swiper">
-                                <h3 class="slider-heading">Lotto, scratches and raffle games →</h3>
+                                <a href="/cdn-cgi/l/email-protection"><img
+                                        src=" {{asset('img/hybrid-cloud-preview.jpg') }}" alt="Swiper">
+                                    <h3 class="slider-heading">Cloud infrastructure for social media giant→</h3>
+                                    <p>
+                                        Advanced cloud infrastructure connects data centers and on-premises systems to
+                                        the cloud, driving agility in software development. </p>
+                                </a>
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="mb-position-relative mb-overlay-carousel">
-                                <img src="./public/img/cybersecurity_preview.jpg" alt="Swiper">
-                                <h3 class="slider-heading">Lotto, scratches and raffle games →</h3>
+                                <a href="/cdn-cgi/l/email-protection"><img
+                                        src=" {{asset('img/dollar-shave-club.webp') }}" alt="Swiper">
+                                    <h3 class="slider-heading">
+                                        Mobile app for Dollar Shave Club→
+                                    </h3>
+                                    <p>
+                                        An Android app with no-fuss shopping features and flawless navigation helps the
+                                        Dollar Shave Club skyrocket sales
+
+                                    </p>
+                                </a>
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="mb-position-relative mb-overlay-carousel">
-                                <img src="./public/img/cybersecurity_preview.jpg" alt="Swiper">
-                                <h3 class="slider-heading">Lotto, scratches and raffle games →</h3>
+                                <a href="/cdn-cgi/l/email-protection"><img
+                                        src=" {{asset('img/cybersecurity_preview.jpg') }}" alt="Swiper">
+                                    <h3 class="slider-heading">
+                                        Next-level cybersecurity for enterprise risk management →
+                                    </h3>
+                                    <p>
+                                        A biometrics-based system provides bulletproof protection, eliminating
+                                        credential deception and the need for passwords or PINs.
+                                    </p>
+                                </a>
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="mb-position-relative mb-overlay-carousel">
-                                <img src="./public/img/cybersecurity_preview.jpg" alt="Swiper">
-                                <h3 class="slider-heading">Lotto, scratches and raffle games →</h3>
+                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/case-logistics.jpg') }}"
+                                        alt="Swiper">
+                                    <h3 class="slider-heading">
+                                        AI-driven logistics platform→
+                                    </h3>
+                                    <p>
+                                        An IoT platform offers extended shipment management options to 25,000 active
+                                        users.
+                                    </p>
+                                </a>
                             </div>
                         </div>
-                    </div>
-                    <!-- <span class="swiper-pagination"></span> -->
-                    <span id="leftIndicator" style="display: none;" class="swiper-button-prev"></span>
-                    <span id="rightIndicator" style="display: none;" class="swiper-button-next"></span>
-                    <div class="carousel-indicator">
-                        <svg onclick="clickCarousel(this,'left')" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                            <g clip-path="url(#clip0_199_4859)">
-                                <path d="M11.2735 15.8321L3.54785 8.10645L5.03595 6.61835L12.7616 14.344L11.2735 15.8321Z" fill="black" />
-                                <path d="M11.2735 0.380796L3.54785 8.10645L5.03595 9.59454L12.7616 1.86889L11.2735 0.380796Z" fill="black" />
-                            </g>
-                            <defs>
-                                <clipPath id="clip0_199_4859">
-                                    <rect width="16" height="16" fill="white" transform="translate(0.5 0.380859)" />
-                                </clipPath>
-                            </defs>
-                        </svg>
-                        <svg onclick="clickCarousel(this,'right')" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                            <g clip-path="url(#clip0_199_4864)">
-                                <path d="M5.76166 16.5235L13.4873 8.79785L11.9992 7.30975L4.27356 15.0354L5.76166 16.5235Z" fill="black" />
-                                <path d="M5.76166 1.0722L13.4873 8.79785L11.9992 10.2859L4.27356 2.5603L5.76166 1.0722Z" fill="black" />
-                            </g>
-                            <defs>
-                                <clipPath id="clip0_199_4864">
-                                    <rect width="16" height="16" fill="white" transform="translate(0.5 0.380859)" />
-                                </clipPath>
-                            </defs>
-                        </svg>
+
+                        <div class="swiper-slide">
+                            <div class="mb-position-relative mb-overlay-carousel">
+                                <a href="/cdn-cgi/l/email-protection"><img
+                                        src=" {{asset('img/software_instruments (2).jpg') }}" alt="Swiper">
+                                    <h3 class="slider-heading">
+                                        Ecommerce solution for developer of virtual instruments →
+                                    </h3>
+                                    <p>
+                                        A tailored ecommerce platform has enabled a developer of software musical
+                                        instruments to reach out to wider audiences.
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="mb-position-relative mb-overlay-carousel">
+                                <a href="/cdn-cgi/l/email-protection"><img
+                                        src=" {{asset('img/shopping-technology-previeww.jpg') }}" alt="Swiper">
+                                    <h3 class="slider-heading">
+                                        AI-powered autonomous checkout→
+
+                                    </h3>
+                                    <p>
+                                        An ML-driven solution allows retailers to make their stores checkout-free
+                                        without the need to redesign them.
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="mb-position-relative mb-overlay-carousel">
+                                <a href="/cdn-cgi/l/email-protection"><img
+                                        src=" {{asset('img/BenefitsAdministrator.jpg') }}" alt="Swiper">
+                                    <h3 class="slider-heading">
+                                        Cloud solution for US third-party benefits administrators→
+                                    </h3>
+                                    <p>
+                                        Migration of a legacy system to microservices enables clients to easily
+                                        configure and manage employee benefits.
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
+                <!-- <span class="swiper-pagination"></span> -->
+                <span id="leftIndicator" style="display: none;" class="swiper-button-prev"></span>
+                <span id="rightIndicator" style="display: none;" class="swiper-button-next"></span>
+                <div class="carousel-indicator">
+                    <svg onclick="clickCarousel(this,'left')" xmlns="http://www.w3.org/2000/svg" width="17" height="17"
+                        viewBox="0 0 17 17" fill="none">
+                        <g clip-path="url(#clip0_199_4859)">
+                            <path d="M11.2735 15.8321L3.54785 8.10645L5.03595 6.61835L12.7616 14.344L11.2735 15.8321Z"
+                                fill="black" />
+                            <path
+                                d="M11.2735 0.380796L3.54785 8.10645L5.03595 9.59454L12.7616 1.86889L11.2735 0.380796Z"
+                                fill="black" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_199_4859">
+                                <rect width="16" height="16" fill="white" transform="translate(0.5 0.380859)" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg onclick="clickCarousel(this,'right')" xmlns="http://www.w3.org/2000/svg" width="17" height="17"
+                        viewBox="0 0 17 17" fill="none">
+                        <g clip-path="url(#clip0_199_4864)">
+                            <path d="M5.76166 16.5235L13.4873 8.79785L11.9992 7.30975L4.27356 15.0354L5.76166 16.5235Z"
+                                fill="black" />
+                            <path d="M5.76166 1.0722L13.4873 8.79785L11.9992 10.2859L4.27356 2.5603L5.76166 1.0722Z"
+                                fill="black" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_199_4864">
+                                <rect width="16" height="16" fill="white" transform="translate(0.5 0.380859)" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                </div>
             </div>
-        </section>
+            <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
+                            <span class="button__wrap"><span class="button__inner_wrap">
+                                    <b class="button__inner_text">Contact Us</b>
+                                </span>
+                                <span class="button__arrow">
+                                    <svg class="alternative_solution" viewBox="0 0 1000 1000"
+                                        preserveAspectRatio="none">
+                                        <foreignobject class="foreignobject" width="1000" height="1000">
+                                            <span class="foreignobject"></span>
+                                        </foreignobject>
+                                    </svg>
+                                    <span class="button__arrow_svg">
+                                        <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
+                                            <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
+                                        </svg>
+                                    </span>
+                                </span>
+                            </span>
+                        </a>
+                    </div>
+    </div>
+    </section>
 
 
 
@@ -976,16 +1106,15 @@ COVERED ― BY EXPERTS</h2>
     </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
     <!--    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>-->
-    <script data-cfasync="false" src="./cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script src="./public/js/tween.js"></script>
-    <script src="./public/js/custom.js"></script>
-    <script src="./public/js/axios.min.js"></script>
-    <script src="./public/js/swiper-bundle.min.js"></script>
-    <script src="./public/js/lightgallery.js"></script>
-    <script src="./public/js/main.min.js?v=5.0.6"></script>
-    <script src="./public/js/custom-main.min.js?v=1"></script>
-    <!-- <script src="./public/js/acordian/main.js"></script> -->
-    <script src="./public/js/accordian.min.js"></script>
+    <script data-cfasync="false" src="{{ asset ('cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}"></script>
+    <script src="{{ asset ('js/tween.js') }}"></script>
+    <script src="{{ asset ('js/custom.js') }}"></script>
+    <script src="{{ asset ('js/axios.min.js') }}"></script>
+    <script src="{{ asset ('js/swiper-bundle.min.js') }}"></script>
+    <script src="{{ asset ('js/lightgallery.js') }}"></script>
+    <script src="{{ asset ('js/main.min.js?v=5.0.6') }}"></script>
+    <script src="{{ asset ('js/custom-main.min.js?v=1') }}"></script>
+    <script src="{{ asset ('js/accordian.min.js') }}"></script>
 </body>
 <script>
     function openCity(evt, cityName) {

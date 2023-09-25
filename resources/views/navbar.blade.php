@@ -84,7 +84,7 @@
                                                 <li><a href="#">Kubernetes</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#">Dedicated Team</a>
+                                        <li class="child" ><a class="header__menu_item" href="./dedicated_team">Dedicated Team</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">CTO as a Service</a></li>
                                                 <li><a href="#">Angular Development</a></li>

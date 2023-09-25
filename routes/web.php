@@ -47,3 +47,8 @@ Route::get('/contact', function () {
 Route::get('/cloud_dev', function () {
     return view('cloude_&_dev');
 });
+
+
+Route::get('/dedicated_team', function () {
+    return view('dedicated_team');
+});
