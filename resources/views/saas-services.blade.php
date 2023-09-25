@@ -55,7 +55,7 @@
     }
 
     .banner-img {
-        background-image: url(' {{asset("/img/banner-tt/div.section__wrap.png") }}');
+        background-image: url(' {{asset("/img/saas-service.png") }}');
 
         background-position: cover;
         background-repeat: no-repeat;
@@ -807,7 +807,7 @@ position: static !important;
 
 
 
-
+    
     </style>
 </head>
 
@@ -878,8 +878,9 @@ position: static !important;
                             SaaS Design & Prototyping
                         </h3>
                         <p class="sec-2-device-p">
-                            Highly proficient in modern frameworks like Angular, React, or Vue we create user
-                            experiences that captivate and engage users
+                            If you want to glue customers to your SaaS app, you need to deliver state-of-the-art design.
+                             Our SaaS development services help you turn a great
+                             idea into great UI/UX and validate the concept with rapid prototyping.
                         </p>
 
                     </div>
@@ -889,8 +890,9 @@ position: static !important;
                             End-to-End SaaS Development
                         </h3>
                         <p class="sec-2-device-p">
-                            Our back-end developers build the best-customized functionality while making sure your web
-                            solution works flawlessly behind the scenes
+                            Need professionals to create a SaaS app from scratch? Our
+                             full-cycle SaaS development company has worked with many startups and 
+                            enterprises since 2009, delivering successful SaaS products that are built to last and grow.
                         </p>
 
                     </div>
@@ -903,102 +905,47 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            API Integration
+                            Migration to SaaS
                         </h3>
                         <p class="sec-2-device-p">
-                            To save you time building essential functionality from scratch, we connect 3rd party
-                            services through APIs, from marketing to payment or geolocation
+                            Transform your on-prem solution into a mind-blowing SaaS product.
+                             We will re-architecture your app to best suit a new environment, 
+                            choose the right approach to cloud migration, configure the cloud, and move data safely.
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Web Development Consulting
+                            Third-Party Integrations
                         </h3>
                         <p class="sec-2-device-p">
-                            With our seasoned consultants who can guide you through every step of your web development
-                            journey, you navigate tech complexities safely
+                            As part of our SaaS application development services,
+                             we can add versatility to your SaaS app by connecting external systems through APIs.
+                             Build new business opportunities with new integrations executed flawlessly.
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Support & Maintenance
+                            SaaS Support & Maintenance
                         </h3>
                         <p class="sec-2-device-p">
-                            As part of our custom web development services, we provide 24/7 infrastructure monitoring,
-                            problem resolution, updates, custom redesign, and more
+                            Optimize your SaaS performance, fix bugs, improve user experience,
+                             and cut costs using our SaaS development services. We can provide ad-hoc or regular support.
+                             Focus on your business while we take care of the tech.
                         </p>
 
                     </div>
                 </div>
             </div>
+            <section class="banner-btn mb-mt-50">
+                <button class="tt-banner-btn">Tell Us your SaaS software needs</button>
+                <img src=" {{asset('img/SVG.svg') }}" alt="">
+            </section>
         </section>
-        <section class="mb-container sec-3">
-            <div class="mb-end-to-end">
-                <h1>End-to-end Website <br>
-                    <span class="mb-orange">development services</span>
-                </h1>
-            </div>
-        </section>
-        <section class="mb-container mb-container-padding">
-            <div class="mb-steps-row">
-                <div class="mb-steps-col">
-                    <div class="mb-steps-col-left">
-                        <div class="mb-steps-row-inner">
-                            <div class="mb-steps-col-inner mb-steps-col-circle">
-                            </div>
-                            <div class="mb-steps-col-inner mb-steps-col-head">
-                                <h3>Discovery & R&D</h3>
-                            </div>
-                        </div>
-                        <div class="mb-steps-row-inner">
-                            <div class="mb-steps-col-inner mb-steps-col-circle">
-                            </div>
-                            <div class="mb-steps-col-inner mb-steps-col-head">
-                                <h3>UX/UI Design</h3>
-                            </div>
-                        </div>
-                        <div class="mb-steps-row-inner">
-                            <div class="mb-steps-col-inner mb-steps-col-circle">
-                            </div>
-                            <div class="mb-steps-col-inner mb-steps-col-head">
-                                <h3>Development</h3>
-                            </div>
-                        </div>
-                        <div class="mb-steps-row-inner">
-                            <div class="mb-steps-col-inner mb-steps-col-circle">
-                            </div>
-                            <div class="mb-steps-col-inner mb-steps-col-head">
-                                <h3>QA</h3>
-                            </div>
-                        </div>
-                        <div class="mb-steps-row-inner">
-                            <div class="mb-steps-col-inner mb-steps-col-circle">
-                            </div>
-                            <div class="mb-steps-col-inner mb-steps-col-head">
-                                <h3>Launch</h3>
-                            </div>
-                        </div>
-                        <div class="mb-steps-row-inner">
-                            <div class="mb-steps-col-inner mb-steps-col-circle">
-                            </div>
-                            <div class="mb-steps-col-inner mb-steps-col-head">
-                                <h3>Maintenance & Support</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="mb-steps-col">
-                    We translate your app idea into a feature setlist and draw up a detailed
-                    development roadmap that leads to the desired outcomes.
-                </div>
-            </div>
-        </section>
-
+        
 
 
         <section class="mb-container sec-3">
@@ -1025,12 +972,11 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            1. SaaS Development Consulting
+                            1. Tech stack choice
                         </h3>
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            We deeply analyze your project requirements, planned features, and the capabilities of the cloud provider to identify the right combination of tech.
+
                         </p>
 
                     </div>
@@ -1038,11 +984,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            2. SaaS Design & Prototyping
+                            2. Multi-tenant architecture
                         </h3>
                         <p class="sec-2-device-p">
-                            Highly proficient in modern frameworks like Angular, React, or Vue we create user
-                            experiences that captivate and engage users
+                            We build multi-tenant architecture with security in mind to make your scaling straightforward and customization easy while minimizing costs.
                         </p>
 
                     </div>
@@ -1052,12 +997,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. SaaS Development Consulting
+                            3. External services integration
                         </h3>
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            We save you time building functionality from scratch by performing complex integrations with external services based on your growth metrics.
                         </p>
 
                     </div>
@@ -1065,11 +1008,11 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. SaaS Design & Prototyping
+                            4. Scalability on demand
                         </h3>
                         <p class="sec-2-device-p">
-                            Highly proficient in modern frameworks like Angular, React, or Vue we create user
-                            experiences that captivate and engage users
+                            We take scalability into account from the beginning of your SaaS software development project so that your app is able to adapt as you evolve.
+
                         </p>
 
                     </div>
@@ -1079,12 +1022,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            5. SaaS Development Consulting
+                            5. Security audit
                         </h3>
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            We test your system thoroughly before deployment to ensure that all stored data is well-protected and compliant with standards like GDPR or HIPAA.
                         </p>
 
                     </div>
@@ -1092,11 +1033,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            6. SaaS Design & Prototyping
+                            6. Smooth deployment
                         </h3>
                         <p class="sec-2-device-p">
-                            Highly proficient in modern frameworks like Angular, React, or Vue we create user
-                            experiences that captivate and engage users
+                            We take a tailored deployment approach to keep business disruption to a minimum, using DevOps to automate the process as much as possible.
                         </p>
 
                     </div>
@@ -1104,7 +1044,7 @@ position: static !important;
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Discuss your Web Development needs</button>
+                <button class="tt-banner-btn">Talk to our SaaS experts</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -1120,7 +1060,7 @@ position: static !important;
                     we deliver
                 </h2>
                 <p>
-                    For more than a decade, ITRex SaaS development company has been empowering enterprises and startups
+                    For more than a decade, SSED SaaS development company has been empowering enterprises and startups
                     across industries by delivering secure and scalable SaaS solutions. Tell us the type of SaaS you
                     want to create and we will help you too.
 
@@ -1141,7 +1081,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Optimize route planning</b>
+                                        <b class="optimize-route-planning">CRMs</b>
                                 </div>
                             </div>
                         </div>
@@ -1152,7 +1092,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Automate day-to-day reporting</b>
+                                        <b class="optimize-route-planning">Marketing Software</b>
                                 </div>
                             </div>
                         </div>
@@ -1167,7 +1107,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Optimize route planning</b>
+                                    <b class="optimize-route-planning">ERPs</b>
                             </div>
                         </div>
                     </div>
@@ -1178,7 +1118,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Automate day-to-day reporting</b>
+                                    <b class="optimize-route-planning">Cybersecurity Platforms</b>
                             </div>
                         </div>
                     </div>
@@ -1192,7 +1132,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Optimize route planning</b>
+                                    <b class="optimize-route-planning">Accounting Systems</b>
                             </div>
                         </div>
                     </div>
@@ -1203,31 +1143,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Automate day-to-day reporting</b>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="divlanding-list-list">
-                <div class="divlanding-list-col">
-                    <div class="divlanding-list-item">
-                        <div class="divlanding-list-item-icon"></div>
-                        <div class="divlanding-list-item-text">
-                            <div class="optimize-route-planning-container">
-                                <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Optimize route planning</b>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="divlanding-list-col">
-                    <div class="divlanding-list-item">
-                        <div class="divlanding-list-item-icon"></div>
-                        <div class="divlanding-list-item-text">
-                            <div class="optimize-route-planning-container">
-                                <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Automate day-to-day reporting</b>
+                                    <b class="optimize-route-planning">Project Management Systems</b>
                             </div>
                         </div>
                     </div>
@@ -1240,7 +1156,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Optimize route planning</b>
+                                    <b class="optimize-route-planning">Document Automation Solutions</b>
                             </div>
                         </div>
                     </div>
@@ -1251,14 +1167,40 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Automate day-to-day reporting</b>
+                                    <b class="optimize-route-planning">Communication & Collaboration Tools</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="divlanding-list-list">
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">
+                                        HR/HRM Software</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">
+                                        Other</b>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Discuss your Web Development needs</button>
+                <button class="tt-banner-btn">Request our SaaS development services</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -1290,11 +1232,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Optimize route planning</b>
-                                        <span> to reduce delivery time, use</span>
-                                    </p>
-                                    <p class="optimize-route-planning-to-red">
-                                        less fuel, and handle more orders
+                                        Building SaaS systems since 2009
                                     </p>
                                 </div>
                             </div>
@@ -1306,12 +1244,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Automate day-to-day reporting
-                                        </b>
-                                        <span>for better</span>
-                                    </p>
-                                    <p class="optimize-route-planning-to-red">
-                                        management of resources and demand
+                                        Over 80% of our team are middle and senior-level professionals
                                     </p>
                                 </div>
                             </div>
@@ -1325,11 +1258,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Optimize route planning</b>
-                                        <span> to reduce delivery time, use</span>
-                                    </p>
-                                    <p class="optimize-route-planning-to-red">
-                                        less fuel, and handle more orders
+                                        Expertise in disruptive tech to put you miles ahead of the competition
                                     </p>
                                 </div>
                             </div>
@@ -1341,12 +1270,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Automate day-to-day reporting
-                                        </b>
-                                        <span>for better</span>
-                                    </p>
-                                    <p class="optimize-route-planning-to-red">
-                                        management of resources and demand
+                                        Tens of thousands of hours of custom software development
                                     </p>
                                 </div>
                             </div>
@@ -1360,11 +1284,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Optimize route planning</b>
-                                        <span> to reduce delivery time, use</span>
-                                    </p>
-                                    <p class="optimize-route-planning-to-red">
-                                        less fuel, and handle more orders
+                                        Product mindset focusing on the value we add
                                     </p>
                                 </div>
                             </div>
@@ -1376,12 +1296,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Automate day-to-day reporting
-                                        </b>
-                                        <span>for better</span>
-                                    </p>
-                                    <p class="optimize-route-planning-to-red">
-                                        management of resources and demand
+                                        Global corporations among 200+ happy clients
                                     </p>
                                 </div>
                             </div>
@@ -1395,61 +1310,20 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Optimize route planning</b>
-                                        <span> to reduce delivery time, use</span>
-                                    </p>
-                                    <p class="optimize-route-planning-to-red">
-                                        less fuel, and handle more orders
+                                        Agile delivery to let you go faster, with a guaranteed success
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="divlanding-list-col">
-                        <div class="divlanding-list-item">
-                            <div class="divlanding-list-item-icon"></div>
-                            <div class="divlanding-list-item-text">
-                                <div class="optimize-route-planning-container">
-                                    <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Automate day-to-day reporting
-                                        </b>
-                                        <span>for better</span>
-                                    </p>
-                                    <p class="optimize-route-planning-to-red">
-                                        management of resources and demand
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
+            <section class="banner-btn mb-mt-50">
+                <button class="tt-banner-btn">Discuss your SaaS project</button>
+                <img src=" {{asset('img/SVG.svg') }}" alt="">
+            </section>
         </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         @include('contact-form')
 

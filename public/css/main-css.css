@@ -14418,7 +14418,7 @@ body {
     /* bulte css*/
     .divlanding-list-item-icon {
         position: absolute;
-        height: calc(100% - 46px);
+        height: (100% - 46px);
         top: 0.6rem;
         bottom: 2.27rem;
         left: 0;
@@ -14531,6 +14531,15 @@ body {
         .divlanding-list-item-text {
             padding: 0.75rem;
             /* Add padding to the text container */
+        }
+
+        .divlanding-list-item-icon {
+
+            height: 50%;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            width: 0.5rem;
         }
     }
 
@@ -14736,12 +14745,6 @@ body {
       background: #CA5817;
     }
 
-    .banner-img {
-      background-image: url('../../img/banner-tt/div.top_section.png');
-      background-position: cover;
-      background-repeat: no-repeat;
-      background-size: 100% 100%;
-    }
 
     .pt64 {
       margin-top: 64px;
