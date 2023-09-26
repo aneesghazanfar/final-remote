@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Software Engineering Services &mdash; SSEDLAB</title>
+    <title>Dedicated Development Team Services &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -24,6 +24,15 @@
 <style>
     .divlanding-list-item-text {
 position: static !important;
+    }
+
+    .delievery-industry-spec {
+  width: 100%; /* Make the container take the full width of its parent */
+
+  background-image: linear-gradient(to bottom, #000000a8, #00000070),
+  url('https://itrexgroup.com/wp-content/uploads/2020/06/take-your-own-journey-scaled-e1626788633216-1440x449.jpg');
+  background-repeat: no-repeat;
+
     }
 
     .divlanding-list-item-text {
@@ -72,17 +81,18 @@ position: static !important;
             <div class="top_section vis_on_scroll banner-img-soft">
                 <div class="container">
                     <h1 class="banner-main-heading">
-                        Software engineering services
+                        Dedicated software
+                        development
+                        teams
                     </h1>
                     <p class="tt-banner-para">
-                        Overhaul business processes, modernize existing technology systems, and bring innovative
-                        technology product to market with SSED — a software engineering company that
-                        cares
+                        Missing deadlines or lacking software development capabilities to release your product? Let us match you with a dedicated
+                        development team that will scale your software development capacity — with little to no risks and minimized expenses
                     </p>
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Discuss your software engineering needs</button>
+                        <button class="tt-banner-btn">Hire skilled developers</button>
                         <img src="{{asset('img/SVG.svg') }}" alt="">
                     </section>
 
@@ -97,22 +107,24 @@ position: static !important;
 
         <section class="mb-sec-2">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">Our SaaS development services let you win big</h2>
+                <h2 class="mb-text-white">Dedicated team services, as flexible as you need them to be</h2>
                 <p>
-                    Leverage our top-tier skills and experience in Software-as-a-Service development to create a SaaS
-                    product that will drive long-term success among customers. Our SaaS development services span the
-                    entire software lifecycle, including:
+                    Whether you’re an enterprise or a startup, we understand your struggle — hiring reliable 
+                    dedicated developers while keeping up with the ever-changing market environment has never been easy.
+                     That is why we put the flexibility of engagement in the spotlight. You are free to start with any
+                     number of FTEs and extend the team with extra talent at any moment, quickly and stress-free.
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            In-house team augmentation
                         </h3>
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            If you have a clear product vision and know exactly how to bring it to life, 
+                            still you face a shortage of specific skills, staff augmentation is your go-to option.
+                             We will help you fill in the particular knowledge gap. You will manage the resources directly.
+                             We will deliver the tech expertise, guarantee a seamless integration in your project, and offer flexible scale-ups
                         </p>
 
                     </div>
@@ -120,12 +132,12 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Full-cycle development team
                         </h3>
                         <p class="sec-2-device-p">
-                            Need professionals to create a SaaS app from scratch? Our
-                             full-cycle SaaS development company has worked with many startups and 
-                            enterprises since 2009, delivering successful SaaS products that are built to last and grow.
+                            If you want us to cover for a part of or an entire development project — with the ultimate confidence
+                             in the quality of deliverables and no daily management headache — go for a dedicated team. Our dedicated 
+                             teams are self-managed. You trust us with a task — we do it A to Z. You are free to choose any team size and any composition
                         </p>
 
                     </div>
@@ -134,16 +146,16 @@ position: static !important;
             </div>
             <br><br><br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Tell Us your SaaS software needs</button>
+                <button class="tt-banner-btn">Consult on a best-fit option</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Tap in our versatile
                     </span><br>
-                    to SaaS software development
+                    tech know-how
                 </h2>
             </div>
         </section>
@@ -160,7 +172,7 @@ position: static !important;
                         Front-End
                         </h3>
                         <p class="sec-2-device-p">
-                        React/Redux, Angular, JavaScript, HTML5, Laravel, Django, Vue.js
+                        React/Redux | Angular | JavaScript | HTML5 | Laravel | Django | Vue.js
                     </p>
                         
                     </div>
@@ -170,17 +182,17 @@ position: static !important;
                         Back-End
                         </h3>
                         <p class="sec-2-device-p">
-                        .NET | Node.js | Java | Python | PHP | Laravel | Django
+                        .NET |Java | Node.js | Java | Python | PHP | Golang | C++
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Databases
+                         Mobile
                         </h3>
                         <p class="sec-2-device-p">
-                        MS SQL | PostgreSQL | MySQL | MongoDB | CouchDB | Cassandra | Hadoop | DynamoDB | Google BigQuery
+                        Android | Java / Kotlin | React Native | Flutter 
                         </p>
                         
                     </div>
@@ -190,7 +202,7 @@ position: static !important;
                         Cloud
                         </h3>
                         <p class="sec-2-device-p">
-                        Amazon Web Services | Google Cloud Platform | Microsoft Azure
+                        Google Cloud | Amazon  | Web Services | Microsoft Azure
                         </p>
                         
                     </div>
@@ -199,40 +211,40 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Front-End
+                         Data
                         </h3>
                         <p class="sec-2-device-p">
-                        React/Redux, Angular, JavaScript, HTML5, Laravel, Django, Vue.js
+                        DWH | ETL  | data  | integration | data  | migration | data migration  | data science | advanced analytics  | reporting
                     </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Back-End
+                        AI & ML
                         </h3>
                         <p class="sec-2-device-p">
-                        .NET | Node.js | Java | Python | PHP | Laravel | Django
+                        NLP | deep learning | computer vision 
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Databases
+                        Automation
                         </h3>
                         <p class="sec-2-device-p">
-                        MS SQL | PostgreSQL | MySQL | MongoDB | CouchDB | Cassandra | Hadoop | DynamoDB | Google BigQuery
+                        RPA | Workfusion | OCR | UiPath 
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Cloud
+                        DevOps
                         </h3>
                         <p class="sec-2-device-p">
-                        Amazon Web Services | Google Cloud Platform | Microsoft Azure
+                            CI | CD | IaS
                         </p>
                         
                     </div>
@@ -241,7 +253,7 @@ position: static !important;
             </div>
                         <br>
             <section class="banner-btn mb-mt-50">
-                    <button class="tt-banner-btn">Get in touch</button>
+                    <button class="tt-banner-btn">Hire skilled developers</button>
                     <img src=" {{asset('img/SVG.svg') }}" alt="">
                 </section>
         </section>
@@ -251,9 +263,9 @@ position: static !important;
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Full-scale teams
                     </span><br>
-                    to SaaS software development
+                    to fill in any skill gap
                 </h2>
             </div>
         </section>
@@ -270,7 +282,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">CRMs</b>
+                                        <b class="optimize-route-planning">Software Engineers</b>
                                 </div>
                             </div>
                         </div>
@@ -281,7 +293,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Marketing Software</b>
+                                        <b class="optimize-route-planning">CTOs</b>
                                 </div>
                             </div>
                         </div>
@@ -296,7 +308,8 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">ERPs</b>
+                                    <b class="optimize-route-planning">Software Architects
+                                    </b>
                             </div>
                         </div>
                     </div>
@@ -307,7 +320,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Cybersecurity Platforms</b>
+                                    <b class="optimize-route-planning">Data Engineers</b>
                             </div>
                         </div>
                     </div>
@@ -321,7 +334,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Accounting Systems</b>
+                                    <b class="optimize-route-planning">Integration Engineers</b>
                             </div>
                         </div>
                     </div>
@@ -332,31 +345,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Project Management Systems</b>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="divlanding-list-list">
-                <div class="divlanding-list-col">
-                    <div class="divlanding-list-item">
-                        <div class="divlanding-list-item-icon"></div>
-                        <div class="divlanding-list-item-text">
-                            <div class="optimize-route-planning-container">
-                                <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Document Automation Solutions</b>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="divlanding-list-col">
-                    <div class="divlanding-list-item">
-                        <div class="divlanding-list-item-icon"></div>
-                        <div class="divlanding-list-item-text">
-                            <div class="optimize-route-planning-container">
-                                <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Communication & Collaboration Tools</b>
+                                    <b class="optimize-route-planning">Data Architects</b>
                             </div>
                         </div>
                     </div>
@@ -369,8 +358,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">
-                                        HR/HRM Software</b>
+                                    <b class="optimize-route-planning">DevOps Engineers</b>
                             </div>
                         </div>
                     </div>
@@ -381,8 +369,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">
-                                        Other</b>
+                                    <b class="optimize-route-planning">Data Scientists</b>
                             </div>
                         </div>
                     </div>
@@ -395,8 +382,7 @@ position: static !important;
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">
-                                        HR/HRM Software</b>
+                                    <b class="optimize-route-planning">Support Engineers</b>
                             </div>
                         </div>
                     </div>
@@ -408,7 +394,7 @@ position: static !important;
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
                                     <b class="optimize-route-planning">
-                                        Other</b>
+                                        BI Engineers</b>
                             </div>
                         </div>
                     </div>
@@ -422,7 +408,7 @@ position: static !important;
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
                                     <b class="optimize-route-planning">
-                                        HR/HRM Software</b>
+                                        Test Automation Engineer</b>
                             </div>
                         </div>
                     </div>
@@ -434,14 +420,40 @@ position: static !important;
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
                                     <b class="optimize-route-planning">
-                                        Other</b>
+                                        Business Analysts</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="divlanding-list-list">
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">
+                                        Testers</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">
+                                        UI/UX Designers</b>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Request our SaaS development services</button>
+                <button class="tt-banner-btn">Hire skilled developers</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -449,14 +461,14 @@ position: static !important;
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Types of SaaS applications
+                <h2> <span class="mb-orange">Get the benefits of working
                     </span><br>
-                    we deliver
+                    with a dedicated team
                 </h2>
                 <p>
-                    For more than a decade, SSED SaaS development company has been empowering enterprises and startups
-                    across industries by delivering secure and scalable SaaS solutions. Tell us the type of SaaS you
-                    want to create and we will help you too.
+                    With a “hungry for challenges” mentality, we root for your product’s success.
+                     Dedicated development teams from ITRex make you feel like you’ve worked with them for ages. You get motivated specialists
+                     that integrate quickly, bring in fresh ideas, and deliver excellent outcomes — at speed and with in-house-like devotion.
 
 
                 </p>
@@ -476,40 +488,44 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Progressive Web Apps
+                            Quick team launch
                         </h3>
                         <p class="sec-2-device-p">
-                        Build a lightweight and platform-agnostic PWA in its latest iteration or revamp your existing web app into a PWA for impressive performance
+                            You get best-matching CVs in the first 24 hours and can interview candidates 
+                            directly or via HR specialists. Test tasks are welcomed, too
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Accelerated Mobile Pages
+                         Stress-free hiring
                         </h3>
                         <p class="sec-2-device-p">
-                        Strip your web pages down to the basics so that they load superfast, delivering an unmatched user experience and improving your site visibility
+                            We recruit internally and externally through extended databases to hand-pick the best-fit
+                             candidates based on their personal characteristics, tech stacks, and experience.
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Single-page Applications
+                            Fast scale-ups and -downs
                         </h3>
                         <p class="sec-2-device-p">
-                        Dynamically updating content with no page refreshing, SPAs are a superb way to provide a faster and simple experience to users. Build your SPA with us
+                            We provide as many highly qualified specialists as you need. 
+                            You can change the team composition, scaling up or down within two weeks
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Serverless architecture
+                            In-house-like control
                         </h3>
                         <p class="sec-2-device-p">
-                        Get excellent scalability, improve your web app performance, and cut project costs by placing the underlying infrastructure in the cloud
+                            You keep full control of your teams, budget, and work progress with end-to-end reporting, 
+                            daily online meetings, weekly product demos, and retrospectives
                         </p>
                         
                     </div>
@@ -518,40 +534,41 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Progressive Web Apps
+                            Access to a vast tech pool
                         </h3>
                         <p class="sec-2-device-p">
-                        Build a lightweight and platform-agnostic PWA in its latest iteration or revamp your existing web app into a PWA for impressive performance
+                            You can tap into state-of-the-art technologies and best-breed talent to augment your project with just the right talent and beyond
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Accelerated Mobile Pages
+                            Easy resource replacement
                         </h3>
                         <p class="sec-2-device-p">
-                        Strip your web pages down to the basics so that they load superfast, delivering an unmatched user experience and improving your site visibility
+                            We offer a 30-day trial period for each specialist and may replace any dedicated team member based on your feedback or requirements update
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Single-page Applications
+                            End-to-end support
                         </h3>
                         <p class="sec-2-device-p">
-                        Dynamically updating content with no page refreshing, SPAs are a superb way to provide a faster and simple experience to users. Build your SPA with us
+                            We don’t only offer developers for hire but design teams that suit your needs best. If you lack a BA, a PM, a designer, a DevOps specialist, or a QA engineer — no worries, we do it all
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Serverless architecture
+                            Cost efficiency
                         </h3>
                         <p class="sec-2-device-p">
-                        Get excellent scalability, improve your web app performance, and cut project costs by placing the underlying infrastructure in the cloud
+                            You pay for the scope of work delivered and don’t have to bear recruitment and administrative costs,
+                             which can bring about an up to 50% IT cost reduction
                         </p>
                         
                     </div>
@@ -560,7 +577,7 @@ position: static !important;
             </div>
            
             <section class="banner-btn mb-mt-50">
-                    <button class="tt-banner-btn">Contact us</button>
+                    <button class="tt-banner-btn">Hire a dedicated team</button>
                     <img src=" {{asset('img/SVG.svg') }}" alt="">
                 </section>
         </section>
@@ -568,9 +585,9 @@ position: static !important;
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Choose a fitting
                     </span><br>
-                    to SaaS software development
+                    engagement model
                 </h2>
             </div>
         </section>
@@ -587,46 +604,25 @@ position: static !important;
 .</p>
                 </div>
 
-                <button class="accordion">02- Digital Transformation</button>
+                <button class="accordion">Team-based</button>
                 <div class="panel">
-                    <p>Achieve lower costs, utmost scalability and maximum velocity with our legacy software
-                        modernization, cloud, and DevOps services. Our enterprise software development company is here
-                        to help you remove the roadblocks to innovation.</p>
+                    <p>
+                        If your project scope is unclear, but you still want to have your budgets predictable, opt for team-based cooperation. With FTE-based pricing, 
+                        you will be billed monthly for the entire team and charged extra in case of overtime hours.</p>
                 </div>
 
-                <button class="accordion">03- Software Engineering</button>
+                <button class="accordion">Time and material</button>
                 <div class="panel">
-                    <p>Build enterprise software solutions that perform. We can cover you along the whole way or fill in
-                        specific skill gaps in business analysis, UX/UI, testing, development, or support across web,
-                        mobile, desktop, cloud, and embedded platforms.</p>
+                    <p>
+                        If you deal with frequently changing requirements and undefined scope and want to embrace that flexibility, go for a time and material cooperation model. With flexible task prioritization
+                         and SLA-backed deliverables, you will be charged for the time and resources spent.</p>
                 </div>
 
-                <button class="accordion">04- Big Data & Analytics</button>
-
-                <div class="panel">
-                    <p>Use your torrents of data to drive decision-making across the company. From Data Governance &
-                        Data Management to Data Analytics and Data Science, we make business, not IT, own your data.</p>
-                </div>
-
-                <button class="accordion">05- Artificial Intelligence</button>
-
-                <div class="panel">
-                    <p>Implement AI to beat real-world business challenges and meet your KPIs, getting beyond the hype.
-                        From ML, NLP, and Computer Vision to integration of AI technologies for Intelligent Automation,
-                        we’ve done it all for our delighted clients.</p>
-                </div>
-
-                <button class="accordion">06- Extended Reality</button>
-
-                <div class="panel">
-                    <p>Deliver immersive experiences through AR, VR, or MR to create new products, boost productivity,
-                        or launch into the metaverse. XR solutions help you bypass distance challenges and be innovative
-                        for real.</p>
-                </div>
+                
 
                 <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                         <span class="button__wrap"><span class="button__inner_wrap">
-                                <b class="button__inner_text">Discuss my project</b>
+                                <b class="button__inner_text">Hire a dedicated  team</b>
                             </span>
                             <span class="button__arrow">
                                 <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
@@ -649,14 +645,13 @@ position: static !important;
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Types of SaaS applications
+                <h2> <span class="mb-orange">Take on a path to your dream
                     </span><br>
-                    we deliver
+                    dedicated development team
                 </h2>
                 <p>
-                    For more than a decade, SSED SaaS development company has been empowering enterprises and startups
-                    across industries by delivering secure and scalable SaaS solutions. Tell us the type of SaaS you
-                    want to create and we will help you too.
+                    When assembling a dedicated development team, we follow a proven process to match you with the right talent.
+                     Here’s what happens after you send us an inquiry:
 
 
                 </p>
@@ -675,35 +670,34 @@ position: static !important;
                         <div class="mb-steps-col-inner mb-steps-col-circle">
                         </div>
                         <div class="mb-steps-col-inner mb-steps-col-head">
-                            <h3>Discovery & R&D</h3>
+                            <h3>Collecting and analyzing requirements</h3>
                         </div>
                     </div>
                     <div class="mb-steps-row-inner">
                         <div class="mb-steps-col-inner mb-steps-col-circle">
                         </div>
                         <div class="mb-steps-col-inner mb-steps-col-head">
-                            <h3>UX/UI Design</h3>
+                            <h3>Assemblilng a team</h3>
                         </div>
                     </div>
                     <div class="mb-steps-row-inner">
                         <div class="mb-steps-col-inner mb-steps-col-circle">
                         </div>
                         <div class="mb-steps-col-inner mb-steps-col-head">
-                            <h3>Development</h3>
+                            <h3>Onboarding and knowledge transfer</h3>
                         </div>
                     </div>
                 </div>
 
             </div>
             <div class="mb-steps-col">
-                We translate your app idea into a feature setlist and draw up a detailed
-                development roadmap that leads to the desired outcomes.
+                We hold a series of meetings to clarify your business needs, the specifics of your product, the requirements to the team, and other relevant organizational and procedural aspects.
             </div>
         </div>
 
         <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                             <span class="button__wrap"><span class="button__inner_wrap">
-                                    <b class="button__inner_text">Hire mobile app developer</b>
+                                    <b class="button__inner_text">Hire a dedicated team</b>
                                 </span>
                                 <span class="button__arrow">
                                     <svg class="alternative_solution" viewBox="0 0 1000 1000"
@@ -727,7 +721,7 @@ position: static !important;
 
     <section class="mb-container sec-3">
         <div class="delievery-industry-spec-3">
-            <h1> What makes us different</h1>
+            <h1> SSED: top-tier development teams</h1>
             <div class="delievery-industry-spec-3-row">
                 <div class="delievery-industry-spec-3-col">
                     <div class="mb-counter">
@@ -735,33 +729,7 @@ position: static !important;
                             12+
                         </h3>
                         <p class="mb-counter-text">
-                            years in mobile application development
-                        </p>
-                    </div>
-                    <div class="mb-counter">
-                        <h3 class="mb-counter-number">
-                            100+
-                        </h3>
-                        <p class="mb-counter-text">
-                            million of users enjoy our apps
-                        </p>
-                    </div>
-                    <div class="mb-counter">
-                        <h3 class="mb-counter-number">
-                            99%
-                        </h3>
-                        <p class="mb-counter-text">
-                            app reliability rate
-                        </p>
-                    </div>
-                </div>
-                <div class="delievery-industry-spec-3-col">
-                    <div class="mb-counter">
-                        <h3 class="mb-counter-number">
-                            350+
-                        </h3>
-                        <p class="mb-counter-text">
-                            top-tier software development experts
+                            years of hands-on experience
                         </p>
                     </div>
                     <div class="mb-counter">
@@ -778,6 +746,32 @@ position: static !important;
                         </h3>
                         <p class="mb-counter-text">
                             products delivered
+                        </p>
+                    </div>
+                </div>
+                <div class="delievery-industry-spec-3-col">
+                    <div class="mb-counter">
+                        <h3 class="mb-counter-number">
+                            3+
+                        </h3>
+                        <p class="mb-counter-text">
+                            years of an ongoing collaboration with clients on average
+                        </p>
+                    </div>
+                    <div class="mb-counter">
+                        <h3 class="mb-counter-number">
+                            350+
+                        </h3>
+                        <p class="mb-counter-text">
+                            top-tier software development experts
+                        </p>
+                    </div>
+                    <div class="mb-counter">
+                        <h3 class="mb-counter-number">
+                            96%
+                        </h3>
+                        <p class="mb-counter-text">
+                            annual employee retention rate
                         </p>
                     </div>
                 </div>
@@ -1270,19 +1264,6 @@ position: static !important;
         }
         </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-    <!--    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>-->
-    <script data-cfasync="false" src="./cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script src="./public/js/tween.js"></script>
-    <script src="./public/js/custom.js"></script>
-    <script src="./public/js/axios.min.js"></script>
-    <script src="./public/js/swiper-bundle.min.js"></script>
-    <script src="./public/js/lightgallery.js"></script>
-    <script src="./public/js/main.min.js?v=5.0.6"></script>
-    <script src="./public/js/custom-main.min.js?v=1"></script>
-     <script src="./public/js/acordian/main.js"></script>
-    <script src="./public/js/accordian.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-    <!--    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>-->
     <script data-cfasync="false" src=" {{asset('cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}">
     </script>
     <script src=" {{asset('js/tween.js') }}"></script>

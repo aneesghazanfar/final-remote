@@ -45,9 +45,11 @@
             <div class="top_section vis_on_scroll banner-img">
                 <div class="container">
                     <h1 class="banner-main-heading">
-                        Next-gen enterprise software development company
-
+                        Next-gen enterprise
                     </h1>
+                    <h1 class="banner-main-heading-2">
+                    software development company
+        </h1>
 
 
                     <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">

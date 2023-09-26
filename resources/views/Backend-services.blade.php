@@ -34,8 +34,8 @@
         ?>
         @include('navbar')
 
-        <div class="top_section-1 vis_on_scroll ">
-            <div class="top_section vis_on_scroll banner-img-back">
+        
+            <div class="banner-img-back">
                 <div class="container">
                     <h1 class="banner-main-heading">
                         Expert back-end
@@ -55,7 +55,6 @@
 
                 </div>
             </div>
-        </div>
 
 
         <!-- second Sections is here -->

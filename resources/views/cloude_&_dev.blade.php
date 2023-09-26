@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>SaaS Development Services &mdash; SSEDLAB</title>
+    <title>Cloud Computing Consulting & implementation services &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -834,7 +834,7 @@ position: static !important;
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Talk toour expert</button>
+                        <button class="tt-banner-btn">Talk to our experts</button>
                         <img src="{{asset('img/SVG.svg')}}" alt="">
                     </section>
 
@@ -844,22 +844,18 @@ position: static !important;
 
         <section class="mb-sec-2">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">Our SaaS development services let you win big</h2>
+                <h2 class="mb-text-white">All-encompassing cloud computing consulting and implementation services</h2>
                 <p>
-                    Leverage our top-tier skills and experience in Software-as-a-Service development to create a SaaS
-                    product that will drive long-term success among customers. Our SaaS development services span the
-                    entire software lifecycle, including:
+                    We embrace an end-to-end approach — from thinking over the strategic aspects of cloud adoption and migration to cloud, security consulting and cloud infrastructure management. Our team of cloud consultants, business analysts, developers, and DevOps engineers will ensure that your cloud environment is efficient, safe, and high-performing.
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            Cloud Adoption and Migration
                         </h3>
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            Our vetted cloud solutions consultants dive in your tech infrastructure and study your needs to help you adopt the best-fit cloud migration strategy. We re-platform and modernize your apps and put APIs in place to integrate the newly migrated applications with enterprise software at minimal risks
                         </p>
 
                     </div>
@@ -868,11 +864,11 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Cloud optimization
                         </h3>
                         <p class="sec-2-device-p">
-                            Our back-end developers build the best-customized functionality while making sure your web
-                            solution works flawlessly behind the scenes
+                            We analyze your cloud infrastructure, detect under- and over-provisioned instances and idle resources, and identify security gaps 
+                            to remove performance bottlenecks, achieve 99.9% uptime, and lower your cloud computing costs
                         </p>
 
                     </div>
@@ -882,12 +878,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            Cloud Infrastructure Management
                         </h3>
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            We configure, monitor, and optimize the components of your cloud infrastructure, setting up DevOps, DevSecOps, and Infrastructure as Code practices to ensure optimal usage of cloud resources and high software performance with no downtime
                         </p>
 
                     </div>
@@ -896,28 +890,31 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Cloud Application Development
                         </h3>
                         <p class="sec-2-device-p">
-                            Our back-end developers build the best-customized functionality while making sure your web
-                            solution works flawlessly behind the scenes
+                            We are well-versed in working with AWS, Microsoft Azure, Google Cloud, and other cloud platforms and are ready to use our knowledge to implement a resilient and high-performing cloud app of any kind — from a mobile app back end to a complex AI-powered system
                         </p>
 
                     </div>
                 </div>
-
+                <section class="banner-btn">
+                    <button class="tt-banner-btn">Let's talk</button>
+                    <img src="{{asset('img/SVG.svg')}}" alt="">
+                </section>
             </div>
     </section>
 
 
     <section class="mb-container sec-3">
         <div class="delievery-industry-spec">
-            <h2> <span class="mb-orange">Our six-pillar approach
+            <h2> <span class="mb-orange">Expert consulting on cloud-native
                 </span><br>
-                to SaaS software development
+                and cloud-agnostic solutions
             </h2>
             <p>
-                We build impactful SaaS applications using our road-tested six-pillar approach:
+                We consult on and build IaaS, PaaS, and SaaS solutions to let you capture the cloud value with the most fitting implementation. To balance technology, risks, and costs, while keeping your business goals in focus,
+                 our cloud computing consultants orchestrate multiple deployment models.
 
             </p>
         </div>
@@ -958,10 +955,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. External services integration
+                            Public
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex integrations with external services based on your growth metrics.
+                            Provide easily accessible cloud computing consulting and implementation services and launch scalable solutions without infrastructure provisioning and maintenance headache
                         </p>
 
                     </div>
@@ -969,10 +966,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. Scalability on demand
+                            Distributed cloud
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development project so that your app is able to adapt as you evolve.
+                            Target location-dependent use cases, eliminate latency issues, and massively reduce the risk of downtime
 
                         </p>
 
@@ -983,10 +980,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            5. Security audit
+                            Hybrid
                         </h3>
                         <p class="sec-2-device-p">
-                            We test your system thoroughly before deployment to ensure that all stored data is well-protected and compliant with standards like GDPR or HIPAA.
+                            Achieve great agility and reliability in handling data and resources, balancing the advantages of on- and off-premises deployment
                         </p>
 
                     </div>
@@ -994,7 +991,7 @@ position: static !important;
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Discuss my cloud project</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -1007,12 +1004,11 @@ position: static !important;
 
         <section class="mb-container sec-3">
         <div class="delievery-industry-spec">
-            <h2> <span class="mb-orange">Our six-pillar approach
-                </span><br>
-                to SaaS software development
+            <h2> <span class="mb-orange">Every aspect of cloud adoption,
+                taken care of
             </h2>
             <p>
-                We build impactful SaaS applications using our road-tested six-pillar approach:
+                From analyzing your business needs and providing cloud strategy consulting all the way to employee training, we dedicate to proactively delivering quality service throughout cooperation. Our business analysts work hand in hand with solution architects to make your cloud adoption and usage journey as smooth as possible.
 
             </p>
         </div>
@@ -1030,46 +1026,39 @@ position: static !important;
 .</p>
                 </div>
 
-                <button class="accordion">02- Digital Transformation</button>
+                <button class="accordion">Planning</button>
                 <div class="panel">
-                    <p>Achieve lower costs, utmost scalability and maximum velocity with our legacy software
-                        modernization, cloud, and DevOps services. Our enterprise software development company is here
-                        to help you remove the roadblocks to innovation.</p>
+                    <p>
+                        Our solution architects and engineers design a future-proof, secure, and compliant cloud architecture, choose an optimal tech stack,
+                         and come up with a detailed cloud adoption plan in line with your business objectives</p>
                 </div>
 
-                <button class="accordion">03- Software Engineering</button>
+                <button class="accordion">Development and deployment</button>
                 <div class="panel">
-                    <p>Build enterprise software solutions that perform. We can cover you along the whole way or fill in
-                        specific skill gaps in business analysis, UX/UI, testing, development, or support across web,
-                        mobile, desktop, cloud, and embedded platforms.</p>
+                    <p>We oversee cloud deployment or, if needed, 
+                        implement your cloud infrastructure, setting up best
+                         practices to speed up and even automate the development process</p>
                 </div>
 
-                <button class="accordion">04- Big Data & Analytics</button>
+                <button class="accordion">Optimization</button>
 
                 <div class="panel">
-                    <p>Use your torrents of data to drive decision-making across the company. From Data Governance &
-                        Data Management to Data Analytics and Data Science, we make business, not IT, own your data.</p>
+                    <p>
+                        If you already have a cloud environment in place and seek to optimize resource consumption, improve compliance or cut operating costs, we can do that for you, providing cloud infrastructure consulting and optimization</p>
                 </div>
 
-                <button class="accordion">05- Artificial Intelligence</button>
+                <button class="accordion">Ongoing support</button>
 
                 <div class="panel">
-                    <p>Implement AI to beat real-world business challenges and meet your KPIs, getting beyond the hype.
-                        From ML, NLP, and Computer Vision to integration of AI technologies for Intelligent Automation,
-                        we’ve done it all for our delighted clients.</p>
+                    <p>
+                        We will track and optimize cloud resource usage and spend, extend your cloud services portfolio, perform compliance checks, and provide employee trainings to keep your cloud workflows swift, secure, and aligned with your business processes</p>
                 </div>
 
-                <button class="accordion">06- Extended Reality</button>
-
-                <div class="panel">
-                    <p>Deliver immersive experiences through AR, VR, or MR to create new products, boost productivity,
-                        or launch into the metaverse. XR solutions help you bypass distance challenges and be innovative
-                        for real.</p>
-                </div>
+                
 
                 <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                         <span class="button__wrap"><span class="button__inner_wrap">
-                                <b class="button__inner_text">Discuss my project</b>
+                                <b class="button__inner_text">Talk to a cloud expert</b>
                             </span>
                             <span class="button__arrow">
                                 <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
@@ -1095,12 +1084,12 @@ position: static !important;
 
         <section class="mb-container sec-3">
         <div class="delievery-industry-spec">
-            <h2> <span class="mb-orange">Our six-pillar approach
+            <h2> <span class="mb-orange">Cloud computing consulting with SSED
                 </span><br>
-                to SaaS software development
+                our value proposition
             </h2>
             <p>
-                We build impactful SaaS applications using our road-tested six-pillar approach:
+                Our mission as a cloud consulting firm is to help you undergo digital transformation with reasonable effort and little to no risk. Our cloud consulting services are dedicated to making your cloud infrastructure drive tangible business value, not costs.
 
             </p>
         </div>
@@ -1115,40 +1104,40 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        UX/UI Design
+                        Scalability from day one
                         </h3>
                         <p class="sec-2-device-p">
-                        We leverage best practices of user-centric design to translate vision into the responsiveness, interactivity, ease of use, and grace of your web solution
+                            A cloud infrastructure that will scale flexibly along with your business for unstoppable growth
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Front-end Development
+                        Built-in security
                         </h3>
                         <p class="sec-2-device-p">
-                        Highly proficient in modern frameworks like Angular, React, or Vue we create user experiences that captivate and engage users
+                        Advanced security tools and best practices of cloud security consulting for utmost data protection
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Back-end Development
+                        Compliance with industry-specific standards
                         </h3>
                         <p class="sec-2-device-p">
-                        Our back-end developers build the best-customized functionality while making sure your web solution works flawlessly behind the scenes
+                        Comprehensive compliance controls for HIPAA, PCI-DSS, GDPR, and other standards
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                        <h3 class="sec-2-device">
-                       API Integration
+                        Room for innovation
                        </h3>
                        <p class="sec-2-device-p">
-                       To save you time building essential functionality from scratch, we connect 3rd party services through APIs, from marketing to payment or geolocation
+                        A perfect environment for deploying AI, ML, IoT, and other next-gen solutions
                        </p>
                        
                    </div>
@@ -1157,7 +1146,7 @@ position: static !important;
             </div>
                
             <section class="banner-btn mb-mt-50">
-                    <button class="tt-banner-btn">Discuss your Web Development needs</button>
+                    <button class="tt-banner-btn">Discuss my cloud strategy</button>
                     <img src=" {{asset('img/SVG.svg') }}" alt="">
                 </section>
         </section>
@@ -1172,17 +1161,17 @@ position: static !important;
         <section class="mb-sec-2 mb-mt-50">
             <div class="mb-sec-2-inner">
             <h1 style="text-align: left;" class="top_section__head_index">
-                    <span style="color: #d95b28;">Why work with ITRex?</span>
+                    <span style="color: #d95b28;">Why work with SSED?</span>
                 </h1>
 
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Private cloud
+                        Vendor-agnostic
                         </h3>
                         <p class="sec-2-device-p">
-                        Securely govern sensitive data, keep your operations under control, and enjoy wider opportunities for customization
+                            We are not tied to any specific cloud platform provider, so we only resort to those cloud tools and technologies that are a perfect fit for your project and workflows.
 
                         </p>
 
@@ -1191,10 +1180,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Multicloud
+                        Top cloud architects with niche skills
                     </h3>
                         <p class="sec-2-device-p">
-                        Avoid vendor lock-in and take advantage of best-of-breed cloud solutions to expand your service portfolio and business reach
+                            With a 300-strong team, we bring in professional BAs, skilled cloud solution architects and DevOps engineers, as well as R&D department to fill any talent gaps.
                         </p>
 
                     </div>
@@ -1204,10 +1193,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. External services integration
+                            Proven track record
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex integrations with external services based on your growth metrics.
+                            We’ve successfully completed 600+ projects and served 200+ satisfied customers across the globe
                         </p>
 
                     </div>
@@ -1215,10 +1204,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. Scalability on demand
+                            Scalability on demand
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development project so that your app is able to adapt as you evolve.
+                            We take scalability into account from the beginning of your development project so that your app is able to adapt as you evolve.
 
                         </p>
 
@@ -1227,39 +1216,12 @@ position: static !important;
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Get started with cloud computing</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
 
         </section>
-
-
-
-
-
-    
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
