@@ -5,9 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Dedicated Development Team Services &mdash; SSEDLAB</title>
-    <script src="https://code.jquery.com/jquery-3.7.1.js"
-        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <title>QA & Software Testing Services &mdash; SSEDLAB</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
     <link rel="apple-touch-icon" sizes="180x180" href=" {{asset('i/apple-touch-icon.png') }}">
     <link rel="icon" type="image/png" sizes="32x32" href=" {{asset('i/favicon-32x32.png') }}">
@@ -15,8 +14,7 @@
     <link rel="manifest" href=" {{asset('i/site.webmanifest') }}">
     <link rel="mask-icon" href=" {{asset('i/safari-pinned-tab.svg') }}" color="#000">
     <link rel="shortcut icon" href=" {{asset('i/favicon.ico') }}">
-    <meta name="description"
-        content="Winfinity offers high-end, innovative, and regulated solutions for iGaming industry, providing premium quality content and products.">
+    <meta name="description"content="Winfinity offers high-end, innovative, and regulated solutions for iGaming industry, providing premium quality content and products.">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-config" content=" {{asset('i/browserconfig.xml') }}">
     <meta name="theme-color" content="#ffffff">
@@ -97,7 +95,7 @@
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Hire skilled developers</button>
+                        <button class="tt-banner-btn">Contact us</button>
                         <img src="{{asset('img/SVG.svg') }}" alt="">
                     </section>
 
@@ -125,7 +123,7 @@
                             <img class="m-auto" src="{{asset('img/soft-services/Featured icon.png') }}" alt="">
                         </div>
                         <h3 class="ss-servies-box-heading">
-                            Technology Consulting & Audits
+                            QA Consulting
                         </h3>
                     </div>
                     <div class="col4 pr48">
@@ -134,7 +132,7 @@
                             <img class="m-auto" src="{{asset('img/soft-services/Featured icon.png') }}" alt="">
                         </div>
                         <h3 class="ss-servies-box-heading">
-                            Software Development
+                            Manual Testing
                         </h3>
                     </div>
                     <div class="col4">
@@ -143,7 +141,7 @@
                             <img class="m-auto" src="{{asset('img/soft-services/Featured icon.png') }}" alt="">
                         </div>
                         <h3 class="ss-servies-box-heading">
-                            Solution Architecture
+                            Automation Testing
                         </h3>
                     </div>
                     <div class="col4 pr48">
@@ -152,14 +150,14 @@
                             <img class="m-auto" src="{{asset('img/soft-services/Featured icon.png') }}" alt="">
                         </div>
                         <h3 class="ss-servies-box-heading">
-                            Application Modernization
+                            Consulting testing
                         </h3>
                     </div>
                 </div>
 
 
                 <section class="banner-btn pt64">
-                    <button class="tt-banner-btn">Discuss your software engineering needs</button>
+                    <button class="tt-banner-btn">Contact us</button>
                     <img src="{{asset('img/SVG.svg') }}" alt="">
                 </section>
             </div>
@@ -170,25 +168,15 @@
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Get the benefits of working
+                <h2> <span class="mb-orange">All types of software testing services
                     </span><br>
-                    with a dedicated team
+                    at any development phase
                 </h2>
                 <p>
-                    With a “hungry for challenges” mentality, we root for your product’s success.
-                    Dedicated development teams from ITRex make you feel like you’ve worked with them for ages. You get
-                    motivated specialists
-                    that integrate quickly, bring in fresh ideas, and deliver excellent outcomes — at speed and with
-                    in-house-like devotion.
-
-
+                    We provide quality assurance services and test every functional aspect of your product to ensure it performs as intended. Also, we will help you polish your software by checking its non-functional parameters, from reliability to usability and so on.
                 </p>
             </div>
         </section>
-
-
-
-
 
         <!-- UI and UX section -->
 
@@ -199,33 +187,30 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            UX/UI Design
+                            Functional testing
                         </h3>
                         <p class="sec-2-device-p">
-                            We leverage best practices of user-centric design to translate vision into the
-                            responsiveness, interactivity, ease of use, and grace of your web solution
+                            Smoke testing | Regression testing | Unit testing | Sanity testing | Integration testing | System testing
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Front-end Development
+                            Performance testing
                         </h3>
                         <p class="sec-2-device-p">
-                            Highly proficient in modern frameworks like Angular, React, or Vue we create user
-                            experiences that captivate and engage users
+                            Load testing | Stress testing | Scalability testing | Stability testing | Volume testing | Configuration testing
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Back-end Development
+                            End-to-end testing
                         </h3>
                         <p class="sec-2-device-p">
-                            Our back-end developers build the best-customized functionality while making sure your web
-                            solution works flawlessly behind the scenes
+                            Validating an app’s business logic from start to finish under production-like conditionss
                         </p>
 
                     </div>
@@ -238,33 +223,30 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            API Integration
+                            Compatibility testing
                         </h3>
                         <p class="sec-2-device-p">
-                            To save you time building essential functionality from scratch, we connect 3rd party
-                            services through APIs, from marketing to payment or geolocation
+                            Cross-platform | Cross-browser
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Web Development Consulting
+                            Security testing
                         </h3>
                         <p class="sec-2-device-p">
-                            With our seasoned consultants who can guide you through every step of your web development
-                            journey, you navigate tech complexities safely
+                            Vulnerability assessment | Penetration testing | Security code review | Compliance testing
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Support & Maintenance
+                            Usability testing
                         </h3>
                         <p class="sec-2-device-p">
-                            As part of our custom web development services, we provide 24/7 infrastructure monitoring,
-                            problem resolution, updates, custom redesign, and more
+                            Usability testing | UX audit
                         </p>
 
                     </div>
@@ -272,23 +254,19 @@
             </div>
             <br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Discuss your Web Development needs</button>
+                <button class="tt-banner-btn">Contact us</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Get the benefits of working
+                <h2> <span class="mb-orange">Software QA services
                     </span><br>
-                    with a dedicated team
+                    for any system and platform
                 </h2>
                 <p>
-                    With a “hungry for challenges” mentality, we root for your product’s success.
-                    Dedicated development teams from ITRex make you feel like you’ve worked with them for ages. You get
-                    motivated specialists
-                    that integrate quickly, bring in fresh ideas, and deliver excellent outcomes — at speed and with
-                    in-house-like devotion.
+                    No matter the platform, our QA engineers will make sure that your tech solution works with no surprises in all environments, providing a delightful user experience.
 
 
                 </p>
@@ -310,7 +288,7 @@
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">Software Engineers</b>
+                                        <b class="optimize-route-planning">Web</b>
                                 </div>
                             </div>
                         </div>
@@ -321,7 +299,7 @@
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        <b class="optimize-route-planning">CTOs</b>
+                                        <b class="optimize-route-planning">Enterprise Applications</b>
                                 </div>
                             </div>
                         </div>
@@ -336,7 +314,7 @@
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Software Architects
+                                    <b class="optimize-route-planning">Mobile
                                     </b>
                             </div>
                         </div>
@@ -348,7 +326,7 @@
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Data Engineers</b>
+                                    <b class="optimize-route-planning">Ecommerce Solutions</b>
                             </div>
                         </div>
                     </div>
@@ -362,7 +340,7 @@
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Integration Engineers</b>
+                                    <b class="optimize-route-planning">Desktop</b>
                             </div>
                         </div>
                     </div>
@@ -373,31 +351,7 @@
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Data Architects</b>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="divlanding-list-list">
-                <div class="divlanding-list-col">
-                    <div class="divlanding-list-item">
-                        <div class="divlanding-list-item-icon"></div>
-                        <div class="divlanding-list-item-text">
-                            <div class="optimize-route-planning-container">
-                                <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">DevOps Engineers</b>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="divlanding-list-col">
-                    <div class="divlanding-list-item">
-                        <div class="divlanding-list-item-icon"></div>
-                        <div class="divlanding-list-item-text">
-                            <div class="optimize-route-planning-container">
-                                <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Data Scientists</b>
+                                    <b class="optimize-route-planning">Data Warehouses,BI</b>
                             </div>
                         </div>
                     </div>
@@ -410,7 +364,31 @@
                         <div class="divlanding-list-item-text">
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
-                                    <b class="optimize-route-planning">Support Engineers</b>
+                                    <b class="optimize-route-planning">Cloud</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">APIs and Microservices</b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="divlanding-list-list">
+                <div class="divlanding-list-col">
+                    <div class="divlanding-list-item">
+                        <div class="divlanding-list-item-icon"></div>
+                        <div class="divlanding-list-item-text">
+                            <div class="optimize-route-planning-container">
+                                <p class="optimize-route-planning-to-red">
+                                    <b class="optimize-route-planning">IoT</b>
                             </div>
                         </div>
                     </div>
@@ -422,7 +400,7 @@
                             <div class="optimize-route-planning-container">
                                 <p class="optimize-route-planning-to-red">
                                     <b class="optimize-route-planning">
-                                        BI Engineers</b>
+                                        And more</b>
                             </div>
                         </div>
                     </div>
@@ -439,16 +417,12 @@
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Get the benefits of working
+                <h2> <span class="mb-orange">Our QA tools
                     </span><br>
-                    with a dedicated team
+                    and technologies
                 </h2>
                 <p>
-                    With a “hungry for challenges” mentality, we root for your product’s success.
-                    Dedicated development teams from ITRex make you feel like you’ve worked with them for ages. You get
-                    motivated specialists
-                    that integrate quickly, bring in fresh ideas, and deliver excellent outcomes — at speed and with
-                    in-house-like devotion.
+                    At SSED, we have the skills and experience to select a powerful combination of tools and frameworks to provide quality assurance services that will work best for your project.
 
 
                 </p>
@@ -460,42 +434,42 @@
             </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/boltshift.png') }}">
+                    <img src=" {{asset('img/logos/a.jpg') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/lightbox.png') }}">
+                    <img src=" {{asset('img/logos/b.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/feather-dev.png') }}">
+                    <img src=" {{asset('img/logos/c.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/spher-rule.png') }}">
+                    <img src=" {{asset('img/logos/d.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/glo-bank.png') }}">
+                    <img src=" {{asset('img/logos/e.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/n.png') }}">
+                    <img src=" {{asset('img/logos/f.png') }}">
                 </div>
             </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/boltshift.png') }}">
+                    <img src=" {{asset('img/logos/g.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/lightbox.png') }}">
+                    <img src=" {{asset('img/logos/h.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/feather-dev.png') }}">
+                    <img src=" {{asset('img/logos/i.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/spher-rule.png') }}">
+                    <img src=" {{asset('img/logos/j.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/glo-bank.png') }}">
+                    <img src=" {{asset('img/logos/k.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/n.png') }}">
+                    <img src=" {{asset('img/logos/l.png') }}">
                 </div>
             </div>
 
@@ -504,82 +478,82 @@
             </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/boltshift.png') }}">
+                    <img src=" {{asset('img/logos/m.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/lightbox.png') }}">
+                    <img src=" {{asset('img/logos/n.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/feather-dev.png') }}">
+                    <img src=" {{asset('img/logos/o.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/spher-rule.png') }}">
+                    <img src=" {{asset('img/logos/p.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/glo-bank.png') }}">
+                    <img src=" {{asset('img/logos/q.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/n.png') }}">
-                </div>
-            </div>
-            <div class="mb-flex">
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/boltshift.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/lightbox.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/feather-dev.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/spher-rule.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/glo-bank.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/n.png') }}">
+                    <img src=" {{asset('img/logos/r.png') }}">
                 </div>
             </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/boltshift.png') }}">
+                    <img src=" {{asset('img/logos/s.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/lightbox.png') }}">
+                    <img src=" {{asset('img/logos/t.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/feather-dev.png') }}">
+                    <img src=" {{asset('img/logos/u.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/spher-rule.png') }}">
+                    <img src=" {{asset('img/logos/v.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/glo-bank.png') }}">
+                    <img src=" {{asset('img/logos/w.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/n.png') }}">
+                    <img src=" {{asset('img/logos/x.png') }}">
                 </div>
             </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/boltshift.png') }}">
+                    <img src=" {{asset('img/logos/y.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/lightbox.png') }}">
+                    <img src=" {{asset('img/logos/z.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/feather-dev.png') }}">
+                    <img src=" {{asset('img/logos/aa.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/spher-rule.png') }}">
+                    <img src=" {{asset('img/logos/bb.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/glo-bank.png') }}">
+                    <img src=" {{asset('img/logos/cc.png') }}">
                 </div>
                 <div class="mb-logo-list">
-                    <img src=" {{asset('img/n.png') }}">
+                    <img src=" {{asset('img/logos/dd.png') }}">
+                </div>
+            </div>
+            <div class="mb-flex">
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/logos/ee.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/logos/ff.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/logos/g.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/logos/h.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/logos/ii.png') }}">
+                </div>
+                <div class="mb-logo-list">
+                    <img src=" {{asset('img/logos/jj.png') }}">
                 </div>
             </div>
 
@@ -589,16 +563,12 @@
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Get the benefits of working
+                <h2> <span class="mb-orange">Smart QA
                     </span><br>
-                    with a dedicated team
+                    processes
                 </h2>
                 <p>
-                    With a “hungry for challenges” mentality, we root for your product’s success.
-                    Dedicated development teams from ITRex make you feel like you’ve worked with them for ages. You get
-                    motivated specialists
-                    that integrate quickly, bring in fresh ideas, and deliver excellent outcomes — at speed and with
-                    in-house-like devotion.
+                    We use consistent methodology and proven approaches in building robust testing processes while being flexible to respond to your unique needs and provide best quality testing services possible.
 
 
                 </p>
@@ -639,7 +609,7 @@
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>Turnkey Projects</div>
+                    <div>Discovery</div>
                 </button>
                 <button class="mb-tablinks mb-button" onclick="openCity(event, 'Paris')">
                     <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
@@ -672,7 +642,7 @@
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>Dedicated Terms</div>
+                    <div>Planning</div>
                 </button>
                 <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyo')">
                     <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
@@ -691,7 +661,7 @@
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>IT staff addition</div>
+                    <div>Execution</div>
     
                 </button>
                 <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyoo')">
@@ -711,7 +681,7 @@
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>IT staff addition</div>
+                    <div>Support</div>
     
                 </button>
             </div>
@@ -719,41 +689,31 @@
     
             <div id="London" class="mb-tabcontent" style="display:block;">
                 <p>
-                    One way to avail of our software engineering services is to explore our turnkey product development model,
-                     which is based on the time and materials (T&M) approach. We’ll exercise full control over the development process and deliver working software (or pieces thereof!) at regular intervals, freeing up your time for strategic work.
-                     Expert knowledge, extensive reporting, transparent pricing, and customer centricity guaranteed.
+                    In-depth audit and needs analysis
                 </p>
             </div>
     
             <div id="Paris" class="mb-tabcontent">
                 <p>
-                    SSED Group also provides end-to-end software product engineering services. We’ll dive into your project
-                     requirements, come up with a technology vision and estimates, assemble a winning team that will dedicate 100%
-                      of their time to your project,
-                     and deliver a software solution while keeping you informed and fully in charge of the development process.
+                    Test plan creation and resource planning
                 </p>
             </div>
     
             <div id="Tokyo" class="mb-tabcontent">
                 <p>
-                    Your in-house IT team lacks skilled Kotlin developers? Need a couple Node.js programmers
-                     to create dynamic dashboards for an industrial IoT solution? Or is it a virtual CTO that
-                      you’re after? Our IT engineering services specialists will augment your team, adopt your methodologies and tools,
-                     and help you build quality products — on time, on budget, and up to spec.
+                    Plan execution, risk management and reporting
                 </p>
             </div>
 
             <div id="Tokyoo" class="mb-tabcontent">
                 <p>
-                    Your in-house IT team lacks skilled Kotlin developers? Need a couple Node.js programmers
-                     to create dynamic das will augment your team, adopt your methodologies and tools,
-                     and help you build quality products — on time, on budget, and up to spec.
+                    Documentation and result analysis
                 </p>
             </div>
             
             <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                                 <span class="button__wrap"><span class="button__inner_wrap">
-                                        <b class="button__inner_text">Let's discuss our partnership</b>
+                                        <b class="button__inner_text">Contact us</b>
                                     </span>
                                     <span class="button__arrow">
                                         <svg class="alternative_solution" viewBox="0 0 1000 1000"
@@ -780,16 +740,12 @@
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Get the benefits of working
+                <h2> <span class="mb-orange">Flexible QA
                     </span><br>
-                    with a dedicated team
+                    engagement models
                 </h2>
                 <p>
-                    With a “hungry for challenges” mentality, we root for your product’s success.
-                    Dedicated development teams from ITRex make you feel like you’ve worked with them for ages. You get
-                    motivated specialists
-                    that integrate quickly, bring in fresh ideas, and deliver excellent outcomes — at speed and with
-                    in-house-like devotion.
+                    We serve clients using different engagement models depending on their project needs and priorities. Together we discuss the details and come up with the solution balancing cost efficiency, performance and flexibility best.
 
 
                 </p>
@@ -798,16 +754,16 @@
 
 
 
-        <section class="mb-sec-2 mb-container">
+        <section class="mb-sec-2">
             <div class="mb-sec-2-inner">
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Cloud Adoption and Migration
+                            Team augmentation
                         </h3>
                         <p class="sec-2-device-p">
-                            Our vetted cloud solutions consultants dive in your tech infrastructure and study your needs to help you adopt the best-fit cloud migration strategy. We re-platform and modernize your apps and put APIs in place to integrate the newly migrated applications with enterprise software at minimal risks
+                            Our experienced QA engineers and testers will help you fill skills gaps on your project in a cost-efficient manner, integrating smoothly into your team and delivering fast.
                         </p>
 
                     </div>
@@ -816,11 +772,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Cloud optimization
+                            On-demand testing
                         </h3>
                         <p class="sec-2-device-p">
-                            We analyze your cloud infrastructure, detect under- and over-provisioned instances and idle resources, and identify security gaps 
-                            to remove performance bottlenecks, achieve 99.9% uptime, and lower your cloud computing costs
+                            We can step in at any stagе of software delivery, according to your schedule and as needed, to focus narrowly on specific features or user paths.
                         </p>
 
                     </div>
@@ -830,10 +785,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Cloud Infrastructure Management
+                            Testing as a servicet
                         </h3>
                         <p class="sec-2-device-p">
-                            We configure, monitor, and optimize the components of your cloud infrastructure, setting up DevOps, DevSecOps, and Infrastructure as Code practices to ensure optimal usage of cloud resources and high software performance with no downtime
+                            As a managed service provider, we can unburden your development team, assuming full responsibility for your product and process quality. We will look after your entire test project using robust QA processes and SLA-powered KPIs.
                         </p>
 
                     </div>
@@ -842,10 +797,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Cloud Application Development
+                            Strategic consultancy
                         </h3>
                         <p class="sec-2-device-p">
-                            We are well-versed in working with AWS, Microsoft Azure, Google Cloud, and other cloud platforms and are ready to use our knowledge to implement a resilient and high-performing cloud app of any kind — from a mobile app back end to a complex AI-powered system
+                            Team up with our software QA consultants to identify bottlenecks in current operations, build a solid QA strategy, optimize efforts and costs, and increase the efficiency of your testing processes.
                         </p>
 
                     </div>
@@ -897,7 +852,7 @@
                             3+
                         </h3>
                         <p class="mb-counter-text">
-                            years of an ongoing collaboration with clients on average
+                            years of an ongoing collaboration
                         </p>
                     </div>
                     <div class="mb-counter">
@@ -905,7 +860,7 @@
                             350+
                         </h3>
                         <p class="mb-counter-text">
-                            top-tier software development experts
+                            top-tier software
                         </p>
                     </div>
                     <div class="mb-counter">
