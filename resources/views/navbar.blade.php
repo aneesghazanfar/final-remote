@@ -10,7 +10,7 @@
                             <ul class="header__menu">
                                 <li class="dropdown" ><a class="header__menu_item" href="#"><span>Solutions</span></a>
                                     <ul class="parent">
-                                        <li class="child dropdown" ><a class="header__menu_item" href="#"><span>Data</span></a>
+                                        <li class="child dropdown" ><a class="header__menu_item" href="#"><span class="mobile-li">Data</span></a>
                                             <!-- <ul class="sub__parent">
                                                 <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Analytics</span></a></li>
                                                 <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Architecture</span></a></li>
@@ -25,7 +25,7 @@
                                                 <li class="sub__child"><a class="header__menu_item" href="#"><span>Enterprise Data Platform</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#"><span>Artificial Intelligence</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="#"><span class='mobile-li'>Artificial Intelligence</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>AI for Education</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>AI for Healthcate</span></a></li>
@@ -39,24 +39,24 @@
                                                 <li><a class="header__menu_item" href="#"><span>NLP</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#"><span>Automation</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="#"><span class='mobile-li'>Automation</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>RPA</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#"><span>Blockchain</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="#"><span class='mobile-li'>Blockchain</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>Smart Contract</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#"><span>Extended Reality</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="#"><span class='mobile-li'>Extended Reality</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>Augmented Reality</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>Virtual Reality</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>Metaverse</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#"><span>Internet of Things</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="#"><span class='mobile-li'>Internet of Things</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>Embedded Software</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>Industrial IoT</span></a></li>
@@ -93,7 +93,7 @@
                                                 <li><a href="#">Node.js Development</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="./qa_&_testing">QA &amp; Testing</a>
+                                        <li class="child" ><a class="header__menu_item" href="#">QA &amp; Testing</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">Automation Testing</a></li>
                                                 <li><a href="#">Manual Testing</a></li>
@@ -101,7 +101,7 @@
                                                 <li><a href="#">Web Testing</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child"><a class="header__menu_item" href="./technology-consulting">Technology Consulting</a>
+                                        <li class="child"><a class="header__menu_item" href="#">Technology Consulting</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">Digital Transformation</a></li>
                                                 <li><a href="#">Legacy Software Modernization</a></li>
@@ -182,7 +182,7 @@
                             </div>
                             <div class="header__sing_in">
                                 <a class="header__sing_in_item" href="contact.php">
-                                    <span>CONTACT US</span>
+                                    <span class="contact_us_text">CONTACT US</span>
                                 </a>
                             </div>
                             <div class="header__close"><span></span><span></span></div>
