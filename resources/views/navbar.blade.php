@@ -93,7 +93,7 @@
                                                 <li><a href="#">Node.js Development</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#">QA &amp; Testing</a>
+                                        <li class="child" ><a class="header__menu_item" href="./qa_&_testing">QA &amp; Testing</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">Automation Testing</a></li>
                                                 <li><a href="#">Manual Testing</a></li>
@@ -101,7 +101,7 @@
                                                 <li><a href="#">Web Testing</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child"><a class="header__menu_item" href="#">Technology Consulting</a>
+                                        <li class="child"><a class="header__menu_item" href="./technology-consulting">Technology Consulting</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">Digital Transformation</a></li>
                                                 <li><a href="#">Legacy Software Modernization</a></li>

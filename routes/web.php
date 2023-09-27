@@ -52,3 +52,15 @@ Route::get('/cloud_dev', function () {
 Route::get('/dedicated_team', function () {
     return view('dedicated_team');
 });
+
+Route::get('/qa_&_testing', function () {
+    return view('qa_&_testing');
+});
+
+Route::get('/technology-consulting', function () {
+    return view('technology-consulting');
+});
+
+Route::get('/android-app-development', function () {
+    return view('android-app-development');
+});

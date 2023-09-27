@@ -35,26 +35,33 @@
         @include('navbar')
 
         
-            <div class="banner-img-back">
+        
+
+
+
+            <div class="top_section-1 vis_on_scroll ">
+            <div class="top_section vis_on_scroll banner-img-web">
                 <div class="container">
                     <h1 class="banner-main-heading">
-                        Expert back-end
+                    Expert back-end
                         development
                         services
                     </h1>
                     <p class="tt-banner-para">
-                        Join forces with our back-end development services company to create tech products that scale
+                    Join forces with our back-end development services company to create tech products that scale
                         rapidly, perform well, and keep your employees and customers happy
                     </p>
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn"> Hire back-end </button>
-                        <img src="{{ asset('/img/SVG.svg') }}" alt="">
+                        <button class="tt-banner-btn">Hire back-end</button>
+                        <img src=" {{asset('img/SVG.svg') }}" alt="">
                     </section>
 
                 </div>
             </div>
+        </div>
+
 
 
         <!-- second Sections is here -->
