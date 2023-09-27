@@ -546,7 +546,8 @@
         <section class="banner-btn">
             <button class="tt-banner-btn">Start my android project</button>
             <img src=" {{asset('img/SVG.svg') }}" alt="">
-        </section>
+            </section>
+            </section>
     <section class="mb-container sec-3">
 
         <div class="mb-end-to-end">
