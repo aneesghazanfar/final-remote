@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Custom Web Development Services &mdash; SSEDLAB</title>
+    <title>Software & Technology Consulting Services &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
     <link rel="apple-touch-icon" sizes="180x180" href=" {{asset('i/apple-touch-icon.png') }}">
@@ -45,7 +45,7 @@ services                    </h1>
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Discuss your Web Development needs</button>
+                        <button class="tt-banner-btn">Talk to tech consultants</button>
                         <img src=" {{asset('img/SVG.svg') }}" alt="">
                     </section>
 
@@ -62,49 +62,48 @@ services                    </h1>
 
         <section class="mb-sec-2">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">OUR CUSTOM WEB DEVELOPMENT SERVICES HELP YOU
-BREAK AWAY FROM THE ORDINARY</h2>
+                <h2 class="mb-text-white">Our technology consulting services</h2>
                 <p>
-                Building successful web solutions since 2009, we have the expertise to build something great for you, too. Whatever your challenge is, there would be few things in the web development world that we haven’t worked with. Tap our custom web development services to create seamless web experiences that captivate. Our SSEDLAB team delivers:
+                    Tech-driven transformation is up and will surely be running further. With technology moving forward ever faster, it takes a new approach to managing enterprise IT — the one focused on crafting resilient, scalable ecosystems that drive business growth. To help you ride the crest of transformation, we offer tech guidance embodied in a range of software consulting services:
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Progressive Web Apps
+                        R&D and POC Implementation
                         </h3>
                         <p class="sec-2-device-p">
-                        Build a lightweight and platform-agnostic PWA in its latest iteration or revamp your existing web app into a PWA for impressive performance
+                            Our technology consultants create, research, and prototype ideas to validate new technologies, products, and services in a lean way so that you can get user feedback early on and scale the winning solution rapidly
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Accelerated Mobile Pages
+                        Software Architecture and Design
                         </h3>
                         <p class="sec-2-device-p">
-                        Strip your web pages down to the basics so that they load superfast, delivering an unmatched user experience and improving your site visibility
+                            We design resilient, flexible, and scalable software architectures and select the optimal tech stacks to bring them to reality while keeping your strategic vision, business objectives, and available resources in mind.
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Single-page Applications
+                        Software Modernization & Re-engineering
                         </h3>
                         <p class="sec-2-device-p">
-                        Dynamically updating content with no page refreshing, SPAs are a superb way to provide a faster and simple experience to users. Build your SPA with us
+                            With our technology consulting services, you can pivot to new technology rapidly and at minimal risks while getting the most out of your legacy systems and fully capitalizing on your tech investments
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Serverless architecture
+                        Software and Technology Audit
                         </h3>
                         <p class="sec-2-device-p">
-                        Get excellent scalability, improve your web app performance, and cut project costs by placing the underlying infrastructure in the cloud
+                            We examine enterprise solutions and perform technical due diligence for startups, assessing software code quality, business logic, and tech stack and revealing all the potential risks
                         </p>
                         
                     </div>
@@ -113,54 +112,57 @@ BREAK AWAY FROM THE ORDINARY</h2>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Progressive Web Apps
+                        Virtual Tech Leadership
                         </h3>
                         <p class="sec-2-device-p">
-                        Build a lightweight and platform-agnostic PWA in its latest iteration or revamp your existing web app into a PWA for impressive performance
+                        In the era of remote work, it takes strong leadership and first-rate tech skills to build apt tech teams. We provide technical direction via virtual CTO services and assemble ace development teams, managing the quality of deliverables and resolving technical disagreements
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Accelerated Mobile Pages
+                        Emerging Technology Consulting
                         </h3>
                         <p class="sec-2-device-p">
-                        Strip your web pages down to the basics so that they load superfast, delivering an unmatched user experience and improving your site visibility
+                        We help you turn technology innovations into market-ready products and solutions that increase operational efficiency and maximize profits. So you can make the most of big data, artificial intelligence, the internet of things, and intelligent automation
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Single-page Applications
+                        Сloud Consulting
                         </h3>
                         <p class="sec-2-device-p">
-                        Dynamically updating content with no page refreshing, SPAs are a superb way to provide a faster and simple experience to users. Build your SPA with us
+                            We resolve any issues — from designing the best-fit cloud adoption strategy to overseeing the cloud infrastructure to optimizing resource utilization, achieving greater uptime, establishing firmer cloud security practices, or transitioning to DevOps.
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Serverless architecture
+                        Tech ROI
                         </h3>
                         <p class="sec-2-device-p">
-                        Get excellent scalability, improve your web app performance, and cut project costs by placing the underlying infrastructure in the cloud
+                        We evaluate software and tools available on the market to recommend solutions and technologies that guarantee fast ROI and help maximize and maintain the value from technology investments
                         </p>
                         
                     </div>
                 </div>
                
             </div>
+            <br><br>
+            <section class="banner-btn">
+                <button class="tt-banner-btn">Talk to tech consultants</button>
+                <img src=" {{asset('img/SVG.svg') }}" alt="">
+            </section>
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> CUSTOM <span class="mb-orange">WEB APP DEVELOPMENT</span> SERVICES
-TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
-                    Web app solutions</h2>
+                <h2>  <span class="mb-orange">Technology consulting,</span> delivered neatly <br></h2>
                 <p>
-                As a top-tier provider of custom web application development services to enterprises, SSEDLAB can fulfill any of your digital needs, whatever your industry is. Create your innovative and high-performing web application using the right front and back-end technology to get results quickly. Our web apps deliver the utmost usability, scalability, and cross-browser compatibility, along with a competitive edge to drive your growth.
+                    Whether supporting your IT strategically or catering for a specific area of concern, we dedicate to proactively delivering quality technology consulting services throughout our cooperation. We take you through a series of steps to push your enterprise forward with tech.
                 </p>
             </div>
         </section>
@@ -199,7 +201,7 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>Turnkey Projects</div>
+                    <div>Discovery</div>
                 </button>
                 <button class="mb-tablinks mb-button" onclick="openCity(event, 'Paris')">
                     <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
@@ -232,7 +234,7 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>Dedicated Terms</div>
+                    <div>Design</div>
                 </button>
                 <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyo')">
                     <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
@@ -251,7 +253,7 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>IT staff addition</div>
+                    <div>Planning</div>
     
                 </button>
                 <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyoo')">
@@ -271,7 +273,7 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>IT staff addition</div>
+                    <div>Implementation</div>
     
                 </button>
             </div>
@@ -279,41 +281,31 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
     
             <div id="London" class="mb-tabcontent" style="display:block;">
                 <p>
-                    One way to avail of our software engineering services is to explore our turnkey product development model,
-                     which is based on the time and materials (T&M) approach. We’ll exercise full control over the development process and deliver working software (or pieces thereof!) at regular intervals, freeing up your time for strategic work.
-                     Expert knowledge, extensive reporting, transparent pricing, and customer centricity guaranteed.
+                We kick off our technology consulting engagement with a series of interviews to deep dive into your business, examine the existing tech infrastructure, clarify your business objectives, draw up a shared understanding of what needs to be done, and ensure all further efforts are headed in the right direction.
                 </p>
             </div>
     
             <div id="Paris" class="mb-tabcontent">
                 <p>
-                    SSED Group also provides end-to-end software product engineering services. We’ll dive into your project
-                     requirements, come up with a technology vision and estimates, assemble a winning team that will dedicate 100%
-                      of their time to your project,
-                     and deliver a software solution while keeping you informed and fully in charge of the development process.
+                As the next step, we design a solution architecture that perfectly meets your technical and business requirements and matches industry standards and best practices, as well as select the optimal tech stack to bring it to life.
                 </p>
             </div>
     
             <div id="Tokyo" class="mb-tabcontent">
                 <p>
-                    Your in-house IT team lacks skilled Kotlin developers? Need a couple Node.js programmers
-                     to create dynamic dashboards for an industrial IoT solution? Or is it a virtual CTO that
-                      you’re after? Our IT engineering services specialists will augment your team, adopt your methodologies and tools,
-                     and help you build quality products — on time, on budget, and up to spec.
+                We translate the vision for the designed architecture into a project plan with deliverables, milestones, processes, and team roles clearly outlined.
                 </p>
             </div>
 
             <div id="Tokyoo" class="mb-tabcontent">
                 <p>
-                    Your in-house IT team lacks skilled Kotlin developers? Need a couple Node.js programmers
-                     to create dynamic das will augment your team, adopt your methodologies and tools,
-                     and help you build quality products — on time, on budget, and up to spec.
+                As part of our technology consulting services, we can oversee the implementation process or run it ourselves, taking on technological governance and ensuring the designed architecture turns into a viable, working software ecosystem.
                 </p>
             </div>
             
             <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                                 <span class="button__wrap"><span class="button__inner_wrap">
-                                        <b class="button__inner_text">Let's discuss our partnership</b>
+                                        <b class="button__inner_text">Go for pro technology consulting</b>
                                     </span>
                                     <span class="button__arrow">
                                         <svg class="alternative_solution" viewBox="0 0 1000 1000"
@@ -337,11 +329,9 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> CUSTOM <span class="mb-orange">WEB APP DEVELOPMENT</span> SERVICES
-TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
-                    Web app solutions</h2>
+                <h2> CUSTOM <span class="mb-orange">Industry-wide</span> technology expertise</h2>
                 <p>
-                As a top-tier provider of custom web application development services to enterprises, SSEDLAB can fulfill any of your digital needs, whatever your industry is. Create your innovative and high-performing web application using the right front and back-end technology to get results quickly. Our web apps deliver the utmost usability, scalability, and cross-browser compatibility, along with a competitive edge to drive your growth.
+                    With a decade of experience delivering technology consulting services to companies operating in many sectors, we know industry-specific challenges and requirements very well. So you only get recommendations that unfailingly drive change in your business setting.
                 </p>
             </div>
         </section>
@@ -365,7 +355,7 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                             </defs>
                         </svg>
                     </div>
-                    <div class="mb-icon-text-col mb-icon-text-right">Healthcare</div>
+                    <div class="mb-icon-text-col mb-icon-text-right">Healthcare & Biotech</div>
                 </div>
                 <div class="mb-icon-text-row">
                     <div class="mb-icon-text-col">
@@ -382,7 +372,7 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                             </defs>
                         </svg>
                     </div>
-                    <div class="mb-icon-text-col mb-icon-text-right">Ecommerce</div>
+                    <div class="mb-icon-text-col mb-icon-text-right">Education & Elearning</div>
                 </div>
 
             </div>
@@ -402,7 +392,7 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                             </defs>
                         </svg>
                     </div>
-                    <div class="mb-icon-text-col mb-icon-text-right">Education</div>
+                    <div class="mb-icon-text-col mb-icon-text-right">Retail & Ecommerce</div>
                 </div>
                 <div class="mb-icon-text-row">
                     <div class="mb-icon-text-col">
@@ -425,7 +415,7 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
         </div>
         <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                             <span class="button__wrap"><span class="button__inner_wrap">
-                                    <b class="button__inner_text">Contact Us</b>
+                                    <b class="button__inner_text">Book a call with tech consultants</b>
                                 </span>
                                 <span class="button__arrow">
                                     <svg class="alternative_solution" viewBox="0 0 1000 1000"
@@ -449,32 +439,24 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
 
     <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> CUSTOM <span class="mb-orange">WEB APP DEVELOPMENT</span> SERVICES
-TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
-                    Web app solutions</h2>
+                <h2> CUSTOM <span class="mb-orange">What makes SSED a trusted</span> technology consulting vendor</h2>
                 <p>
-                As a top-tier provider of custom web application development services to enterprises, SSEDLAB can fulfill any of your digital needs, whatever your industry is. Create your innovative and high-performing web application using the right front and back-end technology to get results quickly. Our web apps deliver the utmost usability, scalability, and cross-browser compatibility, along with a competitive edge to drive your growth.
+                    We are not only a software development consultant but a strategic partner, too. We delve deep into your business and apply our technical know-how, experience, and fresh ideas to help you advance in the current digital-first environment
                 </p>
             </div>
         </section>
 
 
-
-
-
         <section class="mb-sec-2 mb-container">
             <div class="mb-sec-2-inner">
-                    <p>
-                        Building successful web solutions since 2009, we have the expertise to build something great for you, too. Whatever your challenge is, there would be few things in the web development world that we haven’t worked with. Tap our custom web development services to create seamless web experiences that captivate. Our SSEDLAB team delivers:
-                        </p>
                         <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Cloud Adoption and Migration
+                        We have experience.
                         </h3>
                         <p class="sec-2-device-p">
-                            Our vetted cloud solutions consultants dive in your tech infrastructure and study your needs to help you adopt the best-fit cloud migration strategy. We re-platform and modernize your apps and put APIs in place to integrate the newly migrated applications with enterprise software at minimal risks
+                        We’ve got 13+ years of experience providing software consulting and development services and have successfully delivered 600+ products to 200+ happy customers around the globe.
                         </p>
 
                     </div>
@@ -483,11 +465,10 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Cloud optimization
+                        We care about your business. 
                         </h3>
                         <p class="sec-2-device-p">
-                            We analyze your cloud infrastructure, detect under- and over-provisioned instances and idle resources, and identify security gaps 
-                            to remove performance bottlenecks, achieve 99.9% uptime, and lower your cloud computing costs
+                        We delve into your business and thoroughly analyze your tech infrastructure to extend your legacy investments and make the most of new ones.
                         </p>
 
                     </div>
@@ -497,10 +478,10 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Cloud Infrastructure Management
+                        We are vendor-agnostic.
                         </h3>
                         <p class="sec-2-device-p">
-                            We configure, monitor, and optimize the components of your cloud infrastructure, setting up DevOps, DevSecOps, and Infrastructure as Code practices to ensure optimal usage of cloud resources and high software performance with no downtime
+                            We are not tied to any vendor, so we only recommend technologies and solutions that work best for you and generate the fastest ROI.
                         </p>
 
                     </div>
@@ -509,16 +490,16 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Cloud Application Development
+                        We know emerging tech.
                         </h3>
                         <p class="sec-2-device-p">
-                            We are well-versed in working with AWS, Microsoft Azure, Google Cloud, and other cloud platforms and are ready to use our knowledge to implement a resilient and high-performing cloud app of any kind — from a mobile app back end to a complex AI-powered system
+                        We know modern technologies through and through and continuously monitor industry trends to help you outrun the competition.
                         </p>
 
                     </div>
                 </div>
                 <section class="banner-btn">
-                    <button class="tt-banner-btn">Let's talk</button>
+                    <button class="tt-banner-btn">Go for software consulting now</button>
                     <img src="{{asset('img/SVG.svg')}}" alt="">
                 </section>
             </div>
@@ -527,7 +508,7 @@ TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
 
 
     <section class="mb-sec-2 mb-mt-50">
-            <div class="mb-logo-title"> <b>Join 4,000+ companies already growing</b> </div>
+            <div class="mb-logo-title"> <b>Our Clients</b> </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
                     <img src=" {{asset('img/boltshift.png') }}">
