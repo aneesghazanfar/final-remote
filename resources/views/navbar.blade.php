@@ -1,4 +1,4 @@
-            <div class="header">
+<div class="header">
                 <div class="container">
                     <div class="header__wrap">
                         <a class="header__logo header__logo--mobile" href="/">
@@ -154,6 +154,7 @@
                                     </li>
                                 <li><a class="header__menu_item" href="#"><span>Our Thinking</span></a></li>
                                 <li><a class="header__menu_item" href="#"><span>Case Studies</span></a></li>
+                                <li><a class="header__menu_item" href="#"><span>Contacts US</span></a></li>
                             </ul>
                             <div class="header__socials">
                                 <a class="header__social_item" href="#" target="_blank">
@@ -179,11 +180,10 @@
                                 <a class="header__mini_link" href="#">
                                     <span>TERMS AND CONDITIONS</span>
                                 </a>
+                                
                             </div>
                             <div class="header__sing_in">
-                                <a class="header__sing_in_item" href="contact.php">
-                                    <span class="contact_us_text">CONTACT US</span>
-                                </a>
+                              
                             </div>
                             <div class="header__close"><span></span><span></span></div>
                         </div>

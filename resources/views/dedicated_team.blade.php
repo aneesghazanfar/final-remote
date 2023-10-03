@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Dedicated Development Team Services &mdash; SSEDLAB</title>
+    <title>Dedicated Development Team Services &mdash;   SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -467,7 +467,7 @@ position: static !important;
                 </h2>
                 <p>
                     With a “hungry for challenges” mentality, we root for your product’s success.
-                     Dedicated development teams from ITRex make you feel like you’ve worked with them for ages. You get motivated specialists
+                     Dedicated development teams from  SSEDLAB make you feel like you’ve worked with them for ages. You get motivated specialists
                      that integrate quickly, bring in fresh ideas, and deliver excellent outcomes — at speed and with in-house-like devotion.
 
 

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Enterprise Software Development Company With An Innovation Mindset &mdash; SSEDLAB</title>
+    <title>Enterprise Software Development Company With An Innovation Mindset &mdash;   SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -31,10 +31,6 @@
             style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="body-wrap-1">
-        <?php
-        // require 'shared/_navbar.php';
-        // navBar();
-        ?>
         @include('navbar')
 
         <div class="top_section-1 vis_on_scroll ">
@@ -48,8 +44,8 @@
                         Next-gen enterprise
                     </h1>
                     <h1 class="banner-main-heading-2">
-                    software development company
-        </h1>
+                        software development company
+                    </h1>
 
 
                     <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
@@ -370,8 +366,7 @@
                             <b class="button__inner_text">Contact Us</b>
                         </span>
                         <span class="button__arrow">
-                            <svg class="alternative_solution" viewBox="0 0 1000 1000" 
-                            preserveAspectRatio="none">
+                            <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
                                 <foreignobject class="foreignobject" width="1000" height="1000">
                                     <span class="foreignobject"></span>
                                 </foreignobject>
@@ -399,7 +394,7 @@
                     <h2>How we collaborate with you</h2>
                 </div>
                 <div class="l-cards-1">
-                    <div>   
+                    <div>
                         <div class="card-img">
                             <img width="137px" src="{{asset('img/collaborate1.png') }}">
                         </div>
@@ -478,8 +473,8 @@
                 </div>
                 <div class="swiper-slide"><img src="{{asset('img/04-support-ukraine-1024x681_1024x680.jpg') }}"
                         alt="Swiper">
-                    <h3 class="slider-heading">ITRex launches two more initiatives to help Ukrainians</h3>
-                    <p class="slider-paragraph">Learn how ITRex continues to provide much-needed assistance to
+                    <h3 class="slider-heading">SSEDLAB launches two more initiatives to help Ukrainians</h3>
+                    <p class="slider-paragraph">Learn how  SSEDLAB continues to provide much-needed assistance to
                         Ukranians
                         living in crisis since Russia began its invasion.</p>
                 </div>

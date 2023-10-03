@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Back-End Development Services&mdash; SSEDLAB</title>
+    <title>Back-End Development Services&mdash;   SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
         <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -98,7 +98,7 @@
                         <p class="sec-2-device-p">
                             As part of our back-end web development services, we build applications from the ground up
                             or assist our clients’ front-end teams on a dedicated team or pay-as-you-go basis. Hire
-                            back-end developers at ITRex if you need a customer-facing portal, sleek e-commerce website,
+                            back-end developers at  SSEDLAB if you need a customer-facing portal, sleek e-commerce website,
                             or enterprise-grade web application!
                         </p>
 
@@ -467,7 +467,7 @@
                 <span class="mb-orange"> <br> with our custom web development services</span>
             </h2>
             <p>
-                Our mission is to take business like yours to the top. That’s why ITRex is more than just a professional
+                Our mission is to take business like yours to the top. That’s why  SSEDLAB is more than just a professional
                 provider of custom web development services. Innovators at heart, we help you turn the latest tech
                 innovations into exceptional business value. We help you outrun the competition.
             </p>
@@ -605,12 +605,12 @@
     </section>
 
 
-    <!-- How itrex make diff sec -->
+    <!-- How  SSEDLAB make diff sec -->
 
 
     <section class="mb-container sec-3">
         <div class="delievery-industry-spec-2">
-            <h2> How ITRex
+            <h2> How  SSEDLAB
 
 
                 <span class="mb-orange"> <br>makes a difference</span>

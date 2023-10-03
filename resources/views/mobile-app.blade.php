@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-        <title>Mobile Application Development Services &mdash; SSEDLAB</title>
+        <title>Mobile Application Development Services &mdash;   SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
     <link rel="apple-touch-icon" sizes="180x180" href=" {{asset('i/apple-touch-icon.png') }}">
@@ -482,7 +482,7 @@
             <h2> <span class="mb-orange">Delivering</span> industry-specific <br>
                 mobile app solutions</h2>
             <p>
-                With a deep understanding of industry-specific challenges and requirements, the SSEDLAB app development
+                With a deep understanding of industry-specific challenges and requirements, the   SSEDLAB app development
                 company delivers products tailored to your needs. Whether you are a startup aiming to disrupt the market
                 or an enterprise looking to improve employee productivity, obtain valuable data insights or build a
                 loyal customer base, we are ready to take on the challenge.

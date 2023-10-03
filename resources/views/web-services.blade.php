@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Custom Web Development Services &mdash; SSEDLAB</title>
+    <title>Custom Web Development Services &mdash;   SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
     <link rel="apple-touch-icon" sizes="180x180" href=" {{asset('i/apple-touch-icon.png') }}">
@@ -39,7 +39,7 @@
                     CUSTOM WEB DEVELOPMENT SERVICES
                     </h1>
                     <p class="tt-banner-para">
-                    Make a unique impact online now to grow business with end-to-end custom web development services from SSEDLAB
+                    Make a unique impact online now to grow business with end-to-end custom web development services from   SSEDLAB
                     </p>
 
 
@@ -61,7 +61,7 @@
                 <h2 class="mb-text-white">OUR CUSTOM WEB DEVELOPMENT SERVICES HELP YOU
 BREAK AWAY FROM THE ORDINARY</h2>
                 <p>
-                Building successful web solutions since 2009, we have the expertise to build something great for you, too. Whatever your challenge is, there would be few things in the web development world that we haven’t worked with. Tap our custom web development services to create seamless web experiences that captivate. Our SSEDLAB team delivers:
+                Building successful web solutions since 2009, we have the expertise to build something great for you, too. Whatever your challenge is, there would be few things in the web development world that we haven’t worked with. Tap our custom web development services to create seamless web experiences that captivate. Our   SSEDLAB team delivers:
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
@@ -156,7 +156,7 @@ COVERED ― BY EXPERTS <br>
 TO LAUNCH BUSINESS TO THE NEXT LEVEL <br>
                     Web app solutions</h2>
                 <p>
-                As a top-tier provider of custom web application development services to enterprises, SSEDLAB can fulfill any of your digital needs, whatever your industry is. Create your innovative and high-performing web application using the right front and back-end technology to get results quickly. Our web apps deliver the utmost usability, scalability, and cross-browser compatibility, along with a competitive edge to drive your growth.
+                As a top-tier provider of custom web application development services to enterprises,   SSEDLAB can fulfill any of your digital needs, whatever your industry is. Create your innovative and high-performing web application using the right front and back-end technology to get results quickly. Our web apps deliver the utmost usability, scalability, and cross-browser compatibility, along with a competitive edge to drive your growth.
                 </p>
             </div>
         </section>
@@ -432,7 +432,7 @@ COVERED ― BY EXPERTS</h2>
                 <h2>  Tap into new trends
 <span class="mb-orange"> <br> with our custom web development services</span> </h2>
                 <p>
-                Our mission is to take business like yours to the top. That’s why ITRex is more than just a professional provider of custom web development services. Innovators at heart, we help you turn the latest tech innovations into exceptional business value. We help you outrun the competition.
+                Our mission is to take business like yours to the top. That’s why  SSEDLAB is more than just a professional provider of custom web development services. Innovators at heart, we help you turn the latest tech innovations into exceptional business value. We help you outrun the competition.
                 </p>
             </div>
         </section>
@@ -565,12 +565,12 @@ COVERED ― BY EXPERTS</h2>
         </section>
 
 
-<!-- How itrex make diff sec -->
+<!-- How  SSEDLAB make diff sec -->
 
 
 <section class="mb-container sec-3">
             <div class="delievery-industry-spec-2">
-                <h2> How ITRex
+                <h2> How  SSEDLAB
 
 
 <span class="mb-orange"> <br>makes a difference</span> </h2>
