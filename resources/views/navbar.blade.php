@@ -44,7 +44,7 @@
                                                 <li><a class="header__menu_item" href="#"><span>RPA</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#"><span class='mobile-li'>Blockchain</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="./blockchain"><span class='mobile-li'>Blockchain</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>Smart Contract</span></a></li>
                                             </ul> -->
@@ -68,10 +68,10 @@
                                 <li class="dropdown"><a class="header__menu_item" href="./soft-services"><span>Services</span></a>
                                     <ul class="parent">
                                         <li class="child"><a class="header__menu_item" href="./mobile">Mobile</a>
+                                        <li class="child"  ><a class="header__menu_item" href="./ios-app-development">iOS</a></li>
+                                        <li  class="child" ><a class="header__menu_item" href="./android-app-development">Android</a></li>
+                                        <li class="child"  ><a class="header__menu_item" href="./cross-platfrom-app-development">Cross-Platform</a></li>
                                             <!-- <ul class="">
-                                                <li ><a href="#">Android</a></li>
-                                                <li ><a href="#">iOS</a></li>
-                                                <li ><a href="#">Cross-Platform</a></li>
                                             </ul> -->
                                         </li>
                                         <li class="child" ><a class="header__menu_item" href="./web">Web</a></li>

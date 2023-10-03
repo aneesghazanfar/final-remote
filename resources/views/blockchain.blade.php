@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Artificial Intelligence (AI) Consulting &amp; Development Services &mdash; SSEDLAB</title>
+    <title>Blockchain Development Services and Solutions &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -34,20 +34,18 @@
             <div class="top_section vis_on_scroll banner-img-web">
                 <div class="container">
                     <h1 class="banner-main-heading">
-                        AI consulting &
+                        Blockchain
                         development
                         services
                     </h1>
                     <p class="tt-banner-para">
-                        From image analysis and human activity recognition to semantic search and manual task
-                        automation, we provide AI consulting services and develop custom artificial intelligence
-                        solutions that give you a competitive edge
-
+                        Enjoy maximum transparency and never-failing security of data and transactions with our
+                        blockchain development services
                     </p>
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Talk to our AI developers</button>
+                        <button class="tt-banner-btn">Discuss your Web Development needs</button>
                         <img src=" {{asset('img/SVG.svg') }}" alt="">
                     </section>
 
@@ -56,645 +54,193 @@
         </div>
 
 
-        <!-- second Sections is here -->
+        <section class="mb-sec-2 mb-mt-50">
+            <div class="accordian-container">
 
-        <section class="mb-sec-2">
-            <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">AI consulting and development company with extensive know-how</h2>
+                <!-- <h1>How we can help you</h1> -->
+                <h1 style="text-align: left;" class="top_section__head_index">
+                    <span style="color: #d95b28;">Full-scale blockchain development
+                    </span>
+                </h1>
                 <p>
-                    An artificial intelligence consulting and development company with over a decade of experience, we will help you harness machine learning algorithms and the latest artificial intelligence tools and technologies for exponential growth.
+                    We offer a range of blockchain development services to power enterprises with decentralized networks
+                    and apps and transform how they handle data and transactions. We will lead you throughout the
+                    blockchain implementation journey — from ideation to implementation while taking accountability for
+                    the transparency, security, and efficiency of developed ecosystems.
 
                 </p>
-                <div class="mb-row mb-sec-2-2">
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/ML.svg') }}" alt="">
+                <br><br>
 
-                        <h3 class="sec-2-device">
-                            Machine Learning
-                        </h3>
-                        <p>
-                            Applying our expertise in supervised, unsupervised, and reinforcement machine learning, we build smart systems that make best decisions with little to no human help.
-
-                        </p>
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/eye.svg') }}" alt="">
-                        <h3 class="sec-2-device">
-                           Deep learning
-                        </h3>
-                        <p>
-                            Utilizing the power of multi-layered neural networks, we architect AI business solutions that mimic — and even outperform — human intelligence.
-
-                        </p>
-
-
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/bar.svg') }}" alt="">
-
-                        <h3 class="sec-2-device">
-                            Natural Language Processing
-                        </h3>
-                        <p>
-                            We build real-time speech recognition and conversational AI software solutions that drive user experience way forward.
-
-                        </p>
-
-
-                    </div>
-                </div>
-                <div class="mb-row mb-sec-2-2">
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/ML.svg') }}" alt="">
-
-                        <h3 class="sec-2-device">
-                            Computer Vision
-                        </h3>
-                        <p>
-                            From biometric authentication to CCTV monitoring and live video analysis, we develop AI solutions that accurately recognize and interpret visual information.
-                        </p>
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/eye.svg') }}" alt="">
-                        <h3 class="sec-2-device">
-                            Generative AI
-                        </h3>
-                        <p>
-                            From crafting catchy texts to creating compelling visuals and writing code, we build generative AI solutions that let you unleash creativity, spark automation, and redefine content creation.
-
-                        </p>
-
-
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/bar.svg') }}" alt="">
-
-                        <h3 class="sec-2-device">
-                            Robotics
-                        </h3>
-                        <p>
-                            Marrying cutting-edge technology with human-like precision, we build software components of robotic solutions that propel operations and redefine efficiency, from intricate assembly lines and beyond.
-                        </p>
-
-
-                    </div>
+                <button class="accordion">01- Innovation Consulting</button>
+                <div class="panel">
+                    <p>Make your digital transformation journey super simple, safe, and aligned with your specific
+                        business needs. We're good at strategy planning for both enterprises and SMBs, IT audit,
+                        business process analysis, and more.</p>
                 </div>
 
+                <button class="accordion">02- Digital Transformation</button>
+                <div class="panel">
+                    <p>Achieve lower costs, utmost scalability and maximum velocity with our legacy software
+                        modernization, cloud, and DevOps services. Our enterprise software development company is here
+                        to help you remove the roadblocks to innovation.</p>
+                </div>
+
+                <button class="accordion">03- Software Engineering</button>
+                <div class="panel">
+                    <p>Build enterprise software solutions that perform. We can cover you along the whole way or fill in
+                        specific skill gaps in business analysis, UX/UI, testing, development, or support across web,
+                        mobile, desktop, cloud, and embedded platforms.</p>
+                </div>
+
+                <button class="accordion">04- Big Data & Analytics</button>
+
+                <div class="panel">
+                    <p>Use your torrents of data to drive decision-making across the company. From Data Governance &
+                        Data Management to Data Analytics and Data Science, we make business, not IT, own your data.</p>
+                </div>
+
+                <button class="accordion">05- Artificial Intelligence</button>
+
+                <div class="panel">
+                    <p>Implement AI to beat real-world business challenges and meet your KPIs, getting beyond the hype.
+                        From ML, NLP, and Computer Vision to integration of AI technologies for Intelligent Automation,
+                        we’ve done it all for our delighted clients.</p>
+                </div>
+
+                <button class="accordion">06- Extended Reality</button>
+
+                <div class="panel">
+                    <p>Deliver immersive experiences through AR, VR, or MR to create new products, boost productivity,
+                        or launch into the metaverse. XR solutions help you bypass distance challenges and be innovative
+                        for real.</p>
+                </div>
+                <button class="accordion">06- Extended Reality</button>
+
+                <div class="panel">
+                    <p>Deliver immersive experiences through AR, VR, or MR to create new products, boost productivity,
+                        or launch into the metaverse. XR solutions help you bypass distance challenges and be innovative
+                        for real.</p>
+                </div>
+
+                <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
+                        <span class="button__wrap"><span class="button__inner_wrap">
+                                <b class="button__inner_text">Discuss my project</b>
+                            </span>
+                            <span class="button__arrow">
+                                <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+                                    <foreignobject class="foreignobject" width="1000" height="1000">
+                                        <span class="foreignobject"></span>
+                                    </foreignobject>
+                                </svg>
+                                <span class="button__arrow_svg">
+                                    <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
+                                        <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
+                                    </svg>
+                                </span>
+                            </span>
+                        </span>
+                    </a>
+                </div>
             </div>
-            <br><br><br>
-            <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Discuss your AI concept</button>
-                <img src=" {{asset('img/SVG.svg') }}" alt="">
-            </section>
         </section>
-
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Our AI solutions
-                    <span class="mb-orange"> <br>in focus</span>
+                <h2> Unleashing the value of
+                    <span class="mb-orange"> <br>blockchain across industries</span>
 
                 </h2>
                 <p>
-                    As an artificial intelligence consulting company, we are confident that AI has limitless potential to transform your business. Explore a variety of AI use cases that highlight our capabilities and demonstrate the technology's potential. From improving operations to boosting your profits, our customized AI services guarantee real growth and unmatched success.
-
-
+                    A blockchain development company with a decade of experience delivering software solutions to
+                    enterprises from across sectors, we stay on top of your challenges and needs. We will bring the
+                    power of distributed systems to your business, helping you battle operational inefficiencies,
+                    improve the traceability of data and assets, and level up the security of your corporate ecosystem
+                    with industry-specific blockchain services.
                 </p>
             </div>
         </section>
 
-        <br><br><br>
-
-        <section class="mb-sec-2">
+        <section class="mb-sec-2 mb-container">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">AI solutions to analyze and understand the physical world</h2>
+               
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/ML.svg') }}" alt="">
-
+                       
                         <h3 class="sec-2-device">
-                            Manual task automation
+                        UX/UI Design
                         </h3>
-                        <p>
-                            Optical character recognition and data capturing solutions for extracting information from any documents to eliminate manual processes
-
+                        <p class="sec-2-device-p">
+                        We leverage best practices of user-centric design to translate vision into the responsiveness, interactivity, ease of use, and grace of your web solution
                         </p>
+                        
                     </div>
                     <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/eye.svg') }}" alt="">
+
                         <h3 class="sec-2-device">
-                            Facial recognition
+                        Front-end Development
                         </h3>
-                        <p>
-                            Person identification based on live captures and digital images for biometric authentication, access control, and other security purposes
-
+                        <p class="sec-2-device-p">
+                        Highly proficient in modern frameworks like Angular, React, or Vue we create user experiences that captivate and engage users
                         </p>
-
-
+                        
                     </div>
                     <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/bar.svg') }}" alt="">
-
+                       
                         <h3 class="sec-2-device">
-                            Image data labelling
+                        Back-end Development
                         </h3>
-                        <p>
-                            Deep learning models that automatically identify and tag people and objects in pictures and videos
-
+                        <p class="sec-2-device-p">
+                        Our back-end developers build the best-customized functionality while making sure your web solution works flawlessly behind the scenes
                         </p>
-
-
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/ML.svg') }}" alt="">
-
-                        <h3 class="sec-2-device">
-                            Human activity recognition
-                        </h3>
-                        <p>
-                            Intelligent models for human posture recognition used in sports training, surveillance, healthcare, and more
-                        </p>
+                        
                     </div>
                 </div>
                 
-
             </div>
-            <br><br><br>
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">Making business sense of your data for any user,
-                    anytime, anywhere</h2>
+               
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/ML.svg') }}" alt="">
-
+                       
                         <h3 class="sec-2-device">
-                            Speech recognition
+                        API Integration
                         </h3>
-                        <p>
-                            Real-time speech processing and voice interfaces to automate routine tasks and take user experience to the next level
+                        <p class="sec-2-device-p">
+                        To save you time building essential functionality from scratch, we connect 3rd party services through APIs, from marketing to payment or geolocation
                         </p>
+                        
                     </div>
                     <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/ML.svg') }}" alt="">
 
                         <h3 class="sec-2-device">
-                            Semantic search
+                        Web Development Consulting
                         </h3>
-                        <p>
-                            Advanced, NLP-powered algorithms to dig up search results that match a user’s intent best
+                        <p class="sec-2-device-p">
+                        With our seasoned consultants who can guide you through every step of your web development journey, you navigate tech complexities safely
                         </p>
+                        
                     </div>
                     <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/eye.svg') }}" alt="">
+                       
                         <h3 class="sec-2-device">
-                            Text classification
+                        Support & Maintenance
                         </h3>
-                        <p>
-                            NLP-powered categorization of emails, posts, and other textual information for sentiment analysis, topic labeling, and spam detection
-
+                        <p class="sec-2-device-p">
+                        As part of our custom web development services, we provide 24/7 infrastructure monitoring, problem resolution, updates, custom redesign, and more
                         </p>
-
-
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/bar.svg') }}" alt="">
-
-                        <h3 class="sec-2-device">
-                            Emotion recognition
-                        </h3>
-                        <p>
-                            Analyzing images and videos to detect and recognize emotions and better understand your customers’ response to your products and services
-
-                        </p>
-
-
-
+                        
                     </div>
                 </div>
-
             </div>
-            <br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Let's build your AI solution</button>
-                <img src=" {{asset('img/SVG.svg') }}" alt="">
-            </section>
+                    <button class="tt-banner-btn">Discuss your Web Development needs</button>
+                    <img src=" {{asset('img/SVG.svg') }}" alt="">
+                </section>
         </section>
-        <section class="mb-container sec-3">
-            <div class="delievery-industry-spec">
-                <h2> AI consulting and development services
-                    <span class="mb-orange"> <br>for your industry
-                    </span>
-
-                </h2>
-                <p>
-                    Using our knowledge of industry-specific business processes and challenges, we tailor our artificial intelligence solutions to your particular needs. Whether you want to automate back-office operations, boost customer experience, improve security, or launch a truly innovative software product, our AI consultants and developers are up for the challenge.
-
-                </p>
-            </div>
-        </section>
-
-        <br><br><br>
-
-        <section class="mb-sec-2">
-
-            <div class="mb-sec-2-inner">
-                <div class="mb-row mb-sec-2-2">
-
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/ML.svg') }}" alt="">
-
-                        <h3 class="sec-2-device">
-                            Healthcare & Biotech
-                        </h3>
-                        <p>
-                            Improve diagnostics and care delivery, enhance patient-doctor communication, and optimize hospital operations and population health management with AI-powered healthcare solutions
-
-                        </p>
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/eye.svg') }}" alt="">
-                        <h3 class="sec-2-device">
-                            Life Sciences
-                        </h3>
-                        <p>
-                            Facilitate the development of new drugs and drug repurposing, draw insights about drug candidates, targets, and biomarkers, as well as improve clinical trials with our powerful yet intuitive AI solutions
-
-                        </p>
-
-
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/bar.svg') }}" alt="">
-
-                        <h3 class="sec-2-device">
-                            Finance & Banking
-                        </h3>
-                        <p>
-                            Automate banking and financial processes, reduce operational costs, enhance security, and enjoy other benefits of AI in banking and finance
-                        </p>
-
-
-                    </div>
-                </div>
-                <div class="mb-row mb-sec-2-2">
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/ML.svg') }}" alt="">
-
-                        <h3 class="sec-2-device">
-                            Retail & E-commerce
-                        </h3>
-                        <p>
-                            Make faster decisions, enjoy accurate demand forecasting, streamline inventory management, optimize the flow of goods, and better understand your customers with AI for retail
-
-                        </p>
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/eye.svg') }}" alt="">
-                        <h3 class="sec-2-device">
-                            Supply Chain & Logistics
-                        </h3>
-                        <p>
-                            Gain total control over shipments, reduce paperwork, and simplify vendor communication, deliveries, and warehousing operations with AI-enhanced software
-                        </p>
-
-
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/bar.svg') }}" alt="">
-
-                        <h3 class="sec-2-device">
-                            Education & eLearning
-                        </h3>
-                        <p>
-                            Personalize learning programs, produce smart content, automate administrative tasks, and provide access to education for students with special needs with AI in education
-                        </p>
-
-
-                    </div>
-                </div>
-
-            </div>
-            <br><br><br>
-            <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Lets solve your challenges with AI</button>
-                <img src=" {{asset('img/SVG.svg') }}" alt="">
-            </section>
-        </section>
-
-
-
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Our approach to AI software
-                    <span class="mb-orange"> <br>development and consulting</span>
-
-                </h2>
-                <p>
-                    We provide end-to-end artificial intelligence consulting and AI app development services, from preparing data for AI algorithms to rolling out your system to thousands of users. We can also help you customize third-party AI as a Service solutions.
-
-
-                </p>
-            </div>
-        </section>
-
-        <section class="mb-container sec-3 mb-container-padding">
-            <div class="mb-tab">
-                <button class="mb-tablinks mb-button active" onclick="openCity(event, 'London')">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
-                        <g clip-path="url(#clip0_199_5106)">
-                            <path
-                                d="M24.5504 17.0457V10.38L18.7776 7.04688L13.0049 10.38V17.0457L18.7776 20.3788L24.5504 17.0457Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M13.0049 23.714V30.3798L18.7776 33.7123L24.5504 30.3798V23.714L18.7776 20.3809L13.0049 23.714Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M41.8684 7.04688L36.0957 10.38V17.0457L41.8684 20.3788L47.6412 17.0457V10.38L41.8684 7.04688Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M36.0957 23.714V30.3798L41.8684 33.7123L47.6412 30.3798V23.714L41.8684 20.3809L36.0957 23.714Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M36.0953 23.7127V17.047L30.3226 13.7139L24.5498 17.047V23.7127L30.3226 27.0458L36.0953 23.7127Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M36.0953 10.3782V3.71248L30.3226 0.379883L24.5498 3.71248V10.3782L30.3226 13.7113L36.0953 10.3782Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M24.5498 30.3814V37.0476L30.3226 40.3802L36.0953 37.0476V30.3814L30.3226 27.0488L24.5498 30.3814Z"
-                                fill="#FFDB3B" />
-                        </g>
-                        <defs>
-                            <clipPath id="clip0_199_5106">
-                                <rect width="60" height="40" fill="white" transform="translate(0.504883 0.379883)" />
-                            </clipPath>
-                        </defs>
-                    </svg>
-                    <div>Discovery</div>
-                </button>
-                <button class="mb-tablinks mb-button" onclick="openCity(event, 'Paris')">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
-                        <g clip-path="url(#clip0_199_5106)">
-                            <path
-                                d="M24.5504 17.0457V10.38L18.7776 7.04688L13.0049 10.38V17.0457L18.7776 20.3788L24.5504 17.0457Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M13.0049 23.714V30.3798L18.7776 33.7123L24.5504 30.3798V23.714L18.7776 20.3809L13.0049 23.714Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M41.8684 7.04688L36.0957 10.38V17.0457L41.8684 20.3788L47.6412 17.0457V10.38L41.8684 7.04688Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M36.0957 23.714V30.3798L41.8684 33.7123L47.6412 30.3798V23.714L41.8684 20.3809L36.0957 23.714Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M36.0953 23.7127V17.047L30.3226 13.7139L24.5498 17.047V23.7127L30.3226 27.0458L36.0953 23.7127Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M36.0953 10.3782V3.71248L30.3226 0.379883L24.5498 3.71248V10.3782L30.3226 13.7113L36.0953 10.3782Z"
-                                fill="#FFDB3B" />
-                            <path
-                                d="M24.5498 30.3814V37.0476L30.3226 40.3802L36.0953 37.0476V30.3814L30.3226 27.0488L24.5498 30.3814Z"
-                                fill="#FFDB3B" />
-                        </g>
-                        <defs>
-                            <clipPath id="clip0_199_5106">
-                                <rect width="60" height="40" fill="white" transform="translate(0.504883 0.379883)" />
-                            </clipPath>
-                        </defs>
-                    </svg>
-                    <div>Design</div>
-                </button>
-                <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyo')">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
-                        <g clip-path="url(#clip0_199_5126)">
-                            <path
-                                d="M44.2894 13.4954L30.7541 5.67969L17.2188 13.4954V29.1278L30.7541 36.9435L44.2894 29.1278V13.4954ZM19.4737 27.8232V14.8L30.7519 21.3116V34.3347L19.4737 27.8232Z"
-                                fill="#FFDB3B" />
-                            <path d="M10.4951 0.379883V9.21941L19.3346 0.379883H10.4951Z" fill="#FFDB3B" />
-                            <path d="M41.6553 0.379883L50.4953 9.21941V0.379883H41.6553Z" fill="#FFDB3B" />
-                            <path d="M50.4953 40.38V31.54L41.6553 40.38H50.4953Z" fill="#FFDB3B" />
-                            <path d="M10.4951 40.38H19.3346L10.4951 31.54V40.38Z" fill="#FFDB3B" />
-                        </g>
-                        <defs>
-                            <clipPath id="clip0_199_5126">
-                                <rect width="60" height="40" fill="white" transform="translate(0.495117 0.379883)" />
-                            </clipPath>
-                        </defs>
-                    </svg>
-                    <div>POC</div>
-
-                </button>
-                <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyoo')">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
-                        <g clip-path="url(#clip0_199_5126)">
-                            <path
-                                d="M44.2894 13.4954L30.7541 5.67969L17.2188 13.4954V29.1278L30.7541 36.9435L44.2894 29.1278V13.4954ZM19.4737 27.8232V14.8L30.7519 21.3116V34.3347L19.4737 27.8232Z"
-                                fill="#FFDB3B" />
-                            <path d="M10.4951 0.379883V9.21941L19.3346 0.379883H10.4951Z" fill="#FFDB3B" />
-                            <path d="M41.6553 0.379883L50.4953 9.21941V0.379883H41.6553Z" fill="#FFDB3B" />
-                            <path d="M50.4953 40.38V31.54L41.6553 40.38H50.4953Z" fill="#FFDB3B" />
-                            <path d="M10.4951 40.38H19.3346L10.4951 31.54V40.38Z" fill="#FFDB3B" />
-                        </g>
-                        <defs>
-                            <clipPath id="clip0_199_5126">
-                                <rect width="60" height="40" fill="white" transform="translate(0.495117 0.379883)" />
-                            </clipPath>
-                        </defs>
-                    </svg>
-                    <div>Implementation</div>
-
-                </button>
-            </div>
-
-
-            <div id="London" class="mb-tabcontent" style="display:block;">
-                <p>
-                    We take a deep dive into your data, challenges, and IT capabilities to spot new business opportunities, nail down use cases, and map the AI software development journey
-                </p>
-            </div>
-
-            <div id="Paris" class="mb-tabcontent">
-                <p>
-                    Next, we clarify the AI solution’s feature set, design the architecture, and choose the right tools and technologies
-                </p>
-            </div>
-
-            <div id="Tokyo" class="mb-tabcontent">
-                <p>
-                    While developing a Proof of Concept, we train and tune ML models and AI algorithms, continuously testing them for viability
-                </p>
-            </div>
-
-            <div id="Tokyoo" class="mb-tabcontent">
-                <p>
-                    We engineer the application relying on best artificial intelligence development practices, integrate the ML models, and launch your solution into a desired environment
-                </p>
-            </div>
-
-            <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
-                    <span class="button__wrap"><span class="button__inner_wrap">
-                            <b class="button__inner_text">Contact us</b>
-                        </span>
-                        <span class="button__arrow">
-                            <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                                <foreignobject class="foreignobject" width="1000" height="1000">
-                                    <span class="foreignobject"></span>
-                                </foreignobject>
-                            </svg>
-                            <span class="button__arrow_svg">
-                                <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                    <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                                </svg>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-        </section>
-
-        <section class="mb-container sec-3">
-            <div class="delievery-industry-spec-2">
-                <h2> The key pillars of our AI consulting
-                    <span class="mb-orange"> <br> and development services
-                    </span>
-                </h2>
-
-            </div>
-        </section>
-        <section class="mb-sec-2 mb-container">
-            <div class="mb-sec-2-inner">
-
-                <div class="mb-row mb-sec-2-2">
-                    <div class="mb-sec-2-inner-col">
-
-                        <h3 class="sec-2-device">
-                            Data quality
-                        </h3>
-                        <p class="sec-2-device-p">
-                            We carry out thorough data validation and cleansing to make sure insights are derived from high-quality data
-                        </p>
-
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-
-                        <h3 class="sec-2-device">
-                            Explainability
-                        </h3>
-                        <p class="sec-2-device-p">
-                            We employ white-box AI models, so users understand the decision-making process behind AI algorithms
-                        </p>
-
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-
-                        <h3 class="sec-2-device">
-                            Predictable ROI
-                        </h3>
-                        <p class="sec-2-device-p">
-                            We start our AI consulting and development projects with a proof of concept to let you tap into the value of AI without high upfront investments
-                        </p>
-
-                    </div>
-                    <div class="mb-sec-2-inner-col">
-
-                        <h3 class="sec-2-device">
-                            Security
-                        </h3>
-                        <p class="sec-2-device-p">
-                            We put security procedures in place to guarantee your data and infrastructure won’t ever be compromised
-                        </p>
-
-                    </div>
-                </div>
-
-            </div>
-
-            <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Kick off consulting & development</button>
-                <img src=" {{asset('img/SVG.svg') }}" alt="">
-            </section>
-        </section>
-
-
-        <section class="mb-container sec-3">
-            <div class="delievery-industry-spec-2">
-                <h2> AI development
-                    <span class="mb-orange"> <br> tech stack
-                    </span>
-                </h2>
-
-            </div>
-        </section>
-        <section class="mb-sec-2 mb-mt-50">
-            <div class="mb-flex">
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/aws.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/azur.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/caffe.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/Cw.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/GENSIM.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/Java-big-w.png') }}">
-                </div>
-            </div>
-            <div class="mb-flex">
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/keras-bw.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/mxnet-bw-sm.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/OpenCV-bw-big.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/PyTorch.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/r-logo.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/scala-wide.png') }}">
-                </div>
-            </div>
-            <div class="mb-flex">
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/Scikit-w.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/Spacy-w.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/Spark-wide.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/tensorflow-bw.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/new svg/theano.png') }}">
-                </div>
-                <div class="mb-logo-list">
-                    <img src=" {{asset('img/logos/f.png') }}">
-                </div>
-            </div>
-
-
-        </section>
-        <section class="mb-container sec-3">
-            <div class="delievery-industry-spec">
-                <h2> Why work with SSED,
-                    AI development and consulting company?
+                <h2> Our approach
                 </h2>
             </div>
         </section>
@@ -707,10 +253,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Vendor-agnostic.
+                            Vendor-agnostic
                         </h3>
                         <p class="sec-2-device-p">
-                            We aren’t tied to any providers, so we only recommend AI services and technologies that we believe are right for you.
+                            We are not tied to any specific cloud platform provider, so we only resort to those cloud
+                            tools and technologies that are a perfect fit for your project and workflows.
 
                         </p>
 
@@ -719,35 +266,37 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Diverse expertise. 
+                            Top cloud architects with niche skills
                         </h3>
                         <p class="sec-2-device-p">
-                            AI development company with 13+ years’ experience, we worked on hundreds of projects across in industries, from retail and FinTech to healthcare and life sciences, and beyond.
-
+                            With a 300-strong team, we bring in professional BAs, skilled cloud solution architects and
+                            DevOps engineers, as well as R&D department to fill any talent gaps.
                         </p>
 
                     </div>
                 </div>
 
                 <div class="mb-row mb-sec-2-2">
-                    <div class="mb-sec-2-inner-col">
-
-                        <h3 class="sec-2-device">
-                            Top AI developers with niche skills.
-                        </h3>
-                        <p class="sec-2-device-p">
-                            With our 300+ strong team, we can bring in senior analysts, AI consultants, elite developers, and our R&D department when needed.
-                        </p>
-
-                    </div>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
                             Proven track record
                         </h3>
                         <p class="sec-2-device-p">
-                            We’ve successfully completed 600+ projects and served 200+ clients across the globe.
+                            We’ve successfully completed 600+ projects and served 200+ satisfied customers across the
+                            globe
+                        </p>
+
+                    </div>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <div class="mb-sec-2-inner-col">
+
+                        <h3 class="sec-2-device">
+                            Scalability on demand
+                        </h3>
+                        <p class="sec-2-device-p">
+                            We take scalability into account from the beginning of your development project so that your
+                            app is able to adapt as you evolve.
 
                         </p>
 
@@ -756,77 +305,61 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our AI experts</button>
+                <button class="tt-banner-btn">Get started with cloud computing</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
 
         </section>
 
-        <section class="mb-sec-2 mb-mt-50">
-            <div class="accordian-container">
+        <section class="mb-container sec-3">
+            <div class="delievery-industry-spec">
+                <h2> Data consulting & development services
+                    <span class="mb-orange"> <br>to empower your business</span>
 
-                <!-- <h1>How we can help you</h1> -->
-                <h1 style="text-align: left;" class="top_section__head_index">
-                    <span style="color: #d95b28;">FAQ</span>
-                </h1>
-
-                <button class="accordion">1. What makes you stand out in the field of artificial intelligence services and solutions?</button>
-                <div class="panel">
-                    <p>With over a decade of experience providing artificial intelligence consulting services, we've established ourselves as pioneers in the field. Our team of experts combines deep technical knowledge with a comprehensive understanding of diverse industries. This fusion allows us to craft tailor-made AI solutions that align with your unique business needs, driving remarkable outcomes.</p>
-                </div>
-
-                <button class="accordion">2. How can your AI development services benefit my business specifically?</button>
-                <div class="panel">
-                    <p>We don’t preach AI for the sake of innovation. Instead, our AI solutions are crafted to deliver tangible value. Through in-depth analysis and understanding of your business processes, we identify areas where AI can streamline operations, enhance efficiency, and fuel growth. From automating routine tasks to extracting insights from complex data, our solutions are designed to yield measurable results.</p>
-                </div>
-
-                <button class="accordion">3. How do you ensure data security and privacy in AI implementations?</button>
-                <div class="panel">
-                    <p>Data security is paramount in our approach to artificial intelligence development services. We adhere to rigorous industry standards and best practices to safeguard your data at every stage of the AI journey. Our expertise includes implementing robust encryption, access controls, and compliance measures to ensure your sensitive information remains protected.</p>
-                </div>
-
-                <button class="accordion">4. How do you ensure that AI solutions integrate seamlessly into our existing systems?</button>
-
-                <div class="panel">
-                    <p>Our team is skilled in integrative solutions, ensuring that AI seamlessly fits with your existing systems. We conduct thorough assessments of your infrastructure, customizing AI solutions to align with your technology stack. Our goal is to enhance your capabilities without disrupting your established workflows.</p>
-                </div>
-
-                <button class="accordion">5. Can you explain the process of you delivering artificial intelligence development services in simple terms?</button>
-
-                <div class="panel">
-                    <p>Our AI development process involves several stages: understanding your requirements, data collection and preparation, model development and training, rigorous testing, deployment, and continuous monitoring. At each step, our experts communicate and collaborate with your team to ensure alignment and satisfaction.</p>
-                </div>
-
-                <button class="accordion">6. What happens after the AI solution is implemented?</button>
-
-                <div class="panel">
-                    <p>Our partnership doesn't end at implementation. As a part of our AI development services, we provide ongoing support and maintenance to ensure your AI solutions operate seamlessly. Regular updates, performance optimization, and adaptability to changing needs are integral aspects of our commitment to your success.</p>
-                </div>
-                <button class="accordion">7. How do you stay updated with the latest AI advancements?</button>
-
-                <div class="panel">
-                    <p>Our dedication to innovation drives us to stay at the forefront of AI trends. We invest in continuous learning, enabling us to leverage the latest breakthroughs in AI technology and apply them to your projects.</p>
-                </div>
-
-                <button class="accordion">8. How can we get started with implementing AI solutions for our business?</button>
-
-                <div class="panel">
-                    <p>Initiating the journey is simple. Reach out to our team, and we'll begin with a comprehensive consultation to understand your goals and challenges. From there, we'll collaborate to design a custom AI strategy that aligns with your objectives, ensuring that your business evolves with the transformative power of AI.</p>
-                </div>
-                <br>
-                <br>
-                <br>
-
-
-                <section class="banner-btn">
-                    <button class="tt-banner-btn">Talk to our AI developers</button>
-                    <img src=" {{asset('img/SVG.svg') }}" alt="">
-                </section>
+                </h2>
             </div>
         </section>
 
 
+        <section class="mb-sec-2  mb-mt-50">
+            <div class="mb-sec-2-inner">
+               
+                <div class="mb-row mb-sec-2-2">
+                    <div class="mb-sec-2-inner-col">
+                        <h3 class="sec-2-device">
+                        A-class team
+                        </h3>
+                        <p class="sec-2-device-p">
+                        Delivering web solutions across industry verticals since 2009, our team of senior web developers and designers know how to build your project right the first time. With us, you get a deep understanding of your business challenges and unparalleled tech expertise to beat them
+                        </p>
+                        
+                    </div>
+                    <div class="mb-sec-2-inner-col">
+                        <h3 class="sec-2-device">
+                        Fast time-to-value
+                        </h3>
+                        <p class="sec-2-device-p">
+                        Using an agile approach and DevOps best practices, we ship new functionality faster while keeping quality high. Along the way, you stay in the loop as we show results early to adapt to your current vision
+                        </p>
+                        
+                    </div>
+                    <div class="mb-sec-2-inner-col">
+                        <h3 class="sec-2-device">
+                        Deeply customized solutions
+                        </h3>
+                        <p class="sec-2-device-p">
+                        Each and every step of our process in custom web development services is focused on your unique business needs. We get a buzz out of unlocking tech complexities and tailoring a solution that serves your mission best. This is because we are fully engaged in your success
+                        </p>
+                        
+                    </div>
+                </div>
+            </div>
+            <section class="banner-btn mb-mt-50">
+                    <button class="tt-banner-btn">Discuss your web app development </button>
+                    <img src=" {{asset('img/SVG.svg') }}" alt="">
+                </section>
+        </section>
 
 
         <section class="mb-sec-2 mb-mt-50">
@@ -1039,14 +572,26 @@
                     </svg>
                 </div>
             </div>
-            <br>
-            <br>
-            <br>
-
-            <section class="banner-btn">
-                <button class="tt-banner-btn">Talk to our AI developers</button>
-                <img src=" {{asset('img/SVG.svg') }}" alt="">
-            </section>
+            <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
+                    <span class="button__wrap"><span class="button__inner_wrap">
+                            <b class="button__inner_text">Contact Us</b>
+                        </span>
+                        <span class="button__arrow">
+                            <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+                                <foreignobject class="foreignobject" width="1000" height="1000">
+                                    <span class="foreignobject"></span>
+                                </foreignobject>
+                            </svg>
+                            <span class="button__arrow_svg">
+                                <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
+                                    <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
+                                </svg>
+                            </span>
+                        </span>
+                    </span>
+                </a>
+            </div>
     </div>
     </section>
 

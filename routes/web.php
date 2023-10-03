@@ -70,3 +70,15 @@ Route::get('/data', function () {
 Route::get('/ai', function () {
     return view('AI');
 });
+Route::get('/blockchain', function () {
+    return view('blockchain');
+});
+Route::get('/ios-app-development', function () {
+    return view('ios-app-development');
+});
+Route::get('/android-app-development', function () {
+    return view('android-app-development');
+});
+Route::get('/cross-platfrom-app-development', function () {
+    return view('cross-platfrom-app-development');
+});
