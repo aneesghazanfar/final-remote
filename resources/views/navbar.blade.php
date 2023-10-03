@@ -10,7 +10,7 @@
                             <ul class="header__menu">
                                 <li class="dropdown" ><a class="header__menu_item" href="#"><span>Solutions</span></a>
                                     <ul class="parent">
-                                        <li class="child dropdown" ><a class="header__menu_item" href="#"><span class="mobile-li">Data</span></a>
+                                        <li class="child dropdown" ><a class="header__menu_item" href="./data"><span class="mobile-li">Data</span></a>
                                             <!-- <ul class="sub__parent">
                                                 <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Analytics</span></a></li>
                                                 <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Architecture</span></a></li>
@@ -25,7 +25,7 @@
                                                 <li class="sub__child"><a class="header__menu_item" href="#"><span>Enterprise Data Platform</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#"><span class='mobile-li'>Artificial Intelligence</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="./ai"><span class='mobile-li'>Artificial Intelligence</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>AI for Education</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>AI for Healthcate</span></a></li>
@@ -93,7 +93,7 @@
                                                 <li><a href="#">Node.js Development</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#">QA &amp; Testing</a>
+                                        <li class="child" ><a class="header__menu_item" href="./qa_&_testing">QA &amp; Testing</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">Automation Testing</a></li>
                                                 <li><a href="#">Manual Testing</a></li>

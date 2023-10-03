@@ -64,3 +64,9 @@ Route::get('/technology-consulting', function () {
 Route::get('/android-app-development', function () {
     return view('android-app-development');
 });
+Route::get('/data', function () {
+    return view('data');
+});
+Route::get('/ai', function () {
+    return view('AI');
+});
