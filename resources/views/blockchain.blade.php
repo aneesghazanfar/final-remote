@@ -45,7 +45,7 @@
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Discuss your Web Development needs</button>
+                        <button class="tt-banner-btn">Consult blockchain developers</button>
                         <img src=" {{asset('img/SVG.svg') }}" alt="">
                     </section>
 
@@ -71,40 +71,34 @@
                 </p>
                 <br><br>
 
-                <button class="accordion">01- Innovation Consulting</button>
+                <button class="accordion">Blockchain Consulting</button>
                 <div class="panel">
-                    <p>Make your digital transformation journey super simple, safe, and aligned with your specific
-                        business needs. We're good at strategy planning for both enterprises and SMBs, IT audit,
-                        business process analysis, and more.</p>
+                    <p>
+                        We will design a roadmap for implementing a blockchain solution, outlining the network design, selecting the optimal blockchain platform, and thinking out all the required features and integrations.</p>
                 </div>
 
-                <button class="accordion">02- Digital Transformation</button>
+                <button class="accordion">Private Blockchain Ecosystems</button>
                 <div class="panel">
-                    <p>Achieve lower costs, utmost scalability and maximum velocity with our legacy software
-                        modernization, cloud, and DevOps services. Our enterprise software development company is here
-                        to help you remove the roadblocks to innovation.</p>
+                    <p>We will design and implement a secure, permission-based blockchain network inaccessible from the outside to support your transaction-heavy business.</p>
                 </div>
 
-                <button class="accordion">03- Software Engineering</button>
+                <button class="accordion">Decentralized Apps</button>
                 <div class="panel">
-                    <p>Build enterprise software solutions that perform. We can cover you along the whole way or fill in
-                        specific skill gaps in business analysis, UX/UI, testing, development, or support across web,
-                        mobile, desktop, cloud, and embedded platforms.</p>
+                    <p>We will help you control critical workflows and capitalize on secure transactions with an enterprise-grade decentralized app that is tailored to your needs and smoothly fits into your corporate infrastructure.
+                    </p>
                 </div>
 
-                <button class="accordion">04- Big Data & Analytics</button>
+                <button class="accordion">Smart Contracts</button>
 
                 <div class="panel">
-                    <p>Use your torrents of data to drive decision-making across the company. From Data Governance &
-                        Data Management to Data Analytics and Data Science, we make business, not IT, own your data.</p>
+                    <p>We will help you eliminate repetitive operational processes and optimize resource utilization via smart contracts that prevent unjustified changes and automatically execute the set obligations.</p>
+
                 </div>
 
-                <button class="accordion">05- Artificial Intelligence</button>
+                <button class="accordion">Blockchain-Based Marketplaces</button>
 
                 <div class="panel">
-                    <p>Implement AI to beat real-world business challenges and meet your KPIs, getting beyond the hype.
-                        From ML, NLP, and Computer Vision to integration of AI technologies for Intelligent Automation,
-                        we’ve done it all for our delighted clients.</p>
+                    <p>We build decentralized market platforms that enable secure, transparent, and traceable transactions, as well as allow their peers to collaborate effectively with no intermediaries.</p>
                 </div>
 
                 <button class="accordion">06- Extended Reality</button>
@@ -114,34 +108,19 @@
                         or launch into the metaverse. XR solutions help you bypass distance challenges and be innovative
                         for real.</p>
                 </div>
-                <button class="accordion">06- Extended Reality</button>
+                <button class="accordion">Crypto Wallets</button>
 
                 <div class="panel">
-                    <p>Deliver immersive experiences through AR, VR, or MR to create new products, boost productivity,
-                        or launch into the metaverse. XR solutions help you bypass distance challenges and be innovative
-                        for real.</p>
+                    <p>We will help you build a digital wallet with a neat and intuitive UI that lets users handle cryptocurrencies conveniently and securely.</p>
                 </div>
+                <br>
+                <br>
+                <br>
 
-                <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
-                        <span class="button__wrap"><span class="button__inner_wrap">
-                                <b class="button__inner_text">Discuss my project</b>
-                            </span>
-                            <span class="button__arrow">
-                                <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                                    <foreignobject class="foreignobject" width="1000" height="1000">
-                                        <span class="foreignobject"></span>
-                                    </foreignobject>
-                                </svg>
-                                <span class="button__arrow_svg">
-                                    <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                        <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                                    </svg>
-                                </span>
-                            </span>
-                        </span>
-                    </a>
-                </div>
+                <section class="banner-btn">
+                    <button class="tt-banner-btn">Consult blockchain developers</button>
+                    <img src=" {{asset('img/SVG.svg') }}" alt="">
+                </section>
             </div>
         </section>
         <section class="mb-container sec-3">
@@ -167,30 +146,30 @@
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        UX/UI Design
+                            Supply Chain & Logistics
                         </h3>
                         <p class="sec-2-device-p">
-                        We leverage best practices of user-centric design to translate vision into the responsiveness, interactivity, ease of use, and grace of your web solution
+                            Whether you want to boost your workflows, control the usage of fuel, streamline the execution of contracts, or gain transparency into every step of a product’s journey, we have you covered. With self-executing contracts and decentralized data storage, you will shorten the supply chain cycle and enhance any operational bottlenecks.
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Front-end Development
+                            FinTech & DeFi
                         </h3>
                         <p class="sec-2-device-p">
-                        Highly proficient in modern frameworks like Angular, React, or Vue we create user experiences that captivate and engage users
+                            Reduce the cost of transactions, facilitate payment processing, automate digital invoicing, eliminate human error and fraud, and improve the accuracy and security of transactions with blockchain-based software. We build consumer-facing apps and those boosting back-office operations, including digital identity management, automated compliance, and financial data tracking and analytics.
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Back-end Development
+                            Healthcare
                         </h3>
                         <p class="sec-2-device-p">
-                        Our back-end developers build the best-customized functionality while making sure your web solution works flawlessly behind the scenes
+                            Protect sensitive patient data, ensure HIPAA compliance, tap in value-based care, facilitate clinical trial management, and guarantee secure and fast medical record sharing among authorized users with healthcare solutions relying on advanced encryption techniques. The software we develop is high-performing, 100% secure, and intuitive.
                         </p>
                         
                     </div>
@@ -203,44 +182,46 @@
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        API Integration
+                            Insurance
                         </h3>
                         <p class="sec-2-device-p">
-                        To save you time building essential functionality from scratch, we connect 3rd party services through APIs, from marketing to payment or geolocation
+                            Speed up or even automate insurance claims validation, cut down claim processing costs, and guarantee secure and transparent data exchange with blockchain-based solutions.
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Web Development Consulting
+                        Ecommerce
                         </h3>
                         <p class="sec-2-device-p">
-                        With our seasoned consultants who can guide you through every step of your web development journey, you navigate tech complexities safely
+                            Improve the traceability of suppliers, goods, and transactions, enable faster and cheaper payments with no intermediaries, and eliminate ecommerce fraud and counterfeit. With blockchain-based verification, payments, and loyalty programs, you could build customer trust across the entire buying journey.
                         </p>
                         
                     </div>
                     <div class="mb-sec-2-inner-col">
                        
                         <h3 class="sec-2-device">
-                        Support & Maintenance
+                            Real Estate
                         </h3>
                         <p class="sec-2-device-p">
-                        As part of our custom web development services, we provide 24/7 infrastructure monitoring, problem resolution, updates, custom redesign, and more
+                            Manage property deals with no paperwork and intermediaries, establish trust between parties, ensure the immutability and traceability of transactions, and cut the risk of sensitive data exposure down to a minimum. The real estate solutions we build provide enhanced pre-purchase due diligence, liquid asset implementation, data encryption, and owner verification.
                         </p>
                         
                     </div>
                 </div>
             </div>
+            <br> <br>
             <section class="banner-btn mb-mt-50">
-                    <button class="tt-banner-btn">Discuss your Web Development needs</button>
+                    <button class="tt-banner-btn">Power your sector with blockchain services</button>
                     <img src=" {{asset('img/SVG.svg') }}" alt="">
                 </section>
         </section>
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Our approach
+                <h2> Relying on a powerful
+                    tech stack
                 </h2>
             </div>
         </section>
@@ -253,11 +234,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Vendor-agnostic
+                            Blockchain platforms:
                         </h3>
                         <p class="sec-2-device-p">
-                            We are not tied to any specific cloud platform provider, so we only resort to those cloud
-                            tools and technologies that are a perfect fit for your project and workflows.
+                            Hyperledger, Etherium, Stellar, Corda, EOS, Tron, Hashgraph, Tezos, IBM blockchain
 
                         </p>
 
@@ -266,44 +246,16 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Top cloud architects with niche skills
+                            Programming languages & frameworks:
                         </h3>
                         <p class="sec-2-device-p">
-                            With a 300-strong team, we bring in professional BAs, skilled cloud solution architects and
-                            DevOps engineers, as well as R&D department to fill any talent gaps.
+                            Solidity, C++, C#, Angular, Python, React, Next.js, NestJS, Express.js, Rust, Kotlin
                         </p>
 
                     </div>
-                </div>
-
-                <div class="mb-row mb-sec-2-2">
-                    <div class="mb-sec-2-inner-col">
-
-                        <h3 class="sec-2-device">
-                            Proven track record
-                        </h3>
-                        <p class="sec-2-device-p">
-                            We’ve successfully completed 600+ projects and served 200+ satisfied customers across the
-                            globe
-                        </p>
-
-                    </div>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <div class="mb-sec-2-inner-col">
-
-                        <h3 class="sec-2-device">
-                            Scalability on demand
-                        </h3>
-                        <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your development project so that your
-                            app is able to adapt as you evolve.
-
-                        </p>
-
-                    </div>
-                </div>
-
+                </div>      
             </div>
+            <br> <br> <br>
             <section class="banner-btn mb-mt-50">
                 <button class="tt-banner-btn">Get started with cloud computing</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
@@ -314,8 +266,8 @@
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Data consulting & development services
-                    <span class="mb-orange"> <br>to empower your business</span>
+                <h2> Tap in the business benefits
+                    <span class="mb-orange"> <br>of blockchain technology</span>
 
                 </h2>
             </div>
@@ -328,42 +280,45 @@
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                        A-class team
+                            Strengthen the security of financials and assets
                         </h3>
                         <p class="sec-2-device-p">
-                        Delivering web solutions across industry verticals since 2009, our team of senior web developers and designers know how to build your project right the first time. With us, you get a deep understanding of your business challenges and unparalleled tech expertise to beat them
+                            With blockchain-based self-executing contracts that guarantee the immutability of transactions and tokenized assets, you will enjoy data integrity and transparent regulation processes
                         </p>
                         
                     </div>
+                    &nbsp;&nbsp;&nbsp;
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                        Fast time-to-value
+                         Cut down the cost of transactions
                         </h3>
                         <p class="sec-2-device-p">
-                        Using an agile approach and DevOps best practices, we ship new functionality faster while keeping quality high. Along the way, you stay in the loop as we show results early to adapt to your current vision
+                            With no intermediaries involved, you can get cheaper and more efficient transactions.
                         </p>
                         
                     </div>
+                    &nbsp;&nbsp;&nbsp;
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                        Deeply customized solutions
+                        Remove operational bottlenecks:
                         </h3>
                         <p class="sec-2-device-p">
-                        Each and every step of our process in custom web development services is focused on your unique business needs. We get a buzz out of unlocking tech complexities and tailoring a solution that serves your mission best. This is because we are fully engaged in your success
+                            With transactions and contract agreements handled way faster, you will be able to improve your business performance and streamline financial operations.
                         </p>
                         
                     </div>
                 </div>
             </div>
+            <br> <br>
             <section class="banner-btn mb-mt-50">
-                    <button class="tt-banner-btn">Discuss your web app development </button>
+                    <button class="tt-banner-btn">Get the benifits of blockchain</button>
                     <img src=" {{asset('img/SVG.svg') }}" alt="">
                 </section>
         </section>
 
 
         <section class="mb-sec-2 mb-mt-50">
-            <div class="mb-logo-title"> <b>Join 4,000+ companies already growing</b> </div>
+            <div class="mb-logo-title"> <b>Our clients</b> </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
                     <img src=" {{asset('img/boltshift.png') }}">
@@ -572,54 +527,15 @@
                     </svg>
                 </div>
             </div>
-            <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
-                    <span class="button__wrap"><span class="button__inner_wrap">
-                            <b class="button__inner_text">Contact Us</b>
-                        </span>
-                        <span class="button__arrow">
-                            <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                                <foreignobject class="foreignobject" width="1000" height="1000">
-                                    <span class="foreignobject"></span>
-                                </foreignobject>
-                            </svg>
-                            <span class="button__arrow_svg">
-                                <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                    <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                                </svg>
-                            </span>
-                        </span>
-                    </span>
-                </a>
-            </div>
+            <br> <br> <br>
+            <section class="banner-btn mb-mt-50">
+                <button class="tt-banner-btn">Get the benifits of blockchain</button>
+                <img src=" {{asset('img/SVG.svg') }}" alt="">
+            </section>
     </div>
     </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     @include("contact-form")
-
-
-
 
     <?php
     // require 'shared/_footer.php';

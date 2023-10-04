@@ -2140,6 +2140,20 @@ body.modal_open {
   .container {
     max-width: 115.8rem;
   }
+  .top_section__head_index  {
+    text-transform: uppercase;
+    font-size: 8em;
+    font-family: Monument Extended, Arial Black;
+    font-weight: 700;
+    /* max-width: 20em; */
+    letter-spacing: 0.01em;
+    word-spacing: 0;
+    margin-bottom: 0.8em;
+    /* white-space: pre-wrap; */
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    }
 }
 .small_head {
   text-transform: uppercase;
