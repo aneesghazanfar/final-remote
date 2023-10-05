@@ -491,7 +491,8 @@
                 <button class="tt-banner-btn">Start my project</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
                 </section>
-        </section>
+                </section>
+                </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec-3">
                 <h1> Why us</h1>

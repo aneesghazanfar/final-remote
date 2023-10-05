@@ -28,6 +28,48 @@
         background-size: 100% 100%;
         display: flex;
     }
+    .divlanding-list-item-text {
+position: static !important;
+    }
+
+    .delievery-industry-spec {
+  width: 100%; /* Make the container take the full width of its parent */
+
+  background-image: linear-gradient(to bottom, #000000a8, #00000070),
+  url('https://itrexgroup.com/wp-content/uploads/2020/06/take-your-own-journey-scaled-e1626788633216-1440x449.jpg');
+  background-repeat: no-repeat;
+
+    }
+
+    .divlanding-list-item-text {
+position: static !important;
+    }
+    .mb-sec-2-inner p {
+    line-height: inherit !important;
+}
+.optimize-route-planning-container {
+    position: relative;
+    letter-spacing: inherit;
+    line-height: inherit;
+}
+.optimize-route-planning-container{
+    letter-spacing: inherit !important  ;
+    line-height: inherit !important;
+    margin-bottom: 20px;
+}
+.divlanding-list-item{
+    width: auto !important;
+    height: auto !important;
+}
+.divlanding-list-item-text {
+    padding: 0.75rem;
+    font-size: 16px;
+}
+.divlanding-list-item-text
+{
+    max-width: inherit !important;
+}
+
     </style>
 </head>
 
