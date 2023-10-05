@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>SaaS Development Services &mdash; SSEDLAB</title>
+    <title>Intelligent Process Automation Services And Solutions &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -22,7 +22,7 @@
     <meta name="theme-color" content="#ffffff">
     <style>
         .banner-img-page {
-  background-image: url('../../img/banner-tt/div.top_sectionss.png');
+  background-image: url('https://e0.pxfuel.com/wallpapers/798/108/desktop-wallpaper-cyber-for-tech-black-cyber.jpg');
   background-position: cover;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -60,7 +60,7 @@ and solutions
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Get in Touch</button>
+                        <button class="tt-banner-btn">Talk to IPA experts</button>
                         <img src="{{asset('img/SVG.svg')}}" alt="">
                     </section>
 
@@ -73,25 +73,25 @@ and solutions
 
                 <!-- <h1>How we can help you</h1> -->
                 <h1 style="text-align: left;" class="top_section__head_index">
-                    <span style="color: #d95b28;">FAQ</span>
+                    <span style="color: #d95b28;">End-to-end intelligent process automation services</span>
                 </h1>
 
-                <button class="accordion">1. What makes you stand out in the field of artificial intelligence services and solutions?</button>
+                <button class="accordion">Business process automation (BPA)</button>
                 <div class="panel">
-                    <p>With over a decade of experience providing artificial intelligence consulting services, we've established ourselves as pioneers in the field. Our team of experts combines deep technical knowledge with a comprehensive understanding of diverse industries. This fusion allows us to craft tailor-made AI solutions that align with your unique business needs, driving remarkable outcomes.</p>
+                    <p>From keyword-triggered chatbots serving as the first line of action for customer service units to appointment scheduling and feedback collection software, we’ll help you build and deploy robust business process automation solutions that facilitate mundane tasks and boost productivity.</p>
                 </div>
 
-                <button class="accordion">2. How can your AI development services benefit my business specifically?</button>
+                <button class="accordion">Robotic process automation (RPA)</button>
                 <div class="panel">
-                    <p>We don’t preach AI for the sake of innovation. Instead, our AI solutions are crafted to deliver tangible value. Through in-depth analysis and understanding of your business processes, we identify areas where AI can streamline operations, enhance efficiency, and fuel growth. From automating routine tasks to extracting insights from complex data, our solutions are designed to yield measurable results.</p>
+                    <p>Avail of our robotic process automation services to create ingenious, rule-based bots that absorb structured data and mimic human actions. Our custom robotic process automation solutions take over repetitive tasks like form filling, claims processing, and report generation, driving efficiency and reducing operational costs in document-heavy industries.</p>
                 </div>
 
-                <button class="accordion">3. How do you ensure data security and privacy in AI implementations?</button>
+                <button class="accordion">AI-driven process automation</button>
                 <div class="panel">
-                    <p>Data security is paramount in our approach to artificial intelligence development services. We adhere to rigorous industry standards and best practices to safeguard your data at every stage of the AI journey. Our expertise includes implementing robust encryption, access controls, and compliance measures to ensure your sensitive information remains protected.</p>
+                    <p>By adding computer vision, natural language processing, and fuzzy logic to digital process automation solutions, we create systems that retrieve unstructured data from a host of enterprise apps, boil the information down to meaningful insights, act on it, and orchestrate workflows across your company — all with little to no involvement on your part.</p>
                 </div>
 
-                <button class="accordion">4. How do you ensure that AI solutions integrate seamlessly into our existing systems?</button>
+                {{-- <button class="accordion">4. How do you ensure that AI solutions integrate seamlessly into our existing systems?</button>
 
                 <div class="panel">
                     <p>Our team is skilled in integrative solutions, ensuring that AI seamlessly fits with your existing systems. We conduct thorough assessments of your infrastructure, customizing AI solutions to align with your technology stack. Our goal is to enhance your capabilities without disrupting your established workflows.</p>
@@ -118,14 +118,14 @@ and solutions
 
                 <div class="panel">
                     <p>Initiating the journey is simple. Reach out to our team, and we'll begin with a comprehensive consultation to understand your goals and challenges. From there, we'll collaborate to design a custom AI strategy that aligns with your objectives, ensuring that your business evolves with the transformative power of AI.</p>
-                </div>
+                </div> --}}
                 <br>
                 <br>
                 <br>
 
 
                 <section class="banner-btn">
-                    <button class="tt-banner-btn">Talk to our AI developers</button>
+                    <button class="tt-banner-btn">Automate to innovate</button>
                     <img src=" {{asset('img/SVG.svg') }}" alt="">
                 </section>
             </div>
@@ -135,9 +135,9 @@ and solutions
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Intelligent process automation
                     </span><br>
-                    to SaaS software development
+                    services for every industry
                 </h2>
             </div>
         </section>
@@ -165,11 +165,10 @@ and solutions
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            2. Multi-tenant architecture
+                            Logistics and transportation
                         </h3>
                         <p class="sec-2-device-p">
-                            We build multi-tenant architecture with security in mind to make your scaling
-                            straightforward and customization easy while minimizing costs.
+                            Process invoices in the blink of an eye, gain real-time insights into your purchase-to-pay and order-to-cash operations, and align supply with demand with the help of smart automation solutions.
                         </p>
 
                     </div>
@@ -179,11 +178,10 @@ and solutions
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. External services integration
+                            Healthcare and BioTech
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex integrations with
-                            external services based on your growth metrics.
+                            Leverage operational analytics to forecast hospital admissions and optimum inventory levels, facilitate medication discovery and clinical trials by modeling drug response, and automate patient and staff authorization using BPA, digital workforce, and artificial intelligence.
                         </p>
 
                     </div>
@@ -191,11 +189,10 @@ and solutions
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. Scalability on demand
+                            Insurance
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development
-                            project so that your app is able to adapt as you evolve.
+                            Become faster and more efficient at claims processing, eradicate manual work from the policy management process, and avoid compliance breaches by taking advantage of our intelligent process automation services.
 
                         </p>
 
@@ -205,11 +202,10 @@ and solutions
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. External services integration
+                            Education
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex integrations with
-                            external services based on your growth metrics.
+                            Fast-track student enrollment and accounting operations, implement next-gen tools for student attendance monitoring, and entrust routine tasks like checking assignments for plagiarism and managing class schedules to intelligent software.
                         </p>
 
                     </div>
@@ -217,11 +213,10 @@ and solutions
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. Scalability on demand
+                            Finance
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development
-                            project so that your app is able to adapt as you evolve.
+                            Accelerate customer request processing and reporting operations, provide superior client service by automating customer-facing transactions, and develop a better-informed approach to credit decisioning with next-gen IPA solutions.
 
                         </p>
 
@@ -231,7 +226,7 @@ and solutions
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Let's discuss our project</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -240,12 +235,12 @@ and solutions
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Unlock the full benefits of intelligent
                     </span><br>
-                    to SaaS software development
+                    process automation solutions
                 </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    BPA, RPA, and algorithm-driven DPA solutions are just a set of technologies that come together to digitalize, integrate, and enhance workflows in your organization. Their actual value lies in giving your company the much-needed resources and tools to grow, scale, and prosper in times of uncertainty and intense competition. Partner with ITRex to:
 
                 </p>
             </div>
@@ -259,9 +254,7 @@ and solutions
 
            
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            Automate any tedious jobs that previously required human participation or guidance and free up your employees’ time for more creative, mission-critical tasks
                         </p>
 
                     </div>
@@ -271,9 +264,7 @@ and solutions
 
              
                         <p class="sec-2-device-p">
-                            If you want to glue customers to your SaaS app, you need to deliver state-of-the-art design.
-                            Our SaaS development services help you turn a great
-                            idea into great UI/UX and validate the concept with rapid prototyping.
+                            Pinpoint security vulnerabilities in enterprise software and monitor network traffic in real time to detect and fight off cyberattacks
                         </p>
 
                     </div>
@@ -283,9 +274,7 @@ and solutions
 
            
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            Tap into structured and unstructured operational data buried in the vaults of legacy enterprise systems that were not designed to talk to each other
                         </p>
 
                     </div>
@@ -295,9 +284,7 @@ and solutions
 
              
                         <p class="sec-2-device-p">
-                            If you want to glue customers to your SaaS app, you need to deliver state-of-the-art design.
-                            Our SaaS development services help you turn a great
-                            idea into great UI/UX and validate the concept with rapid prototyping.
+                            Ensure compliance with governmental and industry-specific standards, regulations, and best practices
                         </p>
 
                     </div>
@@ -307,9 +294,7 @@ and solutions
 
            
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            Eliminate human errors by entrusting business tasks, big and small, to intelligent software that learns on the job and only gets better over time
                         </p>
 
                     </div>
@@ -319,9 +304,7 @@ and solutions
 
              
                         <p class="sec-2-device-p">
-                            If you want to glue customers to your SaaS app, you need to deliver state-of-the-art design.
-                            Our SaaS development services help you turn a great
-                            idea into great UI/UX and validate the concept with rapid prototyping.
+                            Improve customer experience by responding faster and uncovering the intent behind clients’ queries
                         </p>
 
                     </div>
@@ -329,19 +312,20 @@ and solutions
                 <br><br><br>
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Tell Us your SaaS software needs</button>
+                <button class="tt-banner-btn">Get started</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">How we approach
                     </span><br>
-                    to SaaS software development
+                    intelligent process automation
+
                 </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    The ITRex team will help you enhance and automate any process or workflow — from facilitating manual data entry to architecting complete data ecosystems that provide a 360-degree view into your company’s operations and deliver the right insights to the right person and at the right place. We have a highly efficient roadmap for that:
 
                 </p>
             </div>
@@ -413,7 +397,7 @@ and solutions
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>Design</div>
+                    <div>Evaluation</div>
                 </button>
                 <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyo')">
                     <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
@@ -432,7 +416,7 @@ and solutions
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>POC</div>
+                    <div>Planning</div>
 
                 </button>
                 <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyoo')">
@@ -452,7 +436,7 @@ and solutions
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>Implementation</div>
+                    <div>Development</div>
 
                 </button>
                 <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tookyoo')">
@@ -472,7 +456,7 @@ and solutions
                             </clipPath>
                         </defs>
                     </svg>
-                    <div>Implementation</div>
+                    <div>Reiteration</div>
 
                 </button>
             </div>
@@ -480,36 +464,33 @@ and solutions
 
             <div id="London" class="mb-tabcontent" style="display:block;">
                 <p>
-                    We take a deep dive into your data, challenges, and IT capabilities to spot new business opportunities, nail down use cases, and map the AI software development journey
-                </p>
+                    We contemplate your processes and collect stakeholder feedback to pinpoint workflows that could be improved                </p>
             </div>
 
             <div id="Paris" class="mb-tabcontent">
                 <p>
-                    Next, we clarify the AI solution’s feature set, design the architecture, and choose the right tools and technologies
-                </p>
+                    We assess your company’s digital maturity and suggest the optimum route you could take to move your business forward                </p>
             </div>
 
             <div id="Tokyo" class="mb-tabcontent">
                 <p>
-                    While developing a Proof of Concept, we train and tune ML models and AI algorithms, continuously testing them for viability
-                </p>
+                    Our BPA, RPA, and AI experts develop an all-encompassing automation strategy that delivers value from day one                </p>
             </div>
 
             <div id="Tokyoo" class="mb-tabcontent">
                 <p>
-                    We engineer the application relying on best artificial intelligence development practices, integrate the ML models, and launch your solution into a desired environment
+                    We create an MVP version of an intelligent automation solution and field-test it on real-world data and tasks
                 </p>
             </div>
             <div id="Tookyoo" class="mb-tabcontent">
                 <p>
-                    We engineer the application ractices, integrate the ML models, and launch your solution into a desired environment
+                    Once the initial IPA use case is justified, we proceed to implementing automation tools at scale, transforming your company into a fully digital enterprise
                 </p>
             </div>
 
             <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                     <span class="button__wrap"><span class="button__inner_wrap">
-                            <b class="button__inner_text">Contact us</b>
+                            <b class="button__inner_text">Hire experts</b>
                         </span>
                         <span class="button__arrow">
                             <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
@@ -531,7 +512,7 @@ and solutions
 
 
         <section class="mb-sec-2 mb-mt-50">
-            <div class="mb-logo-title"> <b>Join 4,000+ companies already growing</b> </div>
+            <div class="mb-logo-title"> <b>Our clients</b> </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
                     <img src=" {{asset('img/boltshift.png') }}">
@@ -554,43 +535,6 @@ and solutions
             </div>
 
         </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
-       
-
-
-
         @include('contact-form')
 
         @include('footer')

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Artificial Intelligence (AI) Consulting &amp; Development Services &mdash; SSEDLAB</title>
+    <title>IT Solutions For Manufacturing And Supply  &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -22,13 +22,15 @@
     <meta name="theme-color" content="#ffffff">
     <style>
     .banner-img-page {
-        background-image: url('../../img/banner-tt/div.top_sectionss.png');
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgb(5, 0, 0)),
+        url('https://e1.pxfuel.com/desktop-wallpaper/710/845/desktop-wallpaper-manufacturing-supply-chain-software-industrial-machine.jpg');
+        background-attachment: fixed;
         background-position: cover;
         background-repeat: no-repeat;
         background-size: 100% 100%;
         display: flex;
     }
-    </style>
+    </style>    
 </head>
 
 <body id="page-index">
@@ -43,20 +45,17 @@
             <div class="top_section vis_on_scroll banner-img-page">
                 <div class="container">
                     <h1 class="banner-main-heading">
-                        AI consulting &
-                        development
-                        services
+                        Digital solutions for manufacturing
+                        and supply chain
                     </h1>
                     <p class="tt-banner-para">
-                        From image analysis and human activity recognition to semantic search and manual task
-                        automation, we provide AI consulting services and develop custom artificial intelligence
-                        solutions that give you a competitive edge
+                        Leverage the power of next-gen technologies to revamp manufacturing and supply chain management processes, keep your clients happy, and improve your bottom line
 
                     </p>
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Talk to our AI developers</button>
+                        <button class="tt-banner-btn">Talk to our technology consultants</button>
                         <img src=" {{asset('img/SVG.svg') }}" alt="">
                     </section>
 
@@ -66,22 +65,21 @@
 
         <section class="mb-sec-2 mb-mt-50">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">AI consulting and development company with extensive know-how</h2>
+                <h2 class="mb-text-white">Tailored offering for manufacturing and supply chain companies
+                </h2>
                 <p>
-                    An artificial intelligence consulting and development company with over a decade of experience, we
-                    will help you harness machine learning algorithms and the latest artificial intelligence tools and
-                    technologies for exponential growth.
+                    Increase the productivity and effectiveness of manufacturing and supply chain management processes with  SSED. Our business analysts will join forces with A-list software architects and R&D specialists to devise an all-encompassing digital transformation strategy for your company — and validate it through research and proof of concepts (POCs).
 
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Vendor-agnostic.
+                            Venture into Industry 5.0
                         </h3>
                         <p class="sec-2-device-p">
-                            We aren’t tied to any providers, so we only recommend AI services and technologies that we
-                            believe are right for you.
+                            We’ll help you create an Industry 5.0 environment where humans work alongside AI-powered machines to increase your throughput and build resilience. For this, we use a potent mix of the Internet of Things, artificial intelligence, intelligent and robotic process automation, data science, and extended reality technologies.
+                            
 
                         </p>
 
@@ -90,11 +88,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Diverse expertise.
+                            Achieve 360-degree supply chain visibility
                         </h3>
                         <p class="sec-2-device-p">
-                            AI development company with 13+ years’ experience, we worked on hundreds of projects across
-                            in industries, from retail and FinTech to healthcare and life sciences, and beyond.
+                             SSED breaks silos in complex, increasingly distributed supply chains to ensure real-time visibility into your operations — from goods production to warehousing and delivery. We do that by interconnecting your technology systems on the API and interface levels and tapping into advanced analytics to align supply with demand and anticipate market trends.
 
                         </p>
 
@@ -105,11 +102,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Top AI developers with niche skills.
+                            Foster sustainability
                         </h3>
                         <p class="sec-2-device-p">
-                            With our 300+ strong team, we can bring in senior analysts, AI consultants, elite
-                            developers, and our R&D department when needed.
+                            Become a more agile and flexible organization while making a positive impact on society and the planet!  SSED will reduce your company’s carbon footprint by retrofitting legacy equipment with smart sensors, accurately forecasting demand to avoid overproduction, and upgrading your transport fleet with telematics solutions.
                         </p>
 
                     </div>
@@ -129,7 +125,7 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our AI experts</button>
+                <button class="tt-banner-btn">Talk to our experts</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -139,15 +135,12 @@
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Our AI solutions
-                    <span class="mb-orange"> <br>in focus</span>
+                <h2> Our manufacturing and supply chain
+                    <span class="mb-orange"> <br>software development capabilities</span>
 
                 </h2>
                 <p>
-                    As an artificial intelligence consulting company, we are confident that AI has limitless potential
-                    to transform your business. Explore a variety of AI use cases that highlight our capabilities and
-                    demonstrate the technology's potential. From improving operations to boosting your profits, our
-                    customized AI services guarantee real growth and unmatched success.
+                    We do not merely digitalize processes — we completely reimagine manufacturing and supply chain operations. To help you balance the evolving stakeholder expectations while cutting down operational costs and maintaining operational efficiency,  SSED utilizes a set of innovative technologies, including:
 
 
                 </p>
@@ -161,21 +154,20 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Machine Learning
-                        </h3>
+                            Artificial Intelligence                        </h3>
                         <p>
-                            Applying our expertise in supervised, unsupervised, and reinforcement machine learning, we
-                            build smart systems that make best decisions with little to no human help.
+                            As a company with expert knowledge of machine learning, deep learning, computer vision, and NLP,  SSED will not only develop an solution but also scale it across multiple processes and use cases and ensure it brings tangible value from day one. Whether you need to prepare quality data for custom model training or eradicate algorithmic bias, we’re here to help!
+
 
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Deep learning
+                            Internet of Things
+
                         </h3>
                         <p>
-                            Utilizing the power of multi-layered neural networks, we architect AI business solutions
-                            that mimic — and even outperform — human intelligence.
+                            Our IoT know-how includes sensors and development boards, data and network protocols —from MQTT to Zigbee and LoRaWAN — and custom IoT platforms based on AWS, Microsoft Azure, and Google Cloud. Additionally, we’ll develop embedded software and robust user interfaces to turn your machinery and assets into a wealth of data — and a wealth of insights.
 
                         </p>
 
@@ -184,11 +176,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Natural Language Processing
+                            Advanced Data Analytics
+
                         </h3>
                         <p>
-                            We build real-time speech recognition and conversational AI software solutions that drive
-                            user experience way forward.
+                            To combat data deluge and tap into predictive and prescriptive analytics, we use deep data — high-quality, contextualized, and actionable operational data aggregated from multiple sources within your IT infrastructure. Contact  SSED to develop integrated data ecosystems that are accessible and empower intelligent decision-making across your enterprise.
 
                         </p>
 
@@ -214,7 +206,7 @@
                         </h3>
                         <p>
                             From crafting catchy texts to creating compelling visuals and writing code, we build
-                            generative AI solutions that let you unleash creativity, spark automation, and redefine
+                            generative solutions that let you unleash creativity, spark automation, and redefine
                             content creation.
 
                         </p>
@@ -240,13 +232,13 @@
             </div>
             <br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Discuss your AI concept</button>
+                <button class="tt-banner-btn">Discuss your concept</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
         <section class="mb-sec-2 mb-mt-50">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">Latest Projects</h2>
+                <h2 class="mb-text-white">Success stories</h2>
                 <div class="swiper swiper-slider">
                     <div class="swiper-wrapper">
 
@@ -256,7 +248,7 @@
                                         alt="Swiper">
                                     <h3 class="slider-heading">AI-based enterprise software for No.1 retailer→</h3>
                                     <p>
-                                        Self-service analytics enabled by AI algorithms empowers 3 million users with
+                                        Self-service analytics enabled by algorithms empowers 3 million users with
                                         instant actionable insights.
                                     </p>
                                 </a>
@@ -435,15 +427,15 @@
             <br>
 
             <section class="banner-btn">
-                <button class="tt-banner-btn">Talk to our AI developers</button>
+                <button class="tt-banner-btn">Talk to our developers</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
     </div>
     </section>
     <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Our AI solutions
-                    <span class="mb-orange"> <br>in focus</span>
+                <h2> Why entrust your digital transformation
+                    <span class="mb-orange"> <br>project to SSED?</span>
 
                 </h2>
             </div>
@@ -459,7 +451,7 @@
                             Vendor-agnostic.
                         </h3>
                         <p class="sec-2-device-p">
-                            We aren’t tied to any providers, so we only recommend AI services and technologies that we
+                            We aren’t tied to any providers, so we only recommend services and technologies that we
                             believe are right for you.
 
                         </p>
@@ -472,7 +464,7 @@
                             Diverse expertise.
                         </h3>
                         <p class="sec-2-device-p">
-                            AI development company with 13+ years’ experience, we worked on hundreds of projects across
+                            Development company with 13+ years’ experience, we worked on hundreds of projects across
                             in industries, from retail and FinTech to healthcare and life sciences, and beyond.
 
                         </p>
@@ -484,10 +476,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Top AI developers with niche skills.
+                            Top developers with niche skills.
                         </h3>
                         <p class="sec-2-device-p">
-                            With our 300+ strong team, we can bring in senior analysts, AI consultants, elite
+                            With our 300+ strong team, we can bring in senior analysts, consultants, elite
                             developers, and our R&D department when needed.
                         </p>
 
@@ -508,7 +500,7 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our AI experts</button>
+                <button class="tt-banner-btn">Talk to our experts</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -516,7 +508,7 @@
         </section>
 
         <section class="mb-sec-2 mb-mt-50">
-            <div class="mb-logo-title"> <b>Join 4,000+ companies already growing</b> </div>
+            <div class="mb-logo-title"> <b>Our Clients</b> </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
                     <img src=" {{asset('img/boltshift.png') }}">

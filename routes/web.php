@@ -82,3 +82,27 @@ Route::get('/android-app-development', function () {
 Route::get('/cross-platfrom-app-development', function () {
     return view('cross-platfrom-app-development');
 });
+Route::get('/iot', function () {
+    return view('iot');
+});
+Route::get('/automation', function () {
+    return view('automation');
+});
+Route::get('/healthcare', function () {
+    return view('healthcare');
+});
+Route::get('/transportation_logistics', function () {
+    return view('transportation_logistics');
+});
+Route::get('/manufacturing-supply', function () {
+    return view('manufacturing-supply');
+});
+Route::get('/media-entertainment', function () {
+    return view('media-entertainment');
+});
+Route::get('/retail-software', function () {
+    return view('retail-software');
+});
+Route::get('/e-learning', function () {
+    return view('e-learning');
+});

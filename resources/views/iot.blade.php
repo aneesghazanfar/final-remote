@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>SaaS Development Services &mdash; SSEDLAB</title>
+    <title>IoT Development And Consulting Services &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -22,7 +22,7 @@
     <meta name="theme-color" content="#ffffff">
     <style>
         .banner-img-page {
-  background-image: url('../../img/banner-tt/div.top_sectionss.png');
+  background-image: url('https://e0.pxfuel.com/wallpapers/555/451/desktop-wallpaper-technology-iot.jpg');
   background-position: cover;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -61,7 +61,7 @@
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Get in Touch</button>
+                        <button class="tt-banner-btn">Contact IoT developer</button>
                         <img src="{{asset('img/SVG.svg')}}" alt="">
                     </section>
 
@@ -71,46 +71,38 @@
 
         <section class="mb-sec-2">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">Our SaaS development services let you win big</h2>
+                <h2 class="mb-text-white">End-to-end IoT consulting and software development services</h2>
                 <p>
-                    Leverage our top-tier skills and experience in Software-as-a-Service development to create a SaaS
-                    product that will drive long-term success among customers. Our SaaS development services span the
-                    entire software lifecycle, including:
+                    SSED Group provides IoT application development services to innovative startups looking to create a complete software ecosystem for novel connected gadgets and equipment. We also collaborate with enterprises, healthcare providers, educational institutions, and non-profit organizations eyeing IoT opportunities. Our Internet of Things development know-how includes:
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            Embedded IoT solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            We craft embedded software solutions — firmware, middleware, SDKs, device drivers, embedded human-machine interfaces (HMIs), and customized operating systems based on Linux Kernel and Android Open Source Project (AOSP) — to give voice to your custom IoT solutions and merge them into your IT infrastructure.
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Design & Prototyping
+                            IoT cloud platforms and dashboards
                         </h3>
                         <p class="sec-2-device-p">
-                            If you want to glue customers to your SaaS app, you need to deliver state-of-the-art design.
-                            Our SaaS development services help you turn a great
-                            idea into great UI/UX and validate the concept with rapid prototyping.
+                            We develop custom IoT cloud solutions on top of AWS, Microsoft Azure, and Google Cloud, choosing the optimum tech stack and architecture pattern based on project requirements. Our IoT development company will help you aggregate sensor data in the cloud, feed it to custom AI models, and visualize insights via cloud dashboards.
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            IoT mobile app development
                         </h3>
                         <p class="sec-2-device-p">
-                            Need professionals to create a SaaS app from scratch? Our
-                            full-cycle SaaS development company has worked with many startups and
-                            enterprises since 2009, delivering successful SaaS products that are built to last and grow.
+                            We develop mobile applications supporting the smooth operation and management of IoT solutions. Our IoT software development team uses reliable, energy-efficient protocols to pair mobile apps with intelligent devices, enhances IoT apps with biometric identification mechanisms, and fine-tunes their performance on the back-end level.
                         </p>
 
                     </div>
@@ -118,7 +110,7 @@
                 <br><br><br>
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Tell Us your SaaS software needs</button>
+                <button class="tt-banner-btn">Create custom IoT applications</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
@@ -126,12 +118,12 @@
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">The Internet of Things
                     </span><br>
-                    to SaaS software development
+                    solutions in focus
                 </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    As a mature IoT development and consulting company, SSED has accumulated solid experience in creating robust connected solutions for the enterprise and consumer segments. We are well-versed in:
 
                 </p>
             </div>
@@ -144,11 +136,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            1. Tech stack choice
+                            Smart Home technology
                         </h3>
                         <p class="sec-2-device-p">
-                            We deeply analyze your project requirements, planned features, and the capabilities of the
-                            cloud provider to identify the right combination of tech.
+                            Partner with the SSED IoT developers and consultants to create a complete software ecosystem for your Smart Home solutions — HVAC units, smart lighting, security systems, and connected home appliances. We'll help you collect data from sensors, integrate IoT devices with Alexa, and enable self-learning Smart Home capabilities driven by artificial intelligence.
+
 
                         </p>
 
@@ -157,11 +149,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            2. Multi-tenant architecture
+                            Medical IoT
                         </h3>
                         <p class="sec-2-device-p">
-                            We build multi-tenant architecture with security in mind to make your scaling
-                            straightforward and customization easy while minimizing costs.
+                            We collaborate with hospitals, biotech companies, and digital health startups looking for IoT developers. Tap into our IoT development services to create smart hospital systems, remote patient monitoring solutions, and advanced healthcare analytics systems that transform patient data into actionable insights, improving care delivery and patient outcomes.
+
                         </p>
 
                     </div>
@@ -171,11 +163,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. External services integration
+                            Apps for wearables
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex integrations with
-                            external services based on your growth metrics.
+                            Our IoT development team creates wearable apps that delight users. We'll help you interface wearable devices with the accompanying hardware and software components and set up a back-end infrastructure for connected device management. Our wearable technology expertise spans activity trackers, vital sign monitors, femtech products, and IoT solutions for pets.
                         </p>
 
                     </div>
@@ -183,11 +174,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. Scalability on demand
+                            Industrial IoT solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development
-                            project so that your app is able to adapt as you evolve.
+                            Our IoT software development experts will help you create embedded apps for industrial equipment, ensure real-time inventory visibility with beacons and RFID tags, and build factory-wide data ecosystems with analytics and reporting capabilities. The key characteristics of our IIoT solutions include impeccable performance, 24/7 availability, and unmatched user experience.
+
 
                         </p>
 
@@ -197,7 +188,7 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Talk to our IoT experts</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -208,14 +199,12 @@
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Types of SaaS applications
+                <h2> <span class="mb-orange">Industry-specific IoT development
                     </span><br>
-                    we deliver
+                    services and solutions
                 </h2>
                 <p>
-                    For more than a decade, SSED SaaS development company has been empowering enterprises and startups
-                    across industries by delivering secure and scalable SaaS solutions. Tell us the type of SaaS you
-                    want to create and we will help you too.
+                    The SSED IoT development experts and consultants work with businesses across various industries, including biotechnology, finance, agriculture, and consumer electronics. However, our core expertise encompasses custom IoT solutions for retail and logistics companies, healthcare providers, and educational institutions. Turn to SSED group to create:
 
 
                 </p>
@@ -290,7 +279,7 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Talk to our IoT experts</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -300,14 +289,13 @@
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Types of SaaS applications
+                <h2> <span class="mb-orange">IoT development
                     </span><br>
-                    we deliver
+                    and implementation roadmap
                 </h2>
                 <p>
-                    For more than a decade, SSED SaaS development company has been empowering enterprises and startups
-                    across industries by delivering secure and scalable SaaS solutions. Tell us the type of SaaS you
-                    want to create and we will help you too.
+                    As an IoT consulting and development company with 13+ years of experience, we've devised a custom, highly effective approach to IoT development. Here's what we'll do to transform your idea into a winning product:
+
 
 
                 </p>
@@ -322,49 +310,49 @@
                         <div class="mb-steps-col-inner mb-steps-col-circle">
                         </div>
                         <div class="mb-steps-col-inner mb-steps-col-head">
-                            <h3>Discovery & R&D</h3>
+                            <h3>IoT consulting</h3>
                         </div>
                     </div>
                     <div class="mb-steps-row-inner">
                         <div class="mb-steps-col-inner mb-steps-col-circle">
                         </div>
                         <div class="mb-steps-col-inner mb-steps-col-head">
-                            <h3>UX/UI Design</h3>
+                            <h3>MVP development</h3>
                         </div>
                     </div>
                     <div class="mb-steps-row-inner">
                         <div class="mb-steps-col-inner mb-steps-col-circle">
                         </div>
                         <div class="mb-steps-col-inner mb-steps-col-head">
-                            <h3>Development</h3>
+                            <h3>MVP rollout and testing</h3>
                         </div>
                     </div>
                     <div class="mb-steps-row-inner">
                         <div class="mb-steps-col-inner mb-steps-col-circle">
                         </div>
                         <div class="mb-steps-col-inner mb-steps-col-head">
-                            <h3>QA</h3>
+                            <h3>IoT scaling</h3>
                         </div>
                     </div>
                     <div class="mb-steps-row-inner">
                         <div class="mb-steps-col-inner mb-steps-col-circle">
                         </div>
                         <div class="mb-steps-col-inner mb-steps-col-head">
-                            <h3>Launch</h3>
+                            <h3>IoT ecosystem setup</h3>
                         </div>
                     </div>
                 </div>
 
             </div>
             <div class="mb-steps-col">
-                We translate your app idea into a feature setlist and draw up a detailed
-                development roadmap that leads to the desired outcomes.
+                We collect stakeholder feedback, analyze the functional and non-functional requirements of an IoT solution, select primary use cases, and create a proof of concept (POC)
+
             </div>
         </div>
 
         <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                             <span class="button__wrap"><span class="button__inner_wrap">
-                                    <b class="button__inner_text">Hire mobile app developer</b>
+                                    <b class="button__inner_text">Hire IoT developer</b>
                                 </span>
                                 <span class="button__arrow">
                                     <svg class="alternative_solution" viewBox="0 0 1000 1000"
@@ -387,7 +375,7 @@
 
 
     <section class="mb-sec-2 mb-mt-50">
-            <div class="mb-logo-title"> <b>Join 4,000+ companies already growing</b> </div>
+            <div class="mb-logo-title"> <b>Our clients</b> </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
                     <img src=" {{asset('img/boltshift.png') }}">

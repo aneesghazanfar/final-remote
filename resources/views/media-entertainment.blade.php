@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Artificial Intelligence (AI) Consulting &amp; Development Services &mdash; SSEDLAB</title>
+    <title>Media And Entertainment Solution &amp; Development Services &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -22,7 +22,8 @@
     <meta name="theme-color" content="#ffffff">
     <style>
     .banner-img-page {
-        background-image: url('../../img/banner-tt/div.top_sectionss.png');
+        background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0.726) 100%), url('https://e1.pxfuel.com/desktop-wallpaper/1004/661/desktop-wallpaper-movie-clapperboard-hands-clapper-equipment-object-media-video-cinematography-cinema-industry-production-film-entertainment-oscar-producer-director-cut-scene-shot-studio-hollywood.jpg');
+        
         background-position: cover;
         background-repeat: no-repeat;
         background-size: 100% 100%;
@@ -43,20 +44,17 @@
             <div class="top_section vis_on_scroll banner-img-page">
                 <div class="container">
                     <h1 class="banner-main-heading">
-                        AI consulting &
-                        development
-                        services
+                        Media & entertainment
+                        software solutions
                     </h1>
                     <p class="tt-banner-para">
-                        From image analysis and human activity recognition to semantic search and manual task
-                        automation, we provide AI consulting services and develop custom artificial intelligence
-                        solutions that give you a competitive edge
+                        Boost content production, collaborate globally, and engage audiences of all sizes with innovative and insightful media and entertainment software solutions
 
                     </p>
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Talk to our AI developers</button>
+                        <button class="tt-banner-btn">Discuss Your Needs</button>
                         <img src=" {{asset('img/SVG.svg') }}" alt="">
                     </section>
 
@@ -81,45 +79,38 @@
 
                 </p>
                 <br><br>
-                <button class="accordion">01- Innovation Consulting</button>
+                <button class="accordion">Broadcasting</button>
                 <div class="panel">
-                    <p>Make your digital transformation journey super simple, safe, and aligned with your specific
-                        business needs. We're good at strategy planning for both enterprises and SMBs, IT audit,
-                        business process analysis, and more.</p>
+                    <p>Create personalized experiences at scale, deep dive into your audience’s preferences, and gain more value from your content portfolio
+                    </p>
                 </div>
 
-                <button class="accordion">02- Digital Transformation</button>
+                <button class="accordion">Publishing</button>
                 <div class="panel">
-                    <p>Achieve lower costs, utmost scalability and maximum velocity with our legacy software
-                        modernization, cloud, and DevOps services. Our enterprise software development company is here
-                        to help you remove the roadblocks to innovation.</p>
+                    <p>Enhance reading experience with tech-powered interactive elements, optimize content creation, proofreading, and translation, and reach more minds with new distribution channels</p>
                 </div>
 
-                <button class="accordion">03- Software Engineering</button>
+                <button class="accordion">New media</button>
                 <div class="panel">
-                    <p>Build enterprise software solutions that perform. We can cover you along the whole way or fill in
-                        specific skill gaps in business analysis, UX/UI, testing, development, or support across web,
-                        mobile, desktop, cloud, and embedded platforms.</p>
+                    <p>Get the audience to notice and engage with your content, optimize monetization strategies, and stay ahead of the increasing competition.</p>
                 </div>
 
-                <button class="accordion">04- Big Data & Analytics</button>
+                <button class="accordion">Sports & entertainment</button>
 
                 <div class="panel">
-                    <p>Use your torrents of data to drive decision-making across the company. From Data Governance &
-                        Data Management to Data Analytics and Data Science, we make business, not IT, own your data.</p>
+                    <p>Deliver content to fans around the world and uncover new opportunities for engagement, insight, and revenue generation</p>
                 </div>
 
-                <button class="accordion">05- Artificial Intelligence</button>
+                <button class="accordion">Gaming</button>
 
                 <div class="panel">
-                    <p>Implement AI to beat real-world business challenges and meet your KPIs, getting beyond the hype.
-                        From ML, NLP, and Computer Vision to integration of AI technologies for Intelligent Automation,
-                        we’ve done it all for our delighted clients.</p>
+                    <p>Drive game design, engage players, and improve player retention and monetization
+                    </p>
                 </div>
 
                 <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                         <span class="button__wrap"><span class="button__inner_wrap">
-                                <b class="button__inner_text">Discuss my project</b>
+                                <b class="button__inner_text">Reimagine your business</b>
                             </span>
                             <span class="button__arrow">
                                 <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
@@ -141,16 +132,12 @@
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Our AI solutions
-                    <span class="mb-orange"> <br>in focus</span>
+                <h2> Media and entertainment solutions  
+                    <span class="mb-orange"> <br>for every need</span>
 
                 </h2>
                 <p>
-                    As an artificial intelligence consulting company, we are confident that AI has limitless potential
-                    to transform your business. Explore a variety of AI use cases that highlight our capabilities and
-                    demonstrate the technology's potential. From improving operations to boosting your profits, our
-                    customized AI services guarantee real growth and unmatched success.
-
+                    As audiences have more choice than ever, media and entertainment companies need an edge. We craft powerful media and entertainment solutions that win you a competitive advantage.
 
                 </p>
             </div>
@@ -163,13 +150,13 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Progressive Web Apps
+                            Streamline content production
                         </h3>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Customer behavior analysis
+                            <span>◉</span> Workflow automation software
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Product recommendation engines
+                            <span>◉</span> Production scheduling and management software
                         </p>
 
 
@@ -177,13 +164,13 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Accelerated Mobile Pages
+                            Optimize content distribution
                         </h3>
                         <p class="sec-2-device-p">
-                            <span>◉</span> In-store personalization
+                            <span>◉</span> Video hosting software
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Price optimization based on market trends and customer behavior
+                            <span>◉</span> Over-the-top streaming software
                         </p>
 
 
@@ -191,26 +178,26 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Single-page Applications
+                            Improve collaboration
                         </h3>
                         <p class="sec-2-device-p">
-                            <span>◉</span> In-store personalization
+                            <span>◉</span> Digital asset management software
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Price optimization based on market trends and customer behavior
+                            <span>◉</span>  Content management software
                         </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Serverless architecture
+                            Tap into audience and content intelligencee
                         </h3>
                         <p class="sec-2-device-p">
-                            <span>◉</span> In-store personalization
+                            <span>◉</span> CRM software
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Price optimization based on market trends and customer behavior
+                            <span>◉</span> AI-powered analytics software
                         </p>
 
                     </div>
@@ -225,15 +212,13 @@
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Our AI solutions
-                    <span class="mb-orange"> <br>in focus</span>
+                <h2> Modern technology
+                    <span class="mb-orange"> <br>at your fingertips</span>
 
                 </h2>
                 <p>
-                    As an artificial intelligence consulting company, we are confident that AI has limitless potential
-                    to transform your business. Explore a variety of AI use cases that highlight our capabilities and
-                    demonstrate the technology's potential. From improving operations to boosting your profits, our
-                    customized AI services guarantee real growth and unmatched success.
+                    Crafting our media and entertainment software solutions, we implement innovative technology to deliver exceptional results through data-driven decision making, intelligent automation, and engaging user experience.
+
 
 
                 </p>
@@ -246,22 +231,21 @@
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Retail & E-commerce
+                            AI & ML:
                         </h3>
                         <p>
-                            Make faster decisions, enjoy accurate demand forecasting, streamline inventory management,
-                            optimize the flow of goods, and better understand your customers with AI for retail
+                            Harnessing the power of neural networks and machine learning algorithms, we let you tap into valuable insights and deliver tailored experiences that resonate with your audience — be it through personalized content
+
 
                         </p>
                     </div>
                     &nbsp;&nbsp;&nbsp;
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Supply Chain & Logistics
+                            RPA & IPA:
                         </h3>
                         <p>
-                            Gain total control over shipments, reduce paperwork, and simplify vendor communication,
-                            deliveries, and warehousing operations with AI-enhanced software
+                            We implement solutions that automate data entry, content ingestion, metadata management, and other manual tasks. By eliminating human error and improving accuracy, our automation solutions ensure smoother operations, faster turnarounds, and enhanced productivity, allowing your team to focus on creative initiatives
                         </p>
 
 
@@ -269,11 +253,10 @@
                     &nbsp;&nbsp;&nbsp;
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Education & eLearning
+                            AR & VR:
                         </h3>
                         <p>
-                            Personalize learning programs, produce smart content, automate administrative tasks, and
-                            provide access to education for students with special needs with AI in education
+                            We leverage the power of immersive technologies to let you captivate your viewers and offer unique experiences. Whether it’s enhancing live events, enabling interactive storytelling, or creating virtual environments, we bring your content to life in a way that engages your audience
                         </p>
 
 
@@ -283,21 +266,18 @@
             </div>
             <br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Lets solve your challenges with AI</button>
+                <button class="tt-banner-btn">Get your media and entertainment solution</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Our AI solutions
-                    <span class="mb-orange"> <br>in focus</span>
+                <h2> End-to-end media and entertainment
+                    <span class="mb-orange"> <br>development services</span>
 
                 </h2>
                 <p>
-                    As an artificial intelligence consulting company, we are confident that AI has limitless potential
-                    to transform your business. Explore a variety of AI use cases that highlight our capabilities and
-                    demonstrate the technology's potential. From improving operations to boosting your profits, our
-                    customized AI services guarantee real growth and unmatched success.
+                    Partnering with ITRex, you collaborate with a team of experienced media & entertainment software developers who can guide your project from ideation to realization. We put field-tested workflows and transparent reporting in place to take the burden of managing the development process off your shoulders. As soon as we get your request, our collaboration unfolds in the following way:
 
 
                 </p>
@@ -309,44 +289,39 @@
             <div class="accordian-container">
 
                 <!-- <h1>How we can help you</h1> -->
-                <h1 style="text-align: left;" class="top_section__head_index">
+                {{-- <h1 style="text-align: left;" class="top_section__head_index">
                     <span style="color: #d95b28;">Become a roaring success with our
                         media and entertainment solutions company</span>
-                </h1>
-                <p>
+                </h1> --}}
+                {{-- <p>
                     Marrying a decade of experience crafting custom software solutions and innovative thinking, we help
                     you connect with your audiences, build interactive experiences, and boost content production — no
                     matter the segment you’re in. We’ve helped a few media and entertainment tycoons to win audiences’
                     hearts and want to help you do just that.
 
-                </p>
+                </p> --}}
                 <br><br>
-                <button class="accordion">01- Innovation Consulting</button>
+                <button class="accordion">Discovery</button>
                 <div class="panel">
-                    <p>Make your digital transformation journey super simple, safe, and aligned with your specific
-                        business needs. We're good at strategy planning for both enterprises and SMBs, IT audit,
-                        business process analysis, and more.</p>
+                    <p>Diving deep into your business challenges, we define business requirements for your future entertainment and media software solution and draft a high-level project management plan.</p>
                 </div>
 
-                <button class="accordion">02- Digital Transformation</button>
+                <button class="accordion">Design</button>
                 <div class="panel">
-                    <p>Achieve lower costs, utmost scalability and maximum velocity with our legacy software
-                        modernization, cloud, and DevOps services. Our enterprise software development company is here
-                        to help you remove the roadblocks to innovation.</p>
+                    <p>We design the architecture of your solution for the media or entertainment industry, followed by crafting an intuitive and engaging look and feel.</p>
                 </div>
 
-                <button class="accordion">03- Software Engineering</button>
+                <button class="accordion">Development and testing</button>
                 <div class="panel">
-                    <p>Build enterprise software solutions that perform. We can cover you along the whole way or fill in
-                        specific skill gaps in business analysis, UX/UI, testing, development, or support across web,
-                        mobile, desktop, cloud, and embedded platforms.</p>
+                    <p>
+                        Relying on Agile and DevOps best practices, we engineer your media software solution and run thorough testing.</p>
                 </div>
 
-                <button class="accordion">04- Big Data & Analytics</button>
+                <button class="accordion">Maintenance and support</button>
 
                 <div class="panel">
-                    <p>Use your torrents of data to drive decision-making across the company. From Data Governance &
-                        Data Management to Data Analytics and Data Science, we make business, not IT, own your data.</p>
+                    <p>
+                        We keep an eye on the solution's performance and implement changes to respond to the evolving needs of your users.</p>
                 </div>
                 <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                         <span class="button__wrap"><span class="button__inner_wrap">
@@ -381,7 +356,7 @@
                             12+
                         </h3>
                         <p class="mb-counter-text">
-                            years in mobile application development
+                            years in application development
                         </p>
                     </div>
                     <div class="mb-counter">
@@ -432,7 +407,7 @@
     </section>
 
     <section class="mb-sec-2 mb-mt-50">
-        <div class="mb-logo-title"> <b>Join 4,000+ companies already growing</b> </div>
+        <div class="mb-logo-title"> <b>Our clients</b> </div>
         <div class="mb-flex">
             <div class="mb-logo-list">
                 <img src=" {{asset('img/boltshift.png') }}">
@@ -459,7 +434,7 @@
 
     <section class="mb-sec-2 mb-mt-50">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">Latest Projects</h2>
+                <h2 class="mb-text-white">Our success stories</h2>
                 <div class="swiper swiper-slider">
                     <div class="swiper-wrapper">
 
@@ -469,7 +444,7 @@
                                         alt="Swiper">
                                     <h3 class="slider-heading">AI-based enterprise software for No.1 retailer→</h3>
                                     <p>
-                                        Self-service analytics enabled by AI algorithms empowers 3 million users with
+                                        Self-service analytics enabled by   algorithms empowers 3 million users with
                                         instant actionable insights.
                                     </p>
                                 </a>
@@ -648,7 +623,7 @@
             <br>
 
             <section class="banner-btn">
-                <button class="tt-banner-btn">Talk to our AI developers</button>
+                <button class="tt-banner-btn">Talk to our developers</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
     </div>

@@ -787,6 +787,10 @@ line-height: 20px;
 .form-section {
 background-image: url(../img/form_bg.jpg);
 /*background: #020202;*/
+background-position: cover;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+display: flex;
 }
 
 /*.demo_request__form {

@@ -39,7 +39,7 @@
                                                 <li><a class="header__menu_item" href="#"><span>NLP</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#"><span class='mobile-li'>Automation</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="./automation"><span class='mobile-li'>Automation</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>RPA</span></a></li>
                                             </ul> -->
@@ -56,7 +56,7 @@
                                                 <li><a class="header__menu_item" href="#"><span>Metaverse</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#"><span class='mobile-li'>Internet of Things</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="./iot"><span class='mobile-li'>Internet of Things</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>Embedded Software</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>Industrial IoT</span></a></li>
@@ -114,7 +114,7 @@
                                 </li>
                                 <li class="dropdown"><a class="header__menu_item" href="#"><span>Industries</span></a>
                                     <ul class="parent">
-                                        <li class="child"><a class="header__menu_item"  href="#">Healthcare &amp; Biotech</a>
+                                        <li class="child"><a class="header__menu_item"  href="./healthcare">Healthcare &amp; Biotech</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li class=""><a href="#">Biotech</a></li>
                                                 <li class=""><a href="#">Fitness &amp; Wellness</a></li>
@@ -123,11 +123,11 @@
                                                 <li class=""><a href="#">Pharma</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child"><a class="header__menu_item" href="-">Logistics &amp; Transportation</a></li>
-                                        <li class="child"><a class="header__menu_item" href="#">Manufacturing &amp; Supply Chain</a></li>
-                                        <li class="child"><a class="header__menu_item" href="#">Media &amp; Entertainment</a></li>
-                                        <li class="child"><a class="header__menu_item" href="#">Retail</a></li>
-                                        <li class="child"><a class="header__menu_item" href="#">EdTech &amp; eLearning</a></li>
+                                        <li class="child"><a class="header__menu_item" href="./transportation_logistics">Logistics &amp; Transportation</a></li>
+                                        <li class="child"><a class="header__menu_item" href="./manufacturing-supply">Manufacturing &amp; Supply Chain</a></li>
+                                        <li class="child"><a class="header__menu_item" href="./media-entertainment">Media &amp; Entertainment</a></li>
+                                        <li class="child"><a class="header__menu_item" href="./retail-software">Retail</a></li>
+                                        <li class="child"><a class="header__menu_item" href="./e-learning">EdTech &amp; eLearning</a></li>
                                         <li class="child"><a class="header__menu_item" href="#">FinTech</a></li>
                                         <li class="child"><a class="header__menu_item" href="#">Ecommerce</a>
                                             <!-- <ul class="sub-menu subsub">

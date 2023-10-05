@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Artificial Intelligence (AI) Consulting &amp; Development Services &mdash; SSEDLAB</title>
+    <title>Healthcare Software &amp; Development Services &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -22,7 +22,11 @@
     <meta name="theme-color" content="#ffffff">
     <style>
         .banner-img-page {
-  background-image: url('../../img/banner-tt/div.top_sectionss.png');
+  
+  
+  
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://e1.pxfuel.com/desktop-wallpaper/128/744/desktop-wallpaper-health-care-backgrounds-health-care.jpg');
+    background-attachment: fixed;
   background-position: cover;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -43,20 +47,18 @@
             <div class="top_section vis_on_scroll banner-img-page">
                 <div class="container">
                     <h1 class="banner-main-heading">
-                        AI consulting &
+                        Healthcare software
                         development
                         services
                     </h1>
                     <p class="tt-banner-para">
-                        From image analysis and human activity recognition to semantic search and manual task
-                        automation, we provide AI consulting services and develop custom artificial intelligence
-                        solutions that give you a competitive edge
+                        Experience the impact of our healthcare software development services to improve health outcomes, educate patients, and automate workflows, all while meeting the industry-specific data and security standards
 
                     </p>
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Talk to our AI developers</button>
+                        <button class="tt-banner-btn">Build next-gen medical software</button>
                         <img src=" {{asset('img/SVG.svg') }}" alt="">
                     </section>
 
@@ -65,52 +67,34 @@
         </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- remove logo -->
 
         <!-- second Sections is here -->
 
         <section class="mb-sec-2">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">AI consulting and development company with extensive know-how</h2>
+                <h2 class="mb-text-white">Custom healthcare software development for every need</h2>
                 <p>
-                    An artificial intelligence consulting and development company with over a decade of experience, we will help you harness machine learning algorithms and the latest artificial intelligence tools and technologies for exponential growth.
+                    A healthcare software development company with a rich portfolio of healthcare projects, SSED provides end-to-end medical software development services to healthcare providers, pharmaceutical companies, digital health startups, and medical device manufacturers. To create healthcare IT solutions that would benefit your organization, we always put security first, ensure healthcare data interoperability, and follow UI/UX best practices.
 
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Machine Learning
+                            Healthcare providers
                         </h3>
                         <p>
-                            Applying our expertise in supervised, unsupervised, and reinforcement machine learning, we build smart systems that make best decisions with little to no human help.
+                            Our healthcare software development company will assist you in implementing EMR/EHR, practice and laboratory management, hospital asset tracking, remote patient monitoring (RPM), point of care (POC), and population health management (PHM) solutions.
 
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                           Deep learning
+                            Pharmaceutical companies
                         </h3>
                         <p>
-                            Utilizing the power of multi-layered neural networks, we architect AI business solutions that mimic — and even outperform — human intelligence.
+                            We build and customize healthcare software solutions for drug development, clinical trials, production, and distribution. These include simulation and data visualization tools, ERP and supply chain management systems, and accounting software
 
                         </p>
 
@@ -119,10 +103,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Natural Language Processing
+                            Medical device manufacturers
                         </h3>
                         <p>
-                            We build real-time speech recognition and conversational AI software solutions that drive user experience way forward.
+                            Our healthcare software development team gives voice and processing power to hospital-grade and consumer devices. To that end, we develop embedded systems, mobile/web/cloud solutions for device management, and AI-driven data analytics tools
 
                         </p>
 
@@ -134,19 +118,19 @@
                         <img src=" {{asset('img/ML.svg') }}" alt="">
 
                         <h3 class="sec-2-device">
-                            Computer Vision
+                            B2B/B2C digital health startups
                         </h3>
                         <p>
-                            From biometric authentication to CCTV monitoring and live video analysis, we develop AI solutions that accurately recognize and interpret visual information.
+                            Partner with SSED to create telehealth and telemedicine systems, wellness technology solutions, including Femtech and Baby Tech products, and software infrastructure for diagnostic and assistive devices
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <img src=" {{asset('img/eye.svg') }}" alt="">
                         <h3 class="sec-2-device">
-                            Generative AI
+                            Biotech companies
                         </h3>
                         <p>
-                            From crafting catchy texts to creating compelling visuals and writing code, we build generative AI solutions that let you unleash creativity, spark automation, and redefine content creation.
+                            We help biotechnology companies from the healthcare, pharma, agriculture, green tech, and industrial manufacturing sectors develop and deploy innovative biotech solutions — from laboratory software to organs-on-chips (OoCs).
 
                         </p>
 
@@ -156,10 +140,11 @@
                         <img src=" {{asset('img/bar.svg') }}" alt="">
 
                         <h3 class="sec-2-device">
-                            Robotics
+                            Life science companies
+
                         </h3>
                         <p>
-                            Marrying cutting-edge technology with human-like precision, we build software components of robotic solutions that propel operations and redefine efficiency, from intricate assembly lines and beyond.
+                            Our healthcare software development company creates standalone apps and entire software ecosystems facilitating research and development (R&D) activities in the life science field. Whether you’re developing a new medication or biodegradable fuel, our life science consulting company is here to help!
                         </p>
 
 
@@ -169,20 +154,19 @@
             </div>
             <br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Discuss your AI concept</button>
+                <button class="tt-banner-btn">Transform your healthcare business</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Our AI solutions
-                    <span class="mb-orange"> <br>in focus</span>
+                <h2> Our approach to delivering healthcare
+                    <span class="mb-orange"> <br>software development services</span>
 
                 </h2>
                 <p>
-                    As an artificial intelligence consulting company, we are confident that AI has limitless potential to transform your business. Explore a variety of AI use cases that highlight our capabilities and demonstrate the technology's potential. From improving operations to boosting your profits, our customized AI services guarantee real growth and unmatched success.
-
+                    We provide a wide range of medical software engineering services, including prototyping, development, deployment, post-launch maintenance, and integration with third-party systems; please choose a service offering that best meets your unique needs!
 
                 </p>
             </div>
@@ -196,32 +180,34 @@
             <div class="mb-sec-2-inner">
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/ML.svg') }}" alt="">
+                        <img src="https://itrexgroup.com/wp-content/uploads/2021/11/accord_1-1.gif" alt="">
 
                         <h3 class="sec-2-device">
-                            Speech recognition
+                            Turnkey projects
                         </h3>
                         <p>
-                            Real-time speech processing and voice interfaces to automate routine tasks and take user experience to the next level
+                            Our healthcare software development company takes over medical software development projects from start to finish, from the discovery phase and proof of concept up to organization-wide deployment and ongoing maintenance—all under one roof
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/ML.svg') }}" alt="">
-
+                        <img src="https://itrexgroup.com/wp-content/uploads/2021/11/accord_3-2.gif" alt="">
+                        <br><br><br>
                         <h3 class="sec-2-device">
-                            Semantic search
+                            Expert advice on next-gen tech
                         </h3>
                         <p>
-                            Advanced, NLP-powered algorithms to dig up search results that match a user’s intent best
-                        </p>
+                            We consult our clients on best practices around digital transformation, legacy app modernization, cloud computing , DevOps, artificial intelligence implementation, data management, data analytics                        </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
-                        <img src=" {{asset('img/eye.svg') }}" alt="">
+                        <img src="https://itrexgroup.com/wp-content/uploads/2021/11/accord_6-2.gif" alt="">
+                        <br>
+                        <br>
+                        <br>
                         <h3 class="sec-2-device">
-                            Text classification
+                            Covering project skills gap
                         </h3>
                         <p>
-                            NLP-powered categorization of emails, posts, and other textual information for sentiment analysis, topic labeling, and spam detection
+                            We help healthcare providers and digital health companies bridge the skills gap (think AI, DevOps, or intelligent automation!) in knowledge-intensive projects. SSED healthcare software development company offers a plethora of engagement models to make our partnership work.
 
                         </p>
 
@@ -232,20 +218,19 @@
             </div>
             <br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Let's build your AI solution</button>
+                <button class="tt-banner-btn">Let's build your solution</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> AI consulting and development services
-                    <span class="mb-orange"> <br>for your industry
+                <h2> Our healthcare software
+                    <span class="mb-orange"> <br>development expertise
                     </span>
 
                 </h2>
                 <p>
-                    Using our knowledge of industry-specific business processes and challenges, we tailor our artificial intelligence solutions to your particular needs. Whether you want to automate back-office operations, boost customer experience, improve security, or launch a truly innovative software product, our AI consultants and developers are up for the challenge.
-
+                    Our medical software solutions portfolio features powerful tools driving patient engagement and automating fastidious tasks associated with inpatient and outpatient care. To secure patient data and protect your IT infrastructure against cyberattacks, we create medical software in line with healthcare IT standards, including HIPAA, GDPR, FDA, HL7, ICD-10, CPT, XDS/XDS-I, HITECH, SSAE, FHIR, and DICOM.
                 </p>
             </div>
         </section>
@@ -262,20 +247,20 @@
                         <img src=" {{asset('img/ML.svg') }}" alt="">
 
                         <h3 class="sec-2-device">
-                            Healthcare & Biotech
-                        </h3>
+                            mHealth
+                         </h3>
                         <p>
-                            Improve diagnostics and care delivery, enhance patient-doctor communication, and optimize hospital operations and population health management with AI-powered healthcare solutions
+                            Mobile healthcare applications facilitating appointment scheduling, prescription refills, remote consultations, and patient education
 
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <img src=" {{asset('img/eye.svg') }}" alt="">
                         <h3 class="sec-2-device">
-                            Life Sciences
+                            Internet of Medical Things (IoMT)
                         </h3>
                         <p>
-                            Facilitate the development of new drugs and drug repurposing, draw insights about drug candidates, targets, and biomarkers, as well as improve clinical trials with our powerful yet intuitive AI solutions
+                            Mobile, web, cloud apps, and embedded healthcare applications for IoMT devices: diagnostic equipment, vital signs monitors, and multi-layered smart hospital systems
 
                         </p>
 
@@ -285,10 +270,10 @@
                         <img src=" {{asset('img/bar.svg') }}" alt="">
 
                         <h3 class="sec-2-device">
-                            Finance & Banking
+                            Extended reality
                         </h3>
                         <p>
-                            Automate banking and financial processes, reduce operational costs, enhance security, and enjoy other benefits of AI in banking and finance
+                            Augmented, virtual, and mixed reality solutions enhancing medical images and simulating real-world events for efficient medical staff training
                         </p>
 
 
@@ -299,20 +284,20 @@
                         <img src=" {{asset('img/ML.svg') }}" alt="">
 
                         <h3 class="sec-2-device">
-                            Retail & E-commerce
+                            Patient engagement
                         </h3>
                         <p>
-                            Make faster decisions, enjoy accurate demand forecasting, streamline inventory management, optimize the flow of goods, and better understand your customers with AI for retail
+                            Healthcare software solutions leveraging state-of-the-art media streaming, content delivery, and communication technologies for remote doctor-patient interactions and patient education
 
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <img src=" {{asset('img/eye.svg') }}" alt="">
                         <h3 class="sec-2-device">
-                            Supply Chain & Logistics
+                            Artificial intelligence
                         </h3>
                         <p>
-                            Gain total control over shipments, reduce paperwork, and simplify vendor communication, deliveries, and warehousing operations with AI-enhanced software
+                            Healthcare AI solutions powered by machine learning models and neural networks that uncover insights in patient and physician-generated data and help doctors make better-informed decisions
                         </p>
 
 
@@ -321,10 +306,9 @@
                         <img src=" {{asset('img/bar.svg') }}" alt="">
 
                         <h3 class="sec-2-device">
-                            Education & eLearning
-                        </h3>
+                            RPA                        </h3>
                         <p>
-                            Personalize learning programs, produce smart content, automate administrative tasks, and provide access to education for students with special needs with AI in education
+                            Robotic process automation solutions streamlining clinical workflows: appointment scheduling, accounting, health plan implementation, and compliance orchestration among others
                         </p>
 
 
@@ -334,7 +318,7 @@
             </div>
             <br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Lets solve your challenges with AI</button>
+                <button class="tt-banner-btn">Lets solve your challenges</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
@@ -360,7 +344,7 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Vendor-agnostic.
+                            Proven expertise.
                         </h3>
                         <p class="sec-2-device-p">
                             We aren’t tied to any providers, so we only recommend AI services and technologies that we believe are right for you.
@@ -375,8 +359,7 @@
                             Diverse expertise. 
                         </h3>
                         <p class="sec-2-device-p">
-                            AI development company with 13+ years’ experience, we worked on hundreds of projects across in industries, from retail and FinTech to healthcare and life sciences, and beyond.
-
+                            When designing medical software solutions, we make sure to only recommend technologies that are suitable for your project and diversify your project’s tech stack to avoid vendor lock-in.
                         </p>
 
                     </div>
@@ -386,21 +369,19 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Top AI developers with niche skills.
-                        </h3>
+                            Multi-faceted skills.                        </h3>
                         <p class="sec-2-device-p">
-                            With our 300+ strong team, we can bring in senior analysts, AI consultants, elite developers, and our R&D department when needed.
-                        </p>
+                            In addition to creating healthcare software solutions, we provide robust consulting, quality assurance, data management, and cloud optimization services to speed up your company’s digital journey.                        </p>
 
                     </div>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Proven track record
+                            Built-in scalability.
                         </h3>
                         <p class="sec-2-device-p">
-                            We’ve successfully completed 600+ projects and served 200+ clients across the globe.
+                            As an established healthcare software development company, we have a set of practices and frameworks in place to design medical solutions that scale flexibly along with your business.
 
                         </p>
 
@@ -409,7 +390,7 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our AI experts</button>
+                <button class="tt-banner-btn">Talk to our experts</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -421,7 +402,7 @@
 
         <section class="mb-sec-2 mb-mt-50">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">Latest Projects</h2>
+                <h2 class="mb-text-white">Featured Projects</h2>
                 <div class="swiper swiper-slider">
                     <div class="swiper-wrapper">
 
@@ -624,105 +605,51 @@
                     <span style="color: #d95b28;">FAQ</span>
                 </h1>
 
-                <button class="accordion">1. What makes you stand out in the field of artificial intelligence services and solutions?</button>
+                <button class="accordion">Can you provide examples of healthcare software solutions you’ve developed?
+                </button>
                 <div class="panel">
-                    <p>With over a decade of experience providing artificial intelligence consulting services, we've established ourselves as pioneers in the field. Our team of experts combines deep technical knowledge with a comprehensive understanding of diverse industries. This fusion allows us to craft tailor-made AI solutions that align with your unique business needs, driving remarkable outcomes.</p>
+                    <p>Certainly, we’ve developed a range of solutions, including a medical digital imaging platform, a medical inventory management solution, an e-learning portal for medical students, an organ-on-a-chip solution for drug development, and many more. Tell us more about the solution you’re eyeing to create, and we will showcase relevant expertise.</p>
                 </div>
 
-                <button class="accordion">2. How can your AI development services benefit my business specifically?</button>
+                <button class="accordion">How do you ensure the security and compliance of the healthcare solutions you’re developing?</button>
                 <div class="panel">
-                    <p>We don’t preach AI for the sake of innovation. Instead, our AI solutions are crafted to deliver tangible value. Through in-depth analysis and understanding of your business processes, we identify areas where AI can streamline operations, enhance efficiency, and fuel growth. From automating routine tasks to extracting insights from complex data, our solutions are designed to yield measurable results.</p>
+                    <p>We follow industry best practices, implementing robust encryption and access controls, running regular security audits, and carrying out ongoing compliance monitoring to safeguard patient data.</p>
                 </div>
 
-                <button class="accordion">3. How do you ensure data security and privacy in AI implementations?</button>
+                <button class="accordion">Do you have experience working with healthcare providers or organizations similar to ours?</button>
                 <div class="panel">
-                    <p>Data security is paramount in our approach to artificial intelligence development services. We adhere to rigorous industry standards and best practices to safeguard your data at every stage of the AI journey. Our expertise includes implementing robust encryption, access controls, and compliance measures to ensure your sensitive information remains protected.</p>
+                    <p>We have extensive experience collaborating with healthcare providers, hospitals, clinics, and other medical organizations of all sizes. We know the specifics of the healthcare sector well and dive deep into your organization’s processes to ensure a tailored approach to your project</p>
                 </div>
 
-                <button class="accordion">4. How do you ensure that AI solutions integrate seamlessly into our existing systems?</button>
+                <button class="accordion">How do you ensure the usability and user-friendliness of the healthcare software solutions you craft?</button>
 
                 <div class="panel">
-                    <p>Our team is skilled in integrative solutions, ensuring that AI seamlessly fits with your existing systems. We conduct thorough assessments of your infrastructure, customizing AI solutions to align with your technology stack. Our goal is to enhance your capabilities without disrupting your established workflows.</p>
+                    <p>Our design process spans multiple iterations and involves user testing and continuous feedback to ensure optimal usability for all stakeholders.</p>
                 </div>
 
-                <button class="accordion">5. Can you explain the process of you delivering artificial intelligence development services in simple terms?</button>
+                <button class="accordion">What does the typical process for developing healthcare software look like, from concept to deployment?</button>
 
                 <div class="panel">
-                    <p>Our AI development process involves several stages: understanding your requirements, data collection and preparation, model development and training, rigorous testing, deployment, and continuous monitoring. At each step, our experts communicate and collaborate with your team to ensure alignment and satisfaction.</p>
+                    <p>After a kick-off meeting, our collaboration unfolds through requirements gathering, design, development, testing, and deployment. We follow the Agile framework to allow flexibility and collaboration throughout the project.</p>
                 </div>
 
-                <button class="accordion">6. What happens after the AI solution is implemented?</button>
+                <button class="accordion">What factors can affect the timeline and cost of healthcare software development projects?</button>
 
                 <div class="panel">
-                    <p>Our partnership doesn't end at implementation. As a part of our AI development services, we provide ongoing support and maintenance to ensure your AI solutions operate seamlessly. Regular updates, performance optimization, and adaptability to changing needs are integral aspects of our commitment to your success.</p>
+                    <p>These factors span the number and complexity of the desired features, third-party integrations, the need for data migration, regulatory compliance requirements, and more. We provide transparent pricing structures and discuss options for cost management.</p>
                 </div>
-                <button class="accordion">7. How do you stay updated with the latest AI advancements?</button>
-
-                <div class="panel">
-                    <p>Our dedication to innovation drives us to stay at the forefront of AI trends. We invest in continuous learning, enabling us to leverage the latest breakthroughs in AI technology and apply them to your projects.</p>
-                </div>
-
-                <button class="accordion">8. How can we get started with implementing AI solutions for our business?</button>
-
-                <div class="panel">
-                    <p>Initiating the journey is simple. Reach out to our team, and we'll begin with a comprehensive consultation to understand your goals and challenges. From there, we'll collaborate to design a custom AI strategy that aligns with your objectives, ensuring that your business evolves with the transformative power of AI.</p>
-                </div>
+                
                 <br>
                 <br>
                 <br>
 
 
                 <section class="banner-btn">
-                    <button class="tt-banner-btn">Talk to our AI developers</button>
+                    <button class="tt-banner-btn">Talk to our developers</button>
                     <img src=" {{asset('img/SVG.svg') }}" alt="">
                 </section>
             </div>
         </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
 
 
 
