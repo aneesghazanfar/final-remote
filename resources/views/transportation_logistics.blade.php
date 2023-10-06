@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Artificial Intelligence (AI) Consulting &amp; Development Services &mdash; SSEDLAB</title>
+    <title>Transportation and Logistics Software &amp; Development Company &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -21,14 +21,16 @@
     <meta name="msapplication-config" content=" {{asset('i/browserconfig.xml') }}">
     <meta name="theme-color" content="#ffffff">
     <style>
-    .banner-img-page {
-        background-image: url('../../img/banner-tt/div.top_sectionss.png');
-        background-position: cover;
-        background-repeat: no-repeat;
-        background-size: 100% 100%;
-        display: flex;
-    }
-    .divlanding-list-item-text {
+        .banner-img-page {
+            background: linear-gradient(rgba(0, 0, 0, 0.76), rgba(0, 0, 0, 0.801)),
+            url('https://e0.pxfuel.com/wallpapers/303/700/desktop-wallpaper-services-planet-express-transport-logistics.jpg');
+            
+            background-position: cover;
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            display: flex;
+        }
+        .divlanding-list-item-text {
 position: static !important;
     }
 
@@ -69,8 +71,7 @@ position: static !important;
 {
     max-width: inherit !important;
 }
-
-    </style>
+        </style>
 </head>
 
 <body id="page-index">
@@ -95,7 +96,7 @@ position: static !important;
 
 
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Talk to our AI developers</button>
+                        <button class="tt-banner-btn">Talk to our consultants</button>
                         <img src=" {{asset('img/SVG.svg') }}" alt="">
                     </section>
 
@@ -104,29 +105,26 @@ position: static !important;
         </div>
         <section class="mb-sec-2">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">AI consulting and development company with extensive know-how</h2>
+                <h2 class="mb-text-white">Transportation and logistics software development company to serve your innovation needs</h2>
                 <p>
-                    An artificial intelligence consulting and development company with over a decade of experience, we
-                    will help you harness machine learning algorithms and the latest artificial intelligence tools and
-                    technologies for exponential growth.
+                    We know you are in the midst of unprecedented change accelerated by the pandemic, and we are here to help. Use our unmatched expertise in logistics software development to change the face of your business going forward. We build logistics and transportation software solutions with top-tier features that close visibility gaps, empower confident decisions, and strengthen supply chain resilience.
 
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Machine Learning
+                            Logistics technology consulting
                         </h3>
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Deep learning
-                        </h3>
+                            Business process automation                        </h3>
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Natural Language Processing
+                            Logistics apps, systems, and more
                         </h3>
                     </div>
                 </div>
@@ -134,13 +132,13 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Computer Vision
+                            Integration of logistics modules
                         </h3>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Generative AI
+                            Legacy software modernization
                         </h3>
 
 
@@ -149,7 +147,7 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Robotics
+                            Advanced analytics, BI, and reporting
                         </h3>
 
 
@@ -160,33 +158,10 @@ position: static !important;
             </div>
             <br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Discuss your AI concept</button>
+                <button class="tt-banner-btn">Discuss your concept</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         <!-- remove logo -->
 
@@ -196,15 +171,12 @@ position: static !important;
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> Our AI solutions
-                    <span class="mb-orange"> <br>in focus</span>
+                <h2> Custom logistics software development
+                    <span class="mb-orange"> <br>for competitive advantage</span>
 
                 </h2>
                 <p>
-                    As an artificial intelligence consulting company, we are confident that AI has limitless potential
-                    to transform your business. Explore a variety of AI use cases that highlight our capabilities and
-                    demonstrate the technology's potential. From improving operations to boosting your profits, our
-                    customized AI services guarantee real growth and unmatched success.
+                    Tell us about your idea or challenge, simple or complex. Together we will figure out the best-fit logistics software solution that will take your business to a new strategic level. With us, your transformation will be smooth, fast, and safe. We can also take a modular design approach to focus on your critical needs first while allowing you to scale as you grow.
 
 
                 </p>
@@ -223,28 +195,26 @@ position: static !important;
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Speech recognition
+                            Transportation software solutions
                         </h3>
                         <p>
-                            Real-time speech processing and voice interfaces to automate routine tasks and take user
-                            experience to the next level
+                            Handle your fleet operations with ease with our transportation software solutions. From legislation-compliant logging and fuel tracking apps to GPS-based telematics systems, route planning solutions, dispatch management software, and beyond, we have you fully covered
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Semantic search
+                            Enterprise-level supply chain management systems
                         </h3>
                         <p>
-                            Advanced, NLP-powered algorithms to dig up search results that match a user’s intent best
+                            Our logistics software development company crafts integrated supply chain management solutions to provide robust management across the supply chain, from order processing to shipping. We can also modernize and incorporate your existing logistics software solutions
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Text classification
+                            Logistics for ecommerce
                         </h3>
                         <p>
-                            NLP-powered categorization of emails, posts, and other textual information for sentiment
-                            analysis, topic labeling, and spam detection
+                            Empower ecommerce operations with our logistics software development, automating multi-channel inventory management, centralizing order fulfillment, and simplifying shipping. If you need to integrate logistics software solutions with your storefront, ITRex will help you too.
 
                         </p>
 
@@ -255,28 +225,26 @@ position: static !important;
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Speech recognition
+                            Warehouse management systems
                         </h3>
                         <p>
-                            Real-time speech processing and voice interfaces to automate routine tasks and take user
-                            experience to the next level
+                            Boost your warehouse performance with custom software for inventory tracking, documentation automation, and more accurate reporting. We can integrate your WMS with other logistics software solutions or emerging tech like IoT sensors and AI enabling smarter operations
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Semantic search
+                            Smart logistics software solutions
                         </h3>
                         <p>
-                            Advanced, NLP-powered algorithms to dig up search results that match a user’s intent best
+                            Apply innovations, from cloud-based platforms to handle deep-dive data analytics to IoT-enabled tracking solutions and AI for automated warehousing, intelligent forecasting, order planning, and smart reporting. We also build RPA bots that can take over labor-intensive tasks.
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
                         <h3 class="sec-2-device">
-                            Text classification
+                            Self-service BI and reporting tools
                         </h3>
                         <p>
-                            NLP-powered categorization of emails, posts, and other textual information for sentiment
-                            analysis, topic labeling, and spam detection
+                            Get a holistic picture of your operations and power decision-making with top-notch data analytics and automated day-to-day reporting. We create custom BI and reporting software that helps monitor KPIs, identify bottlenecks, predict demand, manage resources, and much more.
 
                         </p>
 
@@ -288,22 +256,19 @@ position: static !important;
             </div>
             <br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Let's build your AI solution</button>
+                <button class="tt-banner-btn">Let's build your logistic software solution</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> AI consulting and development services
-                    <span class="mb-orange"> <br>for your industry
+                <h2> Unleashing the potential
+                    <span class="mb-orange"> <br>of new-age tech
                     </span>
 
                 </h2>
                 <p>
-                    Using our knowledge of industry-specific business processes and challenges, we tailor our artificial
-                    intelligence solutions to your particular needs. Whether you want to automate back-office
-                    operations, boost customer experience, improve security, or launch a truly innovative software
-                    product, our AI consultants and developers are up for the challenge.
+                    With over 13 years of experience in transportation and logistics software development, we know how to make your business capitalize on disruption. We create innovations with proven value that help our clients revolutionize processes across the supply chain for tangible benefits
 
                 </p>
             </div>
@@ -322,7 +287,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        Building SaaS systems since 2009
+                                        Optimize route planning
                                     </p>
                                 </div>
                             </div>
@@ -334,33 +299,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        Over 80% of our team are middle and senior-level professionals
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="divlanding-list-list">
-                    <div class="divlanding-list-col">
-                        <div class="divlanding-list-item">
-                            <div class="divlanding-list-item-icon"></div>
-                            <div class="divlanding-list-item-text">
-                                <div class="optimize-route-planning-container">
-                                    <p class="optimize-route-planning-to-red">
-                                        Expertise in disruptive tech to put you miles ahead of the competition
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="divlanding-list-col">
-                        <div class="divlanding-list-item">
-                            <div class="divlanding-list-item-icon"></div>
-                            <div class="divlanding-list-item-text">
-                                <div class="optimize-route-planning-container">
-                                    <p class="optimize-route-planning-to-red">
-                                        Tens of thousands of hours of custom software development
+                                        to reduce delivery time, use less fuel, and handle more orders
                                     </p>
                                 </div>
                             </div>
@@ -374,7 +313,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        Product mindset focusing on the value we add
+                                        Track vehicles to improve safety, drivers’ productivity, and maintenance scheduling
                                     </p>
                                 </div>
                             </div>
@@ -386,7 +325,33 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        Global corporations among 200+ happy clients
+                                        Make fleet operations smart with data about traffic, orders, and weather
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divlanding-list-list">
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        Automate your warehouse to cut operational costs and boost team performance
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="divlanding-list-col">
+                        <div class="divlanding-list-item">
+                            <div class="divlanding-list-item-icon"></div>
+                            <div class="divlanding-list-item-text">
+                                <div class="optimize-route-planning-container">
+                                    <p class="optimize-route-planning-to-red">
+                                        Track inventory in real time to prevent dead stock, overstocking, and stock-outs
                                     </p>
                                 </div>
                             </div>
@@ -401,7 +366,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        Agile delivery to let you go faster, with a guaranteed success
+                                        Strengthen inventory and freight security with IoT-enabled real-time alerts
                                     </p>
                                 </div>
                             </div>
@@ -413,7 +378,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        Global corporations among 200+ happy clients
+                                        Minimize wasted time and resources with high-quality custom AI applications
                                     </p>
                                 </div>
                             </div>
@@ -428,7 +393,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        Agile delivery to let you go faster, with a guaranteed success
+                                        Integrate and synchronize logistics systems to get full transparency and traceability
                                     </p>
                                 </div>
                             </div>
@@ -440,7 +405,7 @@ position: static !important;
                             <div class="divlanding-list-item-text">
                                 <div class="optimize-route-planning-container">
                                     <p class="optimize-route-planning-to-red">
-                                        Global corporations among 200+ happy clients
+                                        Know sooner with predictive analytics to predict peaks and manage assets proactively
                                     </p>
                                 </div>
                             </div>
@@ -478,23 +443,21 @@ position: static !important;
             </div>
             <br><br><br>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Discuss your SaaS project</button>
+                <button class="tt-banner-btn">Unlock your potential</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> AI consulting and development services
-                    <span class="mb-orange"> <br>for your industry
+                <h2> SSED: Top transportation & logistics
+                    <span class="mb-orange"> <br>software development company
                     </span>
 
                 </h2>
                 <p>
-                    Using our knowledge of industry-specific business processes and challenges, we tailor our artificial
-                    intelligence solutions to your particular needs. Whether you want to automate back-office
-                    operations, boost customer experience, improve security, or launch a truly innovative software
-                    product, our AI consultants and developers are up for the challenge.
+                    We have great talent. With our 300-strong team, we bring in top professionals to develop simple to complex logistics software solutions for your growth
+
 
                 </p>
             </div>
@@ -511,8 +474,7 @@ position: static !important;
                             Vendor-agnostic.
                         </h3>
                         <p class="sec-2-device-p">
-                            We aren’t tied to any providers, so we only recommend AI services and technologies that we
-                            believe are right for you.
+                            We know emerging tech. We stay at the forefront of new-age technologies, delivering perfectly crafted solutions in domains like AI/ML, Big Data, IoT, Intelligent Automation, and Cloud
 
                         </p>
 
@@ -524,8 +486,7 @@ position: static !important;
                             Diverse expertise.
                         </h3>
                         <p class="sec-2-device-p">
-                            AI development company with 13+ years’ experience, we worked on hundreds of projects across
-                            in industries, from retail and FinTech to healthcare and life sciences, and beyond.
+                            As an independent consultant in transportation and logistics software development, we only recommend technologies and solutions that work best for your unique logistics needs
 
                         </p>
 
@@ -536,11 +497,10 @@ position: static !important;
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Top AI developers with niche skills.
+                            We know emerging tech. 
                         </h3>
                         <p class="sec-2-device-p">
-                            With our 300+ strong team, we can bring in senior analysts, AI consultants, elite
-                            developers, and our R&D department when needed.
+                            We stay at the forefront of new-age technologies, delivering perfectly crafted solutions in domains like AI/ML, Big Data, IoT, Intelligent Automation, and Cloud
                         </p>
 
                     </div>
@@ -560,7 +520,7 @@ position: static !important;
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our AI experts</button>
+                <button class="tt-banner-btn">Talk to our experts</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 
@@ -569,7 +529,7 @@ position: static !important;
 
 
         <section class="mb-sec-2 mb-mt-50">
-            <div class="mb-logo-title"> <b>Join 4,000+ companies already growing</b> </div>
+            <div class="mb-logo-title"> <b>Our Clients</b> </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
                     <img src=" {{asset('img/boltshift.png') }}">
@@ -788,66 +748,7 @@ position: static !important;
             </section>
     </div>
     </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     @include("contact-form")
-
-
-
-
     <?php
     // require 'shared/_footer.php';
     // footer();
