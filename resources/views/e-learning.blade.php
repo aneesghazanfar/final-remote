@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>SaaS Development Services &mdash; SSEDLAB</title>
+    <title>eLearning Software Development Services &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -21,14 +21,16 @@
     <meta name="msapplication-config" content=" {{asset('i/browserconfig.xml') }}">
     <meta name="theme-color" content="#ffffff">
     <style>
-    .banner-img-page {
-        background-image: url('../../img/banner-tt/div.top_sectionss.png');
-        background-position: cover;
-        background-repeat: no-repeat;
-        background-size: 100% 100%;
-        display: flex;
-    }
-    </style>
+        .banner-img-page {
+            background: linear-gradient(rgba(0, 0, 0, 0.76), rgba(0, 0, 0, 0.801)),
+            url('https://e0.pxfuel.com/wallpapers/484/940/desktop-wallpaper-politics-of-online-education-in-the-time-of-covid-crisis-centre-for-public-policy-research-cppr-online-learning.jpg');
+            
+            background-position: cover;
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            display: flex;
+        }
+        </style>
 </head>
 
 <body id="page-index">
@@ -47,7 +49,7 @@
             <div class="top_section vis_on_scroll banner-img-page">
                 <div class="container">
                     <h1 class="banner-main-heading">
-                        eLearning software
+                        e-Learning software
                         development
                         services
                     </h1>
@@ -65,22 +67,19 @@
         </div>
         <section class="mb-sec-2 mb-mt-50">
             <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">Our SaaS development services let you win big</h2>
+                <h2 class="mb-text-white">We craft educational software for every need</h2>
                 <p>
-                    Leverage our top-tier skills and experience in Software-as-a-Service development to create a SaaS
-                    product that will drive long-term success among customers. Our SaaS development services span the
-                    entire software lifecycle, including:
+                    We help our clients in K-12, postsecondary, and corporate segments to redefine the way they teach, learn, communicate, and operate. EdTech startups and educational software companies, in turn, use our eLearning software development expertise to win the market with next-gen features that drive online education way forward.
                 </p>
 
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            1. Tech stack choice
+                            K-12    
                         </h3>
                         <p class="sec-2-device-p">
-                            We deeply analyze your project requirements, planned features, and the capabilities of the
-                            cloud provider to identify the right combination of tech.
+                            We help K-12 leaders unleash the power of technology-assisted learning with R&D and consulting services and deliver turnkey educational software that automates workflows, simplifies student performance management, and makes knowledge delivery more efficient and interactive
 
                         </p>
 
@@ -89,11 +88,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            2. Multi-tenant architecture
+                            EdTech and eLearning companies
                         </h3>
                         <p class="sec-2-device-p">
-                            We build multi-tenant architecture with security in mind to make your scaling
-                            straightforward and customization easy while minimizing costs.
+                            We can fill in the skills gap in your knowledge-intensive project and enrich your eLearning software with AI-driven data analytics, natural language processing, teleconferencing, as well as augmented and virtual reality capabilities to attract more customers with stellar functionality and user experience
                         </p>
 
                     </div>
@@ -103,11 +101,12 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. External services integration
+                            Colleges and universities
+
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex integrations with
-                            external services based on your growth metrics.
+                            Along with educational technology consulting services, we craft innovative educational software solutions from scratch, so that you can attract the right students, personalize learning materials, optimize daily operations, and tap into useful insights about the school’s academic performance
+
                         </p>
 
                     </div>
@@ -115,11 +114,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. Scalability on demand
+                            Corporations and nonprofits
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development
-                            project so that your app is able to adapt as you evolve.
+                            We can enhance your existing learning management software or develop a corporate eLearning solution from scratch. We deep dive into the specifics of your business and tailor our eLearning solutions to match them, supporting your corporate training programs with the right tech
+
 
                         </p>
 
@@ -129,19 +128,19 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Opt for custom eLearning development</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Building upon an extensive eLearning
                     </span><br>
-                    to SaaS software development
+                    software development know-how
                 </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    Applying our expertise in providing EdTech and eLearning software development services and setting up security safeguards regarding student data management, we help you make knowledge delivery instant, engaging, and intuitive while ensuring compliance with FERPA, COPPA, CIPA, GLBA, and other relevant standards.
 
                 </p>
             </div>
@@ -154,12 +153,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            Back-end development
                         </h3>
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            We are well-versed in custom web development, cloud computing, and DevOps, as well as data acquisition, management, and analysis, and deliver functional and high-performing educational software solutions that run without glitches
                         </p>
 
                     </div>
@@ -167,12 +164,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Design & Prototyping
+                            Front-end development
                         </h3>
                         <p class="sec-2-device-p">
-                            If you want to glue customers to your SaaS app, you need to deliver state-of-the-art design.
-                            Our SaaS development services help you turn a great
-                            idea into great UI/UX and validate the concept with rapid prototyping.
+                            We craft all kinds of interfaces, including cloud dashboards, voice interfaces, as well as educational web and mobile apps, so you can reach out to more learners with highly accessible and easy-to-use software
                         </p>
 
                     </div>
@@ -180,12 +175,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Reliable integration
                         </h3>
                         <p class="sec-2-device-p">
-                            Need professionals to create a SaaS app from scratch? Our
-                            full-cycle SaaS development company has worked with many startups and
-                            enterprises since 2009, delivering successful SaaS products that are built to last and grow.
+                            We focus on creating coherent learning environments and connect your education technology solutions with other applications and devices within your IT infrastructure, as well as third-party tools and service
                         </p>
 
                     </div>
@@ -193,12 +186,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            End-to-end software testing
                         </h3>
                         <p class="sec-2-device-p">
-                            Need professionals to create a SaaS app from scratch? Our
-                            full-cycle SaaS development company has worked with many startups and
-                            enterprises since 2009, delivering successful SaaS products that are built to last and grow.
+                            We build visualizations that tell stories in a simple way, enabling informed decision-making and solid ad-hoc data analysis. Take your next big step forward with AR/VR or voice assistants that will deliver convenient access to all of your data
                         </p>
 
                     </div>
@@ -206,18 +197,18 @@
                 <br><br><br>
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Tell Us your SaaS software needs</button>
+                <button class="tt-banner-btn">Tell Us your software needs</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Delivering custom eLearning solutions
                     </span><br>
-                    to SaaS software development
+                    to make practice perfect
                 </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    Technologies keep reshaping every aspect of our daily lives, and education needs innovative tools to make offline and online learners’ practice more efficient. An eLearning software development company with a decade of experience, we design and develop high-performing, full-fledged solutions for students, educators, and instructional designers:
 
                 </p>
             </div>
@@ -228,11 +219,12 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            1. Tech stack choice
+                            LMS and LCMS
+
                         </h3>
                         <p class="sec-2-device-p">
-                            We deeply analyze your project requirements, planned features, and the capabilities of the
-                            cloud provider to identify the right combination of tech.
+                            Leverage a kit of easy-to-handle learning tools to build impactful and accessible training programs, create top-notch educational resources, and conveniently enroll, track, and evaluate online learners. Our learning management systems feature student assessment and remote proctoring modules, too, supporting the entire education process
+
 
                         </p>
 
@@ -241,11 +233,12 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            2. Multi-tenant architecture
+                            School management software
+
                         </h3>
                         <p class="sec-2-device-p">
-                            We build multi-tenant architecture with security in mind to make your scaling
-                            straightforward and customization easy while minimizing costs.
+                            Increase operational efficiency and drive cost savings with school management and school ERP software. Our educational solutions help manage daily administrative tasks, such as fee and staff payroll management, accounting and financial management, library and inventory management, school transportation tracking, and many more
+
                         </p>
 
                     </div>
@@ -255,11 +248,12 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. External services integration
+                            Education portals
+
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex integrations with
-                            external services based on your growth metrics.
+                            Manage educational data online with feature-rich education portals and information systems. Our custom eLearning solutions optimize scheduling, facilitate student attendance monitoring, speed upgrading, and allow educators and students to conveniently view educational information, generate performance reports, and more
+
                         </p>
 
                     </div>
@@ -267,11 +261,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. Scalability on demand
+                            Assistive learning solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development
-                            project so that your app is able to adapt as you evolve.
+                            Make education accessible to students with special needs by leveraging AI-powered text-to-speech, speech-to-text, writing assistance, proofreading, as well as planning and class scheduling software. Our custom assistive learning solutions improve focus, promote independent learning, and spark academic success for all students
 
                         </p>
 
@@ -281,18 +274,18 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Get your educational app</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Embracing the possibilities
                     </span><br>
-                    to SaaS software development
+                    of educational technology to the fullest
                 </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    We design feature-rich educational software solutions that help learners hone essential skills faster, bring a human touch to online learning, boost educational content delivery, and enhance the learner experience
 
                 </p>
             </div>
@@ -303,11 +296,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            1. Tech stack choice
+                            Communication technologies
                         </h3>
                         <p class="sec-2-device-p">
-                            We deeply analyze your project requirements, planned features, and the capabilities of the
-                            cloud provider to identify the right combination of tech.
+                            Leveraging live chats, IP telephony, and videoconferencing, we offset the lack of in-person interaction and make learning more accessible
 
                         </p>
 
@@ -316,11 +308,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            2. Multi-tenant architecture
+                            Artificial intelligence
                         </h3>
                         <p class="sec-2-device-p">
-                            We build multi-tenant architecture with security in mind to make your scaling
-                            straightforward and customization easy while minimizing costs.
+                            Taking advantage of AI for education, we help you derive insights from academic data, keep digital-first students engaged with personalized learning plans, and free up educators’ time for meaningful interactions
                         </p>
 
                     </div>
@@ -330,7 +321,7 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. External services integration
+                            External services integration
                         </h3>
                         <p class="sec-2-device-p">
                             We save you time building functionality from scratch by performing complex integrations with
@@ -342,10 +333,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. Scalability on demand
+                            Scalability on demand
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development
+                            We take scalability into account from the beginning of your    software development
                             project so that your app is able to adapt as you evolve.
 
                         </p>
@@ -356,11 +347,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            5. External services integration
+                            Gamification
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex integrations with
-                            external services based on your growth metrics.
+                            We make sure the tech-savvy students of today stay focused and interested with gamified features smoothly integrated into your educational software
                         </p>
 
                     </div>
@@ -368,11 +358,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            6. Scalability on demand
+                            Augmented and virtual reality
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development
-                            project so that your app is able to adapt as you evolve.
+                            Take advantage of VR and AR solutions for headsets and mobile phones and tap in comprehensive data visualizations, intelligent simulations of real-world experiences, and immersive learning scenarios
 
                         </p>
 
@@ -382,7 +371,7 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Talk to our experts</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
@@ -390,10 +379,10 @@
             <div class="delievery-industry-spec">
                 <h2> <span class="mb-orange">Our six-pillar approach
                     </span><br>
-                    to SaaS software development
+                    to software development
                 </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    We build impactful applications using our road-tested six-pillar approach:
 
                 </p>
             </div>
@@ -405,12 +394,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            Unleashing the benefits
+of tech-assisted learning
                         </h3>
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            Driven by the COVID-19 crisis, education has tapped in radical transformation.
                         </p>
 
                     </div>
@@ -418,12 +406,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Design & Prototyping
+                            Accessibility
                         </h3>
                         <p class="sec-2-device-p">
-                            If you want to glue customers to your SaaS app, you need to deliver state-of-the-art design.
-                            Our SaaS development services help you turn a great
-                            idea into great UI/UX and validate the concept with rapid prototyping.
+                            Friendly for learners with special needs and those without the ‘geek gene’
                         </p>
 
                     </div>
@@ -431,12 +417,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Flexibility 
                         </h3>
                         <p class="sec-2-device-p">
-                            Need professionals to create a SaaS app from scratch? Our
-                            full-cycle SaaS development company has worked with many startups and
-                            enterprises since 2009, delivering successful SaaS products that are built to last and grow.
+                            Customizable for all participants, tailored to your business needs
                         </p>
 
                     </div>
@@ -444,12 +428,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            GranularityEnd-to-End    Development
                         </h3>
                         <p class="sec-2-device-p">
-                            Need professionals to create a SaaS app from scratch? Our
-                            full-cycle SaaS development company has worked with many startups and
-                            enterprises since 2009, delivering successful SaaS products that are built to last and grow.
+                            Highlighting all the peculiarities of the educational process
                         </p>
 
                     </div>
@@ -459,12 +441,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            Personalization
                         </h3>
                         <p class="sec-2-device-p">
-                            We help with brainstorming SaaS ideas, drilling down the scope, selecting the right tech
-                            stack, estimating ROI, and more. Get the best guidance to overcome any SaaS software
-                            development challenge you might face.
+                            Overcoming the one-size-fits-all eLearning problem
                         </p>
 
                     </div>
@@ -472,12 +452,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Design & Prototyping
+                            Persistence
                         </h3>
                         <p class="sec-2-device-p">
-                            If you want to glue customers to your SaaS app, you need to deliver state-of-the-art design.
-                            Our SaaS development services help you turn a great
-                            idea into great UI/UX and validate the concept with rapid prototyping.
+                            Instrumentally motivating target learners to carry on
                         </p>
 
                     </div>
@@ -485,12 +463,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Motivation
                         </h3>
                         <p class="sec-2-device-p">
-                            Need professionals to create a SaaS app from scratch? Our
-                            full-cycle SaaS development company has worked with many startups and
-                            enterprises since 2009, delivering successful SaaS products that are built to last and grow.
+                            Making courseware products engaging
                         </p>
 
                     </div>
@@ -498,12 +474,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Collaboration
                         </h3>
                         <p class="sec-2-device-p">
-                            Need professionals to create a SaaS app from scratch? Our
-                            full-cycle SaaS development company has worked with many startups and
-                            enterprises since 2009, delivering successful SaaS products that are built to last and grow.
+                            Designing easy-to-use tools for fruitful teamwork
                         </p>
 
                     </div>
@@ -512,19 +486,19 @@
                 <br><br><br>
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Tell Us your SaaS software needs</button>
+                <button class="tt-banner-btn">Tell Us your software needs</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Types of SaaS applications
+                <h2> <span class="mb-orange">Offering flexible
                     </span><br>
-                    we deliver
+                    engagement models
                 </h2>
                 <p>
-                    For more than a decade, SSED SaaS development company has been empowering enterprises and startups
-                    across industries by delivering secure and scalable SaaS solutions. Tell us the type of SaaS you
+                    For more than a decade, SSED  development company has been empowering enterprises and startups
+                    across industries by delivering secure and scalable solutions. Tell us the type of you
                     want to create and we will help you too.
 
 
@@ -539,12 +513,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Retail IoT
+                            R&D and consulting.
                         </h3>
                         <p class="sec-2-device-p">
-                            IoT applications for inventory management, proximity marketing solutions, mobile apps and
-                            back-end infrastructure for warehouse robots and unmanned delivery vehicles, and IoT-powered
-                            retail data analytics systems.
+                            Analyzing your educational needs, we will help you formulate a business case, select the right software solution, define its feature set, and devise an implementation roadmap
 
 
                         </p>
@@ -554,7 +526,7 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            IoT for education
+                            Custom eLearning software development.
                         </h3>
                         <p class="sec-2-device-p">
                             Smart campus solutions ensuring students' comfort and safety, connected classroom
@@ -570,13 +542,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Healthcare IoT
+                            Legacy eLearning solution enhancement.
                         </h3>
                         <p class="sec-2-device-p">
-                            Connected IoT solutions for vital signs monitoring, apps underlying the logic of
-                            point-of-care equipment, patient and staff identification systems, and complete hospital
-                            automation products supporting effective patient care and inventory management.
-                            .
+                            We will develop an educational solution from scratch, packing it with the necessary features, putting the required integrations in place, and ensuring compliance and high performance
+                            
                         </p>
 
                     </div>
@@ -584,12 +554,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            IoT-driven supply chain
+                            Customization of open-source learning platforms. 
                         </h3>
                         <p class="sec-2-device-p">
-                            Telematics solutions for road freight and delivery vehicles, tag-driven Internet of Things
-                            systems ensuring real-time supply chain visibility, and embedded applications for warehouse
-                            robots.
+                            We will assist you in choosing an optimum open-source solution and tweak it to better suit your needs and workflows
 
 
                         </p>
@@ -600,7 +568,7 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Talk to our experts</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
 

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>SaaS Development Services &mdash; SSEDLAB</title>
+    <title>Financial Software Development Services &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
@@ -21,14 +21,16 @@
     <meta name="msapplication-config" content=" {{asset('i/browserconfig.xml') }}">
     <meta name="theme-color" content="#ffffff">
     <style>
-    .banner-img-page {
-        background-image: url('../../img/banner-tt/div.top_sectionss.png');
-        background-position: cover;
-        background-repeat: no-repeat;
-        background-size: 100% 100%;
-        display: flex;
-    }
-    </style>
+        .banner-img-page {
+            background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.801)),
+            url('https://e1.pxfuel.com/desktop-wallpaper/78/407/desktop-wallpaper-chaturvedi-software-house-solution-simplified-financial.jpg');
+            
+            background-position: cover;
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            display: flex;
+        }
+        </style>
 </head>
 
 <body id="page-index">
@@ -47,16 +49,15 @@
             <div class="top_section vis_on_scroll banner-img-page">
                 <div class="container">
                     <h1 class="banner-main-heading">
-                        eLearning software
+                        Financial software
                         development
                         services
                     </h1>
                     <p class="tt-banner-para">
-                        We develop powerful educational solutions that turn in-person and online learning into a
-                        diverse, engaging, and results-driven experience
+                        We help enterprises and startups tap into the new era of finance. The one where operations are automated, decisions are data-driven, and security is top-notch. Use our financial software development services to step into the new, too.
                     </p>
                     <section class="banner-btn">
-                        <button class="tt-banner-btn">Get in Touch</button>
+                        <button class="tt-banner-btn">Tap in digital finance</button>
                         <img src="{{asset('img/SVG.svg')}}" alt="">
                     </section>
 
@@ -65,9 +66,10 @@
         </div>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Leverage the power of innovative techs
+                    to redefine finance
                     </span><br>
-                    to SaaS software development
+                    to redefine finance
                 </h2>
                 <p>
                     We build impactful SaaS applications using our road-tested six-pillar approach:
@@ -83,19 +85,20 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            Automation
                         </h3>
                         <p class="sec-2-device-p">
-                            <span>◉</span>  Customer behavior analysis
+                            <span>◉</span>  Revenue management software
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Product recommendation engines
+                            <span>◉</span> Tax management softwares
                         </p>
                         <p class="sec-2-device-p">
                             <span>◉</span> In-store personalization
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Price optimization based on market trends and customer behavior
+                            <span>◉</span> Automated portfolio management software
+
                         </p>
                        
 
@@ -104,19 +107,20 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Design & Prototyping
+                            Analytics
                         </h3>
                         <p class="sec-2-device-p">
-                            <span>◉</span>  Customer behavior analysis
+                            <span>◉</span> Financial accounting and reporting software
                         </p>
                         <p class="sec-2-device-p">
                             <span>◉</span> Product recommendation engines
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> In-store personalization
+                            <span>◉</span> Financial planning and analysis software
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Price optimization based on market trends and customer behavior
+                            <span>◉</span> Pricing management software
+
                         </p>
 
                     </div>
@@ -124,25 +128,19 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Customer experience
                         </h3>
                         <p class="sec-2-device-p">
-                            <span>◉</span>  Customer behavior analysis
+                            <span>◉</span>  Mobile banking apps
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Product recommendation engines
+                            <span>◉</span> E-wallets
                         </p>
                         <p class="sec-2-device-p">
                             <span>◉</span> In-store personalization
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Price optimization based on market trends and customer behavior
-                        </p>
-                        <p class="sec-2-device-p">
-                            <span>◉</span> Price optimization based on market trends and customer behavior
-                        </p>
-                        <p class="sec-2-device-p">
-                            <span>◉</span> Price optimization based on market trends and customer behavior
+                            <span>◉</span> OCR-based solutions for credit card recognition
                         </p>
 
                     </div>
@@ -150,16 +148,17 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Security
                         </h3>
                         <p class="sec-2-device-p">
-                            <span>◉</span>  Customer behavior analysis
+                            <span>◉</span>  Decentralized financial applications
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> Product recommendation engines
+                            <span>◉</span> IoT-based surveillance and device tracking solutionss
                         </p>
                         <p class="sec-2-device-p">
-                            <span>◉</span> In-store personalization
+                            <span>◉</span> Fraud detection and application blacklisting software
+
                         </p>
                 
                     </div>
@@ -167,18 +166,20 @@
                 <br><br><br>
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Tell Us your SaaS software needs</button>
+                <button class="tt-banner-btn">Tell Us your software needs</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Leverage the power of innovative techs
                     </span><br>
-                    to SaaS software development
+                    to redefine finance
                 </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    Innovators at heart, we strongly believe in the power of novel technology. We use our expertise in blockchain, smart contracts, RPA, and AI development to help you design a new future for finance.
+
+                    We don’t innovate for the sake of it, though. Rather, we treat novel technology as a strategic imperative that helps traditional and non-traditional financial institutions create value now and shape their journeys into the future.
 
                 </p>
             </div>
@@ -190,10 +191,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            Blockchain
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We architect decentralized financial applications relying on smart contracts that boast built-in security and immunity to fraud
                         </p>
                        
 
@@ -202,10 +203,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Design & Prototyping
+                            Artificial Intelligence
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We power FinTech solutions with AI to help you make faster, smarter decisions and enable change at scale
                         </p>
 
                     </div>
@@ -213,10 +214,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Robotic Process Automation
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We bring RPA in to help you improve efficiency and productivity, empower employees, and pave new ways for innovation
                         </p>
 
                     </div>
@@ -224,10 +225,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Internet of Things
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We leverage IoT to power financial institutions with security, point-of-sale, and contactless payments solutions
                         </p>
              
                 
@@ -236,19 +237,19 @@
                 <br><br><br>
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Tell Us your SaaS software needs</button>
+                <button class="tt-banner-btn">Tell Us your software needs</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">A full spectrum of financial softwareh
                     </span><br>
-                    to SaaS software development
+                    development services
                 </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    We offer a full spectrum of financial software development services to help you realize full value from your investments. Whether you’re just embarking on a FinTech journey and need advice on how to navigate change, look for a specific skill to fill in knowledge gaps, or search for a turnkey FinTech software developer — we do it all while staying responsive to your needs. We are well-versed in:
 
                 </p>
             </div>
@@ -260,10 +261,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            End-to-end FinTech software development
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We will accompany you throughout the development process, delivering initial consulting, design, engineering, testing, integration, and deployment of your FinTech solution
+
                         </p>
                        
 
@@ -272,10 +274,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Design & Prototyping
+                            FinTech software testing
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We will ensure that your FinTech solution runs without glitches, verifying its functionality, performance, security, usability, interoperability, and compliance
+
                         </p>
 
                     </div>
@@ -283,10 +286,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            API-driven software integration
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We will help you smoothly integrate your FinTech solution into the corporate infrastructure, creating a cohesive, interoperable technology environment
+
                         </p>
 
                     </div>
@@ -295,10 +299,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            Legacy software modernization
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We will plan and roll out the necessary upgrades to help you lengthen the lifespan of your software , enhance its functionality, and optimize operational costs
+
                         </p>
                        
 
@@ -307,10 +312,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Design & Prototyping
+                            FinTech consulting
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We will help you navigate disruption, identify the right opportunity areas, transition to digital-first financial service provisioning, and solve other technology-related tasks along the way
+
                         </p>
 
                     </div>
@@ -319,19 +325,18 @@
             </div>
 
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Tell Us your SaaS software needs</button>
+                <button class="tt-banner-btn">Discuss your FinTech project</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
 
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Industry-specific FinTech
                     </span><br>
-                    to SaaS software development
-                </h2>
+                    software development                </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    Our financial software development services integrate tech-savviness and industry-specific expertise. We deep dive into the peculiarities of your sector to architect a financial software solution that is tailored to your needs.
 
                 </p>
             </div>
@@ -343,10 +348,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
-                        </h3>
+                            Healthcare                        </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We embed advanced analytics, intelligent automation , and the security of distributed environments into healthcare payment and insurance workflows to help elevate the quality and accessibility of care
+
                         </p>
                        
 
@@ -355,10 +360,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Design & Prototyping
+                            Banking
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We architect back-office automation and consumer applications for banks to shape new business models, sustain revenues, and create amazing customer experiences
+
                         </p>
 
                     </div>
@@ -366,10 +372,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End SaaS Development
+                            Insurance
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We craft software that helps insurance companies track commissions, manage tasks, process claims, create invoices, make payments, and automate other administrative tasks
+
                         </p>
 
                     </div>
@@ -378,10 +385,12 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Development Consulting
+                            Retail & ecommerce
+
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We help retail and ecommerce businesses reset sourcing and supply chains, tap into predictive insights, meet shifting consumer expectations, and transform shopping experience across digital channels
+
                         </p>
                        
 
@@ -390,10 +399,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            SaaS Design & Prototyping
+                            Logistics & transportation
                         </h3>
                         <p class="sec-2-device-p">
-                            para
+                            We architect software that enhances supply finance and payment management, letting supply chain leaders be responsive to demand and resilient to change, optimize costs, and ensure sustainable growth
+
                         </p>
 
                     </div>
@@ -402,18 +412,18 @@
             </div>
 
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Tell Us your SaaS software needs</button>
+                <button class="tt-banner-btn">Tell Us your software needs</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">Established FinTech software development
                     </span><br>
-                    to SaaS software development
+                    workflows for prolific cooperation
                 </h2>
                 <p>
-                    We build impactful SaaS applications using our road-tested six-pillar approach:
+                    Whether you look to transform your organization into a truly digital enterprise or seek to bring a new FinTech product to the market, we have efficient processes to deliver value from day one.
 
                 </p>
             </div>
@@ -452,7 +462,7 @@
                         </clipPath>
                     </defs>
                 </svg>
-                <div>Big Data</div>
+                <div>Discovery</div>
             </button>
             <button class="mb-tablinks mb-button" onclick="openCity(event, 'Paris')">
                 <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
@@ -485,7 +495,7 @@
                         </clipPath>
                     </defs>
                 </svg>
-                <div>AI/ML</div>
+                <div>Evaluation</div>
             </button>
             <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyo')">
                 <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
@@ -504,7 +514,7 @@
                         </clipPath>
                     </defs>
                 </svg>
-                <div>AR/VR</div>
+                <div>Planning</div>
 
             </button>
             <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyo1')">
@@ -520,7 +530,7 @@
                         </clipPath>
                     </defs>
                 </svg>
-                <div>IoT</div>
+                <div>Development</div>
 
             </button>
             <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyo2')">
@@ -536,47 +546,42 @@
                         </clipPath>
                     </defs>
                 </svg>
-                <div>Cloud</div>
+                <div>Reiteration</div>
 
             </button>
         </div>
 
         <div id="London" class="mb-tabcontent" style="display:block;">
             <p>
-                Use Big Data to create a user-driven app, get real-time insights, improve the app’s
-                performance, and make your marketing more effective.
+                We interview key stakeholders and dive into your processes to pinpoint the workflows that could be improved
             </p>
         </div>
 
         <div id="Paris" class="mb-tabcontent">
             <p>
-                Integrate artificial intelligence into mobile applications to offer a more
-                 personalized and engaging user experience, advanced authentication, and task automation
+                We assess your business’s digital maturity and suggest the optimal route to financial digitization
             </p>
         </div>
 
         <div id="Tokyo" class="mb-tabcontent">
             <p>
-                Leverage the potential of VR and AR apps to pull off interactive and immersive
-                 user experience and unlock new possibilities for remote assistance,
-                 workplace simulation, training, advertising, entertainment, and much more.
+                Our experts craft an all-encompassing financial workflow digitization strategy that delivers value from the very start
             </p>
         </div>
         <div id="Tokyo1" class="mb-tabcontent">
             <p>
-                We build mobile apps that let businesses and consumers manage connected smart
-                 gadgets and analyze valuable data provided by them with just a few taps.
+                We design, engineer, and test an MVP version of your FinTech solution
+
             </p>
         </div>
         <div id="Tokyo2" class="mb-tabcontent">
             <p>
-                Achieve speed and flexibility with cloud-based apps that are quick to build
-                 and easy to scale and safely store the most sensitive data.
+                Once the initial use case is field-tested, we proceed toward rolling out financial technology at scale
             </p>
         </div>
         <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                             <span class="button__wrap"><span class="button__inner_wrap">
-                                    <b class="button__inner_text">Contact our app developer</b>
+                                    <b class="button__inner_text">Contact us</b>
                                 </span>
                                 <span class="button__arrow">
                                     <svg class="alternative_solution" viewBox="0 0 1000 1000"
@@ -598,9 +603,9 @@
     </section>
     <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2> <span class="mb-orange">Our six-pillar approach
+                <h2> <span class="mb-orange">SSED: a trusted financial software
                     </span><br>
-                    to SaaS software development
+                    development company
                 </h2>
                 <p>
                     We build impactful SaaS applications using our road-tested six-pillar approach:
@@ -614,11 +619,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            1. Tech stack choice
+                            Vendor-agnostic
                         </h3>
                         <p class="sec-2-device-p">
-                            We deeply analyze your project requirements, planned features, and the capabilities of the
-                            cloud provider to identify the right combination of tech.
+                            We are not tied to any providers, so we only recommend technologies that we believe are right for you
 
                         </p>
 
@@ -627,11 +631,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            2. Multi-tenant architecture
+                            Top developers with niche skills:
                         </h3>
                         <p class="sec-2-device-p">
-                            We build multi-tenant architecture with security in mind to make your scaling
-                            straightforward and customization easy while minimizing costs.
+                            With our 350-strong team, we bring in best BA, development, and R&D talent
                         </p>
 
                     </div>
@@ -641,11 +644,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            3. External services integration
+                            Diverse expertise:
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex integrations with
-                            external services based on your growth metrics.
+                            Financial software development company with a decade of experience, we have delivered hundreds of successful solutions to businesses from across sectors.
                         </p>
 
                     </div>
@@ -653,11 +655,10 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            4. Scalability on demand
+                            Top developers with niche skills:
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development
-                            project so that your app is able to adapt as you evolve.
+                            With our 350-strong team, we bring in best BA, development, and R&D talent
 
                         </p>
 
@@ -667,49 +668,10 @@
 
             </div>
             <section class="banner-btn mb-mt-50">
-                <button class="tt-banner-btn">Talk to our SaaS experts</button>
+                <button class="tt-banner-btn">Talk to our experts</button>
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
 
 
 

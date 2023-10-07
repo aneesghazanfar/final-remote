@@ -106,3 +106,15 @@ Route::get('/retail-software', function () {
 Route::get('/e-learning', function () {
     return view('e-learning');
 });
+Route::get('/financial-software', function () {
+    return view('financial-software');
+});
+Route::get('/ecommerce', function () {
+    return view('ecommerce');
+});
+Route::get('/technology-consulting', function () {
+    return view('technology-consulting');
+});
+Route::get('/ui-ux-design', function () {
+    return view('ui-ux-design');
+});

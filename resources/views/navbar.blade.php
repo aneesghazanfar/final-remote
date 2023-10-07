@@ -101,14 +101,14 @@
                                                 <li><a href="#">Web Testing</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child"><a class="header__menu_item" href="#">Technology Consulting</a>
+                                        <li class="child"><a class="header__menu_item" href="./technology-consulting">Technology Consulting</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">Digital Transformation</a></li>
                                                 <li><a href="#">Legacy Software Modernization</a></li>
                                                 <li><a href="#">MVP Development</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="#">UI/UX Design</a></li>
+                                        <li class="child" ><a class="header__menu_item" href="./ui-ux-design">UI/UX Design</a></li>
                                         <li class="child" ><a class="header__menu_item" href="#">Support &amp; Maintenance</a></li>
                                     </ul>
                                 </li>
@@ -128,8 +128,8 @@
                                         <li class="child"><a class="header__menu_item" href="./media-entertainment">Media &amp; Entertainment</a></li>
                                         <li class="child"><a class="header__menu_item" href="./retail-software">Retail</a></li>
                                         <li class="child"><a class="header__menu_item" href="./e-learning">EdTech &amp; eLearning</a></li>
-                                        <li class="child"><a class="header__menu_item" href="#">FinTech</a></li>
-                                        <li class="child"><a class="header__menu_item" href="#">Ecommerce</a>
+                                        <li class="child"><a class="header__menu_item" href="./financial-software">FinTech</a></li>
+                                        <li class="child"><a class="header__menu_item" href="./ecommerce">Ecommerce</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li class=""><a href="#">Adobe Commerce</a></li>
                                             </ul> -->
