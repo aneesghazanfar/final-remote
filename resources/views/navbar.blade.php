@@ -10,34 +10,34 @@
                             <ul class="header__menu">
                                 <li class="dropdown" ><a class="header__menu_item" href="#"><span>Solutions</span></a>
                                     <ul class="parent">
-                                        <li class="child dropdown" ><a class="header__menu_item" href="./data"><span class="mobile-li">Data</span></a>
-                                            <!-- <ul class="sub__parent">
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Analytics</span></a></li>
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Architecture</span></a></li>
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Engineering</span></a></li>
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Management</span></a></li>
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Migration</span></a></li>
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Integration</span></a></li>
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Science</span></a></li>
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Warehouse</span></a></li>
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Data Visualization</span></a></li>
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Business Intelligence</span></a></li>
-                                                <li class="sub__child"><a class="header__menu_item" href="#"><span>Enterprise Data Platform</span></a></li>
-                                            </ul> -->
+                                        <li class="dropdown child " ><a class="header__menu_item" href="./data"><span class="mobile-li">Data</span></a>
+                                             <ul class="sub__parent">
+                                                <li class="sub__child"><a class="" href="#"><span>Data Analytics</span></a></li>
+                                                <li class="sub__child"><a class="" href="#"><span>Data Architecture</span></a></li>
+                                                <li class="sub__child"><a class="" href="#"><span>Data Engineering</span></a></li>
+                                                <li class="sub__child"><a class="" href="#"><span>Data Management</span></a></li>
+                                                <li class="sub__child"><a class="" href="#"><span>Data Migration</span></a></li>
+                                                <li class="sub__child"><a class="" href="#"><span>Data Integration</span></a></li>
+                                                <li class="sub__child"><a class="" href="#"><span>Data Science</span></a></li>
+                                                <li class="sub__child"><a class="" href="#"><span>Data Warehouse</span></a></li>
+                                                <li class="sub__child"><a class="" href="#"><span>Data Visualization</span></a></li>
+                                                <li class="sub__child"><a class="" href="#"><span>Business Intelligence</span></a></li>
+                                                <li class="sub__child"><a class="" href="#"><span>Enterprise Data Platform</span></a></li>
+                                            </ul>
                                         </li>
                                         <li class="child" ><a class="header__menu_item" href="./ai"><span class='mobile-li'>Artificial Intelligence</span></a>
-                                            <!-- <ul>
-                                                <li><a class="header__menu_item" href="#"><span>AI for Education</span></a></li>
-                                                <li><a class="header__menu_item" href="#"><span>AI for Healthcate</span></a></li>
-                                                <li><a class="header__menu_item" href="#"><span>AI for Retail</span></a></li>
-                                                <li><a class="header__menu_item" href="#"><span>Anomaly Detection</span></a></li>
-                                                <li><a class="header__menu_item" href="#"><span>Chatbot Development</span></a></li>
-                                                <li><a class="header__menu_item" href="#"><span>Computer Vision</span></a></li>
+                                        <ul class="sub__parent">
+                                                <li><a class="header__menu_item" href="./ai-for-education"><span>AI for Education</span></a></li>
+                                                <li><a class="header__menu_item" href="./ai-for-healthcare"><span>AI for Healthcate</span></a></li>
+                                                <li><a class="header__menu_item" href="./ai-for-retail"><span>AI for Retail</span></a></li>
+                                                <li><a class="header__menu_item" href="./anomaly-detection"><span>Anomaly Detection</span></a></li>
+                                                <li><a class="header__menu_item" href="./chatbot-development"><span>Chatbot Development</span></a></li>
+                                                <li><a class="header__menu_item" href="./computer-vision"><span>Computer Vision</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>Deep Learning</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>Generative AI</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>Machine Learning</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>NLP</span></a></li>
-                                            </ul> -->
+                                            </ul>
                                         </li>
                                         <li class="child" ><a class="header__menu_item" href="./automation"><span class='mobile-li'>Automation</span></a>
                                             <!-- <ul>
@@ -68,11 +68,11 @@
                                 <li class="dropdown"><a class="header__menu_item" href="./soft-services"><span>Services</span></a>
                                     <ul class="parent">
                                         <li class="child"><a class="header__menu_item" href="./mobile">Mobile</a>
+                                        <ul class="sub__parent">
                                         <li class="child"  ><a class="header__menu_item" href="./ios-app-development">iOS</a></li>
                                         <li  class="child" ><a class="header__menu_item" href="./android-app-development">Android</a></li>
                                         <li class="child"  ><a class="header__menu_item" href="./cross-platfrom-app-development">Cross-Platform</a></li>
-                                            <!-- <ul class="">
-                                            </ul> -->
+                                            </ul>
                                         </li>
                                         <li class="child" ><a class="header__menu_item" href="./web">Web</a></li>
                                         <li class="child" ><a class="header__menu_item" href="./saas-services">SaaS</a></li>

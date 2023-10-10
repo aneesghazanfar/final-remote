@@ -118,3 +118,24 @@ Route::get('/technology-consulting', function () {
 Route::get('/ui-ux-design', function () {
     return view('ui-ux-design');
 });
+Route::get('/it-support', function () {
+    return view('it-support');
+});
+Route::get('/ai-for-education', function () {
+    return view('ai-for-education');
+});
+Route::get('/ai-for-healthcare', function () {
+    return view('ai-for-healthcare');
+});
+Route::get('/ai-for-retail', function () {
+    return view('ai-for-retail');
+});
+Route::get('/anomaly-detection', function () {
+    return view('anomaly-detection');
+});
+Route::get('/chatbot-development', function () {
+    return view('chatbot-development');
+});
+Route::get('/computer-vision', function () {
+    return view('computer-vision');
+});

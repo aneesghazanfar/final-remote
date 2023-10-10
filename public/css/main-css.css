@@ -346,6 +346,15 @@ li.dropdown {
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
+.sub__parent {
+  display: none;
+  margin-left: 200px;
+  position: absolute;
+  background-color: #f9f9f9;
+  width: 250px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
 
 .parent a.header__menu_item {
   color: black;
@@ -357,6 +366,10 @@ li.dropdown {
 
 .parent a.header__menu_item:hover {
   background-color: #cfcfcf;
+}
+
+.child:hover .sub__parent {
+  display: block;
 }
 
 .dropdown:hover .parent {
@@ -1666,21 +1679,7 @@ body:not(.lg-from-hash)
 .lg-fullscreen-on .lg-fullscreen:after {
   content: "\e20d";
 }
-.lg-outer #lg-dropdown-overlay {
-  background-color: rgba(0, 0, 0, 0.25);
-  bottom: 0;
-  cursor: default;
-  left: 0;
-  position: fixed;
-  right: 0;
-  top: 0;
-  z-index: 1081;
-  opacity: 0;
-  visibility: hidden;
-  -webkit-transition: visibility 0s linear 0.18s, opacity 0.18s linear 0s;
-  -moz-transition: visibility 0s linear 0.18s, opacity 0.18s linear 0s;
-  transition: visibility 0s linear 0.18s, opacity 0.18s linear 0s;
-}
+
 .lg-outer.lg-dropdown-active #lg-dropdown-overlay,
 .lg-outer.lg-dropdown-active .lg-dropdown {
   -webkit-transition-delay: 0s;
@@ -9101,6 +9100,7 @@ input:checked ~ .form__check_input:after {
   .header__menu_item--home {
     display: block;
   }
+
 }
 @media (max-width: 1000px) {
   .header {
