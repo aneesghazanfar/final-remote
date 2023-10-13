@@ -25,15 +25,11 @@
             style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="body-wrap-1">
-        <?php
-        // require 'shared/_navbar.php';
-        // navBar();
-        ?>
         @include('navbar')
 
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-mobile">
-                <div class="container">
+            <div class="container-header">
                     <h1 class="banner-main-heading">
                         Cross-platform
                         mobile application

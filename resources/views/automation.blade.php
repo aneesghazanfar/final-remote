@@ -21,14 +21,14 @@
     <meta name="msapplication-config" content=" {{asset('i/browserconfig.xml') }}">
     <meta name="theme-color" content="#ffffff">
     <style>
-        .banner-img-page {
-  background-image: url('https://e0.pxfuel.com/wallpapers/798/108/desktop-wallpaper-cyber-for-tech-black-cyber.jpg');
-  background-position: cover;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  display: flex;
-}
-</style>
+    .banner-img-page {
+        background-image: url('https://e0.pxfuel.com/wallpapers/798/108/desktop-wallpaper-cyber-for-tech-black-cyber.jpg');
+        background-position: cover;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        display: flex;
+    }
+    </style>
 </head>
 
 <body id="page-index">
@@ -37,22 +37,20 @@
             style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="body-wrap-1">
-        <?php
-        // require 'shared/_navbar.php';
-        // navBar();
-        ?>
         @include('navbar')
-
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-page">
-                <div class="container">
+                <div class="container-header">
                     <h1 class="banner-main-heading">
-                    Intelligent process
-automation services
-and solutions
+                        Intelligent process
+                        automation services
+                        and solutions
                     </h1>
                     <p class="tt-banner-para">
-                    Derive insights from operational data, pinpoint inefficiencies, and automate workflows with our state-of-the-art intelligent process automation (IPA) and RPA solutions
+                        Utilize our cutting-edge intelligent process automation (IPA) and robotic process automation
+                        (RPA) technologies to identify inefficiencies, get insights from operational data, and automate
+                        workflows.
+
 
 
 
@@ -78,17 +76,25 @@ and solutions
 
                 <button class="accordion">Business process automation (BPA)</button>
                 <div class="panel">
-                    <p>From keyword-triggered chatbots serving as the first line of action for customer service units to appointment scheduling and feedback collection software, we’ll help you build and deploy robust business process automation solutions that facilitate mundane tasks and boost productivity.</p>
+                    <p>From keyword-triggered chatbots serving as the first line of action for customer service units to
+                        appointment scheduling and feedback collection software, we’ll help you build and deploy robust
+                        business process automation solutions that facilitate mundane tasks and boost productivity.</p>
                 </div>
 
                 <button class="accordion">Robotic process automation (RPA)</button>
                 <div class="panel">
-                    <p>Avail of our robotic process automation services to create ingenious, rule-based bots that absorb structured data and mimic human actions. Our custom robotic process automation solutions take over repetitive tasks like form filling, claims processing, and report generation, driving efficiency and reducing operational costs in document-heavy industries.</p>
+                    <p>Avail of our robotic process automation services to create ingenious, rule-based bots that absorb
+                        structured data and mimic human actions. Our custom robotic process automation solutions take
+                        over repetitive tasks like form filling, claims processing, and report generation, driving
+                        efficiency and reducing operational costs in document-heavy industries.</p>
                 </div>
 
                 <button class="accordion">AI-driven process automation</button>
                 <div class="panel">
-                    <p>By adding computer vision, natural language processing, and fuzzy logic to digital process automation solutions, we create systems that retrieve unstructured data from a host of enterprise apps, boil the information down to meaningful insights, act on it, and orchestrate workflows across your company — all with little to no involvement on your part.</p>
+                    <p>By adding computer vision, natural language processing, and fuzzy logic to digital process
+                        automation solutions, we create systems that retrieve unstructured data from a host of
+                        enterprise apps, boil the information down to meaningful insights, act on it, and orchestrate
+                        workflows across your company — all with little to no involvement on your part.</p>
                 </div>
 
                 {{-- <button class="accordion">4. How do you ensure that AI solutions integrate seamlessly into our existing systems?</button>
@@ -152,12 +158,12 @@ and solutions
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Retail                    
+                            Retail
                         </h3>
                         <p class="sec-2-device-p">
-                        Interpret customer sentiment to bolster your marketing campaigns, streamline stock replenishment by digitalizing procurement operations, and detect fraudulent behavior with RPA and AI-powered intelligent process automation tools.
-
-
+                            Detecting fraudulent activity with RPA and AI-powered intelligent process automation
+                            solutions, streamlining stock replenishment by digitizing procurement processes, and
+                            interpreting consumer sentiment to support your marketing initiatives.
                         </p>
 
                     </div>
@@ -168,7 +174,10 @@ and solutions
                             Logistics and transportation
                         </h3>
                         <p class="sec-2-device-p">
-                            Process invoices in the blink of an eye, gain real-time insights into your purchase-to-pay and order-to-cash operations, and align supply with demand with the help of smart automation solutions.
+                            With the aid of clever automation solutions, you can quickly process invoices, receive
+                            real-time insights into your purchase-to-pay and order-to-cash processes, and match supply
+                            with demand.
+
                         </p>
 
                     </div>
@@ -181,7 +190,10 @@ and solutions
                             Healthcare and BioTech
                         </h3>
                         <p class="sec-2-device-p">
-                            Leverage operational analytics to forecast hospital admissions and optimum inventory levels, facilitate medication discovery and clinical trials by modeling drug response, and automate patient and staff authorization using BPA, digital workforce, and artificial intelligence.
+                            Using operational analytics, you can predict hospital admissions and the ideal inventory
+                            levels, model drug response to help with drug discovery and clinical trials, and use BPA,
+                            digital workforce, and artificial intelligence to automate patient and staff authorization.
+
                         </p>
 
                     </div>
@@ -192,8 +204,9 @@ and solutions
                             Insurance
                         </h3>
                         <p class="sec-2-device-p">
-                            Become faster and more efficient at claims processing, eradicate manual work from the policy management process, and avoid compliance breaches by taking advantage of our intelligent process automation services.
-
+                            Using our intelligent process automation services can help you process claims more quickly
+                            and effectively, eliminate human effort from the policy management process, and prevent
+                            compliance violations.
                         </p>
 
                     </div>
@@ -205,7 +218,9 @@ and solutions
                             Education
                         </h3>
                         <p class="sec-2-device-p">
-                            Fast-track student enrollment and accounting operations, implement next-gen tools for student attendance monitoring, and entrust routine tasks like checking assignments for plagiarism and managing class schedules to intelligent software.
+                            Accelerate student registration and accounting processes, introduce cutting-edge techniques
+                            for tracking student attendance, and delegate mundane chores like organizing class schedules
+                            and conducting plagiarism checks to intelligent software.
                         </p>
 
                     </div>
@@ -216,7 +231,10 @@ and solutions
                             Finance
                         </h3>
                         <p class="sec-2-device-p">
-                            Accelerate customer request processing and reporting operations, provide superior client service by automating customer-facing transactions, and develop a better-informed approach to credit decisioning with next-gen IPA solutions.
+                            With next-generation IPA solutions, you can speed up customer request processing and
+                            reporting processes, deliver better client service by automating consumer-facing
+                            transactions, and create a more educated approach to credit decisioning.
+
 
                         </p>
 
@@ -240,7 +258,11 @@ and solutions
                     process automation solutions
                 </h2>
                 <p>
-                    BPA, RPA, and algorithm-driven DPA solutions are just a set of technologies that come together to digitalize, integrate, and enhance workflows in your organization. Their actual value lies in giving your company the much-needed resources and tools to grow, scale, and prosper in times of uncertainty and intense competition. Partner with ITRex to:
+                    Just a few of the technologies that work together to digitalize, integrate, and improve workflows in
+                    your business include BPA, RPA, and algorithm-driven DPA solutions. Their true worth comes from
+                    providing your business with the resources and tools it needs to expand, develop, and thrive amid
+                    turbulence and fierce competition. Join together with ITRex to
+
 
                 </p>
             </div>
@@ -252,9 +274,11 @@ and solutions
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
-           
+
                         <p class="sec-2-device-p">
-                            Automate any tedious jobs that previously required human participation or guidance and free up your employees’ time for more creative, mission-critical tasks
+                            Automate any laborious activities that once required human involvement or direction to free
+                            up your staff's time for more innovative, mission-critical work.
+
                         </p>
 
                     </div>
@@ -262,9 +286,11 @@ and solutions
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <div class="mb-sec-2-inner-col">
 
-             
+
                         <p class="sec-2-device-p">
-                            Pinpoint security vulnerabilities in enterprise software and monitor network traffic in real time to detect and fight off cyberattacks
+                            To identify and combat cyberattacks, identify security holes in corporate software and keep
+                            an eye on network traffic in real-time.
+
                         </p>
 
                     </div>
@@ -272,9 +298,11 @@ and solutions
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
-           
+
                         <p class="sec-2-device-p">
-                            Tap into structured and unstructured operational data buried in the vaults of legacy enterprise systems that were not designed to talk to each other
+                            Access operational data that is both organized and unstructured that has been stored in
+                            legacy business systems that are not interconnected.
+
                         </p>
 
                     </div>
@@ -282,9 +310,11 @@ and solutions
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <div class="mb-sec-2-inner-col">
 
-             
+
                         <p class="sec-2-device-p">
-                            Ensure compliance with governmental and industry-specific standards, regulations, and best practices
+                            Ensure adherence to legislative requirements as well as industry-specific standards, laws,
+                            and best practices.
+
                         </p>
 
                     </div>
@@ -292,9 +322,11 @@ and solutions
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
-           
+
                         <p class="sec-2-device-p">
-                            Eliminate human errors by entrusting business tasks, big and small, to intelligent software that learns on the job and only gets better over time
+                            Entrust business tasks, large and little, to intelligent software that learns on the job and
+                            only gets better over time to eliminate human mistake.
+
                         </p>
 
                     </div>
@@ -302,9 +334,11 @@ and solutions
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <div class="mb-sec-2-inner-col">
 
-             
+
                         <p class="sec-2-device-p">
-                            Improve customer experience by responding faster and uncovering the intent behind clients’ queries
+                            Enhance customer experience by providing quicker service and learning the purpose of
+                            customers' inquiries
+
                         </p>
 
                     </div>
@@ -325,7 +359,11 @@ and solutions
 
                 </h2>
                 <p>
-                    The ITRex team will help you enhance and automate any process or workflow — from facilitating manual data entry to architecting complete data ecosystems that provide a 360-degree view into your company’s operations and deliver the right insights to the right person and at the right place. We have a highly efficient roadmap for that:
+                    The ITRex team will work with you to improve and automate any process or workflow, from assisting
+                    with manual data entry to designing full data ecosystems that offer a 360-degree view of your
+                    business's operations and deliver the appropriate insights to the appropriate person and at the
+                    appropriate location. For that, we have a very effective road map:
+
 
                 </p>
             </div>
@@ -464,27 +502,41 @@ and solutions
 
             <div id="London" class="mb-tabcontent" style="display:block;">
                 <p>
-                    We contemplate your processes and collect stakeholder feedback to pinpoint workflows that could be improved                </p>
+                    We evaluate your procedures and gather input from stakeholders to identify workflows that may be
+                    enhanced.
+                </p>
+
             </div>
 
             <div id="Paris" class="mb-tabcontent">
                 <p>
-                    We assess your company’s digital maturity and suggest the optimum route you could take to move your business forward                </p>
+                    We evaluate your company's level of digital maturity and recommend the best course of action for you
+                    to drive your business ahead.
+
+                </p>
             </div>
 
             <div id="Tokyo" class="mb-tabcontent">
                 <p>
-                    Our BPA, RPA, and AI experts develop an all-encompassing automation strategy that delivers value from day one                </p>
+                    Our BPA, RPA, and AI specialists provide a comprehensive automation approach that provides value
+                    right away.
+
+                </p>
             </div>
+
 
             <div id="Tokyoo" class="mb-tabcontent">
                 <p>
-                    We create an MVP version of an intelligent automation solution and field-test it on real-world data and tasks
+                    We develop an MVP for an intelligent automation system and put it to the test with actual data and
+                    tasks.
+
                 </p>
             </div>
             <div id="Tookyoo" class="mb-tabcontent">
                 <p>
-                    Once the initial IPA use case is justified, we proceed to implementing automation tools at scale, transforming your company into a fully digital enterprise
+                    After establishing the validity of the first IPA use case, we go on to applying automation solutions
+                    at scale and converting your business to a completely digital firm.
+
                 </p>
             </div>
 

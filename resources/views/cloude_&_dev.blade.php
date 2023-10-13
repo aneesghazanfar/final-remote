@@ -820,7 +820,7 @@ position: static !important;
         @include('navbar')
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-back">
-                <div class="container">
+            <div class="container-header">
                     <h1 class="banner-main-heading">
                         Cloud computing
                         consulting and

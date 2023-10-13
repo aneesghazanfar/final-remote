@@ -28,29 +28,19 @@
             style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="body-wrap-1">
-        <?php
-        // require 'shared/_navbar.php';
-        // navBar();
-        ?>
         @include('navbar')
-
-        
-        
-
-
-
             <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-web">
-                <div class="container">
+            <div class="container-header">
                     <h1 class="banner-main-heading">
                     Expert back-end
                         development
                         services
                     </h1>
                     <p class="tt-banner-para">
-                    Join forces with our back-end development services company to create tech products that scale
-                        rapidly, perform well, and keep your employees and customers happy
-                    </p>
+                    Work with our back-end development services provider to produce tech solutions that scale quickly, perform well, and satisfy your staff and consumers.
+                  
+                  </p>
 
 
                     <section class="banner-btn">
@@ -71,10 +61,8 @@
             <div class="mb-sec-2-inner">
                 <h2 class="mb-text-white">A rundown of our back-end development services</h2>
                 <p>
-                    We kick off back-end development projects with a meticulous analysis of your requirements and IT
-                    infrastructure. Next, we devise a software architecture, create a technical roadmap, select suitable
-                    tools, decide on the engagement model, and come up with an estimate that matches your budget and
-                    objectives. Our back-end development services span
+                We begin every back-end development projects by carefully examining your IT infrastructure and requirement set. Then, we design a software architecture, provide a technical roadmap, choose appropriate tools, establish an engagement model, and generate an estimate that is in line with your budget and goals. Our back-end development offerings include
+
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
@@ -83,10 +71,8 @@
                             Mobile app back-end development
                         </h3>
                         <p class="sec-2-device-p">
-                            Our specialists create mobile back ends enabling advanced business logic in native and
-                            cross-platform apps. Whether you need an application with multiple types of user accounts,
-                            payment services, built-in customer loyalty and referral programs, or real-time sensor data
-                            processing capabilities, we’ll take on the challenge!
+                        Our experts design mobile back ends that support sophisticated business logic in native and cross-platform apps. We will take on the task, whether you want an application with numerous types of user accounts, payment services, integrated customer loyalty and referral programs, or real-time sensor data processing capabilities!
+
                         </p>
 
                     </div>
@@ -96,10 +82,8 @@
                             Back-end web development
                         </h3>
                         <p class="sec-2-device-p">
-                            As part of our back-end web development services, we build applications from the ground up
-                            or assist our clients’ front-end teams on a dedicated team or pay-as-you-go basis. Hire
-                            back-end developers at  SSEDLAB if you need a customer-facing portal, sleek e-commerce website,
-                            or enterprise-grade web application!
+                        We create apps from scratch as part of our back-end web development services, or work with our clients' front-end teams as a committed team or pay-as-you-go. If you require a user-friendly e-commerce website, an enterprise-grade web application, or a customer-facing portal, hire back-end engineers at SSEDLAB!
+
                         </p>
 
                     </div>
@@ -109,11 +93,9 @@
                             Back-end integration via APIs
                         </h3>
                         <p class="sec-2-device-p">
-                            With our back-end development services, you can interconnect the components of your IT
-                            infrastructure and harness the power of third-party applications to move your business
-                            forward! Our back-end API solutions securely log into apps, scavenge information across
-                            databases, and automate processes, freeing up your employees’ time for creative work
-                        </p>
+                        With the help of our back-end development services, you may connect the different parts of your IT infrastructure and take use of the strength of external apps to advance your company. Our back-end API solutions provide safe app access, data scavenging across databases, and process automation, freeing up your staff's time for innovative work.
+                
+                </p>
 
                     </div>
                 </div>
@@ -124,10 +106,8 @@
                             Back end as a service (BaaS)
                         </h3>
                         <p class="sec-2-device-p">
-                            To help you roll out apps across different platforms and user bases faster, we build
-                            reliable mobile back end as a service (mBaaS) solutions comprising a universal application
-                            programming interface (API) for your future deployments. Tap into our back-end development
-                            services to thrive in the digital, API-first era!
+                        We provide trustworthy mobile back end as a service (mBaaS) solutions with a universal application programming interface (API) for your upcoming deployments to help you roll out apps across various platforms and user bases more quickly. Take advantage of our back-end development services to succeed in the API-first, digital age!
+
                         </p>
 
                     </div>
@@ -137,10 +117,8 @@
                             Cloud back-end development
                         </h3>
                         <p class="sec-2-device-p">
-                            A vetted Google Cloud and Microsoft partner, our back-end development company has the right
-                            skills and tools to expedite your project. From setting up scalable data warehouse solutions
-                            to managing containerized apps with Kubernetes or implementing DevOps and test automation ,
-                            we know how to build cloud back-end solutions that deliver
+                        Our back-end development firm, a certified Google Cloud and Microsoft partner, has the knowledge and resources to move your project along quickly. We understand how to create cloud back-end solutions that deliver, from building up scalable data warehousing solutions to managing containerized apps with Kubernetes or integrating DevOps and test automation.
+
                         </p>
 
                     </div>
@@ -150,10 +128,8 @@
                             Back-end refactoring
                         </h3>
                         <p class="sec-2-device-p">
-                            Changing an app’s behavior under the hood without disrupting user experience on the front
-                            end is a trick few companies can pull. Our back-end development services team will help you
-                            optimize web and cloud apps’ performance, address technical debt, split applications into
-                            self-sufficient microservices, and migrate software to the cloud
+                        Few businesses are adept at changing an app's behavior from the inside out without impairing the user experience on the front end. Our back-end development services team can assist you with technical debt management, application separation into independent microservices, cloud migration, and performance optimization for online and cloud applications.
+
                         </p>
 
                     </div>
@@ -180,180 +156,12 @@
                 <h2> CUSTOM <span class="mb-orange">Our back-end</span> <br>
                     solutions</h2>
                 <p>
-                    We provide back-end development services to companies looking to modernize legacy software systems,
-                    adapt their processes to the needs imposed by the remote work era, automate workflows, and fill the
-                    gaps in their security defense. We’re excellent at building:
+                We provide back-end development services to businesses wishing to automate workflows, upgrade outdated software systems, adapt their operations to the demands of the remote work age, and strengthen their security defense. We excel at construction:
+
                 </p>
             </div>
         </section>
-        <!-- <section class="mb-container mb-container-padding">
-            <div class="mb-icon-text-row-main">
-                <div class="mb-icon-text-col-main">
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4972)">
-                                    <path d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z" fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_4972">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Ecommerce</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4983)">
-                                    <path d="M34.9093 0.879883V10.7621L24.7062 16.0673V9.75136L12.5625 16.0673V33.8799H41.0626V0.879883H34.9093ZM24.3833 28.8823H17.42V22.6841H24.381L24.3833 28.8823ZM36.2047 28.8823H29.2442V22.6841H36.2052L36.2047 28.8823Z" fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_4983">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Enterprise</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_4994)">
-                                    <path d="M40.5298 0.879883H13.4695C13.4695 0.879883 10.0537 4.26955 10.0537 4.26753V24.5143C10.0537 24.5143 13.4715 27.902 13.4695 27.902H21.9488L26.9997 33.8799L32.0505 27.902H40.5298L43.9456 24.5143V4.26753C43.9456 4.26753 40.5278 0.879883 40.5298 0.879883ZM26.9997 5.5006C27.8542 5.5006 28.6894 5.7519 29.3999 6.22272C30.1104 6.69354 30.6642 7.36274 30.9911 8.14569C31.3182 8.92865 31.4037 9.79018 31.237 10.6214C31.0703 11.4525 30.6588 12.216 30.0547 12.8153C29.4504 13.4145 28.6806 13.8226 27.8425 13.9879C27.0045 14.1533 26.1358 14.0684 25.3464 13.7441C24.5569 13.4198 23.8821 12.8706 23.4074 12.166C22.9326 11.4613 22.6792 10.6329 22.6792 9.78542C22.6792 8.64902 23.1345 7.55915 23.9447 6.7556C24.7549 5.95203 25.8538 5.5006 26.9997 5.5006ZM35.2144 22.7503H18.7849V18.7664C18.7872 17.96 19.1111 17.1872 19.6861 16.617C20.2611 16.0467 21.0401 15.7252 21.8533 15.7227H32.1461C32.9592 15.7252 33.7383 16.0467 34.3132 16.617C34.8882 17.1872 35.2121 17.96 35.2144 18.7664V22.7503Z" fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_4994">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Social Media</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_5005)">
-                                    <path d="M27.9668 10.6234L35.9165 2.6579L34.1976 0.879883L27.0358 7.99195L19.8024 0.879883L18.0836 2.6579L26.1764 10.6234H13.5V33.8799H40.5V10.6234H27.9668ZM28.8979 25.8433L25.0305 22.0027L19.8024 27.1945L18.1552 25.5588L25.1021 18.6601L28.9695 22.5006L34.2692 17.2376L35.9165 18.8734L28.8979 25.8433Z" fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5005">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Real-Time Communication</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_5016)">
-                                    <path d="M31.5749 30.6699H22.4248V33.7196H31.5749V30.6699Z" fill="#FFDB3B" />
-                                    <path d="M26.9586 0.879883C19.045 0.879883 12.6152 7.1398 12.6152 14.8443C12.6152 19.9806 15.5004 24.5552 19.7869 26.9628V31.0558H34.2128V26.9628C38.4993 24.5552 41.3845 20.0609 41.3845 14.8443C41.3845 7.1398 34.9546 0.879883 26.9586 0.879883ZM25.4748 13.801H28.5249C30.9978 13.801 33.0587 15.8074 33.0587 18.215C33.0587 20.6227 30.9978 22.6291 28.5249 22.6291V24.9565H25.4748V22.6291C23.0019 22.6291 20.941 20.6227 20.941 18.215H23.991C23.991 19.0176 24.6505 19.6596 25.4748 19.6596H28.5249C29.3492 19.6596 30.0087 19.0176 30.0087 18.215C30.0087 17.4125 29.3492 16.7704 28.5249 16.7704H25.4748C23.0019 16.7704 20.941 14.7641 20.941 12.3564C20.941 9.94871 23.0019 7.94235 25.4748 7.94235V5.61495H28.5249V7.94235C30.9978 7.94235 33.0587 9.94871 33.0587 12.3564H30.0087C30.0087 11.5539 29.3492 10.9118 28.5249 10.9118H25.4748C24.6505 10.9118 23.991 11.5539 23.991 12.3564C23.991 13.1589 24.6505 13.801 25.4748 13.801Z" fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5016">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Finance</div>
-                    </div>
-                </div>
-                <div class="mb-icon-text-col-main">
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_5029)">
-                                    <path d="M10.5 0.879883V33.8799H43.5V0.879883H10.5ZM17.3906 30.9836H13.2026V26.7955H17.3906V30.9836ZM17.3906 23.3098H13.2026V19.1217H17.3906V23.3098ZM17.3906 15.636H13.2026V11.4479H17.3906V15.636ZM17.3906 7.96177H13.2026V3.77369H17.3906V7.96177ZM21.5636 24.9578V9.80199L34.1212 17.3799L21.5636 24.9578ZM40.7954 30.9836H36.6073V26.7955H40.7954V30.9836ZM40.7954 23.3098H36.6073V19.1217H40.7954V23.3098ZM40.7954 15.636H36.6073V11.4479H40.7954V15.636ZM40.7954 7.96177H36.6073V3.77369H40.7954V7.96177Z" fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5029">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Entertainment</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_5040)">
-                                    <path d="M26.8188 28.5912C31.78 28.5912 35.8018 27.5999 35.8018 26.3771C35.8018 25.1543 31.78 24.1631 26.8188 24.1631C21.8577 24.1631 17.8359 25.1543 17.8359 26.3771C17.8359 27.5999 21.8577 28.5912 26.8188 28.5912Z" fill="#FFDB3B" />
-                                    <path d="M26.819 22.4181C31.7172 22.4181 35.6878 18.4474 35.6878 13.5492C35.6878 7.21527 26.819 0.879883 26.819 0.879883C26.819 0.879883 17.9502 7.21527 17.9502 13.5492C17.9502 18.4474 21.9208 22.4181 26.819 22.4181Z" fill="#FFDB3B" />
-                                    <path d="M38.3132 20.8476C37.5465 20.5348 36.7624 20.2665 35.9648 20.0439C35.6 20.5559 35.1933 21.0366 34.7489 21.4812C34.647 21.5831 34.5427 21.6821 34.4375 21.7794C35.4914 22.0254 36.5247 22.3528 37.528 22.7586C40.0063 23.7797 41.4863 25.1324 41.4863 26.3751C41.4863 27.6179 40.0045 28.9747 37.528 29.9944C34.6831 31.1686 30.8807 31.8125 26.8195 31.8125C22.7582 31.8125 18.9557 31.1686 16.1109 29.9944C13.6325 28.9733 12.1526 27.6202 12.1526 26.378C12.1526 25.1357 13.6325 23.7806 16.1109 22.7615C17.1129 22.3558 18.1447 22.0285 19.1971 21.7822C19.0919 21.685 18.9877 21.5859 18.8858 21.484C18.4413 21.0394 18.0346 20.5587 17.6698 20.0468C16.8722 20.2693 16.0881 20.5376 15.3214 20.8504C11.9478 22.2397 10.0879 24.2033 10.0879 26.378C10.0879 28.5525 11.9478 30.5158 15.3257 31.9074C18.4123 33.1793 22.4942 33.8799 26.8195 33.8799C31.1446 33.8799 35.2265 33.1793 38.3132 31.9074C41.6911 30.5148 43.551 28.5511 43.551 26.378C43.551 24.2048 41.6911 22.2397 38.3132 20.8476Z" fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5040">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Wellness</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_5053)">
-                                    <path d="M40.7351 0.879883H32.621L26.9499 6.58146L21.1915 0.879883H13.1646L7.40625 6.58146V14.5291L26.9499 33.8799L46.4063 14.5291V6.58146L40.7351 0.879883Z" fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5053">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Healthcare</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_5064)">
-                                    <path d="M27 5.30051C21.8916 -0.59309 13.6084 -0.59309 8.5 5.30051V33.8799C13.6084 27.9863 21.8916 27.9863 27 33.8799C32.1084 27.9863 40.3916 27.9863 45.5 33.8799V5.30051C40.3916 -0.593659 32.1084 -0.593659 27 5.30051Z" fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5064">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Education</div>
-                    </div>
-                    <div class="mb-icon-text-row">
-                        <div class="mb-icon-text-col">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                                <g clip-path="url(#clip0_199_5075)">
-                                    <path d="M48.8595 6.61659L39.904 6.69876V19.0237H36.8103V1.0293H7.17588V4.97327H12.5492V7.76692H7.17588H0.5V10.5606H7.17588V13.0256H18.9808V15.8192H7.17588H0.5V18.6129H7.17588V28.2263H12.2235C12.6306 31.3486 15.2358 33.7314 18.3295 33.7314C21.5046 33.7314 24.1098 31.3486 24.4355 28.2263H34.6936C35.1007 31.3486 37.7059 33.7314 40.7995 33.7314C43.8932 33.7314 46.5799 31.3486 46.9056 28.2263H53.5V19.0237L48.8595 6.61659ZM18.3295 31.02C16.4569 31.02 14.9101 29.4588 14.9101 27.569C14.9101 25.6791 16.4569 24.118 18.3295 24.118C20.202 24.118 21.7488 25.6791 21.7488 27.569C21.7488 29.4588 20.202 31.02 18.3295 31.02ZM40.7995 31.02C38.927 31.02 37.3802 29.4588 37.3802 27.569C37.3802 25.6791 38.927 24.118 40.7995 24.118C42.6721 24.118 44.2189 25.6791 44.2189 27.569C44.2189 29.4588 42.6721 31.02 40.7995 31.02Z" fill="#FFDB3B" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_199_5075">
-                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="mb-icon-text-col mb-icon-text-right">Logistics & Transportation</div>
-                    </div>
-                </div>
-            </div>
-
-        </section> -->
-
-
-
-
-
-
+    
 
 
         <section class="mb-container sec-3">
@@ -361,9 +169,8 @@
                 <h2> EVERY STEP OF YOUR<span class="mb-orange"> <br> WEB DEVELOPMENT</span> JOURNEY
                     COVERED ― BY EXPERTS</h2>
                 <p>
-                    Providing full-stack custom web development services, we create everything from the UI of your web
-                    solution to algorithms and databases behind it. And we bring more as your trusted software
-                    development partner, ready to resolve any of your tech challenges.
+                We offer full-stack bespoke web development services, designing everything from your online solution's user interface (UI) to the algorithms and databases that power it. As your dependable software development partner, we also offer more to the table and are prepared to help you with any technical issues you may have.
+
                 </p>
             </div>
         </section>
@@ -381,9 +188,9 @@
                             UX/UI Design
                         </h3>
                         <p class="sec-2-device-p">
-                            We leverage best practices of user-centric design to translate vision into the
-                            responsiveness, interactivity, ease of use, and grace of your web solution
-                        </p>
+                        We apply user-centric design best practices to transform your vision into the responsiveness, interactivity, usability, and elegance of your web solution.
+                  
+                  </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
@@ -392,9 +199,9 @@
                             Front-end Development
                         </h3>
                         <p class="sec-2-device-p">
-                            Highly proficient in modern frameworks like Angular, React, or Vue we create user
-                            experiences that captivate and engage users
-                        </p>
+                        Highly skilled in contemporary frameworks like Angular, React, or Vue, we design user experiences that enthrall and engage people.
+                    
+                    </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
@@ -403,9 +210,9 @@
                             Back-end Development
                         </h3>
                         <p class="sec-2-device-p">
-                            Our back-end developers build the best-customized functionality while making sure your web
-                            solution works flawlessly behind the scenes
-                        </p>
+                        Our back-end developers create the greatest bespoke functionality while ensuring that your online solution operates smoothly on the backend.
+                      
+  </p>
 
                     </div>
                 </div>
@@ -420,9 +227,9 @@
                             API Integration
                         </h3>
                         <p class="sec-2-device-p">
-                            To save you time building essential functionality from scratch, we connect 3rd party
-                            services through APIs, from marketing to payment or geolocation
-                        </p>
+                        We integrate 3rd party services using APIs, from marketing to payment to geolocation, saving you time from having to construct crucial features from start.
+                      
+  </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
@@ -431,9 +238,9 @@
                             Web Development Consulting
                         </h3>
                         <p class="sec-2-device-p">
-                            With our seasoned consultants who can guide you through every step of your web development
-                            journey, you navigate tech complexities safely
-                        </p>
+                        With the help of our knowledgeable advisors, who can assist you at every stage of your web development journey, you may negotiate technical complexity securely.
+                     
+                     </p>
 
                     </div>
                     <div class="mb-sec-2-inner-col">
@@ -442,8 +249,8 @@
                             Support & Maintenance
                         </h3>
                         <p class="sec-2-device-p">
-                            As part of our custom web development services, we provide 24/7 infrastructure monitoring,
-                            problem resolution, updates, custom redesign, and more
+                        We offer 24/7 infrastructure monitoring, problem solving, upgrades, bespoke redesign, and more as part of our custom web development services.
+
                         </p>
 
                     </div>
@@ -467,10 +274,9 @@
                 <span class="mb-orange"> <br> with our custom web development services</span>
             </h2>
             <p>
-                Our mission is to take business like yours to the top. That’s why  SSEDLAB is more than just a professional
-                provider of custom web development services. Innovators at heart, we help you turn the latest tech
-                innovations into exceptional business value. We help you outrun the competition.
-            </p>
+            Our goal is to elevate companies like yours. Because of this, SSEDLAB is more than simply a reputable supplier of bespoke web development services. We are innovators at heart and can assist you in maximizing the value of cutting-edge technological advancements for your company. We assist you in outpacing the opposition.
+       
+       </p>
         </div>
     </section>
 
@@ -485,8 +291,8 @@
                         Progressive Web Apps
                     </h3>
                     <p class="sec-2-device-p">
-                        Build a lightweight and platform-agnostic PWA in its latest iteration or revamp your existing
-                        web app into a PWA for impressive performance
+                    Create a modern PWA that is lightweight and platform-neutral, or convert your current online application into a PWA for outstanding performance.
+
                     </p>
 
                 </div>
@@ -496,9 +302,9 @@
                         Accelerated Mobile Pages
                     </h3>
                     <p class="sec-2-device-p">
-                        Strip your web pages down to the basics so that they load superfast, delivering an unmatched
-                        user experience and improving your site visibility
-                    </p>
+                    Reduce the complexity of your web pages to make them load more quickly, providing a superior user experience and enhancing site exposure.
+                  
+                  </p>
 
                 </div>
                 <div class="mb-sec-2-inner-col">
@@ -507,9 +313,9 @@
                         Single-page Applications
                     </h3>
                     <p class="sec-2-device-p">
-                        Dynamically updating content with no page refreshing, SPAs are a superb way to provide a faster
-                        and simple experience to users. Build your SPA with us
-                    </p>
+                    SPAs are an excellent approach to give visitors a quicker and easier experience since they dynamically update content without requiring page refreshing. With us, create your SPA.
+                  
+  </p>
 
                 </div>
                 <div class="mb-sec-2-inner-col">
@@ -518,9 +324,9 @@
                         Serverless architecture
                     </h3>
                     <p class="sec-2-device-p">
-                        Get excellent scalability, improve your web app performance, and cut project costs by placing
-                        the underlying infrastructure in the cloud
-                    </p>
+                    By moving the underlying infrastructure to the cloud, you may reduce project costs, get superior scalability, and increase the performance of your web apps.
+               
+               </p>
 
                 </div>
             </div>
@@ -658,10 +464,9 @@
                         A-class team
                     </h3>
                     <p class="sec-2-device-p">
-                        Delivering web solutions across industry verticals since 2009, our team of senior web developers
-                        and designers know how to build your project right the first time. With us, you get a deep
-                        understanding of your business challenges and unparalleled tech expertise to beat them
-                    </p>
+                    Our team of senior web developers and designers has been providing web solutions across industry verticals since 2009, and they know how to construct your project correctly the first time. With us, you gain a profound comprehension of your business difficulties and unmatched IT competence to overcome them.
+               
+               </p>
 
                 </div>
                 <div class="mb-sec-2-inner-col">
@@ -687,9 +492,8 @@
                         Fast time-to-value
                     </h3>
                     <p class="sec-2-device-p">
-                        Using an agile approach and DevOps best practices, we ship new functionality faster while
-                        keeping quality high. Along the way, you stay in the loop as we show results early to adapt to
-                        your current vision
+                    We deploy new features more quickly while maintaining a high level of quality by utilizing an agile methodology and DevOps best practices. You are kept informed throughout the route as we provide early findings tailored to your present perception.
+
                     </p>
 
                 </div>
@@ -720,10 +524,9 @@
                         Deeply customized solutions
                     </h3>
                     <p class="sec-2-device-p">
-                        Each and every step of our process in custom web development services is focused on your unique
-                        business needs. We get a buzz out of unlocking tech complexities and tailoring a solution that
-                        serves your mission best. This is because we are fully engaged in your success
-                    </p>
+                    Every stage of our bespoke web development process is targeted at meeting the specific objectives of your organization. We get a kick out of solving technological puzzles and creating solutions that best support your objectives. This is due to our dedication to your achievement.
+                
+                </p>
 
                 </div>
             </div>
@@ -734,250 +537,10 @@
         </section>
     </section>
 
-    <section class="mb-sec-2 mb-mt-50">
-            <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">Latest Projects</h2>
-                <div class="swiper swiper-slider">
-                    <div class="swiper-wrapper">
+    @include("latest-project")
 
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/wallmart_1.jpg') }}"
-                                        alt="Swiper">
-                                    <h3 class="slider-heading">AI-based enterprise software for No.1 retailer→</h3>
-                                    <p>
-                                        Self-service analytics enabled by AI algorithms empowers 3 million users with
-                                        instant actionable insights.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/chip-mobile3.jpg') }}"
-                                        alt="Swiper">
-                                    <h3 class="slider-heading">Organ-on-a-chip platform for drug development→</h3>
-                                    <p>
-                                        Next-gen biotech platform relying on organ-chips enables faster, safer, and
-                                        cheaper drug development for human use
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/case-health.jpg') }}"
-                                        alt="Swiper">
-                                    <h3 class="slider-heading">Predictive analytics for cancer clinicians→</h3>
-                                    <p>
-                                        ML-based analytics improves cancer prognostic accuracy and treatment
-                                        recommendations.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/hybrid-cloud-preview.jpg') }}" alt="Swiper">
-                                    <h3 class="slider-heading">Cloud infrastructure for social media giant→</h3>
-                                    <p>
-                                        Advanced cloud infrastructure connects data centers and on-premises systems to
-                                        the cloud, driving agility in software development. </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/dollar-shave-club.webp') }}" alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        Mobile app for Dollar Shave Club→
-                                    </h3>
-                                    <p>
-                                        An Android app with no-fuss shopping features and flawless navigation helps the
-                                        Dollar Shave Club skyrocket sales
-
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/cybersecurity_preview.jpg') }}" alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        Next-level cybersecurity for enterprise risk management →
-                                    </h3>
-                                    <p>
-                                        A biometrics-based system provides bulletproof protection, eliminating
-                                        credential deception and the need for passwords or PINs.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/case-logistics.jpg') }}"
-                                        alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        AI-driven logistics platform→
-                                    </h3>
-                                    <p>
-                                        An IoT platform offers extended shipment management options to 25,000 active
-                                        users.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/software_instruments (2).jpg') }}" alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        Ecommerce solution for developer of virtual instruments →
-                                    </h3>
-                                    <p>
-                                        A tailored ecommerce platform has enabled a developer of software musical
-                                        instruments to reach out to wider audiences.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/shopping-technology-previeww.jpg') }}" alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        AI-powered autonomous checkout→
-
-                                    </h3>
-                                    <p>
-                                        An ML-driven solution allows retailers to make their stores checkout-free
-                                        without the need to redesign them.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/BenefitsAdministrator.jpg') }}" alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        Cloud solution for US third-party benefits administrators→
-                                    </h3>
-                                    <p>
-                                        Migration of a legacy system to microservices enables clients to easily
-                                        configure and manage employee benefits.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-                <!-- <span class="swiper-pagination"></span> -->
-                <span id="leftIndicator" style="display: none;" class="swiper-button-prev"></span>
-                <span id="rightIndicator" style="display: none;" class="swiper-button-next"></span>
-                <div class="carousel-indicator">
-                    <svg onclick="clickCarousel(this,'left')" xmlns="http://www.w3.org/2000/svg" width="17" height="17"
-                        viewBox="0 0 17 17" fill="none">
-                        <g clip-path="url(#clip0_199_4859)">
-                            <path d="M11.2735 15.8321L3.54785 8.10645L5.03595 6.61835L12.7616 14.344L11.2735 15.8321Z"
-                                fill="black" />
-                            <path
-                                d="M11.2735 0.380796L3.54785 8.10645L5.03595 9.59454L12.7616 1.86889L11.2735 0.380796Z"
-                                fill="black" />
-                        </g>
-                        <defs>
-                            <clipPath id="clip0_199_4859">
-                                <rect width="16" height="16" fill="white" transform="translate(0.5 0.380859)" />
-                            </clipPath>
-                        </defs>
-                    </svg>
-                    <svg onclick="clickCarousel(this,'right')" xmlns="http://www.w3.org/2000/svg" width="17" height="17"
-                        viewBox="0 0 17 17" fill="none">
-                        <g clip-path="url(#clip0_199_4864)">
-                            <path d="M5.76166 16.5235L13.4873 8.79785L11.9992 7.30975L4.27356 15.0354L5.76166 16.5235Z"
-                                fill="black" />
-                            <path d="M5.76166 1.0722L13.4873 8.79785L11.9992 10.2859L4.27356 2.5603L5.76166 1.0722Z"
-                                fill="black" />
-                        </g>
-                        <defs>
-                            <clipPath id="clip0_199_4864">
-                                <rect width="16" height="16" fill="white" transform="translate(0.5 0.380859)" />
-                            </clipPath>
-                        </defs>
-                    </svg>
-                </div>
-            </div>
-            <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
-                            <span class="button__wrap"><span class="button__inner_wrap">
-                                    <b class="button__inner_text">Contact Us</b>
-                                </span>
-                                <span class="button__arrow">
-                                    <svg class="alternative_solution" viewBox="0 0 1000 1000"
-                                        preserveAspectRatio="none">
-                                        <foreignobject class="foreignobject" width="1000" height="1000">
-                                            <span class="foreignobject"></span>
-                                        </foreignobject>
-                                    </svg>
-                                    <span class="button__arrow_svg">
-                                        <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                            <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                                        </svg>
-                                    </span>
-                                </span>
-                            </span>
-                        </a>
-                    </div>
-    </div>
-    </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <?php
-    // require 'shared/_contact-form.php';
-    // contactForm();
-    ?>
     @include('contact-form')
 
-
-    <?php
-    // require 'shared/_footer.php';
-    // footer();
-    ?>
     @include('footer')
     <div class="popup-custom">
         <div class="popup__wrapper popup__presentation">

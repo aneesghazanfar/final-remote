@@ -79,7 +79,7 @@ position: static !important;
 
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-soft">
-                <div class="container">
+            <div class="container-header">
                     <h1 class="banner-main-heading">
                         Dedicated software
                         development

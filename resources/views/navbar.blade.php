@@ -10,8 +10,8 @@
                             <ul class="header__menu">
                                 <li class="dropdown" ><a class="header__menu_item" href="#"><span>Solutions</span></a>
                                     <ul class="parent">
-                                        <li class="dropdown child " ><a class="header__menu_item" href="./data"><span class="mobile-li">Data</span></a>
-                                             <ul class="sub__parent">
+                                        <li class="dropdown child " ><a class="header__menu_item" href="/services/big-data"><span class="mobile-li">Data</span></a>
+                                             {{-- <ul class="sub__parent">
                                                 <li class="sub__child"><a class="" href="#"><span>Data Analytics</span></a></li>
                                                 <li class="sub__child"><a class="" href="#"><span>Data Architecture</span></a></li>
                                                 <li class="sub__child"><a class="" href="#"><span>Data Engineering</span></a></li>
@@ -23,10 +23,10 @@
                                                 <li class="sub__child"><a class="" href="#"><span>Data Visualization</span></a></li>
                                                 <li class="sub__child"><a class="" href="#"><span>Business Intelligence</span></a></li>
                                                 <li class="sub__child"><a class="" href="#"><span>Enterprise Data Platform</span></a></li>
-                                            </ul>
+                                            </ul> --}}
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="./ai"><span class='mobile-li'>Artificial Intelligence</span></a>
-                                        <ul class="sub__parent">
+                                        <li class="child" ><a class="header__menu_item" href="/services/artificial-intelligence"><span class='mobile-li'>Artificial Intelligence</span></a>
+                                        {{-- <ul class="sub__parent">
                                                 <li><a class="header__menu_item" href="./ai-for-education"><span>AI for Education</span></a></li>
                                                 <li><a class="header__menu_item" href="./ai-for-healthcare"><span>AI for Healthcate</span></a></li>
                                                 <li><a class="header__menu_item" href="./ai-for-retail"><span>AI for Retail</span></a></li>
@@ -37,14 +37,14 @@
                                                 <li><a class="header__menu_item" href="#"><span>Generative AI</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>Machine Learning</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>NLP</span></a></li>
-                                            </ul>
+                                            </ul> --}}
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="./automation"><span class='mobile-li'>Automation</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="/services/intelligent-process-automation"><span class='mobile-li'>Automation</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>RPA</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="./blockchain"><span class='mobile-li'>Blockchain</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="/services/blockchain-development"><span class='mobile-li'>Blockchain</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>Smart Contract</span></a></li>
                                             </ul> -->
@@ -56,7 +56,7 @@
                                                 <li><a class="header__menu_item" href="#"><span>Metaverse</span></a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="./iot"><span class='mobile-li'>Internet of Things</span></a>
+                                        <li class="child" ><a class="header__menu_item" href="/services/iot-development-consulting"><span class='mobile-li'>Internet of Things</span></a>
                                             <!-- <ul>
                                                 <li><a class="header__menu_item" href="#"><span>Embedded Software</span></a></li>
                                                 <li><a class="header__menu_item" href="#"><span>Industrial IoT</span></a></li>
@@ -65,26 +65,26 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li class="dropdown"><a class="header__menu_item" href="./soft-services"><span>Services</span></a>
+                                <li class="dropdown"><a class="header__menu_item" href="../soft-services"><span>Services</span></a>
                                     <ul class="parent">
-                                        <li class="child"><a class="header__menu_item" href="./mobile">Mobile</a>
+                                        <li class="child"><a class="header__menu_item" href="/services/mobile-app-development">Mobile</a>
                                         <ul class="sub__parent">
-                                        <li class="child"  ><a class="header__menu_item" href="./ios-app-development">iOS</a></li>
-                                        <li  class="child" ><a class="header__menu_item" href="./android-app-development">Android</a></li>
-                                        <li class="child"  ><a class="header__menu_item" href="./cross-platfrom-app-development">Cross-Platform</a></li>
+                                        <li class="child"  ><a class="header__menu_item" href="/services/ios-app-development">iOS</a></li>
+                                        <li  class="child" ><a class="header__menu_item" href="/services/android-app-development">Android</a></li>
+                                        <li class="child"  ><a class="header__menu_item" href="/services/cross-platfrom-app-development">Cross-Platform</a></li>
                                             </ul>
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="./web">Web</a></li>
-                                        <li class="child" ><a class="header__menu_item" href="./saas-services">SaaS</a></li>
-                                        <li class="child" ><a class="header__menu_item" href="./backend">Back-End</a></li>
-                                        <li class="child" ><a class="header__menu_item" href="./cloud_dev">Cloud &amp; DevOps</a>
+                                        <li class="child" ><a class="header__menu_item" href="/services/custom-web-development">Web</a></li>
+                                        <li class="child" ><a class="header__menu_item" href="/services/saas-development">SaaS</a></li>
+                                        <li class="child" ><a class="header__menu_item" href="/services/back-end-development">Back-End</a></li>
+                                        <li class="child" ><a class="header__menu_item" href="/services/cloud-consulting">Cloud &amp; DevOps</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">Cloud Migration</a></li>
                                                 <li><a href="#">DevOps</a></li>
                                                 <li><a href="#">Kubernetes</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="./dedicated_team">Dedicated Team</a>
+                                        <li class="child" ><a class="header__menu_item" href="/services/dedicated-development-team">Dedicated Team</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">CTO as a Service</a></li>
                                                 <li><a href="#">Angular Development</a></li>
@@ -93,7 +93,7 @@
                                                 <li><a href="#">Node.js Development</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="./qa_&_testing">QA &amp; Testing</a>
+                                        <li class="child" ><a class="header__menu_item" href="/services/software-testing-qa">QA &amp; Testing</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">Automation Testing</a></li>
                                                 <li><a href="#">Manual Testing</a></li>
@@ -101,20 +101,20 @@
                                                 <li><a href="#">Web Testing</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child"><a class="header__menu_item" href="./technology-consulting">Technology Consulting</a>
+                                        <li class="child"><a class="header__menu_item" href="/services/technology-consulting">Technology Consulting</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li><a href="#">Digital Transformation</a></li>
                                                 <li><a href="#">Legacy Software Modernization</a></li>
                                                 <li><a href="#">MVP Development</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child" ><a class="header__menu_item" href="./ui-ux-design">UI/UX Design</a></li>
+                                        <li class="child" ><a class="header__menu_item" href="/services/ui-ux-design">UI/UX Design</a></li>
                                         <li class="child" ><a class="header__menu_item" href="#">Support &amp; Maintenance</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a class="header__menu_item" href="#"><span>Industries</span></a>
                                     <ul class="parent">
-                                        <li class="child"><a class="header__menu_item"  href="./healthcare">Healthcare &amp; Biotech</a>
+                                        <li class="child"><a class="header__menu_item"  href="/healthcare-software-development">Healthcare &amp; Biotech</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li class=""><a href="#">Biotech</a></li>
                                                 <li class=""><a href="#">Fitness &amp; Wellness</a></li>
@@ -123,13 +123,13 @@
                                                 <li class=""><a href="#">Pharma</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="child"><a class="header__menu_item" href="./transportation_logistics">Logistics &amp; Transportation</a></li>
-                                        <li class="child"><a class="header__menu_item" href="./manufacturing-supply">Manufacturing &amp; Supply Chain</a></li>
-                                        <li class="child"><a class="header__menu_item" href="./media-entertainment">Media &amp; Entertainment</a></li>
-                                        <li class="child"><a class="header__menu_item" href="./retail-software">Retail</a></li>
-                                        <li class="child"><a class="header__menu_item" href="./e-learning">EdTech &amp; eLearning</a></li>
-                                        <li class="child"><a class="header__menu_item" href="./financial-software">FinTech</a></li>
-                                        <li class="child"><a class="header__menu_item" href="./ecommerce">Ecommerce</a>
+                                        <li class="child"><a class="header__menu_item" href="/services/transportation-logistics-software-development">Logistics &amp; Transportation</a></li>
+                                        <li class="child"><a class="header__menu_item" href="/services/manufacturing-supply-chain">Manufacturing &amp; Supply Chain</a></li>
+                                        <li class="child"><a class="header__menu_item" href="/services/media-entertainment">Media &amp; Entertainment</a></li>
+                                        <li class="child"><a class="header__menu_item" href="/services/retail-software-development">Retail</a></li>
+                                        <li class="child"><a class="header__menu_item" href="/services/e-learning-software-development">EdTech &amp; eLearning</a></li>
+                                        <li class="child"><a class="header__menu_item" href="/services/financial-software-development">FinTech</a></li>
+                                        <li class="child"><a class="header__menu_item" href="/services/ecommerce-development">Ecommerce</a>
                                             <!-- <ul class="sub-menu subsub">
                                                 <li class=""><a href="#">Adobe Commerce</a></li>
                                             </ul> -->

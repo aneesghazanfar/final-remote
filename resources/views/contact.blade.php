@@ -28,11 +28,7 @@
         <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCK6J8B" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="body-wrap-1">
-        <?php
-        require 'shared/_navbar.php';
-        navBar();
-        ?>
-
+    @include('navbar')
       <div class="form-section">
         <div class="container">
                   <div class="demo_request form_sucsess_parent">

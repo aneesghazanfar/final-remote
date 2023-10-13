@@ -2129,20 +2129,38 @@ body.modal_open {
 .container {
   position: relative;
   width: 100%;
+  margin: 0 auto;
+  max-width: 113rem;
 }
-.container {
+.container-header {
+  position: relative;
+  width: 100%;
+  height:350px;
   margin: 0 auto;
   max-width: 113rem;
 }
 @media (max-width: 1000px) {
   .container {
     max-width: 112.8rem;
+    height: auto;
+
+  }
+  .container-header {
+    max-width: 115.8rem;
+    height: auto;
   }
 }
 @media (max-width: 500px) {
   .container {
     max-width: 115.8rem;
+    height: auto;
+
   }
+  .container-header {
+    max-width: 115.8rem;
+    height: auto;
+  }
+
   .top_section__head_index  {
     text-transform: uppercase;
     font-size: 8em;
@@ -13584,25 +13602,16 @@ display: flex;
 .banner-main-heading {
   color: #FFF;
   text-align: center;
-  font-family: Alfa Slab One;
-  font-size: 90px;
+  font-family: Monument Extended;
+  font-size: 70px;
   font-style: normal;
-  font-weight: 400;
-  line-height: 133px;
+  letter-spacing: .01em;
+  font-weight: 700;
+  line-height: 99px;
   letter-spacing: 0.9px;
   text-transform: uppercase;
 }
-.banner-main-heading-2 {
-  color: #FFF;
-  text-align: center;
-  font-family: Alfa Slab One;
-  font-size: 50px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 133px;
-  letter-spacing: 0.9px;
-  text-transform: uppercase;
-}
+
 
 .tt-banner-para {
   color: #FFF;
@@ -14120,27 +14129,13 @@ display: flex;
   }
 
   .banner-main-heading {
-      color: #FFF;
-      text-align: center;
-      font-family: Alfa Slab One;
-      font-size: 22px;
-      font-style: normal;
-      font-weight: 400;
-      line-height: 32px;
-      letter-spacing: 0.9px;
-      text-transform: uppercase;
-  }
-  .banner-main-heading-2 {
     color: #FFF;
-    text-align: center;
-    font-family: Alfa Slab One;
-    font-size: 20px;
+    font-family: Monument;
+    font-size: 90px;
     font-style: normal;
-    font-weight: 400;
-    line-height: 32px;
-    letter-spacing: 0.9px;
-    text-transform: uppercase;
-}
+    font-weight: 700;
+    line-height: 99px
+  }
 
   .tt-banner-para {
       color: #FFF;
@@ -15007,14 +15002,7 @@ background-color: #ddd;
       padding: 20px 20px;
     }
 
-    .banner-main-heading {
-
-      font-size: 40px !important;
-      font-style: normal;
-      font-weight: 400;
-      line-height: 45px !important;
-      letter-spacing: 0.9px;
-    }
+   
 
     .tt-banner-para {
       width: 100% !important;
@@ -15329,7 +15317,6 @@ z-index: 1;
   @media screen and (min-width: 768px) and (max-width:1024px) {
     .banner-main-heading {
       color: #FFF;
-      text-align: center;
       font-family: Alfa Slab One;
       font-size: 67px;
       font-style: normal;

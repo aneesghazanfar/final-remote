@@ -25,23 +25,19 @@
             style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="body-wrap-1">
-        <?php
-        // require 'shared/_navbar.php';
-        // navBar();
-        ?>
         @include('navbar')
-
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-mobile">
-                <div class="container">
+            <div class="container-header">
                     <h1 class="banner-main-heading">
                         Android app
                         development
                         services
                     </h1>
                     <p class="tt-banner-para">
-                        Android apps that help businesses take their next big step forward and rise quickly to Google Play’s top charts.
-                    </p>
+                    Android applications that support organizations in making their next significant advancement and rocket to the top of Google Play's rankings.
+
+</p>
 
 
                     <section class="banner-btn">
@@ -56,8 +52,9 @@
             <div class="delievery-industry-spec">
                 <h2> Enterprise and consumer-oriented Android apps for any industry</h2>
                 <p>
-                    We develop Android apps tailored to your specific needs. Whether you want better business processes, insights into customer data or millions of downloads on Google Play, we cover it all, making sure your app performs seamlessly across the Android ecosystem and delivers outstanding user experience.
-                </p>
+                We create Android apps that are customised to your unique demands. We take care of it all, ensuring that your app runs flawlessly throughout the Android ecosystem and provides excellent user experience, whether you desire better business operations, insights into consumer data, or millions of downloads on Google Play.
+
+</p>
             </div>
         </section>
         <section class="mb-container mb-container-padding">
@@ -279,8 +276,8 @@
                                         alt="Swiper">
                                     <h3 class="slider-heading">AI-based enterprise software for No.1 retailer→</h3>
                                     <p>
-                                        Self-service analytics enabled by AI algorithms empowers 3 million users with
-                                        instant actionable insights.
+                                    3 million consumers now have fast access to useful information thanks to self-service analytics powered by AI algorithms.
+
                                     </p>
                                 </a>
                             </div>
@@ -292,8 +289,8 @@
                                         alt="Swiper">
                                     <h3 class="slider-heading">Organ-on-a-chip platform for drug development→</h3>
                                     <p>
-                                        Next-gen biotech platform relying on organ-chips enables faster, safer, and
-                                        cheaper drug development for human use
+                                    Drug development for human use is made faster, safer, and more affordable by a cutting-edge biotech platform that uses organ chips.
+
                                     </p>
                                 </a>
                             </div>
@@ -305,8 +302,8 @@
                                         alt="Swiper">
                                     <h3 class="slider-heading">Predictive analytics for cancer clinicians→</h3>
                                     <p>
-                                        ML-based analytics improves cancer prognostic accuracy and treatment
-                                        recommendations.
+                                    The accuracy of cancer prognostic predictions and therapy suggestions are improved using ML-based analytics.
+
                                     </p>
                                 </a>
                             </div>
@@ -318,8 +315,9 @@
                                         src=" {{asset('img/hybrid-cloud-preview.jpg') }}" alt="Swiper">
                                     <h3 class="slider-heading">Cloud infrastructure for social media giant→</h3>
                                     <p>
-                                        Advanced cloud infrastructure connects data centers and on-premises systems to
-                                        the cloud, driving agility in software development. </p>
+                                    Software development is made more agile by the advanced cloud architecture that links data centers and on-premises systems to the cloud.
+
+                                </p>
                                 </a>
                             </div>
                         </div>
@@ -332,8 +330,8 @@
                                         Mobile app for Dollar Shave Club→
                                     </h3>
                                     <p>
-                                        An Android app with no-fuss shopping features and flawless navigation helps the
-                                        Dollar Shave Club skyrocket sales
+                                    The Dollar Shave Club experiences explosive growth in revenue thanks to an Android app with simple buying capabilities and faultless navigation.
+
 
                                     </p>
                                 </a>
@@ -348,8 +346,8 @@
                                         Next-level cybersecurity for enterprise risk management →
                                     </h3>
                                     <p>
-                                        A biometrics-based system provides bulletproof protection, eliminating
-                                        credential deception and the need for passwords or PINs.
+                                    A biometrics-based system offers impenetrable security, doing away with the need for passwords or PINs or the possibility of credential fraud.
+
                                     </p>
                                 </a>
                             </div>
@@ -363,8 +361,8 @@
                                         AI-driven logistics platform→
                                     </h3>
                                     <p>
-                                        An IoT platform offers extended shipment management options to 25,000 active
-                                        users.
+                                    25,000 active users have access to expanded shipping management options through an IoT platform.
+
                                     </p>
                                 </a>
                             </div>
@@ -378,8 +376,8 @@
                                         Ecommerce solution for developer of virtual instruments →
                                     </h3>
                                     <p>
-                                        A tailored ecommerce platform has enabled a developer of software musical
-                                        instruments to reach out to wider audiences.
+                                    A software musical instrument creator has been able to reach out to larger audiences thanks to a customized ecommerce platform.
+
                                     </p>
                                 </a>
                             </div>
@@ -394,8 +392,8 @@
 
                                     </h3>
                                     <p>
-                                        An ML-driven solution allows retailers to make their stores checkout-free
-                                        without the need to redesign them.
+                                    Retailers may eliminate checkouts in their stores without having to completely rebuild them thanks to ML-driven solutions.
+
                                     </p>
                                 </a>
                             </div>
@@ -409,8 +407,8 @@
                                         Cloud solution for US third-party benefits administrators→
                                     </h3>
                                     <p>
-                                        Migration of a legacy system to microservices enables clients to easily
-                                        configure and manage employee benefits.
+                                    Clients may simply configure and administer employee benefits thanks to the migration of a traditional system to microservices.
+
                                     </p>
                                 </a>
                             </div>
@@ -534,8 +532,8 @@
 
             </div>
             <div class="mb-steps-col">
-                We translate your android app idea into a feature setlist and draw up a detailed
-                development roadmap that leads to the desired outcomes.
+            We create a feature checklist from your concept for your Android app and a thorough development plan that gets you where you want to go.
+
             </div>
         </div>
         <br>
@@ -555,10 +553,9 @@
                 <span class="mb-orange">for top-notch Android app development services</span>
             </h1>
             <p>
-                We combine our expertise in traditional technologies with innovative thinking and tech to create a new generation of Android apps.
-                Whether you are a startup aiming to disrupt the market
-                or an enterprise looking to improve employee productivity, obtain valuable data insights or build a
-                loyal customer base.
+            To build a new generation of Android apps, we combine our knowledge of conventional technologies with cutting-edge thinking and technology.
+                Whether you are a company wanting to disrupt the industry or an organization trying to increase staff efficiency, gain insightful data, or develop a devoted clientele.
+
             </p>
         </div>
     </section>
@@ -686,30 +683,35 @@
 
         <div id="London" class="mb-tabcontent" style="display:block;">
             <p>
-                Understand the market better, make instant data-driven decisions, find new business opportunities and promote your product with Big Data.
-            </p>
+            Big Data may help you better understand the industry, make quick, data-driven choices, uncover new business prospects, and advertise your product.
+
+</p>
         </div>
 
         <div id="Paris" class="mb-tabcontent">
             <p>
-                Offer a more engaging user experience, turn data into customer insights, improve decisions, enjoy process automation and benefit from personalized advertising with built-in artificial intelligence
-            </p>
+            With built-in artificial intelligence, you can provide a more engaging user experience, transform data into consumer insights, optimize choices, take advantage of process automation, and profit from targeted advertising.
+
+</p>
         </div>
 
         <div id="Tokyo" class="mb-tabcontent">
             <p>
-                Create immersive real-life simulations, offer highly interactive user experience, enable remote assistance and make use of the vast personalization opportunities offered by mobile AR/VR.
-            </p>
+            Create lifelike simulations that are immersive and highly interactive, provide remote support, and take use of the numerous customizing options provided by mobile AR/VR.
+
+</p>
         </div>
         <div id="Tokyo1" class="mb-tabcontent">
             <p>
-                Access data from smart, connected devices to easily get clear and actionable insights on how to differentiate customer experiences or improve business operations.
-            </p>
+            To quickly gain insight into how to distinguish consumer experiences or enhance corporate processes, access data from smart, connected devices.
+
+</p>
         </div>
         <div id="Tokyo2" class="mb-tabcontent">
             <p>
-                Achieve speed, scalability and cost savings with a cloud-based app that our engineers build secure and ship fast.
-            </p>
+            With a cloud-based application that our experts design securely and release quickly, you may get speed, scalability, and cost savings.
+
+</p>
         </div>
         <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
                             <span class="button__wrap"><span class="button__inner_wrap">
@@ -819,32 +821,12 @@
 
     </section>
 
-    <section class="mb-last-thinking mb-container">
-        <h1 class="mb-last-thinking-head">Latest thinking</h1>
-        <div class="mb-last-thinking-row">
-            <div class="mb-last-thinking-col">
-                <h2>Waterfall vs. Agile: how to
-                    choose the right approach →</h2>
-            </div>
-            <div class="mb-last-thinking-col">
-                <img width="100%"
-                    src=" {{asset('/img/pierre-chatel-innocenti-uZa4XqZM5G0-unsplash-1024x683.jpg.png') }}" alt=""
-                    srcset="">
-            </div>
-        </div>
-    </section>
+    @include("latest-project")
     </div>
-    <?php
-    // require 'shared/_contact-form.php';
-    // contactForm();
-    ?>
+
     @include('contact-form')
 
 
-    <?php
-    // require 'shared/_footer.php';
-    // footer();
-    ?>
     @include('footer')
     <div class="popup-custom">
         <div class="popup__wrapper popup__presentation">

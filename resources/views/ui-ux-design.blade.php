@@ -21,16 +21,16 @@
     <meta name="msapplication-config" content=" {{asset('i/browserconfig.xml') }}">
     <meta name="theme-color" content="#ffffff">
     <style>
-        .banner-img-page {
-            background: linear-gradient(rgba(0, 0, 0, 0.76), rgba(0, 0, 0, 0.801)),
+    .banner-img-page {
+        background: linear-gradient(rgba(0, 0, 0, 0.76), rgba(0, 0, 0, 0.801)),
             url('https://itrexgroup.com/wp-content/uploads/2022/07/bigger-min.jpg');
-            
-            background-position: cover;
-            background-repeat: no-repeat;
-            background-size: 100% 100%;
-            display: flex;
-        }
-        </style>
+
+        background-position: cover;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        display: flex;
+    }
+    </style>
 </head>
 
 <body id="page-index">
@@ -39,22 +39,21 @@
             style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="body-wrap-1">
-        <?php
-        // require 'shared/_navbar.php';
-        // navBar();
-        ?>
+
         @include('navbar')
 
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-page">
-                <div class="container">
+                <div class="container-header">
                     <h1 class="banner-main-heading">
                         End-to-end
                         UI/UX design
                         services
                     </h1>
                     <p class="tt-banner-para">
-                        SSED offers a whole gamut of UI/UX design services to transform unremarkable mobile apps, websites, dashboards, and cyber-physical systems into tech solutions that delight users and bring tangible business results
+                        SSED offers a whole gamut of UI/UX design services to transform unremarkable mobile apps,
+                        websites, dashboards, and cyber-physical systems into tech solutions that delight users and
+                        bring tangible business results
                     </p>
                     <section class="banner-btn">
                         <button class="tt-banner-btn">Hire UI/UX designers</button>
@@ -68,8 +67,11 @@
             <div class="mb-sec-2-inner">
                 <h2 class="mb-text-white">UI/UX design services that set us apart</h2>
                 <p>
-                    Whether you’re an enterprise on the verge of digital transformation or a SaaS startup preparing to roll out a new product, there’s a strong reason for you to partner with our UI/UX design company. Here’s what we can do to tell your brand’s story, make it stand out among the competition, and build an enduring bond with your clients:
-                    
+                    Whether you’re an enterprise on the verge of digital transformation or a SaaS startup preparing to
+                    roll out a new product, there’s a strong reason for you to partner with our UI/UX design company.
+                    Here’s what we can do to tell your brand’s story, make it stand out among the competition, and build
+                    an enduring bond with your clients:
+
                 </p>
 
                 <div class="mb-row mb-sec-2-2">
@@ -79,7 +81,10 @@
                             User Research
                         </h3>
                         <p class="sec-2-device-p">
-                            Our human-centered UI/UX design services start with rigorous user research. We collaborate with your internal and external stakeholders to define functional and non-functional requirements of a software product, benchmark competitors, and create low-fidelity prototypes
+                            Our human-centered UI/UX design services start with rigorous user research. We collaborate
+                            with your internal and external stakeholders to define functional and non-functional
+                            requirements of a software product, benchmark competitors, and create low-fidelity
+                            prototypes
 
 
                         </p>
@@ -89,9 +94,11 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            Prototyping                        </h3>
+                            Prototyping </h3>
                         <p class="sec-2-device-p">
-                            To validate the assumptions made in the previous step, our UI/UX design services team will develop high-fidelity prototypes using battle-proven tools. These prototypes will go through multiple iterations until the proposed concept fully meets your and your customers’ needs
+                            To validate the assumptions made in the previous step, our UI/UX design services team will
+                            develop high-fidelity prototypes using battle-proven tools. These prototypes will go through
+                            multiple iterations until the proposed concept fully meets your and your customers’ needs
 
                         </p>
 
@@ -104,7 +111,10 @@
 
                         </h3>
                         <p class="sec-2-device-p">
-                            Our UX design services offering includes customer journey maps, user flows, and diagram creation. This helps us figure out how and in what context users will interact with UI elements and whether they correlate with the desired solution features. We’ll assist you with developing complete design guidelines for your brand, too
+                            Our UX design services offering includes customer journey maps, user flows, and diagram
+                            creation. This helps us figure out how and in what context users will interact with UI
+                            elements and whether they correlate with the desired solution features. We’ll assist you
+                            with developing complete design guidelines for your brand, too
 
                         </p>
 
@@ -118,7 +128,10 @@
                             UI design
                         </h3>
                         <p class="sec-2-device-p">
-                            SSED provides a whole range of UI design services. Typography, color schemes, layouts, UI elements, and custom imagery — there’s nothing we can’t do. We also guarantee close cooperation between the UI/UX specialists and software engineers to develop software solutions up to spec and on budget and improve your time to market
+                            SSED provides a whole range of UI design services. Typography, color schemes, layouts, UI
+                            elements, and custom imagery — there’s nothing we can’t do. We also guarantee close
+                            cooperation between the UI/UX specialists and software engineers to develop software
+                            solutions up to spec and on budget and improve your time to market
                         </p>
 
                     </div>
@@ -126,9 +139,12 @@
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            UI/UX audit and consulting                        </h3>
+                            UI/UX audit and consulting </h3>
                         <p class="sec-2-device-p">
-                            Our UI/UX design company treats user experience as a cornerstone of a customer acquisition and retention strategy. To help you fine-tune yours, we offer expert UI/UX audit and consulting services: usability audits of your software solutions, buyer journey analysis, A/B tests preceding app redesign and functionality updates, and more!
+                            Our UI/UX design company treats user experience as a cornerstone of a customer acquisition
+                            and retention strategy. To help you fine-tune yours, we offer expert UI/UX audit and
+                            consulting services: usability audits of your software solutions, buyer journey analysis,
+                            A/B tests preceding app redesign and functionality updates, and more!
 
 
                         </p>
@@ -142,7 +158,10 @@
 
                         </h3>
                         <p class="sec-2-device-p">
-                            Throughout the project, we encourage clients to take advantage of our usability testing services and learn how target customer segments will navigate your apps in real life. These insights will help you eliminate unnecessary steps in the digital customer journey, allowing users to perform intended actions faster
+                            Throughout the project, we encourage clients to take advantage of our usability testing
+                            services and learn how target customer segments will navigate your apps in real life. These
+                            insights will help you eliminate unnecessary steps in the digital customer journey, allowing
+                            users to perform intended actions faster
 
                         </p>
 
@@ -164,7 +183,9 @@
                     does best
                 </h2>
                 <p>
-                    Your software solution can be complex beneath the surface. Its UI/UX design cannot. As an IT company that adheres to this principle no matter what, we build consistency, responsiveness, and usability into every product we create:
+                    Your software solution can be complex beneath the surface. Its UI/UX design cannot. As an IT company
+                    that adheres to this principle no matter what, we build consistency, responsiveness, and usability
+                    into every product we create:
 
 
                 </p>
@@ -181,7 +202,11 @@
                             Enterprise software
                         </h3>
                         <p class="sec-2-device-p">
-                            If you’re looking to hire a UI/UX designer to revamp the look and feel of your CRM, ERP, HRM, MarTech, and FinTech solutions, you’ve come to the right place. When delivering UI/UX design services to clients from the enterprise segment, we ensure that every employee, regardless of their tech background, can effortlessly use the system and become more productive
+                            If you’re looking to hire a UI/UX designer to revamp the look and feel of your CRM, ERP,
+                            HRM, MarTech, and FinTech solutions, you’ve come to the right place. When delivering UI/UX
+                            design services to clients from the enterprise segment, we ensure that every employee,
+                            regardless of their tech background, can effortlessly use the system and become more
+                            productive
 
 
                         </p>
@@ -195,7 +220,10 @@
 
                         </h3>
                         <p class="sec-2-device-p">
-                            Considering mobile applications a key point in the digital buyer journey, our UI/UX company empowers your customers to perform intended actions, be it logging in via a social media account or making a purchase, faster and in a hassle-free manner. Get in touch to learn more about our mobile UI/UX design services!
+                            Considering mobile applications a key point in the digital buyer journey, our UI/UX company
+                            empowers your customers to perform intended actions, be it logging in via a social media
+                            account or making a purchase, faster and in a hassle-free manner. Get in touch to learn more
+                            about our mobile UI/UX design services!
 
                         </p>
 
@@ -208,8 +236,11 @@
 
                         </h3>
                         <p class="sec-2-device-p">
-                            Need a high-conversion eCommerce website, web portal, or a single-page web application updating content in real time? We’re here to help! Our UI/UX web design services team will go the extra mile to create apps that look and perform well across different browsers and screen sizes
-.
+                            Need a high-conversion eCommerce website, web portal, or a single-page web application
+                            updating content in real time? We’re here to help! Our UI/UX web design services team will
+                            go the extra mile to create apps that look and perform well across different browsers and
+                            screen sizes
+                            .
                         </p>
 
                     </div>
@@ -223,7 +254,10 @@
 
                         </h3>
                         <p class="sec-2-device-p">
-                            A UI/UX company with solid data visualization expertise, SSED designs sleek cloud dashboards and interfaces for self-service BI and data analytics tools like no other. We’ll implement custom logic, filters, charts, and collaboration tools to help you interpret business data and make better decisions
+                            A UI/UX company with solid data visualization expertise, SSED designs sleek cloud dashboards
+                            and interfaces for self-service BI and data analytics tools like no other. We’ll implement
+                            custom logic, filters, charts, and collaboration tools to help you interpret business data
+                            and make better decisions
 
                         </p>
 
@@ -236,7 +270,10 @@
 
                         </h3>
                         <p class="sec-2-device-p">
-                            Digital objects that infiltrate your camera feed in augmented reality apps. Immersive sounds for games and mental health applications. Metaverses populated with realistic 3D avatars. Our UI/UX design company has done it all — and you can lean on our experts to take your clients’ experience to a whole new dimension!
+                            Digital objects that infiltrate your camera feed in augmented reality apps. Immersive sounds
+                            for games and mental health applications. Metaverses populated with realistic 3D avatars.
+                            Our UI/UX design company has done it all — and you can lean on our experts to take your
+                            clients’ experience to a whole new dimension!
 
 
                         </p>
@@ -250,7 +287,11 @@
 
                         </h3>
                         <p class="sec-2-device-p">
-                            We augment our IoT and AI development efforts with professional UI/UX services. To that end, we create robust embedded solutions, including human-machine interfaces (HMIs), voice user interfaces (VUIs), and software supporting cross-device interactions. Whatever touchpoints your user journey maps incorporate, the SSED team knows how to take the friction out of user experience
+                            We augment our IoT and AI development efforts with professional UI/UX services. To that end,
+                            we create robust embedded solutions, including human-machine interfaces (HMIs), voice user
+                            interfaces (VUIs), and software supporting cross-device interactions. Whatever touchpoints
+                            your user journey maps incorporate, the SSED team knows how to take the friction out of user
+                            experience
 
                         </p>
 
@@ -272,7 +313,10 @@
                     UI/UX design services
                 </h2>
                 <p>
-                    SSED Group is a full-stack software engineering company. That’s why our UI/UX designers don’t have to wear multiple hats on a project. Instead, they join forces with skilled business analysts, front-end developers, manual and automation testing specialists, and software architects to deliver best-in-class UI/UX design and development services
+                    SSED Group is a full-stack software engineering company. That’s why our UI/UX designers don’t have
+                    to wear multiple hats on a project. Instead, they join forces with skilled business analysts,
+                    front-end developers, manual and automation testing specialists, and software architects to deliver
+                    best-in-class UI/UX design and development services
 
                 </p>
             </div>
@@ -403,31 +447,36 @@
 
             <div id="London" class="mb-tabcontent" style="display:block;">
                 <p>
-                    We dive headfirst into the project to better understand your business, processes, and objectives — and come up with viable UI/UX concepts
+                    We dive headfirst into the project to better understand your business, processes, and objectives —
+                    and come up with viable UI/UX concepts
 
                 </p>
             </div>
 
             <div id="Paris" class="mb-tabcontent">
                 <p>
-                    We create prototypes with specific customer personas in mind, gather stakeholder feedback, analyze common user behavior patterns, and revise initial assumptions
+                    We create prototypes with specific customer personas in mind, gather stakeholder feedback, analyze
+                    common user behavior patterns, and revise initial assumptions
                 </p>
             </div>
 
             <div id="Tokyo" class="mb-tabcontent">
                 <p>
-                    We transform prototypes into full-fledged application interfaces that render correctly across all platforms and devices, convey your brand message, and streamline workflows
+                    We transform prototypes into full-fledged application interfaces that render correctly across all
+                    platforms and devices, convey your brand message, and streamline workflows
 
                 </p>
             </div>
             <div id="Tokyo1" class="mb-tabcontent">
                 <p>
-                    We identify and correct flaws and inconsistencies in UI/UX design and proceed to testing the solution with real users — either through traditional user tests or beta product launch
+                    We identify and correct flaws and inconsistencies in UI/UX design and proceed to testing the
+                    solution with real users — either through traditional user tests or beta product launch
                 </p>
             </div>
             <div id="Tokyo2" class="mb-tabcontent">
                 <p>
-                    We tweak application interfaces and navigation logic based on user feedback and repeat tests again and again until you get a tech product that fulfills your business objectives
+                    We tweak application interfaces and navigation logic based on user feedback and repeat tests again
+                    and again until you get a tech product that fulfills your business objectives
                 </p>
             </div>
             <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
@@ -682,7 +731,8 @@
                         Mature UI/UX design specialists
                     </h3>
                     <p class="sec-2-device-p">
-                        When you hire UI/UX designers at SSED, you get a team with the right soft and hard skills, recognized certifications, a powerful toolset, and unleashed imagination.
+                        When you hire UI/UX designers at SSED, you get a team with the right soft and hard skills,
+                        recognized certifications, a powerful toolset, and unleashed imagination.
 
                     </p>
 
@@ -694,7 +744,8 @@
                         Proven track record of UI/UX projects
                     </h3>
                     <p class="sec-2-device-p">
-                        We’re well-versed in UI/UX design and development — and we’ve got an extensive portfolio to back up our claim. And while you’re at it, you can check out our page on Dribbble, too.
+                        We’re well-versed in UI/UX design and development — and we’ve got an extensive portfolio to back
+                        up our claim. And while you’re at it, you can check out our page on Dribbble, too.
                     </p>
 
                 </div>

@@ -20,122 +20,113 @@ Route::get('/', function () {
 Route::get('saas', function () {
     return view('services_saas-development');
 });
-Route::get('mobile', function () {
+Route::get('/services/mobile-app-development', function () {
     return view('mobile-app');
 });
-Route::get('web', function () {
+Route::get('/services/custom-web-development', function () {
     return view('web-services');
 });
 Route::get('soft-services', function () {
     return view('soft-services');
 });
-Route::get('saas-services', function () {
+Route::get('/services/saas-development', function () {
     return view('saas-services');
+});
+
+Route::get('/services/cross-platfrom-app-development', function () {
+    return view('cross-platfrom-app-development');
 });
 
 Route::get('saas-services2', function () {
     return view('services_saas-development');
 });
 
-Route::get('backend', function () {
+Route::get('/services/back-end-development', function () {
     return view('Backend-services');
 });
 Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/cloud_dev', function () {
+Route::get('/services/cloud-consulting', function () {
     return view('cloude_&_dev');
 });
 
 
-Route::get('/dedicated_team', function () {
+Route::get('/services/dedicated-development-team', function () {
     return view('dedicated_team');
 });
 
-Route::get('/qa_&_testing', function () {
+Route::get('/services/software-testing-qa', function () {
     return view('qa_&_testing');
 });
 
-Route::get('/technology-consulting', function () {
+Route::get('/services/technology-consulting', function () {
     return view('technology-consulting');
 });
 
-Route::get('/android-app-development', function () {
+Route::get('/services/android-app-development', function () {
     return view('android-app-development');
 });
-Route::get('/data', function () {
+Route::get('/services/big-data', function () {
     return view('data');
 });
-Route::get('/ai', function () {
+
+Route::get('/services/artificial-intelligence', function () {
     return view('AI');
 });
-Route::get('/blockchain', function () {
-    return view('blockchain');
-});
-Route::get('/ios-app-development', function () {
-    return view('ios-app-development');
-});
-Route::get('/android-app-development', function () {
-    return view('android-app-development');
-});
-Route::get('/cross-platfrom-app-development', function () {
-    return view('cross-platfrom-app-development');
-});
-Route::get('/iot', function () {
+Route::get('/services/iot-development-consulting', function () {
     return view('iot');
 });
-Route::get('/automation', function () {
+
+Route::get('/services/intelligent-process-automation', function () {
     return view('automation');
 });
-Route::get('/healthcare', function () {
+
+Route::get('/healthcare-software-development', function () {
     return view('healthcare');
 });
-Route::get('/transportation_logistics', function () {
-    return view('transportation_logistics');
+
+Route::get('/services/ios-app-development', function () {
+    return view('ios-app-development');
 });
-Route::get('/manufacturing-supply', function () {
+Route::get('/services/manufacturing-supply-chain', function () {
     return view('manufacturing-supply');
 });
-Route::get('/media-entertainment', function () {
-    return view('media-entertainment');
-});
-Route::get('/retail-software', function () {
+
+Route::get('/services/retail-software-development', function () {
     return view('retail-software');
 });
-Route::get('/e-learning', function () {
+
+Route::get('/services/transportation-logistics-software-development', function () {
+    return view('transportation_logistics');
+});
+
+Route::get('/services/media-entertainment', function () {
+    return view('media-entertainment');
+});
+
+Route::get('/services/e-learning-software-development', function () {
     return view('e-learning');
 });
-Route::get('/financial-software', function () {
-    return view('financial-software');
-});
-Route::get('/ecommerce', function () {
+
+Route::get('/services/ecommerce-development', function () {
     return view('ecommerce');
 });
-Route::get('/technology-consulting', function () {
-    return view('technology-consulting');
-});
-Route::get('/ui-ux-design', function () {
-    return view('ui-ux-design');
-});
+
 Route::get('/it-support', function () {
     return view('it-support');
 });
-Route::get('/ai-for-education', function () {
-    return view('ai-for-education');
+
+Route::get('/services/ui-ux-design', function () {
+    return view('ui-ux-design');
 });
-Route::get('/ai-for-healthcare', function () {
-    return view('ai-for-healthcare');
+
+
+Route::get('/services/blockchain-development', function () {
+    return view('blockchain');
 });
-Route::get('/ai-for-retail', function () {
-    return view('ai-for-retail');
-});
-Route::get('/anomaly-detection', function () {
-    return view('anomaly-detection');
-});
-Route::get('/chatbot-development', function () {
-    return view('chatbot-development');
-});
-Route::get('/computer-vision', function () {
-    return view('computer-vision');
+
+Route::get('/services/financial-software-development', function () {
+    return view('financial-software');
 });

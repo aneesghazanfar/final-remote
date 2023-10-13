@@ -39,37 +39,14 @@
                 </foreignobject>
             </svg>
             <div class="top_section vis_on_scroll banner-img">
-                <div class="container">
-                    <h1 class="banner-main-heading">
-                        Next-gen enterprise
-                    </h1>
-                    <h1 class="banner-main-heading-2">
-                        software development company
-                    </h1>
+                <div class="container-header">
+                    <h1 class="banner-main-heading">Next-gen enterprise software development company</h1>
 
-
-                    <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
-                            <span class="button__wrap"><span class="button__inner_wrap">
-                                    <b class="button__inner_text">Discuss my project</b>
-                                </span>
-                                <span class="button__arrow">
-                                    <svg class="alternative_solution" viewBox="0 0 1000 1000"
-                                        preserveAspectRatio="none">
-                                        <foreignobject class="foreignobject" width="1000" height="1000">
-                                            <span class="foreignobject"></span>
-                                        </foreignobject>
-                                    </svg>
-                                    <span class="button__arrow_svg">
-                                        <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                            <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                                        </svg>
-                                    </span>
-                                </span>
-                            </span>
-                        </a>
-                    </div>
-
+                    <br><br>
+                    <section class="banner-btn">
+                        <button class="tt-banner-btn">Discuss my project</button>
+                        <img src=" {{asset('img/SVG.svg') }}" alt="">
+                    </section>
                 </div>
             </div>
         </div>
@@ -150,27 +127,11 @@
                         or launch into the metaverse. XR solutions help you bypass distance challenges and be innovative
                         for real.</p>
                 </div>
-
-                <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
-                        <span class="button__wrap"><span class="button__inner_wrap">
-                                <b class="button__inner_text">Discuss my project</b>
-                            </span>
-                            <span class="button__arrow">
-                                <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                                    <foreignobject class="foreignobject" width="1000" height="1000">
-                                        <span class="foreignobject"></span>
-                                    </foreignobject>
-                                </svg>
-                                <span class="button__arrow_svg">
-                                    <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                        <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                                    </svg>
-                                </span>
-                            </span>
-                        </span>
-                    </a>
-                </div>
+                <br><br>
+                    <section class="banner-btn">
+                        <button class="tt-banner-btn">Discuss my project</button>
+                        <img src=" {{asset('img/SVG.svg') }}" alt="">
+                    </section>
             </div>
         </section>
 

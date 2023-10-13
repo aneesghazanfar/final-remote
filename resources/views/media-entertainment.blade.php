@@ -42,7 +42,7 @@
 
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-page">
-                <div class="container">
+            <div class="container-header">
                     <h1 class="banner-main-heading">
                         Media & entertainment
                         software solutions

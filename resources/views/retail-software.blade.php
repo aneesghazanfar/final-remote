@@ -23,8 +23,8 @@
     <style>
     .banner-img-page {
         background: linear-gradient(rgba(0, 0, 0, 0.76), rgba(0, 0, 0, 0.801)),
-        url('https://e0.pxfuel.com/wallpapers/693/535/desktop-wallpaper-retail-grocery-shopping.jpg');
-        
+            url('https://e0.pxfuel.com/wallpapers/693/535/desktop-wallpaper-retail-grocery-shopping.jpg');
+
         background-position: cover;
         background-repeat: no-repeat;
         background-size: 100% 100%;
@@ -39,23 +39,21 @@
             style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="body-wrap-1">
-        <?php
-        // require 'shared/_navbar.php';
-        // navBar();
-        ?>
+
         @include('navbar')
 
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-page">
-                <div class="container">
+                <div class="container-header">
                     <h1 class="banner-main-heading">
                         Retail software
-development
-services
+                        development
+                        services
 
                     </h1>
                     <p class="tt-banner-para">
-                        Attract and retain customers through stellar omnichannel experiences with our retail software development services  
+                        Attract and retain customers through stellar omnichannel experiences with our retail software
+                        development services
 
                     </p>
 
@@ -73,7 +71,10 @@ services
             <div class="mb-sec-2-inner">
                 <h2 class="mb-text-white">Flexible retail software development services</h2>
                 <p>
-                    A retail software development company with 13+ years of experience, we have full-stack capabilities to help you ride the crest of digital transformation in retail. Whether you’re about to develop a custom retail solution, customize an existing retail platform, or integrate several disparate solutions into a coherent retail ecosystem, we’re up for the challenge.:
+                    A retail software development company with 13+ years of experience, we have full-stack capabilities
+                    to help you ride the crest of digital transformation in retail. Whether you’re about to develop a
+                    custom retail solution, customize an existing retail platform, or integrate several disparate
+                    solutions into a coherent retail ecosystem, we’re up for the challenge.:
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
@@ -82,7 +83,9 @@ services
                             Custom retail solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            We’ll help you embrace omnichannel with a tailored solution that integrates seamlessly into your tech infrastructure and fully supports your retail, wholesale, and dealership management operations.
+                            We’ll help you embrace omnichannel with a tailored solution that integrates seamlessly into
+                            your tech infrastructure and fully supports your retail, wholesale, and dealership
+                            management operations.
 
                         </p>
 
@@ -94,7 +97,9 @@ services
                             Platform-based retail solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            We’ll help you choose the right platform to address your business’ pain points, implement all the needed customizations, and integrate the solution with the available corporate software.
+                            We’ll help you choose the right platform to address your business’ pain points, implement
+                            all the needed customizations, and integrate the solution with the available corporate
+                            software.
                         </p>
 
                     </div>
@@ -105,7 +110,9 @@ services
                             Integration of custom solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            We’ll leverage our expertise in retail software development and integration to make sure your retail ecosystem is consistent and interoperable, bringing together multiple systems and apps.
+                            We’ll leverage our expertise in retail software development and integration to make sure
+                            your retail ecosystem is consistent and interoperable, bringing together multiple systems
+                            and apps.
                         </p>
 
                     </div>
@@ -129,7 +136,9 @@ services
                     operations
                 </h2>
                 <p>
-                    With our retail software development services, you can empower your business with tools that make it easier to manage orders and payments, as well as optimize and even automate sourcing, procurement, and distribution operations.
+                    With our retail software development services, you can empower your business with tools that make it
+                    easier to manage orders and payments, as well as optimize and even automate sourcing, procurement,
+                    and distribution operations.
 
                 </p>
             </div>
@@ -145,7 +154,9 @@ services
                             Order management solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            Our retail software company creates applications that help align inventory and orders across multiple channels, set up compound shipping schedules, manage order profiles, and tap into insightful reporting and analytics.
+                            Our retail software company creates applications that help align inventory and orders across
+                            multiple channels, set up compound shipping schedules, manage order profiles, and tap into
+                            insightful reporting and analytics.
 
                         </p>
 
@@ -157,7 +168,9 @@ services
                             On-demand delivery solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            Our retail software development services will help you make delivery a seamless part of the customer experience. We develop delivery apps featuring route planning, real-time order tracking, fleet capacity optimization, and other competitive functionality.
+                            Our retail software development services will help you make delivery a seamless part of the
+                            customer experience. We develop delivery apps featuring route planning, real-time order
+                            tracking, fleet capacity optimization, and other competitive functionality.
                         </p>
 
                     </div>
@@ -170,7 +183,9 @@ services
                             Supply chain management solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            We’ll help you handle the flow of goods from suppliers all the way to end customers, optimize purchasing and procurement, tendering and acquisition, fleet and warehouse management, as well as product distribution and merchandise.
+                            We’ll help you handle the flow of goods from suppliers all the way to end customers,
+                            optimize purchasing and procurement, tendering and acquisition, fleet and warehouse
+                            management, as well as product distribution and merchandise.
 
                         </p>
 
@@ -182,7 +197,9 @@ services
                             Billing and accounting solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            Upgrade payment processing with software that allows fast handling of point-of-sale transactions, supports automated invoicing and configurable discount schemes, and integrates smoothly with CRM, SCM, and other essential retail systems.
+                            Upgrade payment processing with software that allows fast handling of point-of-sale
+                            transactions, supports automated invoicing and configurable discount schemes, and integrates
+                            smoothly with CRM, SCM, and other essential retail systems.
 
                         </p>
 
@@ -204,9 +221,12 @@ services
                     and reopen safely
                 </h2>
                 <p>
-                    With brick-and-mortar stores reopening, retailers need to make sure offline shopping is safe and enjoyable. We empower the retail industry with software solutions that do just that.
+                    With brick-and-mortar stores reopening, retailers need to make sure offline shopping is safe and
+                    enjoyable. We empower the retail industry with software solutions that do just that.
 
-Our custom retail software solutions will help you inform your customers about safety regulations, make sure they follow precaution measures, and prevent crowding through self-service and self-checkout experiences.
+                    Our custom retail software solutions will help you inform your customers about safety regulations,
+                    make sure they follow precaution measures, and prevent crowding through self-service and
+                    self-checkout experiences.
 
 
                 </p>
@@ -217,7 +237,9 @@ Our custom retail software solutions will help you inform your customers about s
             <div class="mb-sec-2-inner">
                 <h2 class="mb-text-white">Virtual try-on solutions</h2>
                 <p>
-                    Our retail software development services include implementing VR and AR-powered solutions, like virtual fitting rooms and product catalogs, for buyers to get a sense of how a particular product looks or fits without touching it.
+                    Our retail software development services include implementing VR and AR-powered solutions, like
+                    virtual fitting rooms and product catalogs, for buyers to get a sense of how a particular product
+                    looks or fits without touching it.
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
@@ -226,7 +248,9 @@ Our custom retail software solutions will help you inform your customers about s
                             Self-checkout solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            Our retail software company develops software for self-service kiosks, shopping carts, and self-checkout systems with secure contactless payments to let your customers pay for the goods fast and without queueing.
+                            Our retail software company develops software for self-service kiosks, shopping carts, and
+                            self-checkout systems with secure contactless payments to let your customers pay for the
+                            goods fast and without queueing.
 
                         </p>
 
@@ -239,7 +263,8 @@ Our custom retail software solutions will help you inform your customers about s
 
                         </h3>
                         <p class="sec-2-device-p">
-                            We develop AI-powered software for CCTV cameras and sensor-based IoT systems that can analyze customer flow and foot traffic patterns in real time to detect and prevent crowding.
+                            We develop AI-powered software for CCTV cameras and sensor-based IoT systems that can
+                            analyze customer flow and foot traffic patterns in real time to detect and prevent crowding.
 
                         </p>
 
@@ -272,7 +297,9 @@ Our custom retail software solutions will help you inform your customers about s
                     customer experience
                 </h2>
                 <p>
-                    With our retail software services, you can augment your business with retail software solutions that let you dig into your customers’ wishes, breed loyalty with personalized offers, encourage repeat purchases, and boost the in-store experience.
+                    With our retail software services, you can augment your business with retail software solutions that
+                    let you dig into your customers’ wishes, breed loyalty with personalized offers, encourage repeat
+                    purchases, and boost the in-store experience.
 
 
                 </p>
@@ -283,7 +310,10 @@ Our custom retail software solutions will help you inform your customers about s
             <div class="mb-sec-2-inner">
                 <h2 class="mb-text-white">Customer profile and relationship management solutions</h2>
                 <p>
-                    We develop full-featured retail solutions that let you merge the data about your customers’ purchase and conversion history, shopping behavior, and other data from multiple sources like retail CRM, ecommerce sites, and social media to gain a comprehensive view of your customers and reach them with personalized offers.
+                    We develop full-featured retail solutions that let you merge the data about your customers’ purchase
+                    and conversion history, shopping behavior, and other data from multiple sources like retail CRM,
+                    ecommerce sites, and social media to gain a comprehensive view of your customers and reach them with
+                    personalized offers.
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
@@ -292,7 +322,10 @@ Our custom retail software solutions will help you inform your customers about s
                             Loyalty solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            Manage loyalty, referral, and partnership programs via a single solution featuring customer account management, loyalty analytics, mobile access, personalized notifications, and more. Retail loyalty solutions we build seamlessly integrate with vital retail systems, like ERP and POS, too.
+                            Manage loyalty, referral, and partnership programs via a single solution featuring customer
+                            account management, loyalty analytics, mobile access, personalized notifications, and more.
+                            Retail loyalty solutions we build seamlessly integrate with vital retail systems, like ERP
+                            and POS, too.
                         </p>
 
                     </div>
@@ -303,7 +336,10 @@ Our custom retail software solutions will help you inform your customers about s
                             In-store engagement solutions
                         </h3>
                         <p class="sec-2-device-p">
-                            We extend our retail software development services to creating apps, chatbots, and virtual assistants that let you reach out to customers with tailored notifications as they shop; develop real-time marketing campaigns; answer customers’ questions via conversational interfaces; upsell effectively.
+                            We extend our retail software development services to creating apps, chatbots, and virtual
+                            assistants that let you reach out to customers with tailored notifications as they shop;
+                            develop real-time marketing campaigns; answer customers’ questions via conversational
+                            interfaces; upsell effectively.
 
                         </p>
 
@@ -312,7 +348,7 @@ Our custom retail software solutions will help you inform your customers about s
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                            End-to-End  Development
+                            End-to-End Development
                         </h3>
                         <p class="sec-2-device-p">
                             Need professionals to create a app from scratch? Our
@@ -336,7 +372,10 @@ Our custom retail software solutions will help you inform your customers about s
                     expectations with AI-powered intelligence
                 </h2>
                 <p>
-                    Specializing in artificial intelligence, we put it to use when developing software solutions for retail. Our retail data analytics solutions merge data from retail ERPs, CRMs, vendor portals, customer-facing mobile apps, social media, and other sources to create data ecosystems that provide a 360-degree look into your customers and business operations.
+                    Specializing in artificial intelligence, we put it to use when developing software solutions for
+                    retail. Our retail data analytics solutions merge data from retail ERPs, CRMs, vendor portals,
+                    customer-facing mobile apps, social media, and other sources to create data ecosystems that provide
+                    a 360-degree look into your customers and business operations.
 
 
                 </p>
@@ -347,7 +386,10 @@ Our custom retail software solutions will help you inform your customers about s
             <div class="mb-sec-2-inner">
                 <h2 class="mb-text-white">Customer analytics</h2>
                 <p>
-                    AI-powered solutions that draw in data from siloed data sets and external information on demographics, psychographics, and more to create a complete understanding of the customer experience, anticipate customer needs, incept at-risk buyers, and increase sales and customer satisfaction.
+                    AI-powered solutions that draw in data from siloed data sets and external information on
+                    demographics, psychographics, and more to create a complete understanding of the customer
+                    experience, anticipate customer needs, incept at-risk buyers, and increase sales and customer
+                    satisfaction.
 
                 </p>
                 <div class="mb-row mb-sec-2-2">
@@ -357,7 +399,10 @@ Our custom retail software solutions will help you inform your customers about s
                             In-store analytics
                         </h3>
                         <p class="sec-2-device-p">
-                            We implement intelligent retail solutions that allow measuring the number of visits, the share of new versus known customers, the effectiveness of marketing campaigns and their influence on shopping behavior, and more to increase shop performance, optimize customer experience, and drive sales.
+                            We implement intelligent retail solutions that allow measuring the number of visits, the
+                            share of new versus known customers, the effectiveness of marketing campaigns and their
+                            influence on shopping behavior, and more to increase shop performance, optimize customer
+                            experience, and drive sales.
 
                         </p>
 
@@ -370,7 +415,10 @@ Our custom retail software solutions will help you inform your customers about s
 
                         </h3>
                         <p class="sec-2-device-p">
-                            AI-powered analytics tools that allow analyzing historical sales, inventory, and pricing data against seasonality, competitor activity, consumer trends, special events, and other factors in order to predict demand for specific SKUs and optimize procurement, inventory management, and marketing strategies.
+                            AI-powered analytics tools that allow analyzing historical sales, inventory, and pricing
+                            data against seasonality, competitor activity, consumer trends, special events, and other
+                            factors in order to predict demand for specific SKUs and optimize procurement, inventory
+                            management, and marketing strategies.
 
                         </p>
 
@@ -383,7 +431,10 @@ Our custom retail software solutions will help you inform your customers about s
 
                         </h3>
                         <p class="sec-2-device-p">
-                            We develop custom retail solutions that analyze historical inventory data, assortment depth, and product segments to align supply and demand, increase inventory turnover, reduce inventory holding costs, improve stock availability and lead times, and minimize the risk of overstocking and stock-outs.
+                            We develop custom retail solutions that analyze historical inventory data, assortment depth,
+                            and product segments to align supply and demand, increase inventory turnover, reduce
+                            inventory holding costs, improve stock availability and lead times, and minimize the risk of
+                            overstocking and stock-outs.
 
                         </p>
 

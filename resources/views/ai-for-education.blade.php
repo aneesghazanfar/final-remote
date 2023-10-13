@@ -32,15 +32,16 @@
 
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-web">
-                <div class="container">
+                <div class="container-header">
                     <h1 class="banner-main-heading">
                         AI solutions
                         for education and
                         corporate training
                     </h1>
                     <p class="tt-banner-para">
-                        Tap our AI education expertise to transform the experience of students and educators radically,
-                        ethically, and for positive outcomes
+                        Utilize our expertise in AI education to drastically, morally, and favorably change the
+                        experiences of students and teachers.
+
                     </p>
 
 
@@ -140,12 +141,13 @@
 
                 </h2>
                 <p>
-                    Leverage the power of your data and artificial intelligence with our groundbreaking AI solutions for
-                    education and corporate training that we build with privacy in mind. Our educational AI software
-                    will blend smoothly with your classroom workflows, learning management systems, or day-to-day
-                    operations. Apart from integration, we also place a special emphasis on bias elimination and strong
-                    human-machine partnerships to drive adoption. Allow AI to step in while we will make sure that your
-                    AI experience is simple, cohesive, and extremely impactful.
+                    Utilize the potential of artificial intelligence and your data with our ground-breaking AI solutions
+                    for corporate training and education that we develop with privacy in mind. Our educational AI
+                    software will seamlessly integrate with your learning management systems, day-to-day operations, and
+                    classroom workflows. In addition to integration, we lay a specific emphasis on eliminating prejudice
+                    and solid human-machine collaborations to promote adoption. Allow AI to take over while we ensure
+                    that your interaction with AI is straightforward, logical, and highly effective.
+
 
                 </p>
             </div>
@@ -162,10 +164,11 @@
                             Education personalization
                         </h3>
                         <p>
-                            Harness AI capabilities to figure out subject understanding in students, uncover their
-                            learning style preferences and build highly personalized study schedules. AI will help you
-                            address knowledge gaps, bring up new topics when appropriate, and engage students via
-                            interactive activities.
+                            Utilize AI to create highly individualized study timetables for students, learn about their
+                            preferred learning styles, and assess their comprehension of a subject. AI will assist you
+                            in filling in knowledge gaps, bringing up fresh subjects when necessary, and enticing
+                            students to participate in interactive activities.
+
 
                         </p>
                     </div>
@@ -174,10 +177,11 @@
                             Task automation
                         </h3>
                         <p>
-                            Optimize and simplify time-consuming administrative tasks, such as timetable scheduling,
-                            keeping student records, assigning students/instructors to classrooms, and homework/test
-                            grading, using our AI education expertise. Delegating routine tasks to AI opens up more time
-                            for teachers to connect with students one-to-one.
+                            Utilize our AI education experience to optimize and streamline time-consuming administrative
+                            operations like schedule scheduling, student record keeping, allocating students/instructors
+                            to classes, and homework/test grading. It gives teachers more time to interact one-on-one
+                            with pupils when mundane chores are turned over to AI.
+
 
                         </p>
 
@@ -189,10 +193,11 @@
                             Inclusive education
                         </h3>
                         <p>
-                            Adopt AI to grant access to education for students with disabilities. AI tools can create
-                            subtitles in real time for what teachers are saying or provide an audio narration of what is
-                            in front of the camera, making classrooms available to those who are visually or hearing
-                            impaired.
+                            Adopt AI to give students with impairments access to school. For students who are deaf or
+                            hard of hearing, classrooms can be made accessible using AI techniques that can instantly
+                            translate what teachers are saying into subtitles or provide an audio commentary on what is
+                            happening in front of the camera.
+
 
 
                         </p>
@@ -212,10 +217,11 @@
                             Intelligent content
                         </h3>
                         <p>
-                            Create your AI platform to automatically aggregate and contextualize lesson content from
-                            multiple sources. Generate digital textbooks and bite-sized lessons through custom
-                            AI-powered learning interfaces and provide advanced visualization and simulation solutions
-                            for better information perception.
+                            To automatically collect and contextualize lesson information from many sources, develop
+                            your own AI platform. By using personalized AI-powered learning interfaces, create digital
+                            textbooks and bite-sized lectures, and offer cutting-edge visualization and simulation
+                            solutions for improved information perception.
+
 
                         </p>
                     </div>
@@ -224,9 +230,10 @@
                         <h3 class="sec-2-device">
                             Tutoring </h3>
                         <p>
-                            AI-powered chatbots and virtual assistants are time-savers for teachers and parents.
-                            Providing personalized assistance to students, they can explain challenging topics and save
-                            the embarrassment that comes with asking the teacher a question in front of the class.
+                            Teachers and parents can save time by using chatbots and virtual assistants powered by AI.
+                            They can explain complex subjects and spare pupils the discomfort of having to ask the
+                            teacher a question in front of the class by offering personalized assistance to them.
+
                         </p>
                     </div>
                     <div class="mb-sec-2-inner-col">
@@ -234,10 +241,11 @@
                             Safety and security
                         </h3>
                         <p>
-                            Leverage AI and the IoT to strengthen safety and security at educational facilities. CCTV
-                            cameras with facial recognition capabilities, wearables, and vital signs monitoring
-                            solutions can help you restrict access to educational facilities and enforce social
-                            distancing.
+
+                            Boost safety and security at educational facilities by using AI and the IoT. Access to
+                            educational facilities can be restricted, and social distance can be enforced, with the aid
+                            of CCTV cameras with facial recognition capabilities, wearables, and vital sign monitoring
+                            devices.
 
 
                         </p>
@@ -263,10 +271,12 @@
 
                 </h2>
                 <p>
-                    A company with an in-house team of AI experts, we craft artificial intelligence solutions for
-                    clients in the K-12, higher education, and corporate training markets, enabling them to improve cost
-                    efficiency and shape the future of education with unparalleled learning results.
 
+
+                    We are an organization that has an internal team of AI specialists who create artificial
+                    intelligence solutions for customers in the K–12, higher education, and corporate training markets,
+                    enabling them to increase cost effectiveness and influence the future of education with unmatched
+                    learning outcomes.
 
 
                 </p>
@@ -281,27 +291,34 @@
 
                 <button class="accordion">K12</button>
                 <div class="panel">
-                    <p>We assist K12 leaders in creating and implementing artificial intelligence solutions that
-                        automate workflows and the mundane for teachers while helping them provide uniquely engaging
-                        learning experience that drives persistence.
+                    <p>
+                        We support K12 leaders in developing and implementing artificial intelligence solutions that
+                        simplify routine tasks for teachers while assisting them in establishing distinctively engaging
+                        learning experiences that encourage persistence.
+
+
                     </p>
                 </div>
 
                 <button class="accordion">Colleges and universities
                 </button>
                 <div class="panel">
-                    <p>Through a partnership with ITRex, you can embrace the AI-powered future, reducing the cost of
-                        learning while boosting student success and instructor productivity at the same time in the age
-                        of remote education.
-                        .</p>
+                    <p>
+                        In the era of distance learning, you may embrace the AI-powered future by collaborating with
+                        ITRex. This will lower the cost of education while simultaneously increasing student performance
+                        and instructor efficiency.
+
+                    <p>
                 </div>
 
                 <button class="accordion">EdTech startups
                 </button>
                 <div class="panel">
-                    <p>Our team can bridge the skills gaps in your knowledge-intensive EdTech projects, from custom
-                        robotic kits, low-code/no-code development tools for children, AI chatbots, and teleconferencing
-                        tools to eLearning platforms.
+                    <p>
+                        Our team can fill the knowledge gaps in your knowledge-intensive EdTech initiatives, from
+                        specialized robotic kits, kid-friendly low-code and no-code development tools, AI chatbots, and
+                        teleconferencing tools to eLearning platforms.
+
                     </p>
                 </div>
 
@@ -309,9 +326,10 @@
                 </button>
 
                 <div class="panel">
-                    <p>We equip HRM and HRD specialists with bias-free AI training solutions for employees and help
-                        managers get data-driven insights about their corporate learning strengths and weaknesses to fix
-                        any gaps with timely interventions.
+                    <p>We provide HRM and HRD professionals with bias-free AI training solutions for workers and assist
+                        managers in gaining data-driven insights about their corporate learning strengths and weaknesses
+                        so that any gaps may be filled with prompt interventions.
+
                     </p>
                 </div>
                 <br>
@@ -412,11 +430,12 @@
 
                 </h2>
                 <p>
-                    An epochal invention, AI is expected to fundamentally transform education as we know it. The game is
-                    on. Its speed is only accelerating, driven by the coronavirus crisis that has relaxed public
-                    attitudes to remote education. Nearly a third of millennials, who are the largest consumer group and
-                    now the primary workforce, understand AI and have some experience with it. It is time to cater to
-                    them with something future proof.
+                    AI, a historic invention, is predicted to drastically alter education as we currently know it. It's
+                    time to start the game. The coronavirus outbreak, which has lowered public views toward distance
+                    learning, is what is causing it to accelerate. Millennials, who make up the majority of consumers
+                    and the majority of the workforce today, are knowledgeable with and have some experience with AI.
+                    It's time to provide them a solution that will stand the test of time.
+
 
                 </p>
             </div>
@@ -432,16 +451,19 @@
                                 99.4%
                             </h3>
                             <p class="mb-counter-text">
-                                of educators say AI will be key
-                                to their institution’s competitiveness </p>
+                                of academics claim that AI will be essential to their institution's competitiveness
+
+                            </p>
                         </div>
                         <div class="mb-counter">
                             <h3 class="mb-counter-number">
                                 99%
                             </h3>
                             <p class="mb-counter-text">
-                                of educational institutions have defined
-                                their business drivers for AI adoption </p>
+                                Several educational institutions have identified their business motivations for
+                                implementing AI.
+
+                            </p>
                         </div>
                     </div>
                     <div class="delievery-industry-spec-3-col">
@@ -450,16 +472,20 @@
                                 92%
                             </h3>
                             <p class="mb-counter-text">
-                                of educational organizations have already
-                                started to experiment with the technology </p>
+                                a number of educational institutions have already begun experimenting with the
+                                technology
+
+                            </p>
                         </div>
                         <div class="mb-counter">
                             <h3 class="mb-counter-number">
                                 41%
                             </h3>
                             <p class="mb-counter-text">
-                                of educational leaders believe AI will help
-                                their employees to do their jobs better </p>
+                                a majority of school leaders think AI will enable their staff to perform their duties
+                                more effectively
+
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -527,202 +553,18 @@
 
 
 
-        <section class="mb-sec-2 mb-mt-50">
-            <div class="mb-sec-2-inner">
-                <h2 class="mb-text-white">Latest Projects</h2>
-                <div class="swiper swiper-slider">
-                    <div class="swiper-wrapper">
 
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/wallmart_1.jpg') }}"
-                                        alt="Swiper">
-                                    <h3 class="slider-heading">AI-based enterprise software for No.1 retailer→</h3>
-                                    <p>
-                                        Self-service analytics enabled by AI algorithms empowers 3 million users with
-                                        instant actionable insights.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
 
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/chip-mobile3.jpg') }}"
-                                        alt="Swiper">
-                                    <h3 class="slider-heading">Organ-on-a-chip platform for drug development→</h3>
-                                    <p>
-                                        Next-gen biotech platform relying on organ-chips enables faster, safer, and
-                                        cheaper drug development for human use
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
 
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/case-health.jpg') }}"
-                                        alt="Swiper">
-                                    <h3 class="slider-heading">Predictive analytics for cancer clinicians→</h3>
-                                    <p>
-                                        ML-based analytics improves cancer prognostic accuracy and treatment
-                                        recommendations.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
 
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/hybrid-cloud-preview.jpg') }}" alt="Swiper">
-                                    <h3 class="slider-heading">Cloud infrastructure for social media giant→</h3>
-                                    <p>
-                                        Advanced cloud infrastructure connects data centers and on-premises systems to
-                                        the cloud, driving agility in software development. </p>
-                                </a>
-                            </div>
-                        </div>
 
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/dollar-shave-club.webp') }}" alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        Mobile app for Dollar Shave Club→
-                                    </h3>
-                                    <p>
-                                        An Android app with no-fuss shopping features and flawless navigation helps the
-                                        Dollar Shave Club skyrocket sales
 
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
 
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/cybersecurity_preview.jpg') }}" alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        Next-level cybersecurity for enterprise risk management →
-                                    </h3>
-                                    <p>
-                                        A biometrics-based system provides bulletproof protection, eliminating
-                                        credential deception and the need for passwords or PINs.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
 
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img src=" {{asset('img/case-logistics.jpg') }}"
-                                        alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        AI-driven logistics platform→
-                                    </h3>
-                                    <p>
-                                        An IoT platform offers extended shipment management options to 25,000 active
-                                        users.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
 
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/software_instruments (2).jpg') }}" alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        Ecommerce solution for developer of virtual instruments →
-                                    </h3>
-                                    <p>
-                                        A tailored ecommerce platform has enabled a developer of software musical
-                                        instruments to reach out to wider audiences.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
 
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/shopping-technology-previeww.jpg') }}" alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        AI-powered autonomous checkout→
 
-                                    </h3>
-                                    <p>
-                                        An ML-driven solution allows retailers to make their stores checkout-free
-                                        without the need to redesign them.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="mb-position-relative mb-overlay-carousel">
-                                <a href="/cdn-cgi/l/email-protection"><img
-                                        src=" {{asset('img/BenefitsAdministrator.jpg') }}" alt="Swiper">
-                                    <h3 class="slider-heading">
-                                        Cloud solution for US third-party benefits administrators→
-                                    </h3>
-                                    <p>
-                                        Migration of a legacy system to microservices enables clients to easily
-                                        configure and manage employee benefits.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-                <!-- <span class="swiper-pagination"></span> -->
-                <span id="leftIndicator" style="display: none;" class="swiper-button-prev"></span>
-                <span id="rightIndicator" style="display: none;" class="swiper-button-next"></span>
-                <div class="carousel-indicator">
-                    <svg onclick="clickCarousel(this,'left')" xmlns="http://www.w3.org/2000/svg" width="17" height="17"
-                        viewBox="0 0 17 17" fill="none">
-                        <g clip-path="url(#clip0_199_4859)">
-                            <path d="M11.2735 15.8321L3.54785 8.10645L5.03595 6.61835L12.7616 14.344L11.2735 15.8321Z"
-                                fill="black" />
-                            <path
-                                d="M11.2735 0.380796L3.54785 8.10645L5.03595 9.59454L12.7616 1.86889L11.2735 0.380796Z"
-                                fill="black" />
-                        </g>
-                        <defs>
-                            <clipPath id="clip0_199_4859">
-                                <rect width="16" height="16" fill="white" transform="translate(0.5 0.380859)" />
-                            </clipPath>
-                        </defs>
-                    </svg>
-                    <svg onclick="clickCarousel(this,'right')" xmlns="http://www.w3.org/2000/svg" width="17" height="17"
-                        viewBox="0 0 17 17" fill="none">
-                        <g clip-path="url(#clip0_199_4864)">
-                            <path d="M5.76166 16.5235L13.4873 8.79785L11.9992 7.30975L4.27356 15.0354L5.76166 16.5235Z"
-                                fill="black" />
-                            <path d="M5.76166 1.0722L13.4873 8.79785L11.9992 10.2859L4.27356 2.5603L5.76166 1.0722Z"
-                                fill="black" />
-                        </g>
-                        <defs>
-                            <clipPath id="clip0_199_4864">
-                                <rect width="16" height="16" fill="white" transform="translate(0.5 0.380859)" />
-                            </clipPath>
-                        </defs>
-                    </svg>
-                </div>
-            </div>
-            <br>
-            <br>
-            <br>
-
-            <section class="banner-btn">
-                <button class="tt-banner-btn">Talk to our AI developers</button>
-                <img src=" {{asset('img/SVG.svg') }}" alt="">
-            </section>
-    </div>
-    </section>
+        @include("latest-project")
 
 
 
@@ -735,233 +577,225 @@
 
 
 
+        @include("contact-form")
 
 
 
 
-
-
-
-
-
-
-    @include("contact-form")
-
-
-
-
-    <?php
+        <?php
     // require 'shared/_footer.php';
     // footer();
     
     ?>
-    @include("footer")
+        @include("footer")
 
-    <div class="popup-custom">
-        <div class="popup__wrapper popup__presentation">
-            <div class="popup__close closePopup" data-popup="popup__presentation__close">
+        <div class="popup-custom">
+            <div class="popup__wrapper popup__presentation">
+                <div class="popup__close closePopup" data-popup="popup__presentation__close">
+                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 1L16.5 16.5" stroke="white" stroke-width="2"></path>
+                        <path d="M16.5 1L1 16.5" stroke="white" stroke-width="2"></path>
+                    </svg>
+                </div>
+                <div class="popup_presentation__wrap">
+                    <div class="popup_presentation__content_wrap form_sucsess_parent">
+                        <div class="popup_presentation__content_form">
+                            <div class="section__head popup__small_head"><span class="color-small"><b
+                                        class="top_section__head_i_inner">PRESENTATION</b> </span></div>
+                            <div class="section__head small_head"><span class="color"><b
+                                        class="top_section__head_i_inner">Download</b> </span><b
+                                    class="top_section__head_i_inner">winfinity</b> <b
+                                    class="top_section__head_i_inner">presentation</b></div>
+                            <div class="section__bottom">Provide your Email and we will send you Winfinity product
+                                Presentation download link.</div>
+                            <div class="section__form">
+                                <form class="form" action="/api/mailing/presentation-mail" method="post">
+                                    <label class="form__input field">
+                                        <input type="email" name="email" data-valid="false" data-name="email"
+                                            placeholder="Email">
+                                        <div class="form__input_label">Email</div>
+                                        <div class="form__input_error" data-empty="The field is required"
+                                            data-emptyall="all fields should be filled"
+                                            data-error="invalid Email format" data-errorbox="invalid Email format"
+                                            data-errorback="We can’t find this Email">
+                                            <span>We can’t find this
+                                                Email</span>
+                                        </div>
+                                    </label>
+                                    <label class="form__check field">
+                                        <input type="checkbox" data-valid="false" data-name="Agree"><span
+                                            class="form__check_input"></span>
+                                        <div class="form__check_label">By checking this checkbox, I give a permission
+                                            for use of my personal data. </div>
+                                    </label>
+                                    <div class="form__submit">
+                                        <button class="disabled button button--orange">
+                                            <span class="button__wrap">
+                                                <span class="button__inner_wrap">
+                                                    <b class="button__inner_text">SEND ME A LINK</b>
+                                                </span>
+                                                <span class="button__arrow">
+                                                    <svg class="alternative_solution" viewBox="0 0 1000 1000"
+                                                        preserveAspectRatio="none">
+                                                        <foreignObject class="foreignobject" width="1000" height="1000">
+                                                            <span class="foreignobject"></span>
+                                                        </foreignObject>
+                                                    </svg>
+                                                    <span class="button__arrow_svg">
+                                                        <svg viewBox="0 0 17 19" fill="none"
+                                                            xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M6.36402 2L14 9.63598L6.36403 17.272"
+                                                                stroke-width="3">
+                                                            </path>
+                                                            <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3">
+                                                            </path>
+                                                        </svg>
+                                                    </span>
+                                                </span>
+                                            </span>
+                                        </button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="inner_product_presentation__thanks inner_product_thanks">
+                            <div class="inner_product_thanks__head"><span class="color">Thanks </span><br>for your
+                                request</div>
+                            <div class="inner_product_thanks__ckeck_email">Check your Email</div>
+                            <div class="inner_product_thanks__email_to">Presentation Download Link was sent to <span
+                                    class="mail_content">*****<a href="/cdn-cgi/l/email-protection" class="__cf_email__"
+                                        data-cfemail="1a7b737d5a7d777b737634797577">[email&#160;protected]</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="popup__presentation_img_wrap">
+                        <img src="./public/img/main_page__download--mob.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="popup">
+
+        </div>
+        <div class="popup__wrapper popup__cookies">
+            <div class="popup__close closePopup">
                 <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M1 1L16.5 16.5" stroke="white" stroke-width="2"></path>
                     <path d="M16.5 1L1 16.5" stroke="white" stroke-width="2"></path>
                 </svg>
             </div>
-            <div class="popup_presentation__wrap">
-                <div class="popup_presentation__content_wrap form_sucsess_parent">
-                    <div class="popup_presentation__content_form">
-                        <div class="section__head popup__small_head"><span class="color-small"><b
-                                    class="top_section__head_i_inner">PRESENTATION</b> </span></div>
-                        <div class="section__head small_head"><span class="color"><b
-                                    class="top_section__head_i_inner">Download</b> </span><b
-                                class="top_section__head_i_inner">winfinity</b> <b
-                                class="top_section__head_i_inner">presentation</b></div>
-                        <div class="section__bottom">Provide your Email and we will send you Winfinity product
-                            Presentation download link.</div>
-                        <div class="section__form">
-                            <form class="form" action="/api/mailing/presentation-mail" method="post">
-                                <label class="form__input field">
-                                    <input type="email" name="email" data-valid="false" data-name="email"
-                                        placeholder="Email">
-                                    <div class="form__input_label">Email</div>
-                                    <div class="form__input_error" data-empty="The field is required"
-                                        data-emptyall="all fields should be filled" data-error="invalid Email format"
-                                        data-errorbox="invalid Email format" data-errorback="We can’t find this Email">
-                                        <span>We can’t find this
-                                            Email</span>
+            <div class="popup__title"> <span>We use cookies</span></div>
+            <div class="popup__cookies_scroll">
+                <div class="popup__description"> <span>This site uses cookies for several reasons. First and
+                        foremost, to ensure the correct operation of the site, as well as to collect statistical
+                        data and to personalize advertising and marketing content. Learn more about this on our <a
+                            href="#">cookie policy page.</a></span></div>
+                <div class="popup__settings">
+                    <div class="popup__settings_wrapper">
+                        <div class="popup__title"> <span>Necessary cookies</span></div>
+                        <div class="popup__settings_orange"> <span>Always ON</span></div>
+                        <div class="popup__description"> <span>the purpose of the use is to provide technical
+                                functionality of our websites. The data from these cookies are processed on the
+                                basis of Winfinity’s legitimate interest.</span></div>
+                        <div class="popup__settings_checkboxes">
+                            <div class="popup__settings_checkbox_container">
+                                <div class="popup__title popup__settings_checkbox_label"> <span>Statistical
+                                        cookies</span>
+                                    <label class="popup__settings_checkbox">
+                                        <input type="checkbox"><span> </span>
+                                    </label>
+                                    <div class="popup__settings_checkbox_arrow">
+                                        <svg width="14" height="8" viewBox="0 0 14 8" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 1L7 7L13 1" stroke="#60626A"></path>
+                                        </svg>
                                     </div>
-                                </label>
-                                <label class="form__check field">
-                                    <input type="checkbox" data-valid="false" data-name="Agree"><span
-                                        class="form__check_input"></span>
-                                    <div class="form__check_label">By checking this checkbox, I give a permission
-                                        for use of my personal data. </div>
-                                </label>
-                                <div class="form__submit">
-                                    <button class="disabled button button--orange">
-                                        <span class="button__wrap">
-                                            <span class="button__inner_wrap">
-                                                <b class="button__inner_text">SEND ME A LINK</b>
-                                            </span>
-                                            <span class="button__arrow">
-                                                <svg class="alternative_solution" viewBox="0 0 1000 1000"
-                                                    preserveAspectRatio="none">
-                                                    <foreignObject class="foreignobject" width="1000" height="1000">
-                                                        <span class="foreignobject"></span>
-                                                    </foreignObject>
-                                                </svg>
-                                                <span class="button__arrow_svg">
-                                                    <svg viewBox="0 0 17 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3">
-                                                        </path>
-                                                        <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3">
-                                                        </path>
-                                                    </svg>
-                                                </span>
-                                            </span>
-                                        </span>
-                                    </button>
                                 </div>
-                            </form>
-                        </div>
-                    </div>
-                    <div class="inner_product_presentation__thanks inner_product_thanks">
-                        <div class="inner_product_thanks__head"><span class="color">Thanks </span><br>for your
-                            request</div>
-                        <div class="inner_product_thanks__ckeck_email">Check your Email</div>
-                        <div class="inner_product_thanks__email_to">Presentation Download Link was sent to <span
-                                class="mail_content">*****<a href="/cdn-cgi/l/email-protection" class="__cf_email__"
-                                    data-cfemail="1a7b737d5a7d777b737634797577">[email&#160;protected]</a></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="popup__presentation_img_wrap">
-                    <img src="./public/img/main_page__download--mob.jpg" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="popup">
-
-    </div>
-    <div class="popup__wrapper popup__cookies">
-        <div class="popup__close closePopup">
-            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M1 1L16.5 16.5" stroke="white" stroke-width="2"></path>
-                <path d="M16.5 1L1 16.5" stroke="white" stroke-width="2"></path>
-            </svg>
-        </div>
-        <div class="popup__title"> <span>We use cookies</span></div>
-        <div class="popup__cookies_scroll">
-            <div class="popup__description"> <span>This site uses cookies for several reasons. First and
-                    foremost, to ensure the correct operation of the site, as well as to collect statistical
-                    data and to personalize advertising and marketing content. Learn more about this on our <a
-                        href="#">cookie policy page.</a></span></div>
-            <div class="popup__settings">
-                <div class="popup__settings_wrapper">
-                    <div class="popup__title"> <span>Necessary cookies</span></div>
-                    <div class="popup__settings_orange"> <span>Always ON</span></div>
-                    <div class="popup__description"> <span>the purpose of the use is to provide technical
-                            functionality of our websites. The data from these cookies are processed on the
-                            basis of Winfinity’s legitimate interest.</span></div>
-                    <div class="popup__settings_checkboxes">
-                        <div class="popup__settings_checkbox_container">
-                            <div class="popup__title popup__settings_checkbox_label"> <span>Statistical
-                                    cookies</span>
-                                <label class="popup__settings_checkbox">
-                                    <input type="checkbox"><span> </span>
-                                </label>
-                                <div class="popup__settings_checkbox_arrow">
-                                    <svg width="14" height="8" viewBox="0 0 14 8" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M1 1L7 7L13 1" stroke="#60626A"></path>
-                                    </svg>
+                                <div class="popup__settings_checkbox_info">
+                                    <div class="popup__description popup__settings_checkbox_info_container">
+                                        <span>the purpose of the use is to identify usage trends and derive
+                                            analytics and statistics. These cookies are used to remember your
+                                            choices and make assumptions about your preferences for statistical
+                                            purposes, the legal basis is your consent. Winfinity uses an automated
+                                            tool called Google Analytics which allows us to record and analyze how
+                                            you and other visitors use the website. You can learn more about how
+                                            Google Analytics works and the information it allows us to collect and
+                                            analyze here <a
+                                                href="https://support.google.com/analytics/answer/1012034?hl=lten&amp;ref_topic=6157800">https://support.google.com/analytics/answer/1012034?hl=lten&ref_topic=6157800.</a></span>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="popup__settings_checkbox_info">
-                                <div class="popup__description popup__settings_checkbox_info_container">
-                                    <span>the purpose of the use is to identify usage trends and derive
-                                        analytics and statistics. These cookies are used to remember your
-                                        choices and make assumptions about your preferences for statistical
-                                        purposes, the legal basis is your consent. Winfinity uses an automated
-                                        tool called Google Analytics which allows us to record and analyze how
-                                        you and other visitors use the website. You can learn more about how
-                                        Google Analytics works and the information it allows us to collect and
-                                        analyze here <a
-                                            href="https://support.google.com/analytics/answer/1012034?hl=lten&amp;ref_topic=6157800">https://support.google.com/analytics/answer/1012034?hl=lten&ref_topic=6157800.</a></span>
+                            <div class="popup__settings_checkbox_container">
+                                <div class="popup__title popup__settings_checkbox_label"> <span>Marketing
+                                        cookies</span>
+                                    <label class="popup__settings_checkbox">
+                                        <input type="checkbox"><span> </span>
+                                    </label>
+                                    <div class="popup__settings_checkbox_arrow">
+                                        <svg width="14" height="8" viewBox="0 0 14 8" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 1L7 7L13 1" stroke="#60626A"></path>
+                                        </svg>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="popup__settings_checkbox_container">
-                            <div class="popup__title popup__settings_checkbox_label"> <span>Marketing
-                                    cookies</span>
-                                <label class="popup__settings_checkbox">
-                                    <input type="checkbox"><span> </span>
-                                </label>
-                                <div class="popup__settings_checkbox_arrow">
-                                    <svg width="14" height="8" viewBox="0 0 14 8" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M1 1L7 7L13 1" stroke="#60626A"></path>
-                                    </svg>
-                                </div>
-                            </div>
-                            <div class="popup__settings_checkbox_info">
-                                <div class="popup__description popup__settings_checkbox_info_container">
-                                    <span>the purpose of the use is to identify usage trends and derive
-                                        analytics and statistics. These cookies are used to remember your
-                                        choices and make assumptions about your preferences for statistical
-                                        purposes, the legal basis is your consent. Winfinity uses an automated
-                                        tool called Google Analytics which allows us to record and analyze how
-                                        you and other visitors use the website. You can learn more about how
-                                        Google Analytics works and the information it allows us to collect and
-                                        analyze here <a
-                                            href="https://support.google.com/analytics/answer/1012034?hl=lten&amp;ref_topic=6157800">https://support.google.com/analytics/answer/1012034?hl=lten&ref_topic=6157800.</a></span>
+                                <div class="popup__settings_checkbox_info">
+                                    <div class="popup__description popup__settings_checkbox_info_container">
+                                        <span>the purpose of the use is to identify usage trends and derive
+                                            analytics and statistics. These cookies are used to remember your
+                                            choices and make assumptions about your preferences for statistical
+                                            purposes, the legal basis is your consent. Winfinity uses an automated
+                                            tool called Google Analytics which allows us to record and analyze how
+                                            you and other visitors use the website. You can learn more about how
+                                            Google Analytics works and the information it allows us to collect and
+                                            analyze here <a
+                                                href="https://support.google.com/analytics/answer/1012034?hl=lten&amp;ref_topic=6157800">https://support.google.com/analytics/answer/1012034?hl=lten&ref_topic=6157800.</a></span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="popup__cookies_buttons">
+                <button class="button button--black_hover button--gradient_hover toggleSettings"
+                    data-save="Save preferences" data-manage="manage cookies"><span class="button__wrap"><span
+                            class="button__inner_wrap"><b class="button__inner_text">manage cookies</b></span><span
+                            class="button__arrow">
+                            <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+                                <foreignobject class="foreignobject" width="1000" height="1000"><span
+                                        class="foreignobject"></span></foreignobject>
+                            </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
+                                    <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
+                                </svg>
+                            </span></span></span></button>
+                <button class="button button--black_hover button--gradient_hover"><span class="button__wrap"><span
+                            class="button__inner_wrap"><b class="button__inner_text">deny</b></span><span
+                            class="button__arrow">
+                            <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+                                <foreignobject class="foreignobject" width="1000" height="1000"><span
+                                        class="foreignobject"></span></foreignobject>
+                            </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
+                                    <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
+                                </svg>
+                            </span></span></span></button>
+                <button class="button button--orange popup__button_consent closePopup"><span class="button__wrap"><span
+                            class="button__inner_wrap"><b class="button__inner_text">consent</b></span><span
+                            class="button__arrow">
+                            <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+                                <foreignobject class="foreignobject" width="1000" height="1000"><span
+                                        class="foreignobject"></span></foreignobject>
+                            </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
+                                    <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
+                                </svg>
+                            </span></span></span></button>
+            </div>
         </div>
-        <div class="popup__cookies_buttons">
-            <button class="button button--black_hover button--gradient_hover toggleSettings"
-                data-save="Save preferences" data-manage="manage cookies"><span class="button__wrap"><span
-                        class="button__inner_wrap"><b class="button__inner_text">manage cookies</b></span><span
-                        class="button__arrow">
-                        <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                            <foreignobject class="foreignobject" width="1000" height="1000"><span
-                                    class="foreignobject"></span></foreignobject>
-                        </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                            </svg>
-                        </span></span></span></button>
-            <button class="button button--black_hover button--gradient_hover"><span class="button__wrap"><span
-                        class="button__inner_wrap"><b class="button__inner_text">deny</b></span><span
-                        class="button__arrow">
-                        <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                            <foreignobject class="foreignobject" width="1000" height="1000"><span
-                                    class="foreignobject"></span></foreignobject>
-                        </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                            </svg>
-                        </span></span></span></button>
-            <button class="button button--orange popup__button_consent closePopup"><span class="button__wrap"><span
-                        class="button__inner_wrap"><b class="button__inner_text">consent</b></span><span
-                        class="button__arrow">
-                        <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                            <foreignobject class="foreignobject" width="1000" height="1000"><span
-                                    class="foreignobject"></span></foreignobject>
-                        </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                            </svg>
-                        </span></span></span></button>
-        </div>
-    </div>
     </div>
     </div>
     <script>

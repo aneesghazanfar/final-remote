@@ -3,9 +3,11 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>Software & Technology Consulting Services &mdash;   SSEDLAB</title>
-    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+    <title>Software & Technology Consulting Services &mdash; SSEDLAB</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
     <link rel="apple-touch-icon" sizes="180x180" href=" {{asset('i/apple-touch-icon.png') }}">
     <link rel="icon" type="image/png" sizes="32x32" href=" {{asset('i/favicon-32x32.png') }}">
@@ -13,7 +15,8 @@
     <link rel="manifest" href=" {{asset('i/site.webmanifest') }}">
     <link rel="mask-icon" href=" {{asset('i/safari-pinned-tab.svg') }}" color="#000">
     <link rel="shortcut icon" href=" {{asset('i/favicon.ico') }}">
-    <meta name="description" content="Winfinity offers high-end, innovative, and regulated solutions for iGaming industry, providing premium quality content and products.">
+    <meta name="description"
+        content="Winfinity offers high-end, innovative, and regulated solutions for iGaming industry, providing premium quality content and products.">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-config" content=" {{asset('i/browserconfig.xml') }}">
     <meta name="theme-color" content="#ffffff">
@@ -21,26 +24,23 @@
 
 <body id="page-index">
     <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCK6J8B" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCK6J8B" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="body-wrap-1">
-        <?php
-        // require 'shared/_navbar.php';
-        // navBar();
-        
-        ?>
         @include("navbar")
-        
+
 
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img-web">
-                <div class="container">
+                <div class="container-header">
                     <h1 class="banner-main-heading">
-                    Technology
-consulting
-services                    </h1>
+                        Technology
+                        consulting
+                        services </h1>
                     <p class="tt-banner-para">
-                    Tap in our technology consulting services to realize the power of tech and drive exceptional business value, today and into the future
+                        Tap in our technology consulting services to realize the power of tech and drive exceptional
+                        business value, today and into the future
                     </p>
 
 
@@ -57,100 +57,119 @@ services                    </h1>
 
 
 
-<!-- second Sections is here -->
+        <!-- second Sections is here -->
 
 
         <section class="mb-sec-2">
             <div class="mb-sec-2-inner">
                 <h2 class="mb-text-white">Our technology consulting services</h2>
                 <p>
-                    Tech-driven transformation is up and will surely be running further. With technology moving forward ever faster, it takes a new approach to managing enterprise IT — the one focused on crafting resilient, scalable ecosystems that drive business growth. To help you ride the crest of transformation, we offer tech guidance embodied in a range of software consulting services:
+                    Tech-driven transformation is up and will surely be running further. With technology moving forward
+                    ever faster, it takes a new approach to managing enterprise IT — the one focused on crafting
+                    resilient, scalable ecosystems that drive business growth. To help you ride the crest of
+                    transformation, we offer tech guidance embodied in a range of software consulting services:
                 </p>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
-                       
+
                         <h3 class="sec-2-device">
-                        R&D and POC Implementation
+                            R&D and POC Implementation
                         </h3>
                         <p class="sec-2-device-p">
-                            Our technology consultants create, research, and prototype ideas to validate new technologies, products, and services in a lean way so that you can get user feedback early on and scale the winning solution rapidly
+                            Our technology consultants create, research, and prototype ideas to validate new
+                            technologies, products, and services in a lean way so that you can get user feedback early
+                            on and scale the winning solution rapidly
                         </p>
-                        
+
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Software Architecture and Design
+                            Software Architecture and Design
                         </h3>
                         <p class="sec-2-device-p">
-                            We design resilient, flexible, and scalable software architectures and select the optimal tech stacks to bring them to reality while keeping your strategic vision, business objectives, and available resources in mind.
+                            We design resilient, flexible, and scalable software architectures and select the optimal
+                            tech stacks to bring them to reality while keeping your strategic vision, business
+                            objectives, and available resources in mind.
                         </p>
-                        
+
                     </div>
                     <div class="mb-sec-2-inner-col">
-                       
+
                         <h3 class="sec-2-device">
-                        Software Modernization & Re-engineering
+                            Software Modernization & Re-engineering
                         </h3>
                         <p class="sec-2-device-p">
-                            With our technology consulting services, you can pivot to new technology rapidly and at minimal risks while getting the most out of your legacy systems and fully capitalizing on your tech investments
+                            With our technology consulting services, you can pivot to new technology rapidly and at
+                            minimal risks while getting the most out of your legacy systems and fully capitalizing on
+                            your tech investments
                         </p>
-                        
+
                     </div>
                     <div class="mb-sec-2-inner-col">
-                       
+
                         <h3 class="sec-2-device">
-                        Software and Technology Audit
+                            Software and Technology Audit
                         </h3>
                         <p class="sec-2-device-p">
-                            We examine enterprise solutions and perform technical due diligence for startups, assessing software code quality, business logic, and tech stack and revealing all the potential risks
+                            We examine enterprise solutions and perform technical due diligence for startups, assessing
+                            software code quality, business logic, and tech stack and revealing all the potential risks
                         </p>
-                        
+
                     </div>
                 </div>
                 <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
-                       
+
                         <h3 class="sec-2-device">
-                        Virtual Tech Leadership
+                            Virtual Tech Leadership
                         </h3>
                         <p class="sec-2-device-p">
-                        In the era of remote work, it takes strong leadership and first-rate tech skills to build apt tech teams. We provide technical direction via virtual CTO services and assemble ace development teams, managing the quality of deliverables and resolving technical disagreements
+                            In the era of remote work, it takes strong leadership and first-rate tech skills to build
+                            apt tech teams. We provide technical direction via virtual CTO services and assemble ace
+                            development teams, managing the quality of deliverables and resolving technical
+                            disagreements
                         </p>
-                        
+
                     </div>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        Emerging Technology Consulting
+                            Emerging Technology Consulting
                         </h3>
                         <p class="sec-2-device-p">
-                        We help you turn technology innovations into market-ready products and solutions that increase operational efficiency and maximize profits. So you can make the most of big data, artificial intelligence, the internet of things, and intelligent automation
+                            We help you turn technology innovations into market-ready products and solutions that
+                            increase operational efficiency and maximize profits. So you can make the most of big data,
+                            artificial intelligence, the internet of things, and intelligent automation
                         </p>
-                        
+
                     </div>
                     <div class="mb-sec-2-inner-col">
-                       
+
                         <h3 class="sec-2-device">
-                        Сloud Consulting
+                            Сloud Consulting
                         </h3>
                         <p class="sec-2-device-p">
-                            We resolve any issues — from designing the best-fit cloud adoption strategy to overseeing the cloud infrastructure to optimizing resource utilization, achieving greater uptime, establishing firmer cloud security practices, or transitioning to DevOps.
+                            We resolve any issues — from designing the best-fit cloud adoption strategy to overseeing
+                            the cloud infrastructure to optimizing resource utilization, achieving greater uptime,
+                            establishing firmer cloud security practices, or transitioning to DevOps.
                         </p>
-                        
+
                     </div>
                     <div class="mb-sec-2-inner-col">
-                       
+
                         <h3 class="sec-2-device">
-                        Tech ROI
+                            Tech ROI
                         </h3>
                         <p class="sec-2-device-p">
-                        We evaluate software and tools available on the market to recommend solutions and technologies that guarantee fast ROI and help maximize and maintain the value from technology investments
+                            We evaluate software and tools available on the market to recommend solutions and
+                            technologies that guarantee fast ROI and help maximize and maintain the value from
+                            technology investments
                         </p>
-                        
+
                     </div>
                 </div>
-               
+
             </div>
             <br><br>
             <section class="banner-btn">
@@ -160,9 +179,11 @@ services                    </h1>
         </section>
         <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
-                <h2>  <span class="mb-orange">Technology consulting,</span> delivered neatly <br></h2>
+                <h2> <span class="mb-orange">Technology consulting,</span> delivered neatly <br></h2>
                 <p>
-                    Whether supporting your IT strategically or catering for a specific area of concern, we dedicate to proactively delivering quality technology consulting services throughout our cooperation. We take you through a series of steps to push your enterprise forward with tech.
+                    Whether supporting your IT strategically or catering for a specific area of concern, we dedicate to
+                    proactively delivering quality technology consulting services throughout our cooperation. We take
+                    you through a series of steps to push your enterprise forward with tech.
                 </p>
             </div>
         </section>
@@ -254,7 +275,7 @@ services                    </h1>
                         </defs>
                     </svg>
                     <div>Planning</div>
-    
+
                 </button>
                 <button class="mb-tablinks mb-button" onclick="openCity(event, 'Tokyoo')">
                     <svg xmlns="http://www.w3.org/2000/svg" width="61" height="41" viewBox="0 0 61 41" fill="none">
@@ -274,56 +295,63 @@ services                    </h1>
                         </defs>
                     </svg>
                     <div>Implementation</div>
-    
+
                 </button>
             </div>
-                
-    
+
+
             <div id="London" class="mb-tabcontent" style="display:block;">
                 <p>
-                We kick off our technology consulting engagement with a series of interviews to deep dive into your business, examine the existing tech infrastructure, clarify your business objectives, draw up a shared understanding of what needs to be done, and ensure all further efforts are headed in the right direction.
+                    We kick off our technology consulting engagement with a series of interviews to deep dive into your
+                    business, examine the existing tech infrastructure, clarify your business objectives, draw up a
+                    shared understanding of what needs to be done, and ensure all further efforts are headed in the
+                    right direction.
                 </p>
             </div>
-    
+
             <div id="Paris" class="mb-tabcontent">
                 <p>
-                As the next step, we design a solution architecture that perfectly meets your technical and business requirements and matches industry standards and best practices, as well as select the optimal tech stack to bring it to life.
+                    As the next step, we design a solution architecture that perfectly meets your technical and business
+                    requirements and matches industry standards and best practices, as well as select the optimal tech
+                    stack to bring it to life.
                 </p>
             </div>
-    
+
             <div id="Tokyo" class="mb-tabcontent">
                 <p>
-                We translate the vision for the designed architecture into a project plan with deliverables, milestones, processes, and team roles clearly outlined.
+                    We translate the vision for the designed architecture into a project plan with deliverables,
+                    milestones, processes, and team roles clearly outlined.
                 </p>
             </div>
 
             <div id="Tokyoo" class="mb-tabcontent">
                 <p>
-                As part of our technology consulting services, we can oversee the implementation process or run it ourselves, taking on technological governance and ensuring the designed architecture turns into a viable, working software ecosystem.
+                    As part of our technology consulting services, we can oversee the implementation process or run it
+                    ourselves, taking on technological governance and ensuring the designed architecture turns into a
+                    viable, working software ecosystem.
                 </p>
             </div>
-            
+
             <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
-                                <span class="button__wrap"><span class="button__inner_wrap">
-                                        <b class="button__inner_text">Go for pro technology consulting</b>
-                                    </span>
-                                    <span class="button__arrow">
-                                        <svg class="alternative_solution" viewBox="0 0 1000 1000"
-                                            preserveAspectRatio="none">
-                                            <foreignobject class="foreignobject" width="1000" height="1000">
-                                                <span class="foreignobject"></span>
-                                            </foreignobject>
-                                        </svg>
-                                        <span class="button__arrow_svg">
-                                            <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                                <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                                            </svg>
-                                        </span>
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
+                    <span class="button__wrap"><span class="button__inner_wrap">
+                            <b class="button__inner_text">Go for pro technology consulting</b>
+                        </span>
+                        <span class="button__arrow">
+                            <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+                                <foreignobject class="foreignobject" width="1000" height="1000">
+                                    <span class="foreignobject"></span>
+                                </foreignobject>
+                            </svg>
+                            <span class="button__arrow_svg">
+                                <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
+                                    <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
+                                </svg>
+                            </span>
+                        </span>
+                    </span>
+                </a>
+            </div>
         </section>
 
 
@@ -331,117 +359,124 @@ services                    </h1>
             <div class="delievery-industry-spec">
                 <h2> CUSTOM <span class="mb-orange">Industry-wide</span> technology expertise</h2>
                 <p>
-                    With a decade of experience delivering technology consulting services to companies operating in many sectors, we know industry-specific challenges and requirements very well. So you only get recommendations that unfailingly drive change in your business setting.
+                    With a decade of experience delivering technology consulting services to companies operating in many
+                    sectors, we know industry-specific challenges and requirements very well. So you only get
+                    recommendations that unfailingly drive change in your business setting.
                 </p>
             </div>
         </section>
 
 
         <section class="mb-container mb-container-padding">
-        <div class="mb-icon-text-row-main">
-            <div class="mb-icon-text-col-main">
-            <div class="mb-icon-text-row">
-                    <div class="mb-icon-text-col">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                            <g clip-path="url(#clip0_199_5053)">
-                                <path
-                                    d="M40.7351 0.879883H32.621L26.9499 6.58146L21.1915 0.879883H13.1646L7.40625 6.58146V14.5291L26.9499 33.8799L46.4063 14.5291V6.58146L40.7351 0.879883Z"
-                                    fill="#FFDB3B" />
-                            </g>
-                            <defs>
-                                <clipPath id="clip0_199_5053">
-                                    <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                </clipPath>
-                            </defs>
-                        </svg>
+            <div class="mb-icon-text-row-main">
+                <div class="mb-icon-text-col-main">
+                    <div class="mb-icon-text-row">
+                        <div class="mb-icon-text-col">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34"
+                                fill="none">
+                                <g clip-path="url(#clip0_199_5053)">
+                                    <path
+                                        d="M40.7351 0.879883H32.621L26.9499 6.58146L21.1915 0.879883H13.1646L7.40625 6.58146V14.5291L26.9499 33.8799L46.4063 14.5291V6.58146L40.7351 0.879883Z"
+                                        fill="#FFDB3B" />
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_199_5053">
+                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                        </div>
+                        <div class="mb-icon-text-col mb-icon-text-right">Healthcare & Biotech</div>
                     </div>
-                    <div class="mb-icon-text-col mb-icon-text-right">Healthcare & Biotech</div>
-                </div>
-                <div class="mb-icon-text-row">
-                    <div class="mb-icon-text-col">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                            <g clip-path="url(#clip0_199_4972)">
-                                <path
-                                    d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
-                                    fill="#FFDB3B" />
-                            </g>
-                            <defs>
-                                <clipPath id="clip0_199_4972">
-                                    <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                </clipPath>
-                            </defs>
-                        </svg>
+                    <div class="mb-icon-text-row">
+                        <div class="mb-icon-text-col">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34"
+                                fill="none">
+                                <g clip-path="url(#clip0_199_4972)">
+                                    <path
+                                        d="M34.2128 11.9063V7.93998C34.2128 3.65633 31.2638 0.879883 26.9597 0.879883C22.6557 0.879883 19.7863 3.65633 19.7863 7.93998V11.9063H13.5693L15.9605 33.8799H38.0387L40.4298 11.9063H34.2128ZM27.0394 3.33902C29.59 3.33902 31.6623 5.40152 31.6623 7.93998V11.9063H25.3656V18.2525H22.4962V7.93998C22.4166 5.40152 24.4889 3.33902 27.0394 3.33902Z"
+                                        fill="#FFDB3B" />
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_199_4972">
+                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                        </div>
+                        <div class="mb-icon-text-col mb-icon-text-right">Education & Elearning</div>
                     </div>
-                    <div class="mb-icon-text-col mb-icon-text-right">Education & Elearning</div>
-                </div>
 
-            </div>
-            <div class="mb-icon-text-col-main">
-                <div class="mb-icon-text-row">
-                    <div class="mb-icon-text-col">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                            <g clip-path="url(#clip0_199_5064)">
-                                <path
-                                    d="M27 5.30051C21.8916 -0.59309 13.6084 -0.59309 8.5 5.30051V33.8799C13.6084 27.9863 21.8916 27.9863 27 33.8799C32.1084 27.9863 40.3916 27.9863 45.5 33.8799V5.30051C40.3916 -0.593659 32.1084 -0.593659 27 5.30051Z"
-                                    fill="#FFDB3B" />
-                            </g>
-                            <defs>
-                                <clipPath id="clip0_199_5064">
-                                    <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                </clipPath>
-                            </defs>
-                        </svg>
-                    </div>
-                    <div class="mb-icon-text-col mb-icon-text-right">Retail & Ecommerce</div>
                 </div>
-                <div class="mb-icon-text-row">
-                    <div class="mb-icon-text-col">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34" fill="none">
-                            <g clip-path="url(#clip0_199_5075)">
-                                <path
-                                    d="M48.8595 6.61659L39.904 6.69876V19.0237H36.8103V1.0293H7.17588V4.97327H12.5492V7.76692H7.17588H0.5V10.5606H7.17588V13.0256H18.9808V15.8192H7.17588H0.5V18.6129H7.17588V28.2263H12.2235C12.6306 31.3486 15.2358 33.7314 18.3295 33.7314C21.5046 33.7314 24.1098 31.3486 24.4355 28.2263H34.6936C35.1007 31.3486 37.7059 33.7314 40.7995 33.7314C43.8932 33.7314 46.5799 31.3486 46.9056 28.2263H53.5V19.0237L48.8595 6.61659ZM18.3295 31.02C16.4569 31.02 14.9101 29.4588 14.9101 27.569C14.9101 25.6791 16.4569 24.118 18.3295 24.118C20.202 24.118 21.7488 25.6791 21.7488 27.569C21.7488 29.4588 20.202 31.02 18.3295 31.02ZM40.7995 31.02C38.927 31.02 37.3802 29.4588 37.3802 27.569C37.3802 25.6791 38.927 24.118 40.7995 24.118C42.6721 24.118 44.2189 25.6791 44.2189 27.569C44.2189 29.4588 42.6721 31.02 40.7995 31.02Z"
-                                    fill="#FFDB3B" />
-                            </g>
-                            <defs>
-                                <clipPath id="clip0_199_5075">
-                                    <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
-                                </clipPath>
-                            </defs>
-                        </svg>
+                <div class="mb-icon-text-col-main">
+                    <div class="mb-icon-text-row">
+                        <div class="mb-icon-text-col">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34"
+                                fill="none">
+                                <g clip-path="url(#clip0_199_5064)">
+                                    <path
+                                        d="M27 5.30051C21.8916 -0.59309 13.6084 -0.59309 8.5 5.30051V33.8799C13.6084 27.9863 21.8916 27.9863 27 33.8799C32.1084 27.9863 40.3916 27.9863 45.5 33.8799V5.30051C40.3916 -0.593659 32.1084 -0.593659 27 5.30051Z"
+                                        fill="#FFDB3B" />
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_199_5064">
+                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                        </div>
+                        <div class="mb-icon-text-col mb-icon-text-right">Retail & Ecommerce</div>
                     </div>
-                    <div class="mb-icon-text-col mb-icon-text-right">Logistics & Transportation</div>
+                    <div class="mb-icon-text-row">
+                        <div class="mb-icon-text-col">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="54" height="34" viewBox="0 0 54 34"
+                                fill="none">
+                                <g clip-path="url(#clip0_199_5075)">
+                                    <path
+                                        d="M48.8595 6.61659L39.904 6.69876V19.0237H36.8103V1.0293H7.17588V4.97327H12.5492V7.76692H7.17588H0.5V10.5606H7.17588V13.0256H18.9808V15.8192H7.17588H0.5V18.6129H7.17588V28.2263H12.2235C12.6306 31.3486 15.2358 33.7314 18.3295 33.7314C21.5046 33.7314 24.1098 31.3486 24.4355 28.2263H34.6936C35.1007 31.3486 37.7059 33.7314 40.7995 33.7314C43.8932 33.7314 46.5799 31.3486 46.9056 28.2263H53.5V19.0237L48.8595 6.61659ZM18.3295 31.02C16.4569 31.02 14.9101 29.4588 14.9101 27.569C14.9101 25.6791 16.4569 24.118 18.3295 24.118C20.202 24.118 21.7488 25.6791 21.7488 27.569C21.7488 29.4588 20.202 31.02 18.3295 31.02ZM40.7995 31.02C38.927 31.02 37.3802 29.4588 37.3802 27.569C37.3802 25.6791 38.927 24.118 40.7995 24.118C42.6721 24.118 44.2189 25.6791 44.2189 27.569C44.2189 29.4588 42.6721 31.02 40.7995 31.02Z"
+                                        fill="#FFDB3B" />
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_199_5075">
+                                        <rect width="53" height="33" fill="white" transform="translate(0.5 0.879883)" />
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                        </div>
+                        <div class="mb-icon-text-col mb-icon-text-right">Logistics & Transportation</div>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
-                            <span class="button__wrap"><span class="button__inner_wrap">
-                                    <b class="button__inner_text">Book a call with tech consultants</b>
-                                </span>
-                                <span class="button__arrow">
-                                    <svg class="alternative_solution" viewBox="0 0 1000 1000"
-                                        preserveAspectRatio="none">
-                                        <foreignobject class="foreignobject" width="1000" height="1000">
-                                            <span class="foreignobject"></span>
-                                        </foreignobject>
-                                    </svg>
-                                    <span class="button__arrow_svg">
-                                        <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
-                                            <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
-                                        </svg>
-                                    </span>
-                                </span>
+            <div class="section__button" style="margin-top: 40px;"><a class="button button--orange" href="#">
+                    <span class="button__wrap"><span class="button__inner_wrap">
+                            <b class="button__inner_text">Book a call with tech consultants</b>
+                        </span>
+                        <span class="button__arrow">
+                            <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+                                <foreignobject class="foreignobject" width="1000" height="1000">
+                                    <span class="foreignobject"></span>
+                                </foreignobject>
+                            </svg>
+                            <span class="button__arrow_svg">
+                                <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
+                                    <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
+                                </svg>
                             </span>
-                        </a>
-                    </div>
-    </section>
-    
+                        </span>
+                    </span>
+                </a>
+            </div>
+        </section>
 
-    <section class="mb-container sec-3">
+
+        <section class="mb-container sec-3">
             <div class="delievery-industry-spec">
                 <h2> CUSTOM <span class="mb-orange">What makes SSED a trusted</span> technology consulting vendor</h2>
                 <p>
-                    We are not only a software development consultant but a strategic partner, too. We delve deep into your business and apply our technical know-how, experience, and fresh ideas to help you advance in the current digital-first environment
+                    We are not only a software development consultant but a strategic partner, too. We delve deep into
+                    your business and apply our technical know-how, experience, and fresh ideas to help you advance in
+                    the current digital-first environment
                 </p>
             </div>
         </section>
@@ -449,14 +484,15 @@ services                    </h1>
 
         <section class="mb-sec-2 mb-container">
             <div class="mb-sec-2-inner">
-                        <div class="mb-row mb-sec-2-2">
+                <div class="mb-row mb-sec-2-2">
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        We have experience.
+                            We have experience.
                         </h3>
                         <p class="sec-2-device-p">
-                        We’ve got 13+ years of experience providing software consulting and development services and have successfully delivered 600+ products to 200+ happy customers around the globe.
+                            We’ve got 13+ years of experience providing software consulting and development services and
+                            have successfully delivered 600+ products to 200+ happy customers around the globe.
                         </p>
 
                     </div>
@@ -465,10 +501,11 @@ services                    </h1>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        We care about your business. 
+                            We care about your business.
                         </h3>
                         <p class="sec-2-device-p">
-                        We delve into your business and thoroughly analyze your tech infrastructure to extend your legacy investments and make the most of new ones.
+                            We delve into your business and thoroughly analyze your tech infrastructure to extend your
+                            legacy investments and make the most of new ones.
                         </p>
 
                     </div>
@@ -478,10 +515,11 @@ services                    </h1>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        We are vendor-agnostic.
+                            We are vendor-agnostic.
                         </h3>
                         <p class="sec-2-device-p">
-                            We are not tied to any vendor, so we only recommend technologies and solutions that work best for you and generate the fastest ROI.
+                            We are not tied to any vendor, so we only recommend technologies and solutions that work
+                            best for you and generate the fastest ROI.
                         </p>
 
                     </div>
@@ -490,10 +528,11 @@ services                    </h1>
                     <div class="mb-sec-2-inner-col">
 
                         <h3 class="sec-2-device">
-                        We know emerging tech.
+                            We know emerging tech.
                         </h3>
                         <p class="sec-2-device-p">
-                        We know modern technologies through and through and continuously monitor industry trends to help you outrun the competition.
+                            We know modern technologies through and through and continuously monitor industry trends to
+                            help you outrun the competition.
                         </p>
 
                     </div>
@@ -503,11 +542,11 @@ services                    </h1>
                     <img src="{{asset('img/SVG.svg')}}" alt="">
                 </section>
             </div>
-    </section>
+        </section>
 
 
 
-    <section class="mb-sec-2 mb-mt-50">
+        <section class="mb-sec-2 mb-mt-50">
             <div class="mb-logo-title"> <b>Our Clients</b> </div>
             <div class="mb-flex">
                 <div class="mb-logo-list">
@@ -723,8 +762,7 @@ services                    </h1>
                             <b class="button__inner_text">Contact Us</b>
                         </span>
                         <span class="button__arrow">
-                            <svg class="alternative_solution" viewBox="0 0 1000 1000" 
-                            preserveAspectRatio="none">
+                            <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
                                 <foreignobject class="foreignobject" width="1000" height="1000">
                                     <span class="foreignobject"></span>
                                 </foreignobject>
@@ -744,7 +782,7 @@ services                    </h1>
     @include("contact-form")
 
     @include("footer")
-    
+
     <div class="popup-custom">
         <div class="popup__wrapper popup__presentation">
             <div class="popup__close closePopup" data-popup="popup__presentation__close">
@@ -756,20 +794,29 @@ services                    </h1>
             <div class="popup_presentation__wrap">
                 <div class="popup_presentation__content_wrap form_sucsess_parent">
                     <div class="popup_presentation__content_form">
-                        <div class="section__head popup__small_head"><span class="color-small"><b class="top_section__head_i_inner">PRESENTATION</b> </span></div>
-                        <div class="section__head small_head"><span class="color"><b class="top_section__head_i_inner">Download</b> </span><b class="top_section__head_i_inner">winfinity</b> <b class="top_section__head_i_inner">presentation</b></div>
+                        <div class="section__head popup__small_head"><span class="color-small"><b
+                                    class="top_section__head_i_inner">PRESENTATION</b> </span></div>
+                        <div class="section__head small_head"><span class="color"><b
+                                    class="top_section__head_i_inner">Download</b> </span><b
+                                class="top_section__head_i_inner">winfinity</b> <b
+                                class="top_section__head_i_inner">presentation</b></div>
                         <div class="section__bottom">Provide your Email and we will send you Winfinity product
                             Presentation download link.</div>
                         <div class="section__form">
                             <form class="form" action="/api/mailing/presentation-mail" method="post">
                                 <label class="form__input field">
-                                    <input type="email" name="email" data-valid="false" data-name="email" placeholder="Email">
+                                    <input type="email" name="email" data-valid="false" data-name="email"
+                                        placeholder="Email">
                                     <div class="form__input_label">Email</div>
-                                    <div class="form__input_error" data-empty="The field is required" data-emptyall="all fields should be filled" data-error="invalid Email format" data-errorbox="invalid Email format" data-errorback="We can’t find this Email"><span>We can’t find this
+                                    <div class="form__input_error" data-empty="The field is required"
+                                        data-emptyall="all fields should be filled" data-error="invalid Email format"
+                                        data-errorbox="invalid Email format" data-errorback="We can’t find this Email">
+                                        <span>We can’t find this
                                             Email</span></div>
                                 </label>
                                 <label class="form__check field">
-                                    <input type="checkbox" data-valid="false" data-name="Agree"><span class="form__check_input"></span>
+                                    <input type="checkbox" data-valid="false" data-name="Agree"><span
+                                        class="form__check_input"></span>
                                     <div class="form__check_label">By checking this checkbox, I give a permission
                                         for use of my personal data. </div>
                                 </label>
@@ -780,15 +827,19 @@ services                    </h1>
                                                 <b class="button__inner_text">SEND ME A LINK</b>
                                             </span>
                                             <span class="button__arrow">
-                                                <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+                                                <svg class="alternative_solution" viewBox="0 0 1000 1000"
+                                                    preserveAspectRatio="none">
                                                     <foreignObject class="foreignobject" width="1000" height="1000">
                                                         <span class="foreignobject"></span>
                                                     </foreignObject>
                                                 </svg>
                                                 <span class="button__arrow_svg">
-                                                    <svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3"></path>
-                                                        <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3"></path>
+                                                    <svg viewBox="0 0 17 19" fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3">
+                                                        </path>
+                                                        <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3">
+                                                        </path>
                                                     </svg>
                                                 </span>
                                             </span>
@@ -802,7 +853,9 @@ services                    </h1>
                         <div class="inner_product_thanks__head"><span class="color">Thanks </span><br>for your
                             request</div>
                         <div class="inner_product_thanks__ckeck_email">Check your Email</div>
-                        <div class="inner_product_thanks__email_to">Presentation Download Link was sent to <span class="mail_content">*****<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1a7b737d5a7d777b737634797577">[email&#160;protected]</a></span>
+                        <div class="inner_product_thanks__email_to">Presentation Download Link was sent to <span
+                                class="mail_content">*****<a href="/cdn-cgi/l/email-protection" class="__cf_email__"
+                                    data-cfemail="1a7b737d5a7d777b737634797577">[email&#160;protected]</a></span>
                         </div>
                     </div>
                 </div>
@@ -826,7 +879,8 @@ services                    </h1>
         <div class="popup__cookies_scroll">
             <div class="popup__description"> <span>This site uses cookies for several reasons. First and
                     foremost, to ensure the correct operation of the site, as well as to collect statistical
-                    data and to personalize advertising and marketing content. Learn more about this on our <a href="#">cookie policy page.</a></span></div>
+                    data and to personalize advertising and marketing content. Learn more about this on our <a
+                        href="#">cookie policy page.</a></span></div>
             <div class="popup__settings">
                 <div class="popup__settings_wrapper">
                     <div class="popup__title"> <span>Necessary cookies</span></div>
@@ -842,7 +896,8 @@ services                    </h1>
                                     <input type="checkbox"><span> </span>
                                 </label>
                                 <div class="popup__settings_checkbox_arrow">
-                                    <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <svg width="14" height="8" viewBox="0 0 14 8" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
                                         <path d="M1 1L7 7L13 1" stroke="#60626A"></path>
                                     </svg>
                                 </div>
@@ -856,7 +911,8 @@ services                    </h1>
                                         tool called Google Analytics which allows us to record and analyze how
                                         you and other visitors use the website. You can learn more about how
                                         Google Analytics works and the information it allows us to collect and
-                                        analyze here <a href="https://support.google.com/analytics/answer/1012034?hl=lten&amp;ref_topic=6157800">https://support.google.com/analytics/answer/1012034?hl=lten&ref_topic=6157800.</a></span>
+                                        analyze here <a
+                                            href="https://support.google.com/analytics/answer/1012034?hl=lten&amp;ref_topic=6157800">https://support.google.com/analytics/answer/1012034?hl=lten&ref_topic=6157800.</a></span>
                                 </div>
                             </div>
                         </div>
@@ -867,7 +923,8 @@ services                    </h1>
                                     <input type="checkbox"><span> </span>
                                 </label>
                                 <div class="popup__settings_checkbox_arrow">
-                                    <svg width="14" height="8" viewBox="0 0 14 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <svg width="14" height="8" viewBox="0 0 14 8" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
                                         <path d="M1 1L7 7L13 1" stroke="#60626A"></path>
                                     </svg>
                                 </div>
@@ -881,7 +938,8 @@ services                    </h1>
                                         tool called Google Analytics which allows us to record and analyze how
                                         you and other visitors use the website. You can learn more about how
                                         Google Analytics works and the information it allows us to collect and
-                                        analyze here <a href="https://support.google.com/analytics/answer/1012034?hl=lten&amp;ref_topic=6157800">https://support.google.com/analytics/answer/1012034?hl=lten&ref_topic=6157800.</a></span>
+                                        analyze here <a
+                                            href="https://support.google.com/analytics/answer/1012034?hl=lten&amp;ref_topic=6157800">https://support.google.com/analytics/answer/1012034?hl=lten&ref_topic=6157800.</a></span>
                                 </div>
                             </div>
                         </div>
@@ -890,26 +948,39 @@ services                    </h1>
             </div>
         </div>
         <div class="popup__cookies_buttons">
-            <button class="button button--black_hover button--gradient_hover toggleSettings" data-save="Save preferences" data-manage="manage cookies"><span class="button__wrap"><span class="button__inner_wrap"><b class="button__inner_text">manage cookies</b></span><span class="button__arrow">
+            <button class="button button--black_hover button--gradient_hover toggleSettings"
+                data-save="Save preferences" data-manage="manage cookies"><span class="button__wrap"><span
+                        class="button__inner_wrap"><b class="button__inner_text">manage cookies</b></span><span
+                        class="button__arrow">
                         <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                            <foreignobject class="foreignobject" width="1000" height="1000"><span class="foreignobject"></span></foreignobject>
-                        </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <foreignobject class="foreignobject" width="1000" height="1000"><span
+                                    class="foreignobject"></span></foreignobject>
+                        </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
                                 <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
                                 <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
                             </svg>
                         </span></span></span></button>
-            <button class="button button--black_hover button--gradient_hover"><span class="button__wrap"><span class="button__inner_wrap"><b class="button__inner_text">deny</b></span><span class="button__arrow">
+            <button class="button button--black_hover button--gradient_hover"><span class="button__wrap"><span
+                        class="button__inner_wrap"><b class="button__inner_text">deny</b></span><span
+                        class="button__arrow">
                         <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                            <foreignobject class="foreignobject" width="1000" height="1000"><span class="foreignobject"></span></foreignobject>
-                        </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <foreignobject class="foreignobject" width="1000" height="1000"><span
+                                    class="foreignobject"></span></foreignobject>
+                        </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
                                 <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
                                 <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
                             </svg>
                         </span></span></span></button>
-            <button class="button button--orange popup__button_consent closePopup"><span class="button__wrap"><span class="button__inner_wrap"><b class="button__inner_text">consent</b></span><span class="button__arrow">
+            <button class="button button--orange popup__button_consent closePopup"><span class="button__wrap"><span
+                        class="button__inner_wrap"><b class="button__inner_text">consent</b></span><span
+                        class="button__arrow">
                         <svg class="alternative_solution" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                            <foreignobject class="foreignobject" width="1000" height="1000"><span class="foreignobject"></span></foreignobject>
-                        </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <foreignobject class="foreignobject" width="1000" height="1000"><span
+                                    class="foreignobject"></span></foreignobject>
+                        </svg><span class="button__arrow_svg"><svg viewBox="0 0 17 19" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
                                 <path d="M6.36402 2L14 9.63598L6.36403 17.272" stroke-width="3" />
                                 <path d="M14 9.63379L0.000713587 9.63379" stroke-width="3" />
                             </svg>
@@ -919,23 +990,24 @@ services                    </h1>
     </div>
     </div>
     <script>
-        function openCity(evt, cityName) {
-            var i, tabcontent, tablinks;
-            tabcontent = document.getElementsByClassName("tabcontent");
-            for (i = 0; i < tabcontent.length; i++) {
-                tabcontent[i].style.display = "none";
-            }
-            tablinks = document.getElementsByClassName("tablinks");
-            for (i = 0; i < tablinks.length; i++) {
-                tablinks[i].className = tablinks[i].className.replace(" active", "");
-            }
-            document.getElementById(cityName).style.display = "block";
-            evt.currentTarget.className += " active";
+    function openCity(evt, cityName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
         }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
     </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
     <!--    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>-->
-    <script data-cfasync="false" src="{{ asset ('cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}"></script>
+    <script data-cfasync="false" src="{{ asset ('cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js') }}">
+    </script>
     <script src="{{ asset ('js/tween.js') }}"></script>
     <script src="{{ asset ('js/custom.js') }}"></script>
     <script src="{{ asset ('js/axios.min.js') }}"></script>
@@ -946,28 +1018,28 @@ services                    </h1>
     <script src="{{ asset ('js/accordian.min.js') }}"></script>
 </body>
 <script>
-    function openCity(evt, cityName) {
-        var i, tabcontent, tablinks;
-        tabcontent = document.getElementsByClassName("mb-tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-            tabcontent[i].style.display = "none";
-        }
-        tablinks = document.getElementsByClassName("mb-tablinks");
-        for (i = 0; i < tablinks.length; i++) {
-            tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-        document.getElementById(cityName).style.display = "block";
-        evt.currentTarget.className += " active";
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("mb-tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("mb-tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+const clickCarousel = (e, which) => {
+    if (which == 'left') {
+        leftIndicator.click()
+    } else {
+        rightIndicator.click()
     }
 
-    const clickCarousel = (e, which) => {
-        if (which == 'left') {
-            leftIndicator.click()
-        } else {
-            rightIndicator.click()
-        }
-
-    }
+}
 </script>
 
 </html>

@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-    <title>SaaS Development Services &mdash;   SSEDLAB</title>
+    <title>SaaS Development Services &mdash; SSEDLAB</title>
     <script src="https://code.jquery.com/jquery-3.7.1.js"
         integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
-        <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
+    <link rel="stylesheet" href=" {{asset('css/main-css.css') }}">
     <link rel="apple-touch-icon" sizes="180x180" href=" {{asset('i/apple-touch-icon.png') }}">
     <link rel="icon" type="image/png" sizes="32x32" href=" {{asset('i/favicon-32x32.png') }}">
     <link rel="icon" type="image/png" sizes="16x16" href=" {{asset('i/favicon-16x16.png') }}">
@@ -130,8 +130,9 @@
         padding: 60px 150px;
         background-color: #000;
     }
+
     .divlanding-list-item-text {
-position: static !important;
+        position: static !important;
     }
 
     .mb-text-white {
@@ -169,34 +170,41 @@ position: static !important;
     .mb-sec-2-inner-col {
         width: 33.333333333%;
     }
+
     .divlanding-list-item-text {
-position: static !important;
+        position: static !important;
     }
+
     .mb-sec-2-inner p {
-    line-height: inherit !important;
-}
-.optimize-route-planning-container {
-    position: relative;
-    letter-spacing: inherit;
-    line-height: inherit;
-}
-.optimize-route-planning-container{
-    letter-spacing: inherit !important  ;
-    line-height: inherit !important;
-    margin-bottom: 20px;
-}
-.divlanding-list-item{
-    width: auto !important;
-    height: auto !important;
-}
-.divlanding-list-item-text {
-    padding: 0.75rem;
-    font-size: 16px;
-}
-.divlanding-list-item-text
-{
-    max-width: inherit !important;
-}
+        line-height: inherit !important;
+    }
+
+    .optimize-route-planning-container {
+        position: relative;
+        letter-spacing: inherit;
+        line-height: inherit;
+    }
+
+    .optimize-route-planning-container {
+        letter-spacing: inherit !important;
+        line-height: inherit !important;
+        margin-bottom: 20px;
+    }
+
+    .divlanding-list-item {
+        width: auto !important;
+        height: auto !important;
+    }
+
+    .divlanding-list-item-text {
+        padding: 0.75rem;
+        font-size: 16px;
+    }
+
+    .divlanding-list-item-text {
+        max-width: inherit !important;
+    }
+
     .mb-orange {
         color: #CA5817;
     }
@@ -803,11 +811,6 @@ position: static !important;
             padding-right: 15px;
         }
     }
-
-
-
-
-    
     </style>
 </head>
 
@@ -817,15 +820,12 @@ position: static !important;
             style="display:none;visibility:hidden"></iframe>
     </noscript>
     <div class="body-wrap-1">
-        <?php
-        // require 'shared/_navbar.php';
-        // navBar();
-        ?>
+
         @include('navbar')
 
         <div class="top_section-1 vis_on_scroll ">
             <div class="top_section vis_on_scroll banner-img">
-                <div class="container">
+                <div class="container-header">
                     <h1 class="banner-main-heading">
                         End-to-end SaaS
                         development
@@ -879,8 +879,8 @@ position: static !important;
                         </h3>
                         <p class="sec-2-device-p">
                             If you want to glue customers to your SaaS app, you need to deliver state-of-the-art design.
-                             Our SaaS development services help you turn a great
-                             idea into great UI/UX and validate the concept with rapid prototyping.
+                            Our SaaS development services help you turn a great
+                            idea into great UI/UX and validate the concept with rapid prototyping.
                         </p>
 
                     </div>
@@ -891,7 +891,7 @@ position: static !important;
                         </h3>
                         <p class="sec-2-device-p">
                             Need professionals to create a SaaS app from scratch? Our
-                             full-cycle SaaS development company has worked with many startups and 
+                            full-cycle SaaS development company has worked with many startups and
                             enterprises since 2009, delivering successful SaaS products that are built to last and grow.
                         </p>
 
@@ -909,7 +909,7 @@ position: static !important;
                         </h3>
                         <p class="sec-2-device-p">
                             Transform your on-prem solution into a mind-blowing SaaS product.
-                             We will re-architecture your app to best suit a new environment, 
+                            We will re-architecture your app to best suit a new environment,
                             choose the right approach to cloud migration, configure the cloud, and move data safely.
                         </p>
 
@@ -921,8 +921,8 @@ position: static !important;
                         </h3>
                         <p class="sec-2-device-p">
                             As part of our SaaS application development services,
-                             we can add versatility to your SaaS app by connecting external systems through APIs.
-                             Build new business opportunities with new integrations executed flawlessly.
+                            we can add versatility to your SaaS app by connecting external systems through APIs.
+                            Build new business opportunities with new integrations executed flawlessly.
                         </p>
 
                     </div>
@@ -933,8 +933,8 @@ position: static !important;
                         </h3>
                         <p class="sec-2-device-p">
                             Optimize your SaaS performance, fix bugs, improve user experience,
-                             and cut costs using our SaaS development services. We can provide ad-hoc or regular support.
-                             Focus on your business while we take care of the tech.
+                            and cut costs using our SaaS development services. We can provide ad-hoc or regular support.
+                            Focus on your business while we take care of the tech.
                         </p>
 
                     </div>
@@ -945,7 +945,7 @@ position: static !important;
                 <img src=" {{asset('img/SVG.svg') }}" alt="">
             </section>
         </section>
-        
+
 
 
         <section class="mb-container sec-3">
@@ -975,7 +975,8 @@ position: static !important;
                             1. Tech stack choice
                         </h3>
                         <p class="sec-2-device-p">
-                            We deeply analyze your project requirements, planned features, and the capabilities of the cloud provider to identify the right combination of tech.
+                            We deeply analyze your project requirements, planned features, and the capabilities of the
+                            cloud provider to identify the right combination of tech.
 
                         </p>
 
@@ -987,7 +988,8 @@ position: static !important;
                             2. Multi-tenant architecture
                         </h3>
                         <p class="sec-2-device-p">
-                            We build multi-tenant architecture with security in mind to make your scaling straightforward and customization easy while minimizing costs.
+                            We build multi-tenant architecture with security in mind to make your scaling
+                            straightforward and customization easy while minimizing costs.
                         </p>
 
                     </div>
@@ -1000,7 +1002,8 @@ position: static !important;
                             3. External services integration
                         </h3>
                         <p class="sec-2-device-p">
-                            We save you time building functionality from scratch by performing complex integrations with external services based on your growth metrics.
+                            We save you time building functionality from scratch by performing complex integrations with
+                            external services based on your growth metrics.
                         </p>
 
                     </div>
@@ -1011,7 +1014,8 @@ position: static !important;
                             4. Scalability on demand
                         </h3>
                         <p class="sec-2-device-p">
-                            We take scalability into account from the beginning of your SaaS software development project so that your app is able to adapt as you evolve.
+                            We take scalability into account from the beginning of your SaaS software development
+                            project so that your app is able to adapt as you evolve.
 
                         </p>
 
@@ -1025,7 +1029,8 @@ position: static !important;
                             5. Security audit
                         </h3>
                         <p class="sec-2-device-p">
-                            We test your system thoroughly before deployment to ensure that all stored data is well-protected and compliant with standards like GDPR or HIPAA.
+                            We test your system thoroughly before deployment to ensure that all stored data is
+                            well-protected and compliant with standards like GDPR or HIPAA.
                         </p>
 
                     </div>
@@ -1036,7 +1041,8 @@ position: static !important;
                             6. Smooth deployment
                         </h3>
                         <p class="sec-2-device-p">
-                            We take a tailored deployment approach to keep business disruption to a minimum, using DevOps to automate the process as much as possible.
+                            We take a tailored deployment approach to keep business disruption to a minimum, using
+                            DevOps to automate the process as much as possible.
                         </p>
 
                     </div>
@@ -1316,7 +1322,7 @@ position: static !important;
                             </div>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
             <section class="banner-btn mb-mt-50">
